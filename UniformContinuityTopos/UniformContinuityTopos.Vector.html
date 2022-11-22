@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>-</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="Agda.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<pre class="Agda">
+<a id="10" class="Symbol">{-#</a> <a id="14" class="Keyword">OPTIONS</a> <a id="22" class="Pragma">--without-K</a> <a id="34" class="Pragma">--safe</a> <a id="41" class="Symbol">#-}</a>
+
+<a id="46" class="Keyword">open</a> <a id="51" class="Keyword">import</a> <a id="58" href="MLTT.Spartan.html" class="Module">MLTT.Spartan</a>
+
+<a id="72" class="Keyword">module</a> <a id="79" href="UniformContinuityTopos.Vector.html" class="Module">UniformContinuityTopos.Vector</a> <a id="109" class="Keyword">where</a>
+
+</pre>
+<pre class="Agda">
+<a id="130" class="Keyword">infixr</a> <a id="137" class="Number">5</a> <a id="139" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">_∷_</a>
+
+<a id="144" class="Keyword">data</a> <a id="Vec"></a><a id="149" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="153" class="Symbol">(</a><a id="154" href="UniformContinuityTopos.Vector.html#154" class="Bound">A</a> <a id="156" class="Symbol">:</a> <a id="158" href="MLTT.Universes.html#279" class="Generalizable">𝓤</a>  <a id="161" href="MLTT.Universes.html#422" class="Function Operator">̇</a><a id="162" class="Symbol">)</a> <a id="164" class="Symbol">:</a> <a id="166" href="MLTT.Natural-Numbers-Type.html#124" class="Datatype">ℕ</a> <a id="168" class="Symbol">→</a> <a id="170" href="UniformContinuityTopos.Vector.html#158" class="Bound">𝓤</a>  <a id="173" href="MLTT.Universes.html#422" class="Function Operator">̇</a> <a id="175" class="Keyword">where</a>
+ <a id="Vec.[]"></a><a id="182" href="UniformContinuityTopos.Vector.html#182" class="InductiveConstructor">[]</a>  <a id="186" class="Symbol">:</a> <a id="188" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="192" href="UniformContinuityTopos.Vector.html#154" class="Bound">A</a> <a id="194" class="Number">0</a>
+ <a id="Vec._∷_"></a><a id="197" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">_∷_</a> <a id="201" class="Symbol">:</a> <a id="203" class="Symbol">{</a><a id="204" href="UniformContinuityTopos.Vector.html#204" class="Bound">n</a> <a id="206" class="Symbol">:</a> <a id="208" href="MLTT.Natural-Numbers-Type.html#124" class="Datatype">ℕ</a><a id="209" class="Symbol">}</a> <a id="211" class="Symbol">(</a><a id="212" href="UniformContinuityTopos.Vector.html#212" class="Bound">x</a> <a id="214" class="Symbol">:</a> <a id="216" href="UniformContinuityTopos.Vector.html#154" class="Bound">A</a><a id="217" class="Symbol">)</a> <a id="219" class="Symbol">→</a> <a id="221" class="Symbol">(</a><a id="222" href="UniformContinuityTopos.Vector.html#222" class="Bound">xs</a> <a id="225" class="Symbol">:</a> <a id="227" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="231" href="UniformContinuityTopos.Vector.html#154" class="Bound">A</a> <a id="233" href="UniformContinuityTopos.Vector.html#204" class="Bound">n</a><a id="234" class="Symbol">)</a> <a id="236" class="Symbol">→</a> <a id="238" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="242" href="UniformContinuityTopos.Vector.html#154" class="Bound">A</a> <a id="244" class="Symbol">(</a><a id="245" href="MLTT.Natural-Numbers-Type.html#151" class="InductiveConstructor">succ</a> <a id="250" href="UniformContinuityTopos.Vector.html#204" class="Bound">n</a><a id="251" class="Symbol">)</a>
+
+<a id="∷-eq-lemma₁"></a><a id="254" href="UniformContinuityTopos.Vector.html#254" class="Function">∷-eq-lemma₁</a> <a id="266" class="Symbol">:</a> <a id="268" class="Symbol">{</a><a id="269" href="UniformContinuityTopos.Vector.html#269" class="Bound">A</a> <a id="271" class="Symbol">:</a> <a id="273" href="MLTT.Universes.html#279" class="Generalizable">𝓤</a>  <a id="276" href="MLTT.Universes.html#422" class="Function Operator">̇</a><a id="277" class="Symbol">}</a> <a id="279" class="Symbol">→</a> <a id="281" class="Symbol">{</a><a id="282" href="UniformContinuityTopos.Vector.html#282" class="Bound">n</a> <a id="284" class="Symbol">:</a> <a id="286" href="MLTT.Natural-Numbers-Type.html#124" class="Datatype">ℕ</a><a id="287" class="Symbol">}</a> <a id="289" class="Symbol">{</a><a id="290" href="UniformContinuityTopos.Vector.html#290" class="Bound">x</a> <a id="292" href="UniformContinuityTopos.Vector.html#292" class="Bound">y</a> <a id="294" class="Symbol">:</a> <a id="296" href="UniformContinuityTopos.Vector.html#269" class="Bound">A</a><a id="297" class="Symbol">}</a> <a id="299" class="Symbol">{</a><a id="300" href="UniformContinuityTopos.Vector.html#300" class="Bound">xs</a> <a id="303" href="UniformContinuityTopos.Vector.html#303" class="Bound">ys</a> <a id="306" class="Symbol">:</a> <a id="308" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="312" href="UniformContinuityTopos.Vector.html#269" class="Bound">A</a> <a id="314" href="UniformContinuityTopos.Vector.html#282" class="Bound">n</a><a id="315" class="Symbol">}</a> <a id="317" class="Symbol">→</a> <a id="319" href="UniformContinuityTopos.Vector.html#290" class="Bound">x</a> <a id="321" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">∷</a> <a id="323" href="UniformContinuityTopos.Vector.html#300" class="Bound">xs</a> <a id="326" href="MLTT.Id.html#221" class="Datatype Operator">＝</a> <a id="328" href="UniformContinuityTopos.Vector.html#292" class="Bound">y</a> <a id="330" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">∷</a> <a id="332" href="UniformContinuityTopos.Vector.html#303" class="Bound">ys</a> <a id="335" class="Symbol">→</a> <a id="337" href="UniformContinuityTopos.Vector.html#290" class="Bound">x</a> <a id="339" href="MLTT.Id.html#221" class="Datatype Operator">＝</a> <a id="341" href="UniformContinuityTopos.Vector.html#292" class="Bound">y</a>
+<a id="343" href="UniformContinuityTopos.Vector.html#254" class="Function">∷-eq-lemma₁</a> <a id="355" href="MLTT.Identity-Type.html#186" class="InductiveConstructor">refl</a> <a id="360" class="Symbol">=</a> <a id="362" href="MLTT.Identity-Type.html#186" class="InductiveConstructor">refl</a>
+
+<a id="∷-eq-lemma₂"></a><a id="368" href="UniformContinuityTopos.Vector.html#368" class="Function">∷-eq-lemma₂</a> <a id="380" class="Symbol">:</a> <a id="382" class="Symbol">{</a><a id="383" href="UniformContinuityTopos.Vector.html#383" class="Bound">A</a> <a id="385" class="Symbol">:</a> <a id="387" href="MLTT.Universes.html#279" class="Generalizable">𝓤</a>  <a id="390" href="MLTT.Universes.html#422" class="Function Operator">̇</a><a id="391" class="Symbol">}</a> <a id="393" class="Symbol">→</a> <a id="395" class="Symbol">{</a><a id="396" href="UniformContinuityTopos.Vector.html#396" class="Bound">n</a> <a id="398" class="Symbol">:</a> <a id="400" href="MLTT.Natural-Numbers-Type.html#124" class="Datatype">ℕ</a><a id="401" class="Symbol">}</a> <a id="403" class="Symbol">{</a><a id="404" href="UniformContinuityTopos.Vector.html#404" class="Bound">x</a> <a id="406" href="UniformContinuityTopos.Vector.html#406" class="Bound">y</a> <a id="408" class="Symbol">:</a> <a id="410" href="UniformContinuityTopos.Vector.html#383" class="Bound">A</a><a id="411" class="Symbol">}</a> <a id="413" class="Symbol">{</a><a id="414" href="UniformContinuityTopos.Vector.html#414" class="Bound">xs</a> <a id="417" href="UniformContinuityTopos.Vector.html#417" class="Bound">ys</a> <a id="420" class="Symbol">:</a> <a id="422" href="UniformContinuityTopos.Vector.html#149" class="Datatype">Vec</a> <a id="426" href="UniformContinuityTopos.Vector.html#383" class="Bound">A</a> <a id="428" href="UniformContinuityTopos.Vector.html#396" class="Bound">n</a><a id="429" class="Symbol">}</a> <a id="431" class="Symbol">→</a> <a id="433" href="UniformContinuityTopos.Vector.html#404" class="Bound">x</a> <a id="435" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">∷</a> <a id="437" href="UniformContinuityTopos.Vector.html#414" class="Bound">xs</a> <a id="440" href="MLTT.Id.html#221" class="Datatype Operator">＝</a> <a id="442" href="UniformContinuityTopos.Vector.html#406" class="Bound">y</a> <a id="444" href="UniformContinuityTopos.Vector.html#197" class="InductiveConstructor Operator">∷</a> <a id="446" href="UniformContinuityTopos.Vector.html#417" class="Bound">ys</a> <a id="449" class="Symbol">→</a> <a id="451" href="UniformContinuityTopos.Vector.html#414" class="Bound">xs</a> <a id="454" href="MLTT.Id.html#221" class="Datatype Operator">＝</a> <a id="456" href="UniformContinuityTopos.Vector.html#417" class="Bound">ys</a>
+<a id="459" href="UniformContinuityTopos.Vector.html#368" class="Function">∷-eq-lemma₂</a> <a id="471" href="MLTT.Identity-Type.html#186" class="InductiveConstructor">refl</a> <a id="476" class="Symbol">=</a> <a id="478" href="MLTT.Identity-Type.html#186" class="InductiveConstructor">refl</a>
+
+</pre>
+</body>
+</html>
