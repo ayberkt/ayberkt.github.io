@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Theorem"><frontmatter> <anchor>236</anchor> <addr>axt-000H</addr>  <route>axt-000H.xml</route> <date>September 4, 2023</date> <authors><author>Ayberk Tosun</author> </authors>  </frontmatter> <mainmatter><p>A space <tex>X</tex> has <link href="axt-000E.xml" type="local" title="Connected space (set-theoretic)">no separation</link> iff its only clopen subsets are the trivial ones.</p><p>  <tex>( \Rightarrow )</tex> Suppose space <tex>X</tex> has no separation and let <tex>F  \subseteq  X</tex>  be a clopen. Suppose, towards a contradiction, that <tex>F</tex> is a nontrivial
+  subset i.e. it is neither <tex>\empty</tex> nor <tex>X</tex>. Denote by <tex>F^{-1}</tex> the
+  complement of <tex>F</tex> in <tex>X</tex>. The set <tex>F^{-1}</tex> must be clopen and disjoint from
+  <tex>F</tex> by definition. Because <tex>F  \neq  X</tex>, it must exclude some point <tex>x  \in   X</tex>, which must be contained by <tex>F^{-1}</tex> by construction. This means <tex>F^{-1}</tex>  is nonempty. Therefore, the pair <tex>(F, F^{-1})</tex> is a separation of the space
+  <tex>X</tex>: <tex>X = F  \cup  F^{-1}</tex>, both <tex>F</tex> and <tex>F^{-1}</tex> are nonempty, and they
+  are disjoint from each other. This contradicts the assumption <tex>X</tex> has no
+  separation.
+</p><p>  <tex>( \Leftarrow )</tex> Suppose the only clopen subsets of space <tex>X</tex> are the trivial
+  ones i.e. <tex>\empty</tex> and <tex>X</tex>. Suppose <tex>X</tex> had a separation <tex>(U, V)</tex>. Then
+  <tex>V</tex> must be the complement of <tex>U</tex> in <tex>X</tex>. This means that it must be
+  closed, by virtue of being the complement of an open <tex>U</tex>. Also, the open <tex>U</tex>  must be closed too since it is itself the complement of the open <tex>V</tex>. As
+  both <tex>U</tex> and <tex>V</tex> are both nonempty, they both cannot be either <tex>\empty</tex> or
+  <tex>X</tex>. This means they are both nontrivial clopens.
+</p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show_heading="true" show_metadata="true" toc="false" root="false"><frontmatter> <anchor>238</anchor> <addr>axt-000G</addr>  <route>axt-000G.xml</route> <date>September 4, 2023</date> <authors><author>Ayberk Tosun</author> </authors> <title>Definitions of connectedness</title> </frontmatter> <mainmatter><p>  There are different definitions of connectedness that are classicaly
+  equivalent.
+</p><p>  The <link href="axt-000E.xml" type="local" title="Connected space (set-theoretic)">standard definition</link> is the one that says a space is connected
+  if no separation for it exists.
+</p><tree expanded="true" show_heading="true" show_metadata="false" toc="true" root="false" taxon="Definition"><frontmatter><trail><crumb>1</crumb></trail> <anchor>240</anchor> <addr>axt-000E</addr>  <route>axt-000E.xml</route> <date>September 4, 2023</date>  <title>Connected space (set-theoretic)</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is called <em>connected</em> if there does not exist a
+  pair <tex>U, V  \in   \mathcal{O} (X)</tex> of disjoint and nonempty open sets such that <tex>X = U
+   \cup  V</tex>.
+</p><p>  Such a pair <tex>(U, V)</tex> is called a <em>separation</em> of the space <tex>X</tex>.
+</p></mainmatter> </tree><p>  Another one is the nonexistence of nontrivial clopen sets.
+</p><tree expanded="true" show_heading="true" show_metadata="false" toc="true" root="false" taxon="Definition"><frontmatter><trail><crumb>2</crumb></trail> <anchor>242</anchor> <addr>axt-000F</addr>  <route>axt-000F.xml</route> <date>September 4, 2023</date>  <title>Connected space (clopen)</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is <em>connected</em> if for any subset <tex>A  \subseteq  X</tex>,
+  if <tex>A</tex> is clopen then <tex>A</tex> is either the empty set <tex>\emptyset</tex> or the entire
+  set <tex>X</tex>.
+</p></mainmatter> </tree>These two definitions are classically equivalent.
+<tree expanded="true" show_heading="true" show_metadata="false" toc="true" root="false" taxon="Theorem"><frontmatter><trail><crumb>3</crumb></trail> <anchor>244</anchor> <addr>axt-000H</addr>  <route>axt-000H.xml</route> <date>September 4, 2023</date> <authors><author>Ayberk Tosun</author> </authors>  </frontmatter> <mainmatter><p>A space <tex>X</tex> has <link href="axt-000E.xml" type="local" title="Connected space (set-theoretic)">no separation</link> iff its only clopen subsets are the trivial ones.</p><p>  <tex>( \Rightarrow )</tex> Suppose space <tex>X</tex> has no separation and let <tex>F  \subseteq  X</tex>  be a clopen. Suppose, towards a contradiction, that <tex>F</tex> is a nontrivial
+  subset i.e. it is neither <tex>\empty</tex> nor <tex>X</tex>. Denote by <tex>F^{-1}</tex> the
+  complement of <tex>F</tex> in <tex>X</tex>. The set <tex>F^{-1}</tex> must be clopen and disjoint from
+  <tex>F</tex> by definition. Because <tex>F  \neq  X</tex>, it must exclude some point <tex>x  \in   X</tex>, which must be contained by <tex>F^{-1}</tex> by construction. This means <tex>F^{-1}</tex>  is nonempty. Therefore, the pair <tex>(F, F^{-1})</tex> is a separation of the space
+  <tex>X</tex>: <tex>X = F  \cup  F^{-1}</tex>, both <tex>F</tex> and <tex>F^{-1}</tex> are nonempty, and they
+  are disjoint from each other. This contradicts the assumption <tex>X</tex> has no
+  separation.
+</p><p>  <tex>( \Leftarrow )</tex> Suppose the only clopen subsets of space <tex>X</tex> are the trivial
+  ones i.e. <tex>\empty</tex> and <tex>X</tex>. Suppose <tex>X</tex> had a separation <tex>(U, V)</tex>. Then
+  <tex>V</tex> must be the complement of <tex>U</tex> in <tex>X</tex>. This means that it must be
+  closed, by virtue of being the complement of an open <tex>U</tex>. Also, the open <tex>U</tex>  must be closed too since it is itself the complement of the open <tex>V</tex>. As
+  both <tex>U</tex> and <tex>V</tex> are both nonempty, they both cannot be either <tex>\empty</tex> or
+  <tex>X</tex>. This means they are both nontrivial clopens.
+</p></mainmatter> </tree></mainmatter> </tree></context> <related><tree expanded="false" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>246</anchor> <addr>axt-000E</addr>  <route>axt-000E.xml</route> <date>September 4, 2023</date>  <title>Connected space (set-theoretic)</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is called <em>connected</em> if there does not exist a
+  pair <tex>U, V  \in   \mathcal{O} (X)</tex> of disjoint and nonempty open sets such that <tex>X = U
+   \cup  V</tex>.
+</p><p>  Such a pair <tex>(U, V)</tex> is called a <em>separation</em> of the space <tex>X</tex>.
+</p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>155</anchor> <addr>axt-0008</addr>  <route>axt-0008.xml</route> <date>August 19, 2023</date>  <title>Frame (type-theoretic)</title> </frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
+  <ol>    <li>a type <tex>|L| :  \mathcal{U}</tex></li>    <li>a partial order <tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal{V} }</tex>,</li>    <li>a top element <tex>\mathbf{1}  : |L|</tex>,</li>    <li>      an operation <tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</tex> giving the greatest lower
+      bound <tex>U  \wedge  V</tex> of any two <tex>U, V : |L|</tex>.
+    </li>    <li>      an operation <tex>\bigvee  - :  \mathsf{Fam} _{ \mathcal{W} }(|L|)  \to  |L|</tex> giving the least upper
+      bound <tex>\bigvee _{i : I} U_i</tex> of any <tex>\mathcal{W}</tex>-family <tex>\left \{  U_i  \right \} _{i : I}</tex>.
+    </li>    <li>      such that binary meets distribute over arbitrary joins, i.e.
+      <tex display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</tex>      for every <tex>U : |L|</tex> and <tex>\mathcal{W}</tex>-family <tex>\{  V_i  \} _{i : I}</tex> in <tex>|L|</tex>.
+    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
