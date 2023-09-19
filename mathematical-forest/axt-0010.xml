@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>360</anchor> <addr>axt-0010</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/axt-0010.tree</sourcePath> <route>axt-0010.xml</route> <date>September 18, 2023</date> <authors><author>Nicolai Kraus</author><author>Martin Escardo</author><author>Thierry Coquand</author><author>Thorsten Altenkirch</author> </authors> <title>Weakly constant map</title> </frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called <em>weakly constant</em> if <tex>\prod _{x, y : X}  f(x) = f(y)</tex>.
+</p><p>  Definition 2.13 from the <link href="TODO" type="external">KECA paper</link>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

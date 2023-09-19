@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>376</anchor> <addr>axt-0013</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/axt-0013.tree</sourcePath> <route>axt-0013.xml</route> <date>September 18, 2023</date>  <title>Split support</title> </frontmatter> <mainmatter><p>  A type <tex>X</tex> is said to <em>have split support</em> if <tex>|| X ||  \to  X.</tex></p><p>  Given in Definition 3.9 of the <link href="TODO" type="external">KECA paper</link>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
