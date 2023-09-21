@@ -3,9 +3,9 @@
 ## Plan
 
 
-| Date       | Location | Booking |     Topic             |  Assigned Reading |
-|------------|----------| ------- |:---------------------:|------------------:|
-| 2023-09-21 |  217     | Yes     | PCAs and assemblies   | ???               |
+| Date       | Location | Booking | Presenter |     Topic             |  Assigned Reading |
+|------------|----------| ------- | --------- |:---------------------:|------------------:|
+| 2023-09-21 |  217     | Yes     | SS        | PCAs and assemblies   | ???               |
 
 ## References
 
