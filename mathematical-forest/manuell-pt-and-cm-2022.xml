@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Reference"><frontmatter> <anchor>386</anchor> <addr>manuell-pt-and-cm-2022</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/refs/manuell-pt-and-cm-2022.tree</sourcePath> <route>manuell-pt-and-cm-2022.xml</route> <date>2023</date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
+  title     = {Pointfree topology and constructive mathematics},
+  author    = {Graham Manuell},
+  date      = {2022-06},
+  eprint    = {2304.06000},
+  address   = {Praia de Mira},
+  note      = {Lecture notes for a course at the TACL Summer School}
+}
+</meta></frontmatter> <mainmatter><p>  <ol>    <li><link href="https://arxiv.org/abs/2304.06000" type="external">arXiv link</link></li>    <li><link href="Skim:///Users/ayberkt/Dropbox/Reading/manuell-pt-and-cm-2022.pdf" type="external">PDF</link></li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>155</anchor> <addr>axt-0008</addr>  <route>axt-0008.xml</route> <date>August 19, 2023</date>  <title>Frame (type-theoretic)</title> </frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Definition"><frontmatter> <anchor>155</anchor> <addr>axt-0008</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/axt-0008.tree</sourcePath> <route>axt-0008.xml</route> <date>August 19, 2023</date>  <title>Frame (type-theoretic)</title> </frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
   <ol>    <li>a type <tex>|L| :  \mathcal{U}</tex></li>    <li>a partial order <tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal{V} }</tex>,</li>    <li>a top element <tex>\mathbf{1}  : |L|</tex>,</li>    <li>      an operation <tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</tex> giving the greatest lower
       bound <tex>U  \wedge  V</tex> of any two <tex>U, V : |L|</tex>.
     </li>    <li>      an operation <tex>\bigvee  - :  \mathsf{Fam} _{ \mathcal{W} }(|L|)  \to  |L|</tex> giving the least upper
