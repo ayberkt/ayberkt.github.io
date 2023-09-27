@@ -13,5 +13,5 @@
 
 ## References
 
-**MvO**: https://webspace.science.uu.nl/~ooste110/syllabi/toposmoeder.pdf
-**Str**: https://www2.mathematik.tu-darmstadt.de/~streicher/REAL/REAL.pdf
+- **MvO**: https://webspace.science.uu.nl/~ooste110/syllabi/toposmoeder.pdf
+- **Str**: https://www2.mathematik.tu-darmstadt.de/~streicher/REAL/REAL.pdf
