@@ -5,8 +5,8 @@
 | Date       | Location | Booking | Presenter |     Topic                                           |  Assigned Reading |
 |------------|----------| ------- | --------- |:--------------------------------------------------: |------------------:|
 | 2023-09-21 |  217     | Yes     | SS        | PCAs and assemblies                                 | ???               |
-| 2023-09-28 |  ???     | ???     | ??        | Elementary recursion theory, number realisability   | **Str** pp. 1-14  |
-| 2023-10-05 |  ???     | ???     | ??        | ???                                                 | ???               |
+| 2023-09-28 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realisability   | **Str** pp. 1-14  |
+| 2023-10-05 |  217     | Yes     | ??        | ???                                                 | ???               |
 | 2023-10-12 |  ???     | ???     | ??        | ???                                                 | ???               |
 | 2023-10-19 |  ???     | ???     | ??        | ???                                                 | ???               |
 | 2023-10-26 |  ???     | ???     | ??        | ???                                                 | ???               |
