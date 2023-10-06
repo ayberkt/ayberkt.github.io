@@ -5,7 +5,7 @@
 | Date       | Location | Booking | Presenter |     Topic                                           |  Assigned Reading | Meeting summary |
 |------------|----------| ------- | --------- |:--------------------------------------------------: |------------------:|---------------- |
 | 2023-09-21 |  217     | Yes     | SLS       | PCAs and assemblies                                 | NA                | [Meeting #1][1] |
-| 2023-09-28 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realisability   | **Str** pp. 1-14  |                 |
+| 2023-09-28 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realisability   | **Str** pp. 1-14  | [Meeting #2][2] |
 | 2023-10-05 |  217     | Yes     | SLS       | Assemblies and modest sets                          | **Str** Section 4 |                 |
 | 2023-10-12 |  ???     | ???     | ??        | Realizability triposes and toposes                  | **Str** Section 5 |                 |
 | 2023-10-19 |  ???     | ???     | ??        | ???                                                 | ???               |                 |
@@ -35,3 +35,4 @@
 ## Further topics...
 
 [1]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-21.html
+[2]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-28.html
