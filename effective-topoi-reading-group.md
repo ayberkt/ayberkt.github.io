@@ -19,19 +19,13 @@
 ## Plan
 
 - Elementary recursion theory, Kleene's number realizability (Streicher, 4+9 pages)
-
 - PCAs (Streicher, 7 pages)
-
 - Assemblies and modest sets, polymorphism (Streicher, 14+3 pages)
-
 - Realizability triposes and toposes (Streicher, 7 pages)
-
 - Interpretation of languages and theories in toposes (MvO, 7 pages)
-
 - Elements of logic in Eff (MvO, 4 pages, supplemented by 4.5 of Phoa, eg. Exercise 4.5.11)
-
 - Realizability toposes from assemblies (Robinson & Rosolini - Colimit completions and the effective topos, Carboni & Rosolini - Locally cartesian closed exact completions, Menni - A characterization of the left exact categories whose exact completions are toposes, Birkedal et al - Type theory via exact categories, Rosolini & Streicher - Comparing models of higher type computation)
 
-Further topics...
+## Further topics...
 
 [1]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-21.html
