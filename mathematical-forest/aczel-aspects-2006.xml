@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Reference"><frontmatter> <anchor>115</anchor> <addr>aczel-aspects-2006</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/refs/aczel-aspects-2006.tree</sourcePath> <route>aczel-aspects-2006.xml</route> <date>2006</date> <authors><author>Peter Aczel</author> </authors> <title>Aspects of general topology in constructive set theory</title> <meta name="bibtex">@article{aczel-aspects-2006,
+  title   = {Aspects of general topology in constructive set theory},
+  author  = {Peter Aczel},
+  journal = {Annals of Pure and Applied Logic},
+  volume  = {137},
+  number  = {1},
+  pages   = {3-29},
+  year    = {2006},
+  issn    = {0168-0072},
+  doi     = {https://doi.org/10.1016/j.apal.2005.05.016},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0168007205000643},
+}
+</meta></frontmatter> <mainmatter><p>  <ol>    <li><link href="Skim:///Users/ayberkt/Dropbox/Reading/aczel-aspects-2006.pdf" type="external">PDF</link></li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

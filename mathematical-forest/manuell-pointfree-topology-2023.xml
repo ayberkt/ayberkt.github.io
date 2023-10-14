@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Reference"><frontmatter> <anchor>330</anchor> <addr>manuell-pointfree-topology-2023</addr>  <route>manuell-pointfree-topology-2023.xml</route> <date>2023</date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
+<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Reference"><frontmatter> <anchor>354</anchor> <addr>manuell-pointfree-topology-2023</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/refs/manuell-pointfree-topology-2023.tree</sourcePath> <route>manuell-pointfree-topology-2023.xml</route> <date>2023</date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
    title    = {Pointfree topology and constructive mathematics}, 
    author   = {Graham Manuell},
    date     = {2023-04-12},
    eprint   = {2304.06000},
+   note     = {Preprint}
 }
 </meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
