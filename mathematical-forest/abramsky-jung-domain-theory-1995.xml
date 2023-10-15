@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show_heading="true" show_metadata="true" toc="false" root="false" taxon="Reference"><frontmatter> <anchor>109</anchor> <addr>abramsky-jung-domain-theory-1995</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/refs/abramsky-jung-domain-theory-1995.tree</sourcePath> <route>abramsky-jung-domain-theory-1995.xml</route> <date>1995</date> <authors><author>Samson Abramsky</author><author>Achim Jung</author> </authors> <title>Domain Theory</title> <meta name="bibtex">@inbook{abramsky-jung-domain-theory-1995,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>112</anchor>  <taxon>Reference</taxon> <addr>abramsky-jung-domain-theory-1995</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/abramsky-jung-domain-theory-1995.tree</source-path> <route>abramsky-jung-domain-theory-1995.xml</route> <date><year>1995</year>  </date> <authors><author>Samson Abramsky</author><author>Achim Jung</author> </authors> <title>Domain Theory</title> <meta name="bibtex">@inbook{abramsky-jung-domain-theory-1995,
   author    = {Abramsky, Samson and Jung, Achim},
   title     = {Domain Theory},
   year      = {1995-04-27},
@@ -10,7 +10,8 @@
   pages     = {1–168},
   numpages  = {168},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show_heading="true" show_metadata="true" toc="false" root="false"><frontmatter> <anchor>111</anchor> <addr>axt-000L</addr> <sourcePath>/Users/ayberkt/Code/mathematical-forest/trees/axt-000L.tree</sourcePath> <route>axt-000L.xml</route> <date>September 7, 2023</date> <authors><author>Samson Abramsky</author><author>Achim Jung</author> </authors> <title>The Stone adjunction</title> </frontmatter> <mainmatter><p>  The Stone adjunction is the one formed by the <link href="axt-000M.xml" type="local" title="The open set functor">open set functor</link>  <tex>\mathcal{O}  :  \mathbf{Top}   \to   \mathbf{Frm}</tex> and the <link href="axt-000N.xml" type="local" title="The point functor">point functor</link> <tex>\mathsf{Pt}  :  \mathbf{Frm}   \to    \mathbf{Top}</tex>.
-</p><p>  Adapted by Ayberk Tosun from <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="Domain Theory">the handbook chapter of Abramsky and
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>113</anchor>   <addr>axt-000L</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-000L.tree</source-path> <route>axt-000L.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author>Samson Abramsky</author><author>Achim Jung</author> </authors> <title>The Stone adjunction</title> </frontmatter> <mainmatter><p>  The Stone adjunction is the one formed by the <link href="axt-000M.xml" type="local" title="Open set functor">open set functor</link>  <tex>\mathcal{O}  :  \mathbf{Top}   \to   \mathbf{Frm}</tex> and the <link href="axt-000N.xml" type="local" title="Point functor">point functor</link> <tex>\mathsf{Pt}  :  \mathbf{Frm}   \to    \mathbf{Top}</tex>.
+</p><p>  Adapted by Ayberk Tosun from <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="The handbook chapter of Abramsky and
+  Jung">the handbook chapter of Abramsky and
   Jung</link>.
 </p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
