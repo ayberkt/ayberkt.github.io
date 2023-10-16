@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>236</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/tdj-thesis.tree</source-path> <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>239</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/tdj-thesis.tree</source-path> <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
   title     = {Domain theory in constructive and predicative univalent foundations},
   author    = {de Jong, Tom},
   date      = {2023},
@@ -8,4 +8,7 @@
   location  = {Birmingham, UK},
   uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>240</anchor>  <taxon>Definition</taxon> <addr>axt-001C</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-001C.tree</source-path> <route>axt-001C.xml</route> <date><year>2023</year> <month>10</month> <day>16</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Structural algebraicity</title> </frontmatter> <mainmatter><p>  A <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is called <em>structurally algebraic</em> if for every <tex>x : D</tex>  we have a specified <tex>I :  \mathcal{V}</tex> and directed <em>compact family</em> <tex>\kappa  : I
+   \to  D</tex> such that <tex>\kappa</tex> has supremum <tex>x</tex> and each element <tex>\kappa (i)</tex>  is compact.
+</p><p>  <b>Definition 4.6.1</b> of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s <link href="tdj-thesis.xml" type="local" title="PhD thesis">PhD thesis</link>.
+</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
