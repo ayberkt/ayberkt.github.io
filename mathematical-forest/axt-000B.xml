@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>134</anchor>  <taxon>Definition</taxon> <addr>axt-000B</addr>  <route>axt-000B.xml</route> <date><year>2023</year> <month>8</month> <day>22</day></date>  <title>Prime approximation</title> </frontmatter> <mainmatter><p>  Let <tex>L</tex> be a dcpo and let <tex>x,y  \in  L</tex>. Element <tex>x</tex> is said to
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>134</anchor>  <taxon>Definition</taxon> <addr>axt-000B</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-000B.tree</source-path> <route>axt-000B.xml</route> <date><year>2023</year> <month>8</month> <day>22</day></date>  <title>Prime approximation</title> </frontmatter> <mainmatter><p>  Let <tex>L</tex> be a dcpo and let <tex>x,y  \in  L</tex>. Element <tex>x</tex> is said to
   <em>prime-approximate</em> element <tex>y</tex> if
   <tex display="block">\forall  S  \subseteq  L. \  y  \le   \bigvee  S  \rightarrow   \exists  a  \in  S. \  x  \le  a.</tex>  This is denoted <tex>x  \lll  y</tex>.
 </p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

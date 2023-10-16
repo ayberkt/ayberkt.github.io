@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>215</anchor>   <addr>axt-0018</addr>  <route>axt-0018.xml</route> <date><year>2023</year> <month>10</month> <day>2</day></date>  <title>Popper's Demarcation Criterion</title> </frontmatter> <mainmatter><p>  Popper rejected verifiability as a criterion for a scientific theory or
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>215</anchor>   <addr>axt-0018</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-0018.tree</source-path> <route>axt-0018.xml</route> <date><year>2023</year> <month>10</month> <day>2</day></date>  <title>Popper's Demarcation Criterion</title> </frontmatter> <mainmatter><p>  Popper rejected verifiability as a criterion for a scientific theory or
   hypothesis to be scientific, rather than pseudoscientific, or metaphysical.
 </p><p>  Instead, he proposed as a criterion that the theory be falsifiable.
 </p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

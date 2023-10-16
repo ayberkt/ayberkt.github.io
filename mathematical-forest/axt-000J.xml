@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>169</anchor>  <taxon>Definition</taxon> <addr>axt-000J</addr>  <route>axt-000J.xml</route> <date><year>2023</year> <month>9</month> <day>6</day></date>  <title>Scott domain</title> </frontmatter> <mainmatter><p>  A dcpo <tex>(D,  \sqsubseteq )</tex> is called a <em>Scott domain</em> if it is
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>169</anchor>  <taxon>Definition</taxon> <addr>axt-000J</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-000J.tree</source-path> <route>axt-000J.xml</route> <date><year>2023</year> <month>9</month> <day>6</day></date>  <title>Scott domain</title> </frontmatter> <mainmatter><p>  A dcpo <tex>(D,  \sqsubseteq )</tex> is called a <em>Scott domain</em> if it is
   <ol>    <li>bounded complete, and</li>    <li>      for any <tex>x  \in  D</tex>, the set <tex>\{  c  \in   \mathcal{K} (D)  \mid  c  \sqsubseteq  d  \}</tex>      is directed and gives <tex>x</tex> as its join.
     </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
