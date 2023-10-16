@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>115</anchor>  <taxon>Reference</taxon> <addr>aczel-inductive-1977</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/aczel-inductive-1977.tree</source-path> <route>aczel-inductive-1977.xml</route> <date><year>1977</year>  </date> <authors><author>Peter Aczel</author> </authors> <title>An Introduction to Inductive Definitions</title> <meta name="bibtex">@incollection{aczel-inductive-1977,
+  title        = {An Introduction to Inductive Definitions},
+  author       = {Aczel, Peter},
+  date         = 1977,
+  editor       = {Jon Barwise},
+  series       = {Studies in Logic and the Foundations of Mathematics},
+  publisher    = {North-Holland},
+  volume       = 90,
+  pages        = {739--782},
+  booktitle    = {Handbook of Mathematical Logic},
+  doi          = {10.1016/S0049-237X(08)71120-0},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

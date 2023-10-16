@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>236</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/tdj-thesis.tree</source-path> <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
+  title     = {Domain theory in constructive and predicative univalent foundations},
+  author    = {de Jong, Tom},
+  date      = {2023},
+  school    = {University of Birmingham},
+  location  = {Birmingham, UK},
+  uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

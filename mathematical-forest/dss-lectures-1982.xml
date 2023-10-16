@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>228</anchor>  <taxon>Reference</taxon> <addr>dss-lectures-1982</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/dss-lectures-1982.tree</source-path> <route>dss-lectures-1982.xml</route> <date><year>1982</year>  </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Lectures on a Mathematical Theory of Computation</title> <meta name="bibtex">@incollection{dss-lectures-1982,
+  author       = {Scott, Dana S.},
+  editor       = {Broy, Manfred and Schmidt, Gunther},
+  title        = {Lectures on a Mathematical Theory of Computation},
+  booktitle    = {Theoretical Foundations of Programming Methodology},
+  booksubtitle = {Lecture Notes of an International Summer School, directed by
+                  F.~L. Bauer, E.~W. Dijkstra and C.~A.~R. Hoare},
+  series       = {{NATO} Advanced Study Institutes Series},
+  volume       = 91,
+  year         = 1982,
+  publisher    =	{Springer},
+  pages        = {145--292},
+  doi          =	{10.1007/978-94-009-7893-5_9}
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
