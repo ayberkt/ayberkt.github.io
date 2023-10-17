@@ -2,20 +2,20 @@
 
 ## Plan
 
-| Date       | Location | Booking | Presenter |     Topic                                           |  Assigned Reading | Meeting summary |
-|------------|----------| ------- | --------- |:--------------------------------------------------: |------------------:|---------------- |
-| 2023-09-21 |  217     | Yes     | SLS       | PCAs and assemblies                                 | NA                | [Meeting #1][1] |
-| 2023-09-28 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realisability   | **Str** pp. 1-14  | [Meeting #2][2] |
-| 2023-10-05 |  217     | Yes     | SLS       | Assemblies and modest sets                          | **Str** Section 4 |                 |
-| 2023-10-19 |  LG23    | Yes     | SM        | Realizability triposes and toposes                  | **Str** Section 5 |                 |
-| 2023-10-26 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-02 |  LG23    | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-09 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-16 |  LG23    | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-23 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-30 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-11-07 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
-| 2023-12-14 |  217     | Yes     | ??        | ???                                                 | ???               |                 |
+| Date, time              | Location | Booking | Presenter |     Topic                                           |  Assigned Reading                  | Meeting summary |
+|-------------------------|----------| ------- | --------- |:--------------------------------------------------: |-----------------------------------:|---------------- |
+| 2023-09-21, 11:00-12:30 |  217     | Yes     | SLS       | PCAs and assemblies                                 | NA                                 | [Meeting #1][1] |
+| 2023-09-28, 11:00-12:30 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realizability   | **Str** Sections 1 & 2, Appendix A | [Meeting #2][2] |
+| 2023-10-05, 11:00-12:30 |  217     | Yes     | SLS       | Assemblies and modest sets                          | **Str** Section 4                  |                 |
+| 2023-10-19, 13:30-15:00 |  LG23    | Yes     | SM        | Realizability triposes and toposes                  | **Str** Section 5                  |                 |
+| 2023-10-26, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-02, 13:30-15:00 |  LG23    | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-09, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-16, 13:30-15:00 |  LG23    | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-23, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-30, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-07, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-12-14, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
 
 ## References
 
@@ -41,7 +41,7 @@
   - _Birkedal et al_ -- [Type theory via exact categories](https://doi.org/10.1109/LICS.1998.705655)
   - _Rosolini & Streicher_ -- [Comparing models of higher type computation](https://doi.org/10.1016/S1571-0661(04)00109-4)
 
-## Further topics...
+## Further topics
 
 - Modified realizability 
   - _van Oosten_ -- [The modified realizability topos](https://doi.org/10.1016/S0022-4049(97)00101-1)
