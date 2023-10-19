@@ -46,5 +46,12 @@
 - Modified realizability
   - _van Oosten_ -- [The modified realizability topos](https://doi.org/10.1016/S0022-4049(97)00101-1)
 
+
+## Supplementary references
+
+- [Tripos theory in retrospect][3] by Andrew Pitts provides quite a bit of
+  intuition and explains the history of the subject.
+
 [1]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-21.html
 [2]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-28.html
+[3]: https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/tripos-theory-in-retrospect/20D7A8EB69CC3B92552CC21068C0F535
