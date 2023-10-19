@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>244</anchor>  <taxon>Definition</taxon> <addr>axt-001I</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-001I.tree</source-path> <route>axt-001I.xml</route> <date><year>2023</year> <month>10</month> <day>19</day></date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Partial combinatory algebra</title> </frontmatter> <mainmatter><p>  A <em>partial combinatory algebra</em> (<b>PCA</b> for short) is a set
+  <tex>\mathbb{A}</tex> equipped with
+  <ul>    <li>a partial function <tex>({-})  \cdot  ({-}) :  \mathbb{A}   \times   \mathbb{A}   \nrightarrow   \mathbb{A}</tex>,</li>    <li>an element <tex>\mathsf{k}   \in   \mathbb{A}</tex>, and</li>    <li>an element <tex>\mathsf{s}   \in   \mathbb{A}</tex>;</li>  </ul>  satisfying the conditions, for every <tex>a, b, c  \in   \mathbb{A}</tex>,
+  <ul>    <li>      for every <tex>a, b  \in   \mathbb{A}</tex>,
+      <tex>( \mathsf{k}   \cdot  a)  \downarrow</tex>, and <tex>( \mathsf{k}   \cdot  a)  \cdot  b  \equiv  a;</tex>    </li>    <li>      for every <tex>a, b, c  \in   \mathbb{A}</tex>,
+      <tex>( \mathsf{s}   \cdot  a)  \downarrow</tex>,
+      <tex>((s  \cdot  a)  \cdot  b) \downarrow</tex>, and
+      <tex>(( \mathsf{s}   \cdot  a)  \cdot  b)  \cdot  c  \equiv  (a  \cdot  c)  \cdot  (b  \cdot  c).</tex>    </li>  </ul></p><p>  Adapted from the definition in <b>Example 2.3</b> of <link href="pitts-tripos-retrospect.xml" type="local" title="Tripos theory in retrospect">Tripos theory in retrospect</link>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>245</anchor>   <addr>pitts-tripos-retrospect</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/pitts-tripos-retrospect.tree</source-path> <route>pitts-tripos-retrospect.xml</route> <date><year>2002</year>  </date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Tripos theory in retrospect</title> <meta name="bibtex">@article{pitts-tripos-retrospect,
+  title        = {Tripos theory in retrospect},
+  volume       = {12},
+  DOI          = {10.1017/S096012950200364X},
+  number       = {3},
+  journal      = {Mathematical Structures in Computer Science},
+  publisher    = {Cambridge University Press},
+  author       = {Pitts, Andrew M.},
+  year         = {2002},
+  pages        = {265–279}
+}
+</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>

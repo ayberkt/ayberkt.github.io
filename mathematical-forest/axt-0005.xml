@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>124</anchor>  <taxon>Definition</taxon> <addr>axt-0005</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-0005.tree</source-path> <route>axt-0005.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Neighbourhood system</title> </frontmatter> <mainmatter><p>  A <em>neighbourhood system</em> over a set <tex>\Delta</tex> is a family <tex>\mathcal{D}</tex> of
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>127</anchor>  <taxon>Definition</taxon> <addr>axt-0005</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-0005.tree</source-path> <route>axt-0005.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Neighbourhood system</title> </frontmatter> <mainmatter><p>  A <em>neighbourhood system</em> over a set <tex>\Delta</tex> is a family <tex>\mathcal{D}</tex> of
   subsets of <tex>\Delta</tex> such that
   <ol>    <li>it is nonempty</li>    <li><tex>\Delta   \in   \mathcal{D}</tex></li>    <li>      is closed under intersection i.e. <tex>\forall  X, Y, Z  \in   \mathcal{D} .
        \  Z  \subseteq  X  \cap  Y  \rightarrow  X  \cap  Y  \in   \mathcal{D}</tex>.
