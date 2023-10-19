@@ -43,7 +43,7 @@
 
 ## Further topics
 
-- Modified realizability 
+- Modified realizability
   - _van Oosten_ -- [The modified realizability topos](https://doi.org/10.1016/S0022-4049(97)00101-1)
 
 [1]: https://ayberkt.github.io/effective-topoi-meeting-2023-09-21.html
