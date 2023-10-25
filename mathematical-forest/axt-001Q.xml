@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>286</anchor>  <taxon>Definition</taxon> <addr>axt-001Q</addr>  <route>axt-001Q.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Adjunction (preliminary)</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> be two categories. An <em>adjunction</em> between
+  <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> consists of functors <tex>F :  \mathbb{C}   \to   \mathbb{D}</tex> and
+  <tex>U :  \mathbb{D}   \to   \mathbb{C}</tex> equipped with a natural transformation
+  <tex display="block">\eta  :  \mathbf{1} _{ \mathbb{C} }  \to  U  \circ  F</tex> such that
+  <ul>    <li>      for any <tex>C  \in   \mathbb{C} , D  \in   \mathbb{D}</tex> and any <tex>\mathbb{C}</tex>-morphism <tex>f : C  \to  U(D)</tex>,
+      there exists a <tex>\mathbb{D}</tex>-morphism <tex>g : F(C)  \to  D</tex> unique with the property
+      of making the following diagram commute:
+      <center><img src="resources/f39da2134697a40fd4f3c495c2577295-web.svg"/></center>    </li>  </ul></p><p>  <b>Definition 9.1</b> from <link href="steve-awodey.xml" type="local" title="Steve Awodey">Steve Awodey</link>'s
+   <link href="awodey-ct-book.xml" type="local" title="Book on category theory">book on category theory</link>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>287</anchor>   <addr>steve-awodey</addr>  <route>steve-awodey.xml</route>   <title>Steve Awodey</title> <meta name="external">https://awodey.github.io/</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>288</anchor>  <taxon>Reference</taxon> <addr>awodey-ct-book</addr>  <route>awodey-ct-book.xml</route> <date><year>2006</year>  </date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Category Theory</title> <meta name="bibtex">@book{awodey-ct-book,
+  title        = {Category Theory},
+  author       = {Awodey, Steve},
+  date         = {2010},
+  address      = {Great Clarendon Street, Oxford, {OX2 6DP}},
+  edition      = {2},
+  isbn         = {978-0-19-923718-0},
+  publisher    = {Oxford University Press},
+  series       = {Oxford Logic Guides},
+  volume       = {52},
+}
+</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>

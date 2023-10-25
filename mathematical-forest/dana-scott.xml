@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>296</anchor>  <taxon>Person</taxon> <addr>dana-scott</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/people/dana-scott.tree</source-path> <route>dana-scott.xml</route>   <title>Dana S. Scott</title> </frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>297</anchor>  <taxon>Reference</taxon> <addr>dss-lectures-1982</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/dss-lectures-1982.tree</source-path> <route>dss-lectures-1982.xml</route> <date><year>1982</year>  </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Lectures on a Mathematical Theory of Computation</title> <meta name="bibtex">@incollection{dss-lectures-1982,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>309</anchor>  <taxon>Person</taxon> <addr>dana-scott</addr>  <route>dana-scott.xml</route>   <title>Dana S. Scott</title> </frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>310</anchor>  <taxon>Definition</taxon> <addr>axt-000J</addr>  <route>axt-000J.xml</route> <date><year>2023</year> <month>9</month> <day>6</day></date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Scott domain</title> </frontmatter> <mainmatter><p>  A dcpo <tex>(D,  \sqsubseteq )</tex> is called a <em>Scott domain</em> if it is
+  <ul>    <li><link href="axt-001S.xml" type="local" title="Algebraic">algebraic</link>, and</li>    <li><link href="axt-001R.xml" type="local" title="Bounded complete">bounded complete</link>.</li>  </ul></p><p>  The definition here follows <b>Theorem 11.5</b> from <link href="dtfofp.xml" type="local" title="Domain-Theoretic Foundations of Functional Programming">Domain-Theoretic Foundations of Functional Programming</link>.
+</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>311</anchor>  <taxon>Reference</taxon> <addr>dss-domains-for-ds</addr>  <route>dss-domains-for-ds.xml</route> <date><year>1982</year> <month>7</month> </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Domains for denotational semantics</title> <meta name="bibtex">@InProceedings{scott-domains-for-ds,
+  title        = {Domains for denotational semantics},
+  author       = {Scott, Dana S.},
+  date         = {1982-07},
+  editor       = {Nielsen, Mogens and Schmidt, Erik M.},
+  booktitle    = {Automata, Languages and Programming},
+  series       = lncs,
+  volume       = {140},
+  publisher    = {Springer Berlin Heidelberg},
+  location     = {Berlin, Heidelberg},
+  pages        = {577--610},
+  isbn         = {978-3-540-39308-5}
+}
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>312</anchor>  <taxon>Reference</taxon> <addr>dss-lectures-1982</addr>  <route>dss-lectures-1982.xml</route> <date><year>1982</year>  </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Lectures on a Mathematical Theory of Computation</title> <meta name="bibtex">@incollection{dss-lectures-1982,
   author       = {Scott, Dana S.},
   editor       = {Broy, Manfred and Schmidt, Gunther},
   title        = {Lectures on a Mathematical Theory of Computation},
