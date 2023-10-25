@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>271</anchor>  <taxon>Person</taxon> <addr>dag-normann</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/people/dag-normann.tree</source-path> <route>dag-normann.xml</route>   <title>Dag Normann</title> <meta name="external">https://www.mn.uio.no/math/english/people/aca/dnormann/index.html</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>272</anchor>  <taxon>Reference</taxon> <addr>longley-normann-hoc</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/longley-normann-hoc.tree</source-path> <route>longley-normann-hoc.xml</route> <date><year>2015</year>  </date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author><author><link href="dag-normann.xml" type="local">Dag Normann</link></author> </authors> <title>Higher-Order Computability</title> <meta name="bibtex">@book{longley-normann-hoc,
+  title     = {Higher-Order Computability},
+  author    = {Longley, John R. and Normann, Dag},
+  year      = 2015,
+  publisher = {Springer},
+  series    = {Theory and Applications of Computability},
+  doi       = {10.1007/978-3-662-47992-6},
+}
+</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>

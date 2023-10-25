@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>267</anchor>  <taxon>Reference</taxon> <addr>munkres-topology-2000</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/munkres-topology-2000.tree</source-path> <route>munkres-topology-2000.xml</route> <date><year>2000</year>  </date> <authors><author>James R. Munkres</author> </authors> <title>Topology</title> <meta name="bibtex">@book{munkres-topology-2000,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>287</anchor>  <taxon>Reference</taxon> <addr>munkres-topology-2000</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/refs/munkres-topology-2000.tree</source-path> <route>munkres-topology-2000.xml</route> <date><year>2000</year>  </date> <authors><author>James R. Munkres</author> </authors> <title>Topology</title> <meta name="bibtex">@book{munkres-topology-2000,
   title     = {Topology},
   author    = {Munkres, James R.},
   date      = {2000},
@@ -9,7 +9,7 @@
   location  = {Upper Saddle River, NJ 07458},
   isbn      = {0-13-181629-2},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>268</anchor>  <taxon>Definition</taxon> <addr>axt-000Q</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-000Q.tree</source-path> <route>axt-000Q.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date> <authors><author>James R. Munkres</author> </authors> <title>Hausdorff space (point-set)</title> </frontmatter> <mainmatter><p>  A space <tex>X</tex> is called <em>Hausdorff</em> if for any two distinct points <tex>x_1,
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>288</anchor>  <taxon>Definition</taxon> <addr>axt-000Q</addr> <source-path>/Users/ayberkt/Code/mathematical-forest/trees/axt-000Q.tree</source-path> <route>axt-000Q.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date> <authors><author>James R. Munkres</author> </authors> <title>Hausdorff space (point-set)</title> </frontmatter> <mainmatter><p>  A space <tex>X</tex> is called <em>Hausdorff</em> if for any two distinct points <tex>x_1,
   x_2  \in  X</tex>, there exist a <em>disjoint</em> pair of open neighbourhoods <tex>U_1, U_2
    \in   \mathcal{O} ( X )</tex>, of <tex>x_1</tex> and <tex>x_2</tex>.
 </p><p>  Adapted from <link href="munkres-topology-2000.xml" type="local" title="Topology by Munkres">Topology by Munkres</link>.
