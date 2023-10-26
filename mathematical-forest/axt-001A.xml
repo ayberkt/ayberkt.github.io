@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>226</anchor>  <taxon>Definition</taxon> <addr>axt-001A</addr>  <route>axt-001A.xml</route> <date><year>2023</year> <month>10</month> <day>14</day></date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Limited Principle of Omniscience</title> </frontmatter> <mainmatter><p>  The <em>limited principle of omniscience</em> (often abbreviated as <b>LPO</b>) says
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>237</anchor>  <taxon>Definition</taxon> <addr>axt-001A</addr>  <route>axt-001A.xml</route> <date><year>2023</year> <month>10</month> <day>14</day></date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Limited Principle of Omniscience</title> </frontmatter> <mainmatter><p>  The <em>limited principle of omniscience</em> (often abbreviated as <b>LPO</b>) says
   that, for any binary sequence <tex>\{  a_n  \} _{n  \in   \mathbb{N} }</tex>, either there exists
   some <tex>n  \in   \mathbb{N}</tex> such that <tex>a_n = 1</tex> or <tex>a_n = 0</tex> for all <tex>n  \in   \mathbb{N}</tex>.
 </p><p>  From page 3 of <link href="bridges-richman-varieties.xml" type="local" title="Varieties of Constructive Mathematics">Varieties of Constructive Mathematics</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>227</anchor>  <taxon>Reference</taxon> <addr>bridges-richman-varieties</addr>  <route>bridges-richman-varieties.xml</route> <date><year>1987</year>  </date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Varieties of constructive mathematics</title> <meta name="bibtex">@book{bridges-richman-varieties,
-  title        = {Varieties of constructive mathematics},
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>238</anchor>  <taxon>Reference</taxon> <addr>bridges-richman-varieties</addr>  <route>bridges-richman-varieties.xml</route> <date><year>1987</year>  </date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Varieties of constructive mathematics</title> <meta name="bibtex">@book{bridges-richman-varieties,
+  title        = {Varieties of Constructive Mathematics},
   author       = {Bridges, Douglas S. and Richman, Fred},
-  series       = {{London} Mathematical Society Lecture Note Series, vol. 97},
-  isbn         = {9780511565663},
-  year         = {1987},
-  address      = {Cambridge}
+  year         = 1987,
+  publisher    = {Cambridge University Press},
+  series       = {London Mathematical Society Lecture Note Series},
+  volume       = 97,
+  doi          = {10.1017/CBO9780511565663}
 }
 </meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>251</anchor>  <taxon>Definition</taxon> <addr>axt-001I</addr>  <route>axt-001I.xml</route> <date><year>2023</year> <month>10</month> <day>19</day></date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Partial combinatory algebra</title> </frontmatter> <mainmatter><p>  A <em>partial combinatory algebra</em> (<b>PCA</b> for short) is a set
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>262</anchor>  <taxon>Definition</taxon> <addr>axt-001I</addr>  <route>axt-001I.xml</route> <date><year>2023</year> <month>10</month> <day>19</day></date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Partial combinatory algebra</title> </frontmatter> <mainmatter><p>  A <em>partial combinatory algebra</em> (<b>PCA</b> for short) is a set
   <tex>\mathbb{A}</tex> equipped with
   <ul>    <li>a partial function <tex>({-})  \cdot  ({-}) :  \mathbb{A}   \times   \mathbb{A}   \nrightarrow   \mathbb{A}</tex>,</li>    <li>an element <tex>\mathsf{k}   \in   \mathbb{A}</tex>, and</li>    <li>an element <tex>\mathsf{s}   \in   \mathbb{A}</tex>;</li>  </ul>  satisfying the following conditions.
   <ul>    <li>      For every <tex>a, b  \in   \mathbb{A}</tex>,
@@ -8,7 +8,7 @@
       <tex>( \mathsf{s}   \cdot  a)  \downarrow</tex>,
       <tex>((s  \cdot  a)  \cdot  b) \downarrow</tex>, and
       <tex>(( \mathsf{s}   \cdot  a)  \cdot  b)  \cdot  c  \equiv  (a  \cdot  c)  \cdot  (b  \cdot  c).</tex>    </li>  </ul></p><p>  Adapted from the definition in <b>Example 2.3</b> of <link href="pitts-tripos-retrospect.xml" type="local" title="Tripos theory in retrospect">Tripos theory in retrospect</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>252</anchor>   <addr>pitts-tripos-retrospect</addr>  <route>pitts-tripos-retrospect.xml</route> <date><year>2002</year>  </date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Tripos theory in retrospect</title> <meta name="bibtex">@article{pitts-tripos-retrospect,
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>263</anchor>   <addr>pitts-tripos-retrospect</addr>  <route>pitts-tripos-retrospect.xml</route> <date><year>2002</year>  </date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Tripos theory in retrospect</title> <meta name="bibtex">@article{pitts-tripos-retrospect,
   title        = {Tripos theory in retrospect},
   volume       = {12},
   DOI          = {10.1017/S096012950200364X},
@@ -19,7 +19,7 @@
   year         = {2002},
   pages        = {265–279}
 }
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>253</anchor>   <addr>axt-001J</addr>  <route>axt-001J.xml</route> <date><year>2023</year> <month>10</month> <day>20</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Birmingham Realizability Reading Group</title> </frontmatter> <mainmatter><p>  A reading group organized by some people in the <link href="https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx" type="external">Theory of
+</meta></frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>264</anchor>   <addr>axt-001J</addr>  <route>axt-001J.xml</route> <date><year>2023</year> <month>10</month> <day>20</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Birmingham Realizability Reading Group</title> </frontmatter> <mainmatter><p>  A reading group organized by some people in the <link href="https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx" type="external">Theory of
   Computation</link>  group at the University of Birmingham. The plan of the reading group is
   <link href="https://ayberkt.github.io/effective-topoi-reading-group.html" type="external">here</link>.
 </p><p>  I will be using this tree to keep track of the things that I have learned by
