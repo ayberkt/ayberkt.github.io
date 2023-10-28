@@ -3,7 +3,7 @@
 <tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>161</anchor>  <taxon>Definition</taxon> <addr>axt-0009</addr>  <route>axt-0009.xml</route> <date><year>2023</year> <month>8</month> <day>22</day></date>  <title>Karoubi envelope</title> </frontmatter> <mainmatter><p>  The Karoubi envelope of a category <tex>\mathbb{C}</tex>, written <tex>\mathsf{Split} ( \mathbb{C} )</tex>, is the
   category whose
     <ol>      <li>        <em>objects</em> are pairs of the form <tex>(C, e)</tex> where <tex>C</tex> is an object of
-        <tex>\mathbb{C}</tex> and <tex>e : C  \to  C</tex> is an <link href="axt-000A.xml" type="local" title="Idempotent">idempotent</link> of <tex>C</tex>;
+        <tex>\mathbb{C}</tex> and <tex>e : C  \to  C</tex> is an <link href="axt-000A.xml" type="local" title="Idempotent in a category">idempotent</link> of <tex>C</tex>;
       </li>      <li>        <em>morphisms</em> are triples <tex>(e, f, e') : (C, e)  \to  (C', e')</tex> where <tex>f
         : C  \to  C'</tex> is a morphism of <tex>\mathbb{C}</tex> satisfying <tex>e'  \circ  f = f = f
          \circ  e</tex>;

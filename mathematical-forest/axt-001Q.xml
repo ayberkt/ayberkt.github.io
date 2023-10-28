@@ -8,7 +8,7 @@
       there exists a <tex>\mathbb{D}</tex>-morphism <tex>g : F(C)  \to  D</tex> unique with the property
       of making the following diagram commute:
       <center><img src="resources/f39da2134697a40fd4f3c495c2577295-web.svg"/></center>    </li>  </ul></p><p>  <b>Definition 9.1</b> from <link href="steve-awodey.xml" type="local" title="Steve Awodey">Steve Awodey</link>'s
-   <link href="awodey-ct-book.xml" type="local" title="Book on category theory">book on category theory</link>.
+   <link href="awodey-ct-book.xml" type="local" title="Category Theory">book on category theory</link>.
 </p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>315</anchor>   <addr>steve-awodey</addr>  <route>steve-awodey.xml</route>   <title>Steve Awodey</title> <meta name="external">https://awodey.github.io/</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>316</anchor>  <taxon>Reference</taxon> <addr>awodey-ct-book</addr>  <route>awodey-ct-book.xml</route> <date><year>2006</year>  </date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Category Theory</title> <meta name="bibtex">@book{awodey-ct-book,
   title        = {Category Theory},
   author       = {Awodey, Steve},

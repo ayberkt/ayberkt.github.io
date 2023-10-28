@@ -9,7 +9,6 @@
   <ul>    <li><tex>\langle   {-}   \rangle</tex> denote some computable coding operation <tex>\mathsf{List} ( \mathbb{N} )   \to   \mathbb{N}</tex>, and</li>    <li><tex>\mu</tex> denote the <link href="axt-001O.xml" type="local" title="Minimization operator">minimization operator</link>.</li>  </ul></p><p>  Given two functions <tex>f, g :  \mathbb{N}   \to   \mathbb{N}</tex>, the <em>application</em> of <tex>f</tex> to
   <tex>g</tex> is defined as follows:
   <tex display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</tex>  where
-  <tex display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</tex></p><p>  Defined in <b>Section 3.2.1</b> of <link href="longley-normann-hoc.xml" type="local" title="Longley and Normann's
-  book">Longley and Normann's
+  <tex display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</tex></p><p>  Defined in <b>Section 3.2.1</b> of <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">Longley and Normann's
   book</link>.
 </p></mainmatter> </tree></backlinks> <references/></backmatter></tree>

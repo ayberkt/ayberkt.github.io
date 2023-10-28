@@ -80,7 +80,7 @@
   </xsl:template>
 
   <xsl:template
-    match="p | img | code | pre | a | em | b | strong | ol | ul | li | center | blockquote | table | tr | th | td | ruby | rb | rt | rp | span | figure | figcaption | mark | div | hr | abbr">
+    match="p | img | code | pre | a | em | b | strong | ol | ul | li | center | blockquote | table | tr | th | td | ruby | rb | rt | rp | span | figure | figcaption | mark | div | hr | abbr | sub | sup">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*" />
     </xsl:copy>
@@ -269,7 +269,7 @@
     <pre><xsl:value-of select="." /></pre>
   </xsl:template>
 
-  <xsl:template match="meta[@name='venue']|meta[@name='position']|meta[@name='institution']">
+  <xsl:template match="meta[@name='venue']|meta[@name='position']|meta[@name='institution']|meta[@name='source']">
     <li class="meta-item">
       <xsl:apply-templates />
     </li>
@@ -349,6 +349,7 @@
           <xsl:apply-templates select="meta[@name='position']" />
           <xsl:apply-templates select="meta[@name='institution']" />
           <xsl:apply-templates select="meta[@name='venue']" />
+          <xsl:apply-templates select="meta[@name='source']" />
           <xsl:apply-templates select="meta[@name='doi']" />
           <xsl:apply-templates select="meta[@name='orcid']" />
           <xsl:apply-templates select="meta[@name='external']" />
