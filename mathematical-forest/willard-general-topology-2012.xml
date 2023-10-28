@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>533</anchor>  <taxon>Reference</taxon> <addr>willard-general-topology-2012</addr>  <route>willard-general-topology-2012.xml</route> <date><year>2012</year>  </date> <authors><author>Stephen Willard</author> </authors> <title>General Topology</title> <meta name="bibtex">@book{willard-general-topology-2012,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>574</anchor>  <taxon>Reference</taxon> <addr>willard-general-topology-2012</addr>  <route>willard-general-topology-2012.xml</route> <date><year>2012</year>  </date> <authors><author>Stephen Willard</author> </authors> <title>General Topology</title> <meta name="bibtex">@book{willard-general-topology-2012,
   title     = {General Topology},
   author    = {Willard, Stephen},
   year      = {2012},
@@ -9,7 +9,7 @@
   publisher = {Dover Publications},
   series    = {Dover Books on Mathematics},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>534</anchor>  <taxon>Definition</taxon> <addr>axt-0019</addr>  <route>axt-0019.xml</route> <date><year>2023</year> <month>10</month> <day>6</day></date> <authors><author>Stephen Willard</author> </authors> <title>Regular space</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is called a <em>regular</em> if for any closed <tex>F
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>575</anchor>  <taxon>Definition</taxon> <addr>axt-0019</addr>  <route>axt-0019.xml</route> <date><year>2023</year> <month>10</month> <day>6</day></date> <authors><author>Stephen Willard</author> </authors> <title>Regular space</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is called a <em>regular</em> if for any closed <tex>F
    \subseteq  X</tex> and any <tex>x  \notin  F</tex>, there exist disjoint open sets containing
   <tex>x</tex> and <tex>F</tex>.
 </p>Adapted from Definition 14.1 of <link href="willard-general-topology-2012.xml" type="local" title="General Topology">Willard's <em>General
