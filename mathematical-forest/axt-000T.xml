@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>226</anchor>   <addr>axt-000T</addr>  <route>axt-000T.xml</route> <date><year>2023</year> <month>9</month> <day>17</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Brouwerian counterexample</title> </frontmatter> <mainmatter><p>  A <em>Brouwerian counterexample</em> is a proof that a statement implies some
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>224</anchor>   <addr>axt-000T</addr>  <route>axt-000T.xml</route> <date><year>2023</year> <month>9</month> <day>17</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Brouwerian counterexample</title> </frontmatter> <mainmatter><p>  A <em>Brouwerian counterexample</em> is a proof that a statement implies some
   nonconstructive principle.
 </p><p>  Remark 1.6 from
   <link href="manuell-pointfree-topology-and-constructive-mathematics-2023" type="external">Manuell</link>.
