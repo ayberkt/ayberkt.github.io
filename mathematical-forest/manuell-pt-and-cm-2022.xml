@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>709</anchor>  <taxon>Reference</taxon> <addr>manuell-pt-and-cm-2022</addr>  <route>manuell-pt-and-cm-2022.xml</route> <date><year>2023</year>  </date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>723</anchor>  <taxon>Reference</taxon> <addr>manuell-pt-and-cm-2022</addr>  <route>manuell-pt-and-cm-2022.xml</route> <date><year>2023</year>  </date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
   title     = {Pointfree topology and constructive mathematics},
   author    = {Graham Manuell},
   date      = {2022-06},
