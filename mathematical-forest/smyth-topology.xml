@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>534</anchor>  <taxon>Reference</taxon> <addr>smyth-topology</addr>  <route>smyth-topology.xml</route> <date><year>1993</year>  </date> <authors><author><link href="michael-smyth.xml" type="local">Michael B. Smyth</link></author> </authors> <title>Topology</title> <meta name="bibtex">@incollection{smyth-topology,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>751</anchor>  <taxon>Reference</taxon> <addr>smyth-topology</addr>  <route>smyth-topology.xml</route> <date><year>1993</year>  </date> <authors><author><link href="michael-smyth.xml" type="local">Michael B. Smyth</link></author> </authors> <title>Topology</title> <meta name="bibtex">@incollection{smyth-topology,
   title      = {Topology},
   booktitle  = {Handbook of {Logic} in {{Computer Science}} ({Vol}. 1)},
   author     = {Smyth, Michael B.},
@@ -9,7 +9,7 @@
   publisher  = {Oxford University Press, Inc.},
   isbn       = {0-19-853735-2},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>535</anchor>  <taxon>Definition</taxon> <addr>axt-001Y</addr>  <route>axt-001Y.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date>  <title>Scott open subset of a dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a dcpo. A subset <tex>U  \subseteq  D</tex> is called a
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>752</anchor>  <taxon>Definition</taxon> <addr>axt-001Y</addr>  <route>axt-001Y.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date>  <title>Scott open subset of a dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a dcpo. A subset <tex>U  \subseteq  D</tex> is called a
   <em>Scott open</em> if it satisfies the following conditions.
   <ol>    <li><tex>U</tex> is <link href="axt-001Z.xml" type="local" title="Upwards-closed subset"><b>upwards-closed</b></link>.</li>    <li>      <tex>U</tex> is <b>inaccessible by directed joins</b>, which is to say
       for any directed subset <tex>S  \subseteq  D</tex>, if <tex>( { \bigvee }^{ \uparrow } S )  \in  U</tex>      then there is some <tex>x  \in  S</tex> such that <tex>x  \in  U</tex>.

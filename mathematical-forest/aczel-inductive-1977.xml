@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>120</anchor>  <taxon>Reference</taxon> <addr>aczel-inductive-1977</addr>  <route>aczel-inductive-1977.xml</route> <date><year>1977</year>  </date> <authors><author>Peter Aczel</author> </authors> <title>An Introduction to Inductive Definitions</title> <meta name="bibtex">@incollection{aczel-inductive-1977,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>119</anchor>  <taxon>Reference</taxon> <addr>aczel-inductive-1977</addr>  <route>aczel-inductive-1977.xml</route> <date><year>1977</year>  </date> <authors><author>Peter Aczel</author> </authors> <title>An Introduction to Inductive Definitions</title> <meta name="bibtex">@incollection{aczel-inductive-1977,
   title        = {An Introduction to Inductive Definitions},
   author       = {Aczel, Peter},
   date         = 1977,
