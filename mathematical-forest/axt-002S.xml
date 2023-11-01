@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>850</anchor>  <taxon>Definition</taxon> <addr>axt-002S</addr>  <route>axt-002S.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Compact open of a locale in UF</title> <meta name="source"><b>Defn. 3.5</b> of <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Tosun and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> be a <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale. An open <tex>U :  \mathcal{O} ( X )</tex> is called
+  <em>compact</em> if the principal filter on <tex>U</tex> is inaccessible by joins
+  of directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{W}</tex>-families</link>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>851</anchor>  <taxon>Definition</taxon> <addr>axt-001F</addr>  <route>axt-001F.xml</route> <date><year>2023</year> <month>10</month> <day>16</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>𝓥-Family</title> </frontmatter> <mainmatter><p>  A <em><tex>\mathcal{V}</tex>-family on a type <tex>A :  \mathcal{U}</tex></em> is a pair <tex>(I,  \iota )</tex> where
+  <ul>    <li><tex>I</tex> is a type in universe <tex>\mathcal{V}</tex>,</li>    <li>and <tex>\iota</tex> is a function of type <tex>I  \to  A</tex>.</li>  </ul></p><p>  List of formal definitions:
+  <ol>    <li>      <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Slice.Family.html#262" type="external">Fam in UF.Slice</link>      in TypeTopology.
+    </li>  </ol></p></mainmatter> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>852</anchor>  <taxon>Reference</taxon> <addr>patch-mfps</addr>  <route>patch-mfps.xml</route> <date><year>2023</year> <month>2</month> </date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Patch Locale of a Spectral Locale in Univalent Type Theory</title> <meta name="bibtex">@inproceedings{patch-mfps,
+  title     = {{Patch Locale of a Spectral Locale in Univalent Type Theory}},
+  author    = {Ayberk Tosun and Mart\'in H. Escard\'o},
+  url       = {https://entics.episciences.org/10808},
+  doi       = {10.46298/entics.10808},
+  series    = {{Electronic Notes in Theoretical Informatics and Computer Science}},
+  volume    = {1},
+  booktitle = {Proceedings of MFPS XXXVIII},
+  date      = {2023-02}
+}
+</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>

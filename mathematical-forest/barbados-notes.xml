@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>885</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{ESCARDO200421,
+  title        = {Synthetic Topology: of Data Types and Classical Spaces},
+  author       = {Escardó, Martín H.},
+  year         = {2004},
+  journal      = {Electronic Notes in Theoretical Computer Science},
+  volume       = {87},
+  pages        = {21-156},
+  note         = {Proceedings of the Workshop on Domain Theoretic Methods for
+                 Probabilistic Processes},
+  issn         = {1571-0661},
+  doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
