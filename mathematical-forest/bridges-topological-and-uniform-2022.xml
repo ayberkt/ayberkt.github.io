@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>672</anchor>  <taxon>Reference</taxon> <addr>bridges-topological-and-uniform-2022</addr>  <route>bridges-topological-and-uniform-2022.xml</route> <date><year>2022</year>  </date> <authors><author>Douglas S. Bridges</author> </authors> <title>Lectures on Topological and Uniform Spaces</title> <meta name="bibtex">@misc{bridges-topological-and-uniform,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>787</anchor>  <taxon>Reference</taxon> <addr>bridges-topological-and-uniform-2022</addr>  <route>bridges-topological-and-uniform-2022.xml</route> <date><year>2022</year>  </date> <authors><author>Douglas S. Bridges</author> </authors> <title>Lectures on Topological and Uniform Spaces</title> <meta name="bibtex">@misc{bridges-topological-and-uniform,
   title        = {{Lectures on Topological and Uniform Spaces}},
   author       = {Bridges, Douglas S.},
   date         = {2022-05-20},
   note         = {Unpublished lecture notes}
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>673</anchor>  <taxon>Definition</taxon> <addr>axt-000Y</addr>  <route>axt-000Y.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Filter base</title> </frontmatter> <mainmatter><p>  A <em>filter base</em> on a nonempty set <tex>X</tex> is a family <tex>\{  B_i  \} _{i  \in  I}</tex>  of subsets of <tex>\mathcal{P} (X)</tex> satisfying the following properties:
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>788</anchor>  <taxon>Definition</taxon> <addr>axt-000Y</addr>  <route>axt-000Y.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>Filter base</title> </frontmatter> <mainmatter><p>  A <em>filter base</em> on a nonempty set <tex>X</tex> is a family <tex>\{  B_i  \} _{i  \in  I}</tex>  of subsets of <tex>\mathcal{P} (X)</tex> satisfying the following properties:
   <ol>    <li><tex>I  \neq   \emptyset</tex> and <tex>B_i  \neq   \emptyset</tex> for each <tex>i  \in  I</tex></li>    <li>      For any two <tex>i, j  \in  I</tex>, there exists some <tex>k  \in  I</tex> such that
       <tex>B_k  \subseteq  B_i  \cap  B_j</tex>.
     </li>  </ol></p><p>  Adapted from the definition in page 21 of
