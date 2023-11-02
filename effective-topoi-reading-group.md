@@ -8,8 +8,8 @@
 | 2023-09-28, 11:00-12:30 |  UG06    | Yes     | BRP       | Elementary recursion theory, number realizability   | **Str** Sections 1 & 2, Appendix A | [Meeting #2][2] |
 | 2023-10-05, 11:00-12:30 |  217     | Yes     | SLS       | Assemblies and modest sets                          | **Str** Section 4                  |                 |
 | 2023-10-19, 13:30-15:00 |  LG23    | Yes     | SM        | Realizability triposes and toposes                  | **Str** Section 5                  |                 |
-| 2023-11-02, 13:30-15:00 |  LG23    | Yes     | ??        | The logic of the effective topos on K1              | **MvO** Subsections 3.3 & 3.4      |                 |
-| 2023-11-09, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-02, 13:30-15:00 |  LG23    | Yes     | SM        | The logic of the effective topos                    | **MvO** Subsections 3.3 & 3.4      |                 |
+| 2023-11-09, 13:30-15:00 |  217     | Yes     | BRP       | The logic of the effective topos (continued)        | **vO** Subsection 3.1.0            |                 |
 | 2023-11-16, 13:30-15:00 |  LG23    | Yes     | ??        | ???                                                 | ???                                |                 |
 | 2023-11-23, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
 | 2023-11-30, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
@@ -21,6 +21,7 @@
 - **MvO**: [Topos Theory](https://webspace.science.uu.nl/~ooste110/syllabi/toposmoeder.pdf)
 - **Str**: [Realizability](https://www2.mathematik.tu-darmstadt.de/~streicher/REAL/REAL.pdf)
 - **Pho**: [An introduction to fibrations, topos theory, the effective topos and modest sets](http://www.lfcs.inf.ed.ac.uk/reports/92/ECS-LFCS-92-208/)
+- **vO**: [Realizability: an introduction to its categorical side](https://doi.org/10.1017/S1079898600000858)
 
 ## Plan
 
