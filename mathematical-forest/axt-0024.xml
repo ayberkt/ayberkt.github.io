@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>478</anchor>  <taxon>Definition</taxon> <addr>axt-0024</addr>  <route>axt-0024.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Spectral locale</title> </frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <em>spectral</em> if it satisfies the following two
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>494</anchor>  <taxon>Definition</taxon> <addr>axt-0024</addr>  <route>axt-0024.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Spectral locale</title> <meta name="source"><b>II.3.2</b> from <link href="ptj-stone-spaces.xml" type="local" title="Stone Spaces">Stone Spaces</link></meta></frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <em>spectral</em> if it satisfies the following two
   conditions.
   <ol>    <li>      Every open of <tex>X</tex> is expressible as a join of compact opens of <tex>X</tex>.
     </li>    <li>      The set of compact elements of <tex>X</tex> forms a sub-meet-semilattice of
       the frame <tex>\mathcal{O} ( X )</tex>.
-    </li>  </ol>  Notes:
-  <ul>    <li>      Defined in <b>Paragraph 3.2</b> of <link href="ptj-stone-spaces.xml" type="local" title="Stone Spaces">Stone Spaces</link>. He calls this notion
-      “coherent” locale.
-    </li>  </ul></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>479</anchor>  <taxon>Reference</taxon> <addr>ptj-stone-spaces</addr>  <route>ptj-stone-spaces.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Stone Spaces</title> <meta name="bibtex">@book{ptj-stone-spaces,
+    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>495</anchor>  <taxon>Reference</taxon> <addr>ptj-stone-spaces</addr>  <route>ptj-stone-spaces.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Stone Spaces</title> <meta name="bibtex">@book{ptj-stone-spaces,
   title        = {Stone Spaces},
   author       = ptj,
   date         = {2002},

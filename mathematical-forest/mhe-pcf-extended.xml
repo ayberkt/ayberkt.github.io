@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1020</anchor>  <taxon>Reference</taxon> <addr>mhe-pcf-extended</addr>  <route>mhe-pcf-extended.xml</route> <date><year>1996</year> <month>8</month> </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>PCF extended with real numbers</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</meta><meta name="bibtex">@article{mhe-pcf-extended,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1124</anchor>  <taxon>Reference</taxon> <addr>mhe-pcf-extended</addr>  <route>mhe-pcf-extended.xml</route> <date><year>1996</year> <month>8</month> </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>PCF extended with real numbers</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</meta><meta name="bibtex">@article{mhe-pcf-extended,
   title       = {PCF extended with real numbers},
   author      = {Escardó, Martín H.},
   year        = {1996},

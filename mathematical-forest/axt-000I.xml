@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>194</anchor>  <taxon>Theorem</taxon> <addr>axt-000I</addr>  <route>axt-000I.xml</route> <date><year>2023</year> <month>9</month> <day>5</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>De Bruijn–Erdős theorem</title> </frontmatter> <mainmatter><p>  Let <tex>G = (V, E)</tex> be a (possibly infinite) graph. If all finite subgraphs of
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>196</anchor>  <taxon>Theorem</taxon> <addr>axt-000I</addr>  <route>axt-000I.xml</route> <date><year>2023</year> <month>9</month> <day>5</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>De Bruijn–Erdős theorem</title> </frontmatter> <mainmatter><p>  Let <tex>G = (V, E)</tex> be a (possibly infinite) graph. If all finite subgraphs of
   <tex>G</tex> have a maximum chromatic number of <tex>c</tex> then <tex>G</tex> itself has a maximum
   chromatic number of <tex>c</tex>.
 </p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
