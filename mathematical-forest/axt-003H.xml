@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1007</anchor>   <addr>axt-003H</addr>  <route>axt-003H.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary Ann Priestley</link></author> </authors> <title>Least fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
+  An element <tex>x  \in  P</tex> is called the <em>least fixed point</em> of <tex>h</tex> if
+  <ul>    <li>it is a <link href="axt-003G.xml" type="local" title="Fixed point">fixed point</link> of <tex>h</tex>, and</li>    <li>it is below any other fixed point of <tex>h</tex>.</li>  </ul>  When it exists, the least fixed point is denoted <tex>\mu ( h )</tex>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1008</anchor>   <addr>axt-003G</addr>  <route>axt-003G.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary Ann Priestley</link></author> </authors> <title>Fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
+  An element <tex>x  \in  P</tex> is called a <em>fixed point</em> of <tex>h</tex> if it
+  satisfies <tex>h(x) = x</tex>.
+</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1009</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary Ann Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+  title        = {Introduction to Lattices and Order},
+  date         = {2002},
+  place        = {Cambridge CB2 8BS, UK},
+  edition      = {2},
+  doi          = {10.1017/CBO9780511809088},
+  isbn         = {978-0-521-78451-1},
+  publisher    = {Cambridge University Press},
+  author       = {Davey, Brian A. and Priestley, Hilary A.},
+}
+</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>
