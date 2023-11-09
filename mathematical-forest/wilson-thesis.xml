@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1415</anchor>  <taxon>Reference</taxon> <addr>wilson-thesis</addr>  <route>wilson-thesis.xml</route> <date><year>1994</year> <month>5</month> </date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory</title> <meta name="bibtex">@phdthesis{wilson-thesis,
+  title     = {The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory},
+  author    = {Wilson, J. Todd},
+  date      = {1994-05},
+  school    = {School of Computer Science, Carnegie Mellon University},
+  location  = {Pittsburgh, PA},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1416</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
+  <b>maxset</b> if,
+  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
+      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
+    </li>  </ol></p></mainmatter> </tree></backlinks> <references/></backmatter></tree>

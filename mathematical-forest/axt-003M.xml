@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1027</anchor>  <taxon>Definition</taxon> <addr>axt-003M</addr>  <route>axt-003M.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Being 𝓥-small</title> <meta name="source"><b>Defn. 1</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. A type <tex>X :  \mathcal{U}</tex> is called
+  <b><tex>\mathcal{V}</tex>-small</b> if it has a copy in universe <tex>\mathcal{V}</tex>, which is
+  to say
+  <tex display="block">\mathsf{hasSize} ( X ,  \mathcal{V} )   \vcentcolon \equiv   \sum _{ Y \  : \  \mathcal{V} }  X  \simeq  Y .</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1028</anchor>  <taxon>Axiom</taxon> <addr>axt-003N</addr>  <route>axt-003N.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>  <title>Propositional (𝓤, 𝓥)-resizing</title> </frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b>propositional <tex>( \mathcal{U} ,
+   \mathcal{V} )</tex>-resizing axiom</b> says that every <link href="axt-0035.xml" type="local" title="Being a proposition">proposition</link> <tex>P :  \mathcal{U}</tex> is
+  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
+</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1029</anchor>  <taxon>Axiom</taxon> <addr>axt-003P</addr>  <route>axt-003P.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Ω (𝓤, 𝓥)-resizing axiom</title> <meta name="source"><b>Defn 2.ii</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b><tex>\Omega</tex> <tex>( \mathcal{U} ,
+   \mathcal{V} )</tex>-resizing axiom</b> says that the type <tex>\Omega _{ \mathcal{U} }</tex> is
+  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
+</p></mainmatter> </tree></backlinks> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1030</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+  author       = {de Jong, Tom and Escard\'o, Mart\'in H\&quot;otzel},
+  title        = {Predicative Aspects of Order Theory in Univalent Foundations},
+  booktitle    = {6th International Conference on Formal Structures for Computation and Deduction (FSCD 2021)},
+  pages        = {8:1--8:18},
+  series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  year         = 2021,
+  volume       = 195,
+  editor       = {Kobayashi, Naoki},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
+  doi          = {10.4230/LIPIcs.FSCD.2021.8},
+}
+</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
