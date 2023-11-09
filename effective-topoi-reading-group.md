@@ -10,7 +10,7 @@
 | 2023-10-19, 13:30-15:00 |  LG23    | Yes     | SM        | Realizability triposes and toposes                  | **Str** Section 5                  |                 |
 | 2023-11-02, 13:30-15:00 |  LG23    | Yes     | SM        | The logic of the effective topos                    | **MvO** Subsections 3.3 & 3.4      |                 |
 | 2023-11-09, 13:30-15:00 |  217     | Yes     | BRP       | The logic of the effective topos (continued)        | **vO** Subsection 3.1.0            |                 |
-| 2023-11-16, 13:30-15:00 |  LG23    | Yes     | ??        | ???                                                 | ???                                |                 |
+| 2023-11-16, 13:30-15:00 |  LG23    | Yes     | ??        | Modest Models of Polymorphism                       | **Str** Section 6                  |                 |
 | 2023-11-23, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
 | 2023-11-30, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
 | 2023-11-07, 13:30-15:00 |  217     | Yes     | ??        | ???                                                 | ???                                |                 |
