@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1174</anchor>  <taxon>Reference</taxon> <addr>jgl-non-hausdorff</addr>  <route>jgl-non-hausdorff.xml</route> <date><year>2013</year>  </date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Non-Hausdorff topology and domain theory</title> <meta name="bibtex">@book{jgl-non-hausdorff,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1176</anchor>  <taxon>Reference</taxon> <addr>jgl-non-hausdorff</addr>  <route>jgl-non-hausdorff.xml</route> <date><year>2013</year>  </date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Non-Hausdorff topology and domain theory</title> <meta name="bibtex">@book{jgl-non-hausdorff,
   title        = {Non-Hausdorff topology and domain theory},
   author       = {Goubault-Larrecq, Jean},
   date         = {2013},

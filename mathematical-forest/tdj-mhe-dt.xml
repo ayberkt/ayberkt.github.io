@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1302</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1306</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
   title       = {Domain Theory in Constructive and Predicative Univalent Foundations},
   author      =	{Tom de Jong and Escard{\'{o}}, Mart{\'{i}}n H{\&quot;{o}}tzel},
   date        = {2021},
@@ -14,7 +14,7 @@
   addendum    = {Expanded version with full proofs available on arXiv:
                  \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1303</anchor>   <addr>tdj-bibliography</addr>  <route>tdj-bibliography.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Bibliography of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s work</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1304</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1307</anchor>   <addr>tdj-bibliography</addr>  <route>tdj-bibliography.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Bibliography of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s work</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1308</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
   title     = {Domain theory in constructive and predicative univalent foundations},
   author    = {de Jong, Tom},
   date      = {2023},
@@ -22,7 +22,7 @@
   location  = {Birmingham, UK},
   uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
 }
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1305</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1309</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
   author       = {de Jong, Tom and Escard\'o, Mart\'in H\&quot;otzel},
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
   booktitle    = {6th International Conference on Formal Structures for Computation and Deduction (FSCD 2021)},
@@ -34,7 +34,7 @@
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
 }
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1306</anchor>  <taxon>Reference</taxon> <addr>tdj-scott-model</addr>  <route>tdj-scott-model.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Scott model of PCF in univalent type theory</title> <meta name="bibtex">@article{tdj-scott-model,
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1310</anchor>  <taxon>Reference</taxon> <addr>tdj-scott-model</addr>  <route>tdj-scott-model.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Scott model of PCF in univalent type theory</title> <meta name="bibtex">@article{tdj-scott-model,
   title        = {The {Scott} model of {PCF} in univalent type theory},
   author       = {de Jong, Tom},
   date         = {2021},
@@ -45,7 +45,7 @@
   issuetitle   = {Homotopy Type Theory 2019},
   doi          = {10.1017/S0960129521000153},
 }
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>1307</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>1311</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
   title       = {Domain Theory in Constructive and Predicative Univalent Foundations},
   author      =	{Tom de Jong and Escard{\'{o}}, Mart{\'{i}}n H{\&quot;{o}}tzel},
   date        = {2021},
