@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1257</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@article{mhe-effectful-forcing,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1257</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@inproceedings{mhe-effectful-forcing,
   title        = {Continuity of Gödel's System T Definable Functionals via
                   Effectful Forcing},
   author       = {Escardó, Martín H.},
   date         = {2013},
+  doi          = {10.1016/j.entcs.2013.09.010},
   issn         = {1571-0661},
-  journal      = {Electronic notes in theoretical computer science},
-  pages        = {119-141},
+  journal      = {Electronic Notes in Theoretical Computer Science},
   publisher    = {Elsevier B.V},
   volume       = {298},
+  pages        = {119-141},
+  note         = {Proceedings of the Twenty-ninth Conference on the Mathematical
+                  Foundations of Programming Semantics, MFPS XXIX},
 }
 </meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
