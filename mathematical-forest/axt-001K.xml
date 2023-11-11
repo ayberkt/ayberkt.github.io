@@ -66,11 +66,11 @@
 </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>323</anchor>  <taxon>Definition</taxon> <addr>axt-0021</addr>  <route>axt-0021.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title><tex>\mathcal{V}</tex>-dcpo</title> <meta name="source"><b>Defn. 3.2.7</b> of (<link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">[TdJ]</link>, <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941" type="external"><tex>\dagger</tex></link>)</meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{V}</tex> be a universe. A poset <tex>D</tex> is a <em><tex>\mathcal{V}</tex>-dcpo</em> if the join of
   of every <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> on set <tex>D</tex> exists in <tex>D</tex>.
 </p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>324</anchor>  <taxon>Person</taxon> <addr>tom-de-jong</addr>  <route>tom-de-jong.xml</route>   <title>Tom de Jong</title> <meta name="orcid">0000-0003-1585-3172</meta><meta name="external">https://tdejong.com/</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>325</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
-  title     = {Domain theory in constructive and predicative univalent foundations},
-  author    = {de Jong, Tom},
-  date      = {2023},
-  school    = {University of Birmingham},
-  location  = {Birmingham, UK},
-  uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
+  title       = {Domain theory in constructive and predicative univalent foundations},
+  author      = {de Jong, Tom},
+  date        = {2023},
+  school      = {University of Birmingham},
+  location    = {Birmingham B15 2TT, UK},
+  uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
 }
 </meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>

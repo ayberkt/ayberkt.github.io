@@ -104,11 +104,11 @@
   <ol>    <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>    <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>    <li>      It consists of clopens i.e.
       <tex>\forall  k : K_U. \  \mathsf{isClopen} ( \kappa _{U}(k))</tex>.
     </li>  </ol></p></mainmatter> </tree></mainmatter> </tree></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>430</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
-  title     = {Domain theory in constructive and predicative univalent foundations},
-  author    = {de Jong, Tom},
-  date      = {2023},
-  school    = {University of Birmingham},
-  location  = {Birmingham, UK},
-  uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
+  title       = {Domain theory in constructive and predicative univalent foundations},
+  author      = {de Jong, Tom},
+  date        = {2023},
+  school      = {University of Birmingham},
+  location    = {Birmingham B15 2TT, UK},
+  uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
 }
 </meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>

@@ -201,32 +201,51 @@
   date      = {2023-02}
 }
 </meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1251</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
-  title       = {Domain Theory in Constructive and Predicative Univalent Foundations},
-  author      =	{Tom de Jong and Escard{\'{o}}, Mart{\'{i}}n H{\&quot;{o}}tzel},
-  date        = {2021},
-  booktitle   =	{29th EACSL Annual Conference on Computer Science Logic (CSL 2021)},
-  editor      = {Christel Baier and Jean Goubault-Larrecq},
-  volume      = {183},
-  series      = {Leibniz International Proceedings in Informatics (LIPIcs)},
-  publisher   = {Schloss Dagstuhl--Leibniz-Zentrum f{\&quot;u}r Informatik},
-  pages       = {28:1--28:18},
-  doi         = {10.4230/LIPIcs.CSL.2021.28},
-  addendum    = {Expanded version with full proofs available on arXiv:
-                 \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}},
+  title        = {
+                   Domain Theory in Constructive and Predicative Univalent
+                   Foundations
+                 },
+  author       = {de Jong, Tom and Escardó, Martín H.},
+  date         = {2021},
+  booktitle    = {
+                   29th EACSL Annual Conference on Computer Science Logic (CSL
+                   2021)
+                 },
+  editor       = {Christel Baier and Jean Goubault-Larrecq},
+  volume       = {183},
+  series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f{\&quot;u}r Informatik},
+  pages        = {28:1--28:18},
+  doi          = {10.4230/LIPIcs.CSL.2021.28},
+  addendum     = {
+                   Expanded version with full proofs available on arXiv:
+                   \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
+                 },
 }
 </meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1252</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
-  author       = {de Jong, Tom and Escard\'o, Mart\'in H\&quot;otzel},
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
+  author       = {de Jong, Tom and Escardó, Martín H.},
+  date         = {2021},
   booktitle    = {6th International Conference on Formal Structures for Computation and Deduction (FSCD 2021)},
   pages        = {8:1--8:18},
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
-  year         = 2021,
   volume       = 195,
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
 }
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1253</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{barbados-notes,
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1253</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@article{mhe-effectful-forcing,
+  title        = {Continuity of Gödelʼs System T Definable Functionals via
+                  Effectful Forcing},
+  author       = {Escardó, Martín H.},
+  date         = {2013},
+  issn         = {1571-0661},
+  journal      = {Electronic notes in theoretical computer science},
+  pages        = {119-141},
+  publisher    = {Elsevier B.V},
+  volume       = {298},
+}
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1254</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{barbados-notes,
   title        = {Synthetic Topology: of Data Types and Classical Spaces},
   author       = {Escardó, Martín H.},
   year         = {2004},
@@ -238,7 +257,7 @@
   issn         = {1571-0661},
   doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
 }
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1254</anchor>  <taxon>Reference</taxon> <addr>mhe-pcf-extended</addr>  <route>mhe-pcf-extended.xml</route> <date><year>1996</year> <month>8</month> </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>PCF extended with real numbers</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</meta><meta name="bibtex">@article{mhe-pcf-extended,
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1255</anchor>  <taxon>Reference</taxon> <addr>mhe-pcf-extended</addr>  <route>mhe-pcf-extended.xml</route> <date><year>1996</year> <month>8</month> </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>PCF extended with real numbers</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</meta><meta name="bibtex">@article{mhe-pcf-extended,
   title       = {PCF extended with real numbers},
   author      = {Escardó, Martín H.},
   year        = {1996},
@@ -249,7 +268,7 @@
   publisher   = {Elsevier B.V},
   volume      = {162},
 }
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1255</anchor>   <addr>axt-0003</addr>  <route>axt-0003.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intuition on the notion of a domain</title> </frontmatter> <mainmatter><p>  In the words of <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín Escardó</link>: A <em>domain</em> is a set of
+</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1256</anchor>   <addr>axt-0003</addr>  <route>axt-0003.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intuition on the notion of a domain</title> </frontmatter> <mainmatter><p>  In the words of <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín Escardó</link>: A <em>domain</em> is a set of
   concrete finite elements together with infinite, ideal elements such that the
   ideal elements are characterised uniquely by their finite approximations.
 </p><p>  There are different ways of capturing this mathematically, to varying degrees of

@@ -11,11 +11,11 @@
   <ul>    <li><tex>I</tex> is a type in universe <tex>\mathcal{V}</tex>,</li>    <li>and <tex>\iota</tex> is a function of type <tex>I  \to  A</tex>.</li>  </ul></p><p>  List of formal definitions:
   <ol>    <li>      <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Slice.Family.html#262" type="external">Fam in UF.Slice</link>      in TypeTopology.
     </li>  </ol></p></mainmatter> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1026</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
-  title     = {Domain theory in constructive and predicative univalent foundations},
-  author    = {de Jong, Tom},
-  date      = {2023},
-  school    = {University of Birmingham},
-  location  = {Birmingham, UK},
-  uri       = {http://etheses.bham.ac.uk/id/eprint/13401},
+  title       = {Domain theory in constructive and predicative univalent foundations},
+  author      = {de Jong, Tom},
+  date        = {2023},
+  school      = {University of Birmingham},
+  location    = {Birmingham B15 2TT, UK},
+  uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
 }
 </meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
