@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1090</anchor>  <taxon>Definition</taxon> <addr>axt-003Y</addr>  <route>axt-003Y.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>  <title>Noetherian space</title> <meta name="source"><b>Defn. 9.7.1</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  A <b>Noetherian space</b> is a topological space in which every open
+  subset is compact.
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1091</anchor>  <taxon>Reference</taxon> <addr>jgl-non-hausdorff</addr>  <route>jgl-non-hausdorff.xml</route> <date><year>2013</year>  </date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Non-Hausdorff topology and domain theory</title> <meta name="bibtex">@book{jgl-non-hausdorff,
+  title        = {Non-Hausdorff topology and domain theory},
+  author       = {Goubault-Larrecq, Jean},
+  date         = {2013},
+  publisher    = {Cambridge University Press},
+  address      = {Cambridge},
+  isbn         = {978-1-107-03413-6},
+  volume       = {22},
+  series       = {New mathematical monographs},
+}
+</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
