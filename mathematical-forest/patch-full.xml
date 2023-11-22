@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1348</anchor>  <taxon>Reference</taxon> <addr>patch-full</addr>  <route>patch-full.xml</route> <date><year>2001</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The regular-locally compact coreflection of a stably locally compact locale</title> <meta name="bibtex">@article{mhe-patch-full,
+  title        = {The regular-locally compact coreflection of a stably locally
+	                compact locale},
+  author       = {Escardó, Martín H.},
+  year         = {2001},
+  journal      = {Journal of pure and applied algebra},
+  issn         = {0022-4049},
+  pages        = {41--55},
+  volume       = {157},
+  number       = {1},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

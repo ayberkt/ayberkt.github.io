@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1347</anchor>   <addr>norell-agda</addr>  <route>norell-agda.xml</route>  <authors><author>Ulf Norell</author> </authors> <title>Dependently Typed Programming in Agda</title> <meta name="bibtex">@inbook{norell-agda,
+  author       = {Norell, Ulf},
+  editor.      = {Koopman, Pieter and Plasmeijer, Rinus and Swierstra, Doaitse},
+  title.       = {Dependently Typed Programming in Agda},
+  bookTitle    = {Advanced Functional Programming: 6th International School,
+                  AFP 2008, Heijen, The Netherlands, May 2008, Revised Lectures},
+  year         = {2009},
+  publisher    = {Springer Berlin Heidelberg},
+  address      = {Berlin, Heidelberg},
+  pages        = {230--266},
+  isbn         = {978-3-642-04652-0},
+  doi          = {10.1007/978-3-642-04652-0_5},
+  url          = {https://doi.org/10.1007/978-3-642-04652-0_5},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

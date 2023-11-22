@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1390</anchor>  <taxon>Person</taxon> <addr>thierry-coquand</addr>  <route>thierry-coquand.xml</route>   <title>Thierry Coquand</title> <meta name="institution">Chalmers University of Technology</meta><meta name="orcid">0000-0002-5429-5153</meta><meta name="external">https://www.cse.chalmers.se/~coquand/</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1391</anchor>  <taxon>Definition</taxon> <addr>axt-0010</addr>  <route>axt-0010.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date> <authors><author>Nicolai Kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>Thorsten Altenkirch</author> </authors> <title>Weakly constant map</title> </frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called <em>weakly constant</em> if <tex>\prod _{x, y : X}  f(x) = f(y)</tex>.
-</p><p>  Definition 2.13 from the <link href="TODO" type="external">KECA paper</link>.
-</p></mainmatter> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1439</anchor>  <taxon>Person</taxon> <addr>thierry-coquand</addr>  <route>thierry-coquand.xml</route>   <title>Thierry Coquand</title> <meta name="institution">Chalmers University of Technology</meta><meta name="orcid">0000-0002-5429-5153</meta><meta name="external">https://www.cse.chalmers.se/~coquand/</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1440</anchor>  <taxon>Definition</taxon> <addr>axt-0010</addr>  <route>axt-0010.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date> <authors><author>Nicolai Kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>Thorsten Altenkirch</author> </authors> <title>Weakly constant map</title> <meta name="source"><b>Defn 2.13</b> from <link href="keca.xml" type="local" title="Notions of Anonymous Existence in Martin-Löf Type Theory">KECA</link></meta></frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called <b>weakly constant</b> if
+  <tex>\prod _{x, y : X} f(x) = f(y)</tex>.
+</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1441</anchor>   <addr>keca</addr>  <route>keca.xml</route> <date><year>2017</year>  </date> <authors><author>nicolai-kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>thorsten-altenkirch</author> </authors> <title>Notions of Anonymous Existence in Martin-Löf Type Theory</title> <meta name="bibtex">@article{keca,
+  author       = {Nicolai Kraus and
+                  Mart{\'{\i}}n Escard{\'{o}} and
+                  Thierry Coquand and
+                  Thorsten Altenkirch},
+  title        = {Notions of Anonymous Existence in Martin-L{\&quot;{o}}f Type Theory},
+  journal      = {Logical Methods in Computer Science},
+  volume       = {13},
+  number       = {1},
+  year         = {2017},
+  url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
+  doi          = {10.23638/LMCS-13(1:15)2017},
+  biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
+}
+</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>

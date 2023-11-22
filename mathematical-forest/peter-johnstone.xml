@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1306</anchor>  <taxon>Person</taxon> <addr>peter-johnstone</addr>  <route>peter-johnstone.xml</route>   <title>Peter T. Johnstone</title> <meta name="institution">St. John's College</meta><meta name="institution">University of Cambridge</meta><meta name="external">https://www.dpmms.cam.ac.uk/person/ptj1000</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1307</anchor>  <taxon>Definition</taxon> <addr>axt-0024</addr>  <route>axt-0024.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Spectral locale</title> <meta name="source"><b>II.3.2</b> from <link href="ptj-stone-spaces.xml" type="local" title="Stone Spaces">Stone Spaces</link></meta></frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <b>spectral</b> if it satisfies the following two
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1352</anchor>  <taxon>Person</taxon> <addr>peter-johnstone</addr>  <route>peter-johnstone.xml</route>   <title>Peter T. Johnstone</title> <meta name="institution">St. John's College</meta><meta name="institution">University of Cambridge</meta><meta name="external">https://www.dpmms.cam.ac.uk/person/ptj1000</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1353</anchor>  <taxon>Definition</taxon> <addr>axt-0024</addr>  <route>axt-0024.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Spectral locale</title> <meta name="source"><b>II.3.2</b> from <link href="ptj-stone-spaces.xml" type="local" title="Stone Spaces">Stone Spaces</link></meta></frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <b>spectral</b> if it satisfies the following two
   conditions.
   <ol>    <li>      Every open of <tex>X</tex> is expressible as a join of compact opens of <tex>X</tex>.
     </li>    <li>      The set of compact elements of <tex>X</tex> forms a sub-meet-semilattice of
       the frame <tex>\mathcal{O} ( X )</tex>.
-    </li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1308</anchor>  <taxon>Reference</taxon> <addr>ptj-stone-spaces</addr>  <route>ptj-stone-spaces.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Stone Spaces</title> <meta name="bibtex">@book{ptj-stone-spaces,
+    </li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1354</anchor>  <taxon>Reference</taxon> <addr>elephant-vol-1</addr>  <route>elephant-vol-1.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Sketches of an Elephant: A Topos Theory Compendium</title> <meta name="bibtex">@book{elephant-vol-1,
+  author       = {Johnstone, Peter T.},
+  publisher    = {Oxford University Press},
+  address      = {Oxford OX2 6DP, UK},
+  year         = {2002},
+  isbn         = {0-19-853425-6},
+  number       = {43},
+  series       = {Oxford Logic Guides},
+  volume       = {1},
+  title        = {Sketches of an Elephant: A Topos Theory Compendium},
+}
+</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1355</anchor>  <taxon>Reference</taxon> <addr>ptj-stone-spaces</addr>  <route>ptj-stone-spaces.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Stone Spaces</title> <meta name="bibtex">@book{ptj-stone-spaces,
   title        = {Stone Spaces},
   author       = ptj,
   date         = {2002},

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1226</anchor>  <taxon>Reference</taxon> <addr>elephant-vol-1</addr>  <route>elephant-vol-1.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Sketches of an Elephant: A Topos Theory Compendium</title> <meta name="bibtex">@book{elephant-vol-1,
+  author       = {Johnstone, Peter T.},
+  publisher    = {Oxford University Press},
+  address      = {Oxford OX2 6DP, UK},
+  year         = {2002},
+  isbn         = {0-19-853425-6},
+  number       = {43},
+  series       = {Oxford Logic Guides},
+  volume       = {1},
+  title        = {Sketches of an Elephant: A Topos Theory Compendium},
+}
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
