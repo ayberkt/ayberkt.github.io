@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1141</anchor>   <addr>axt-0047</addr>  <route>axt-0047.xml</route> <date><year>2023</year> <month>11</month> <day>23</day></date> <authors><author><link href="dan-ghica.xml" type="local">Dan R. Ghica</link></author> </authors> <title>Idea of full abstraction</title> </frontmatter> <mainmatter><p>  A denotational semantics for a programming language is called <em>fully
+  abstract</em> if the notion of semantic equality that it induces coincides with
+  the notion of observational equivalence in the language. In other words,
+  we have
+  <tex display="block">\llbracket   t_1   \rrbracket  =  \llbracket   t_2   \rrbracket \  \leftrightarrow \  t_1  \equiv  t_2,</tex>  where <tex>\equiv</tex> denotes observational equivalence.
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

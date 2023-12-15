@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1163</anchor>  <taxon>Theorem</taxon> <addr>axt-004H</addr>  <route>axt-004H.xml</route> <date><year>2023</year> <month>12</month> <day>14</day></date>  <title>The Borsuk-Ulam Theorem</title> </frontmatter> <mainmatter><p>  There is no continuous map <tex>f :  \mathsf{S} ^{k+1}  \to   \mathsf{S} ^k</tex> such that <tex>f(-x) = -f(x)</tex>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1375</anchor>   <addr>stacs</addr>  <route>stacs.xml</route>  <authors><author>jose-meseguer</author> </authors> <title>Set Theory and Algebra in Computer Science</title> <meta name="bibtex">@unpublished{stacs,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1438</anchor>   <addr>stacs</addr>  <route>stacs.xml</route>  <authors><author>jose-meseguer</author> </authors> <title>Set Theory and Algebra in Computer Science</title> <meta name="bibtex">@unpublished{stacs,
   title  = {Set Theory and Algebra in Computer Science},
   author = {Meseguer, José},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1376</anchor>  <taxon>Definition</taxon> <addr>axt-0043</addr>  <route>axt-0043.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date>  <title>Unsorted signature</title> <meta name="source"><b>Defn. 15</b> of <link href="stacs.xml" type="local" title="Set Theory and Algebra in Computer Science">STACS</link></meta></frontmatter> <mainmatter><p>  An <b>unsorted signature</b> <tex>\Sigma</tex> is an <tex>\mathbb{N}</tex>-indexed family
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1439</anchor>  <taxon>Definition</taxon> <addr>axt-0043</addr>  <route>axt-0043.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date>  <title>Unsorted signature</title> <meta name="source"><b>Defn. 15</b> of <link href="stacs.xml" type="local" title="Set Theory and Algebra in Computer Science">STACS</link></meta></frontmatter> <mainmatter><p>  An <b>unsorted signature</b> <tex>\Sigma</tex> is an <tex>\mathbb{N}</tex>-indexed family
   <tex>\{   \mathsf{op} _n  \} _{n  \in   \mathbb{N} }</tex>, where elements <tex>\mathsf{op} _n</tex> are called the <tex>n</tex>-ary
   operation symbols of <tex>\Sigma</tex>. The <tex>0</tex>-ary symbols <tex>c  \in  F_0</tex> are called
   the constant symbols.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1102</anchor>  <taxon>Definition</taxon> <addr>axt-003Z</addr>  <route>axt-003Z.xml</route> <date><year>2023</year> <month>11</month> <day>20</day></date>  <title>Morita equivalence</title> </frontmatter> <mainmatter><p>  Let <tex>T_1</tex> and <tex>T_2</tex> be two algebraic theories. These are called
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1117</anchor>  <taxon>Definition</taxon> <addr>axt-003Z</addr>  <route>axt-003Z.xml</route> <date><year>2023</year> <month>11</month> <day>20</day></date>  <title>Morita equivalence</title> </frontmatter> <mainmatter><p>  Let <tex>T_1</tex> and <tex>T_2</tex> be two algebraic theories. These are called
   <b>Morita equivalent</b> if their categories of models are equivalent
   categories.
 </p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

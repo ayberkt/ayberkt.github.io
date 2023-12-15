@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1099</anchor>  <taxon>Theorem</taxon> <addr>axt-003X</addr>  <route>axt-003X.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>  <title>Hochster’s Theorem</title> </frontmatter> <mainmatter><p>  The spectral spaces are exactly the spaces of spectra of commutative rings in
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1114</anchor>  <taxon>Theorem</taxon> <addr>axt-003X</addr>  <route>axt-003X.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>  <title>Hochster’s Theorem</title> </frontmatter> <mainmatter><p>  The spectral spaces are exactly the spaces of spectra of commutative rings in
   their Zariski topology.
 </p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

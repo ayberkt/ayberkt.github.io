@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>128</anchor>  <taxon>Reference</taxon> <addr>awodey-ct-book</addr>  <route>awodey-ct-book.xml</route> <date><year>2006</year>  </date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Category Theory</title> <meta name="bibtex">@book{awodey-ct-book,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>136</anchor>  <taxon>Reference</taxon> <addr>awodey-ct-book</addr>  <route>awodey-ct-book.xml</route> <date><year>2006</year>  </date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Category Theory</title> <meta name="bibtex">@book{awodey-ct-book,
   title        = {Category Theory},
   author       = {Awodey, Steve},
   date         = {2010},
@@ -11,7 +11,7 @@
   series       = {Oxford Logic Guides},
   volume       = {52},
 }
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>129</anchor>  <taxon>Definition</taxon> <addr>axt-001Q</addr>  <route>axt-001Q.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Adjunction (preliminary)</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> be two categories. An <em>adjunction</em> between
+</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>137</anchor>  <taxon>Definition</taxon> <addr>axt-001Q</addr>  <route>axt-001Q.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Adjunction (preliminary)</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> be two categories. An <em>adjunction</em> between
   <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> consists of functors <tex>F :  \mathbb{C}   \to   \mathbb{D}</tex> and
   <tex>U :  \mathbb{D}   \to   \mathbb{C}</tex> equipped with a natural transformation
   <tex display="block">\eta  :  \mathbf{1} _{ \mathbb{C} }  \to  U  \circ  F</tex> such that

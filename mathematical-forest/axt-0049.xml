@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1143</anchor>  <taxon>Definition</taxon> <addr>axt-0049</addr>  <route>axt-0049.xml</route> <date><year>2023</year> <month>11</month> <day>26</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Totally order-disconnected space</title> <meta name="source"><b>Paragraph 11.20</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  An ordered space is called <b>totally order-disconnected</b> if for any
+  two <tex>x, y  \in  X</tex> with <tex>x  \not \le  y</tex>, there exists a downward-closed clopen
+  set <tex>F  \subseteq  X</tex> with <tex>y  \in  F</tex> and <tex>x  \notin  F</tex>.
+</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1144</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+  title        = {Introduction to Lattices and Order},
+  date         = {2002},
+  place        = {Cambridge CB2 8BS, UK},
+  edition      = {2},
+  doi          = {10.1017/CBO9780511809088},
+  isbn         = {978-0-521-78451-1},
+  publisher    = {Cambridge University Press},
+  author       = {Davey, Brian A. and Priestley, Hilary A.},
+}
+</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>

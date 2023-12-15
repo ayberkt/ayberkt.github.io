@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1158</anchor>  <taxon>Proposition</taxon> <addr>axt-004F</addr>  <route>axt-004F.xml</route> <date><year>2023</year> <month>12</month> <day>6</day></date>   </frontmatter> <mainmatter><p>  Let <tex>L</tex> be a frame and <tex>j : L  \to  L</tex> a nucleus on it. The set of fixed
+  points of <tex>j</tex> forms a <link href="axt-003I.xml" type="local" title="Maxset">maxset</link>.
+</p>      <block open="open"><headline><b>Proof</b>.</headline>   We need to show that <tex>\mathfrak{F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</tex> is
+  (1) closed under arbitrary meets and is (2) an exponential ideal.
+  <ol>    <li>      Let <tex>S  \subseteq   \mathfrak{F} _j</tex>. To show that <tex>\left ( \bigwedge  S \right )  \in        \mathfrak{F} _j</tex>, we have to show <tex>\left ( \bigwedge  S \right )</tex> is itself a fixed
+      point of <tex>j</tex>, for which it suffices to show <tex>j \left ( \bigwedge  S \right )       \le   \bigwedge  S</tex>. Consider some <tex>x  \in  S</tex>, which satisfies <tex>x = j(x)</tex> by
+      the definition of <tex>S</tex>. To show <tex>j( \bigwedge  S)  \le  j(x)</tex>, it suffices
+      to show <tex>\bigwedge  S  \le  x</tex> which holds by definition.
+    </li>    <li>      Let <tex>x  \in  L</tex>, <tex>y  \in   \mathfrak{F} _j</tex>. We need to show that
+      <tex>j(x  \Rightarrow  y)  \in   \mathfrak{F} _j</tex> i.e. <tex>j(x  \Rightarrow  y)  \le  x  \Rightarrow  y.</tex>      By the definition of Heyting implication, we just have to show
+      <tex>j(x  \Rightarrow  y)  \wedge  x  \le  y</tex>. This is the case since we have
+      <center><img src="resources/ab801e350987eb0c5c0774d537bc3021-web.svg"/></center>    </li>  </ol></block>  </mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1159</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
+  <b>maxset</b> if,
+  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
+      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
+    </li>  </ol></p></mainmatter> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1160</anchor>  <taxon>Theorem</taxon> <addr>axt-004E</addr>  <route>axt-004E.xml</route> <date><year>2023</year> <month>12</month> <day>6</day></date>   </frontmatter> <mainmatter><p>  For any frame <tex>L</tex>, there is a bijection between the set of nuclei on <tex>L</tex> and
+  the class of maxsets of <tex>L</tex>.
+</p>      <block open="open"><headline><b>Proof</b>.</headline>   <p>    Given a <link href="axt-002N.xml" type="local" title="Nucleus">nucleus</link> <tex>j : L  \to  L</tex>, we map it to its <link href="axt-004F.xml" type="local">maxset
+    of fixed points</link>:
+    <tex display="block">\mathfrak{F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \} ,</tex>    and given a maxset <tex>M  \subseteq  L</tex>, we map it to the <link href="axt-002N.xml" type="local" title="Nucleus">nucleus</link>    defined by
+    <tex display="block">j_M(x)  \vcentcolon \equiv   \bigwedge   \left \{  m  \in  M  \mid  x  \le  m  \right \} .</tex>    We need to show that these give a section-retraction pair.
+  </p>  <p>    Let <tex>j : L  \to  L</tex> be a nucleus. We need to show <tex>j = j_{ \mathfrak{F} _j}</tex>.
+    For the <tex>( \le )</tex> direction, notice that for every <tex>x  \in  L</tex>,
+    <tex>j(x)  \le   \bigwedge   \{  y  \in   \mathfrak{F} _j  \mid  x  \le  y  \}</tex> must be the case
+    since <tex>j(x)</tex> is clearly a lower bound of
+    <tex>\{  y  \in   \mathfrak{F} _j  \mid  x  \le  y  \}</tex>.
+  </p>  <p>    Let <tex>M</tex> be a maxset. We need to show <tex>M =  \mathfrak{F} _{j_M}</tex>.
+  </p></block>  </mainmatter> </tree></backlinks> <references/></backmatter></tree>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1342</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@inproceedings{mhe-effectful-forcing,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1397</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@inproceedings{mhe-effectful-forcing,
   title        = {Continuity of Gödel's System T Definable Functionals via
                   Effectful Forcing},
   author       = {Escardó, Martín H.},

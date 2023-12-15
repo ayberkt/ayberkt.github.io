@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1149</anchor>  <taxon>Definition</taxon> <addr>axt-004C</addr>  <route>axt-004C.xml</route> <date><year>2023</year> <month>12</month> <day>1</day></date>  <title>Displayed category</title> </frontmatter> <mainmatter><p>  Given a category <tex>\mathbb{C}</tex>, a <b>displayed category</b> <tex>\mathbb{D}</tex> over
+  <tex>\mathbb{C}</tex> consists of:
+  <ol>    <li>for each object <tex>C  \in   \mathbb{C}</tex>, a type <tex>\mathbb{D} _C</tex> of “objects over <tex>\mathbb{C}</tex>”  ;</li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>

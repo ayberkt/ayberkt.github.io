@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1516</anchor>  <taxon>Reference</taxon> <addr>vv-resizing</addr>  <route>vv-resizing.xml</route> <date><year>2011</year> <month>9</month> <day>11</day></date> <authors><author>vladimir-voevodsky</author> </authors> <title>Resizing Rules -- Their Use and Semantic Justification</title> <meta name="external">https://www.math.ias. edu/vladimir/sites/math.ias.edu.vladimir/files/2011_Bergen.pdf</meta><meta name="bibtex">@unpublished{voevodsky-resizing,
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1585</anchor>  <taxon>Reference</taxon> <addr>vv-resizing</addr>  <route>vv-resizing.xml</route> <date><year>2011</year> <month>9</month> <day>11</day></date> <authors><author>vladimir-voevodsky</author> </authors> <title>Resizing Rules -- Their Use and Semantic Justification</title> <meta name="external">https://www.math.ias. edu/vladimir/sites/math.ias.edu.vladimir/files/2011_Bergen.pdf</meta><meta name="bibtex">@unpublished{voevodsky-resizing,
   title     = {Resizing {{Rules}} -- Their Use and Semantic Justification},
   author    = {Voevodsky, Vladimir},
   date      = {2011-09-11},

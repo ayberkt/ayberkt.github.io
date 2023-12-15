@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1147</anchor>  <taxon>Theorem</taxon> <addr>axt-004B</addr>  <route>axt-004B.xml</route> <date><year>2023</year> <month>11</month> <day>28</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors>  </frontmatter> <mainmatter><p>  Let <tex>L</tex> be a small-complete and large and locally small lattice with a <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">small
+  intensional basis</link>. If <tex>L</tex> is small-cocomplete then it is also
+  small-complete.
+</p><p>        <block open="open"><headline><b>Proof</b>.</headline>     Denote by <tex>(B,  \beta )</tex> the small basis of <tex>L</tex>. Let <tex>(I,  \iota )</tex> be a
+    <tex>\mathcal{U}</tex>-small family. We need to show that it has a greatest lower bound.
+    Consider the family of lowerbounds for <tex>(I,  \iota )</tex>:
+    <tex display="block">       \mathfrak{L} _ \iota          \vcentcolon \equiv            \left (             \left ( \sum _{ b \  : \  B }  \prod _{ i  :  I }  \beta (b)  \le   \iota (i) \right ),  \beta   \circ   \mathsf{pr} _1            \right ),
+    </tex>    which is a small family. We claim that the join
+    <tex>\bigvee   \mathfrak{L} _ \iota</tex> is the greatest lower bound of <tex>(I,  \iota )</tex>.
+    <ul>      <li>        First, notice that it is obviously a lower bound because for any
+        <tex>i : I</tex>, <tex>\left ( \bigvee   \mathfrak{L} _ \iota \right )  \le   \iota (i)</tex>        since <tex>\iota (i)</tex> is an upper bound of <tex>\mathfrak{L} _ \iota</tex> by
+        construction.
+      </li>      <li>        Let <tex>l</tex> be a lower bound of <tex>(I,  \iota )</tex>. By the assumption that <tex>(B,
+         \beta )</tex> is a basis for <tex>L</tex>, we know that there exists a family <tex>(J_l,
+         \gamma _l)</tex> such that <tex>l =  \bigvee _{j : J_l}  \beta ( \gamma _l(j))</tex>.
+        Therefore, it suffices to show
+        <tex display="block">           \bigvee _{j : J_l}  \beta ( \gamma _l(j))             \le            \bigvee   \mathfrak{L} _ \iota .
+        </tex>        For any <tex>j : J_l</tex>, the element <tex>\beta ( \gamma _l(j))</tex> clearly falls in
+        <tex>\mathfrak{L} _j</tex> itself since <tex>\beta ( \gamma _l(j))  \le  l</tex>      </li>    </ul>  </block>  </p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1148</anchor>  <taxon>Definition</taxon> <addr>axt-0022</addr>  <route>axt-0022.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intensional basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link>. An <em>intensional basis for <tex>D</tex></em> is a
+  <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(B,  \beta )</tex> on <tex>D</tex> satisfying the condition: for every
+  element <tex>x : D</tex>, there is a specified directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link>  <tex>(I_x,  \iota _x)</tex> on the basis index <tex>B</tex> such that
+  <tex>x =  \bigvee  (I_x,  \beta   \circ   \iota _x).</tex></p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>
