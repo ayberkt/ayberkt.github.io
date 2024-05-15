@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>929</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002T</fr:addr><fr:route>axt-002T.xml</fr:route><fr:title>Space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>944</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002T</fr:addr><fr:route>axt-002T.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002T.tree</fr:source-path><fr:title>Space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
 name="source">1st paragraph of <fr:strong>Sec. 3.5</fr:strong> of <fr:link
 href="barbados-notes.xml"
 type="local"
-addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>space</fr:strong> is a subset <fr:tex>X  \subseteq   \mathtt {a}</fr:tex> of inhabitants of
   a Haskell data type <fr:tex>\mathtt {a}</fr:tex>.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -24,7 +24,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>927</fr:anchor><fr:addr>barbados-notes</fr:addr><fr:route>barbados-notes.xml</fr:route><fr:title>Synthetic Topology: of Data Types and Classical Spaces</fr:title><fr:date><fr:year>2004</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>942</fr:anchor><fr:addr>barbados-notes</fr:addr><fr:route>barbados-notes.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/barbados-notes.tree</fr:source-path><fr:title>Synthetic Topology: of Data Types and Classical Spaces</fr:title><fr:date><fr:year>2004</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
@@ -40,21 +40,21 @@ name="bibtex">%
                  Probabilistic Processes},
   issn         = {1571-0661},
   doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>925</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002W</fr:addr><fr:route>axt-002W.xml</fr:route><fr:title>Continuous map of spaces</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>940</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002W</fr:addr><fr:route>axt-002W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002W.tree</fr:source-path><fr:title>Continuous map of spaces</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
 name="source">1st paragraph of <fr:strong>Sec. 3.7</fr:strong> of <fr:link
 href="barbados-notes.xml"
 type="local"
-addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> and <fr:tex>Y</fr:tex> be two <fr:link
 href="axt-002T.xml"
 type="local"

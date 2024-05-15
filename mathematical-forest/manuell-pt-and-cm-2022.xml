@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1714</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>manuell-pt-and-cm-2022</fr:addr><fr:route>manuell-pt-and-cm-2022.xml</fr:route><fr:title>Pointfree topology and constructive mathematics</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author>Graham Manuell</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1729</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>manuell-pt-and-cm-2022</fr:addr><fr:route>manuell-pt-and-cm-2022.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/manuell-pt-and-cm-2022.tree</fr:source-path><fr:title>Pointfree topology and constructive mathematics</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author>Graham Manuell</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @misc{manuell-pt-and-cm-2023,
   title     = {Pointfree topology and constructive mathematics},
@@ -16,7 +16,7 @@ name="bibtex">%
   eprint    = {2304.06000},
   address   = {Praia de Mira},
   note      = {Lecture notes for a course at the TACL Summer School}
-}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
 href="https://arxiv.org/abs/2304.06000"
 type="external">arXiv link</fr:link></fr:li>
     <fr:li><fr:link

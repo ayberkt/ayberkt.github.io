@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1380</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001S</fr:addr><fr:route>axt-001S.xml</fr:route><fr:title>Algebraic dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1395</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001S</fr:addr><fr:route>axt-001S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001S.tree</fr:source-path><fr:title>Algebraic dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Theorem 11.5</fr:strong> of <fr:link
 href="dtfofp.xml"
 type="local"
-addr="dtfofp">Streicher</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dtfofp">Streicher</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A dcpo <fr:tex>(D,  \sqsubseteq )</fr:tex> is called <fr:em>algebraic</fr:em> if for every <fr:tex>x  \in  D</fr:tex>
   the set <fr:tex>\{ c  \in   \mathcal {K} (D)  \mid  c  \sqsubseteq  x \}</fr:tex> is directed and has <fr:tex>x</fr:tex> as
   its join.
@@ -25,7 +25,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1376</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1391</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be an <fr:link
 href="axt-001S.xml"
 type="local"
@@ -42,7 +42,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1016</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>1031</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p><fr:tex>( \impliedby )</fr:tex> This direction follows directly from the <fr:link
 href="axt-001Z.xml"
 type="local"
@@ -79,12 +79,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1377</fr:anchor><fr:addr>axt-0003</fr:addr><fr:route>axt-0003.xml</fr:route><fr:title>Intuition on the notion of a domain</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1392</fr:anchor><fr:addr>axt-0003</fr:addr><fr:route>axt-0003.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0003.tree</fr:source-path><fr:title>Intuition on the notion of a domain</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Slide 10</fr:strong> of <fr:link
 href="mhe-mgs2007-slides.xml"
 type="local"
 addr="mhe-mgs2007-slides">Domain Theory MGS 2007</fr:link></fr:meta><fr:meta
-name="date-added">2023-08-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2023-08-18</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   In the words of <fr:link
 href="martin-escardo.xml"
 type="local"
@@ -111,7 +111,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1378</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000J</fr:addr><fr:route>axt-000J.xml</fr:route><fr:title>Scott domain</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1393</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000J</fr:addr><fr:route>axt-000J.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000J.tree</fr:source-path><fr:title>Scott domain</fr:title><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -119,7 +119,7 @@ name="source"><fr:strong>Theorem 11.5</fr:strong> of <fr:link
 href="dtfofp.xml"
 type="local"
 addr="dtfofp">Streicher</fr:link></fr:meta><fr:meta
-name="date-added">2023-09-06</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2023-09-06</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A dcpo <fr:tex>(D,  \sqsubseteq )</fr:tex> is called a <fr:em>Scott domain</fr:em> if it is
   <fr:ul><fr:li><fr:link
 href="axt-001S.xml"
@@ -135,7 +135,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1374</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dtfofp</fr:addr><fr:route>dtfofp.xml</fr:route><fr:title>Domain-Theoretic Foundations of Functional Programming</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1389</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dtfofp</fr:addr><fr:route>dtfofp.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/dtfofp.tree</fr:source-path><fr:title>Domain-Theoretic Foundations of Functional Programming</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="thomas-streicher.xml"
 type="local"
 addr="thomas-streicher">Thomas Streicher</fr:link></fr:author></fr:authors><fr:meta
@@ -146,4 +146,4 @@ name="bibtex">%
   year         = 2006,
   publisher    = {World Scientific},
   doi          = {10.1142/6284}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1639</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0009</fr:addr><fr:route>axt-0009.xml</fr:route><fr:title>Karoubi envelope</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>22</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1654</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0009</fr:addr><fr:route>axt-0009.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0009.tree</fr:source-path><fr:title>Karoubi envelope</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>22</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The Karoubi envelope of a category <fr:tex>\mathbb {C}</fr:tex>, written <fr:tex>\mathsf {Split} ( \mathbb {C} )</fr:tex>, is the
   category whose
     <fr:ol><fr:li><fr:em>objects</fr:em> are pairs of the form <fr:tex>(C, e)</fr:tex> where <fr:tex>C</fr:tex> is an object of
@@ -28,8 +28,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1638</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000A</fr:addr><fr:route>axt-000A.xml</fr:route><fr:title>Idempotent in a category</fr:title><fr:meta
-name="date-added">2023-08-22</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1653</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000A</fr:addr><fr:route>axt-000A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000A.tree</fr:source-path><fr:title>Idempotent in a category</fr:title><fr:meta
+name="date-added">2023-08-22</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>idempotent</fr:em> on an object <fr:tex>C</fr:tex> of some category <fr:tex>\mathbb {C}</fr:tex> is an
   endomorphism <fr:tex>e : C  \to  C</fr:tex> satisfying <fr:tex
 display="block">e  \circ  e = e.</fr:tex></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

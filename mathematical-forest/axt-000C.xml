@@ -7,8 +7,8 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2652</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000C</fr:addr><fr:route>axt-000C.xml</fr:route><fr:title>Saturated subset (formal topology)</fr:title><fr:meta
-name="date-added">2023-08-22</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2672</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000C</fr:addr><fr:route>axt-000C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000C.tree</fr:source-path><fr:title>Saturated subset (formal topology)</fr:title><fr:meta
+name="date-added">2023-08-22</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Given a formal topology <fr:tex>\mathcal {A}  = (S,  \sqsubseteq ,  \lhd )</fr:tex>, a subset <fr:tex>A    \subseteq  S</fr:tex> is called saturated if it is a fixed point of the <fr:link
 href="axt-000D.xml"
 type="local"
@@ -22,8 +22,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2651</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000D</fr:addr><fr:route>axt-000D.xml</fr:route><fr:title>Closure operator (formal topology)</fr:title><fr:meta
-name="date-added">2023-08-22</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2671</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000D</fr:addr><fr:route>axt-000D.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000D.tree</fr:source-path><fr:title>Closure operator (formal topology)</fr:title><fr:meta
+name="date-added">2023-08-22</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   With any formal topology <fr:tex>\mathcal {A}  = (S,  \sqsubseteq ,  \lhd )</fr:tex>, there is an
   associated closure operator:
   <fr:tex

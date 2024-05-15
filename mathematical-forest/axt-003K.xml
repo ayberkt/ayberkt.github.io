@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>618</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003K</fr:addr><fr:route>axt-003K.xml</fr:route><fr:title>Type Ω of propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>633</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003K</fr:addr><fr:route>axt-003K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003K.tree</fr:source-path><fr:title>Type Ω of propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The type <fr:strong><fr:tex>\Omega _{ \mathcal {U} }</fr:tex></fr:strong>, of propositions at universe <fr:tex>\mathcal {U}</fr:tex>, is
   defined as <fr:tex
 display="block">\Omega _{ \mathcal {U} }   \vcentcolon \equiv   \sum _{ P \  : \  \mathcal {U} }  \mathsf {isProp}( P ) .</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>615</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>630</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002O.tree</fr:source-path><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -26,7 +26,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:link
 href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903"
-type="external">Defn. in TypeTopology</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Defn. in TypeTopology</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:em>initial frame</fr:em> at universe <fr:tex>\mathcal {U}</fr:tex> in UF is <fr:link
 href="axt-003K.xml"
 type="local"

@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>919</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002X</fr:addr><fr:route>axt-002X.xml</fr:route><fr:title>Not-not-separated type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>934</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002X</fr:addr><fr:route>axt-002X.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002X.tree</fr:source-path><fr:title>Not-not-separated type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/UF.DiscreteAndSeparated.html#5439</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/UF.DiscreteAndSeparated.html#5439</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A type <fr:tex>X</fr:tex> is called <fr:strong><fr:tex>\neg \neg</fr:tex>-separated</fr:strong> if
   <fr:tex>x = y</fr:tex> is a <fr:link
 href="axt-002Y.xml"
@@ -24,10 +24,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>917</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Y</fr:addr><fr:route>axt-002Y.xml</fr:route><fr:title>Not-not-stable type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>932</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Y</fr:addr><fr:route>axt-002Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Y.tree</fr:source-path><fr:title>Not-not-stable type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://www.cs.bham.ac.uk/~mhe/TypeTopology/MLTT.Negation.html#2342</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https://www.cs.bham.ac.uk/~mhe/TypeTopology/MLTT.Negation.html#2342</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A type <fr:tex>X</fr:tex> is called <fr:strong><fr:tex>\neg \neg</fr:tex>-stable</fr:strong> if <fr:tex>\neg   \neg  A  \to    A</fr:tex>.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

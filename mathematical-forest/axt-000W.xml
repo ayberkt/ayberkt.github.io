@@ -7,8 +7,8 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2232</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000W</fr:addr><fr:route>axt-000W.xml</fr:route><fr:title>Compactness and the finite intersection property</fr:title><fr:meta
-name="date-added">2023-09-15</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2250</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000W</fr:addr><fr:route>axt-000W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000W.tree</fr:source-path><fr:title>Compactness and the finite intersection property</fr:title><fr:meta
+name="date-added">2023-09-15</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is <fr:link
 href="axt-000R.xml"
 type="local"
@@ -24,7 +24,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2230</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000R</fr:addr><fr:route>axt-000R.xml</fr:route><fr:title>Compact space (point-set)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2248</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000R</fr:addr><fr:route>axt-000R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000R.tree</fr:source-path><fr:title>Compact space (point-set)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is called <fr:em>compact</fr:em> if for every <fr:link
 href="axt-000S.xml"
 type="local"
@@ -41,8 +41,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2231</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004Y</fr:addr><fr:route>axt-004Y.xml</fr:route><fr:title>Finite intersection property</fr:title><fr:meta
-name="date-added">2024-01-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2249</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004Y</fr:addr><fr:route>axt-004Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004Y.tree</fr:source-path><fr:title>Finite intersection property</fr:title><fr:meta
+name="date-added">2024-01-26</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A family <fr:tex>\{  A_i  \} _{i  \in  I}</fr:tex> of subsets of a set <fr:tex>X</fr:tex> is said to have the
   <fr:strong>finite intersection property</fr:strong> if the intersection
   <fr:tex>\bigcap _{j  \in  J} A_j</fr:tex> is nonempty for every finite <fr:tex>J  \subseteq  I</fr:tex>.

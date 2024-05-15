@@ -7,9 +7,9 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2303</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0036</fr:addr><fr:route>axt-0036.xml</fr:route><fr:title>Embedding</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2321</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0036</fr:addr><fr:route>axt-0036.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0036.tree</fr:source-path><fr:title>Embedding</fr:title><fr:meta
 name="date-added">2023-11-02</fr:meta><fr:meta
-name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A function <fr:tex>f : X  \to  Y</fr:tex> is called an <fr:strong>embedding</fr:strong> if, for every
   <fr:tex>y : Y</fr:tex>, the type <fr:link
 href="axt-0034.xml"
@@ -25,7 +25,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2301</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0035</fr:addr><fr:route>axt-0035.xml</fr:route><fr:title>Being a proposition</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2319</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0035</fr:addr><fr:route>axt-0035.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0035.tree</fr:source-path><fr:title>Being a proposition</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A type <fr:tex>X</fr:tex> is called a <fr:strong>proposition</fr:strong> if
   <fr:tex>\prod _{ x, y  :  X }  x  =  y</fr:tex>.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -35,8 +35,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2302</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0034</fr:addr><fr:route>axt-0034.xml</fr:route><fr:title>Fiber</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
-name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/Notation.General.html#398</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2320</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0034</fr:addr><fr:route>axt-0034.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0034.tree</fr:source-path><fr:title>Fiber</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/Notation.General.html#398</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>f : X  \to  Y</fr:tex> be a function. The the type <fr:strong><fr:tex>\mathsf {fiber}( f ,  y )</fr:tex></fr:strong> is
   defined as
   <fr:tex
@@ -47,7 +47,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2297</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2315</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0028.tree</fr:source-path><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -56,7 +56,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"

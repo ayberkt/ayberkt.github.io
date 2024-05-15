@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>893</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>908</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002S.tree</fr:source-path><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -17,7 +17,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 3.5</fr:strong> of <fr:link
 href="patch-mfps.xml"
 type="local"
-addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> is called
   <fr:strong>compact</fr:strong> if the principal filter on <fr:tex>U</fr:tex> is inaccessible by joins
   of directed <fr:link
@@ -31,7 +31,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>891</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>906</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001F.tree</fr:source-path><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em><fr:tex>\mathcal {V}</fr:tex>-family on a type <fr:tex>A :  \mathcal {U}</fr:tex></fr:em> is a pair <fr:tex>(I,  \alpha )</fr:tex> where
   <fr:ul><fr:li><fr:tex>I</fr:tex> is a type in universe <fr:tex>\mathcal {V}</fr:tex>,</fr:li>
     <fr:li>and <fr:tex>\alpha</fr:tex> is a function of type <fr:tex>I  \to  A</fr:tex>.</fr:li></fr:ul></fr:p><fr:p>
@@ -47,13 +47,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>888</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>903</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0032.tree</fr:source-path><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
 href="axt-0008.xml"
 type="local"
@@ -85,7 +85,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>885</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>900</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/patch-mfps.tree</fr:source-path><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -102,4 +102,4 @@ name="bibtex">%
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2224</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2242</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0055.tree</fr:source-path><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -15,7 +15,7 @@ name="date-added">2024-02-07</fr:meta><fr:meta
 name="source">II.2.4.(a) of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame and <fr:tex>x : L</fr:tex> an element of it. The
   <fr:strong>closed nucleus</fr:strong> on <fr:tex>x</fr:tex> is the nucleus defined by
   <fr:tex
@@ -26,7 +26,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2221</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>2239</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:title><fr:link
 href="axt-0053.xml"
 type="local"
 addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
@@ -42,7 +42,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-0053.xml"
 type="local"
@@ -61,7 +61,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -105,7 +105,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2219</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2237</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/ptj-stone-spaces.tree</fr:source-path><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -119,4 +119,4 @@ name="bibtex">%
   location     = {{Cambridge}},
   isbn         = {978-0-521-33779-3},
   langid       = {english}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

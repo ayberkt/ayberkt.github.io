@@ -7,10 +7,10 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1640</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0005</fr:addr><fr:route>axt-0005.xml</fr:route><fr:title>Neighbourhood system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1655</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0005</fr:addr><fr:route>axt-0005.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0005.tree</fr:source-path><fr:title>Neighbourhood system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
-addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em>neighbourhood system</fr:em> over a set <fr:tex>\Delta</fr:tex> is a family <fr:tex>\mathcal {D}</fr:tex> of
   subsets of <fr:tex>\Delta</fr:tex> such that
   <fr:ol><fr:li>it is nonempty</fr:li>

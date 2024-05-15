@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>706</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0038</fr:addr><fr:route>axt-0038.xml</fr:route><fr:title>Inductive ordered set</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+root="false"><fr:frontmatter><fr:anchor>721</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0038</fr:addr><fr:route>axt-0038.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0038.tree</fr:source-path><fr:title>Inductive ordered set</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>705</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
+root="false"><fr:frontmatter><fr:anchor>720</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000Z.tree</fr:source-path><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
   <fr:link
 href="axt-0038.xml"
 type="local"

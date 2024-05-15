@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1652</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-small-types</fr:addr><fr:route>tdj-mhe-small-types.xml</fr:route><fr:title>On Small Types in Univalent Foundations</fr:title><fr:date><fr:year>2023</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1667</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-small-types</fr:addr><fr:route>tdj-mhe-small-types.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-small-types.tree</fr:source-path><fr:title>On Small Types in Univalent Foundations</fr:title><fr:date><fr:year>2023</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -22,4 +22,4 @@ name="bibtex">@article{tdj-mhe-small-types,
   doi     = {10.46298/lmcs-19(2:8)2023},
   journal = {{Logical Methods in Computer Science}},
   volume  = {{Volume 19, Issue 2}},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

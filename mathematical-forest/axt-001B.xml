@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2677</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001B</fr:addr><fr:route>axt-001B.xml</fr:route><fr:title>Spatial locale</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2697</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001B</fr:addr><fr:route>axt-001B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001B.tree</fr:source-path><fr:title>Spatial locale</fr:title><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -15,7 +15,7 @@ name="date-added">2023-10-15</fr:meta><fr:meta
 name="source">Paragraph <fr:strong>II.1.5</fr:strong> (p. 42) of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A locale <fr:tex>X</fr:tex> is called <fr:em>spatial</fr:em>, or said to <fr:em>have enough points</fr:em> if
   it satisfies the condition
   <fr:tex
@@ -26,7 +26,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2675</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2695</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/ptj-stone-spaces.tree</fr:source-path><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -40,4 +40,4 @@ name="bibtex">%
   location     = {{Cambridge}},
   isbn         = {978-0-521-33779-3},
   langid       = {english}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

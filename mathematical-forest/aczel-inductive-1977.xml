@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1969</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-inductive-1977</fr:addr><fr:route>aczel-inductive-1977.xml</fr:route><fr:title>An Introduction to Inductive Definitions</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1984</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-inductive-1977</fr:addr><fr:route>aczel-inductive-1977.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/aczel-inductive-1977.tree</fr:source-path><fr:title>An Introduction to Inductive Definitions</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @incollection{aczel-inductive-1977,
   title        = {An Introduction to Inductive Definitions},
@@ -20,4 +20,4 @@ name="bibtex">%
   pages        = {739--782},
   booktitle    = {Handbook of Mathematical Logic},
   doi          = {10.1016/S0049-237X(08)71120-0},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

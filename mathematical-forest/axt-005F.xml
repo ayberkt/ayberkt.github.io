@@ -7,9 +7,9 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2417</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005F</fr:addr><fr:route>axt-005F.xml</fr:route><fr:title>Left Dedekind cut</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2435</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005F</fr:addr><fr:route>axt-005F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005F.tree</fr:source-path><fr:title>Left Dedekind cut</fr:title><fr:meta
 name="date-added">2024-03-16</fr:meta><fr:meta
-name="source">Defn. 3.12 of Aczel and Rathjen</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source">Defn. 3.12 of Aczel and Rathjen</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>left Dedekind cut</fr:strong> is a set <fr:tex>X</fr:tex> of sets of rationals such that
   <fr:ul><fr:li><fr:tex>X = X^{&lt;}</fr:tex>, and</fr:li>
     <fr:li>

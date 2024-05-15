@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1980</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>godel-dialectica</fr:addr><fr:route>godel-dialectica.xml</fr:route><fr:title>Über Eine Bisher Noch Nicht Benützte Erweiterung Des Finiten Standpunktes.</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>kurt-godel</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1995</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>godel-dialectica</fr:addr><fr:route>godel-dialectica.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/godel-dialectica.tree</fr:source-path><fr:title>Über Eine Bisher Noch Nicht Benützte Erweiterung Des Finiten Standpunktes.</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>kurt-godel</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @article{godel-dialectica,
  title     = {Über Eine Bisher Noch Nicht Benützte Erweiterung Des Finiten Standpunktes.},
@@ -20,4 +20,4 @@ name="bibtex">%
  publisher = {Wiley},
  volume    = {12},
  date      = {1958},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1869</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>lawson-computability</fr:addr><fr:route>lawson-computability.xml</fr:route><fr:title>On the computational content of the Lawson topology</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Frédéric de Jaeger</fr:author><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1884</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>lawson-computability</fr:addr><fr:route>lawson-computability.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/lawson-computability.tree</fr:source-path><fr:title>On the computational content of the Lawson topology</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Frédéric de Jaeger</fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author>Gabriele Santini</fr:author></fr:authors><fr:meta
@@ -24,4 +24,4 @@ name="bibtex">%
   issn      = {0304-3975},
   doi       = {https://doi.org/10.1016/j.tcs.2006.03.021},
   url       = {https://www.sciencedirect.com/science/article/pii/S0304397506002738},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

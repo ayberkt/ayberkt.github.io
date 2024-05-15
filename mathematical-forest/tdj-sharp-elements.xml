@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1761</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-sharp-elements</fr:addr><fr:route>tdj-sharp-elements.xml</fr:route><fr:title>Sharp Elements and Apartness in Domains</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1776</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-sharp-elements</fr:addr><fr:route>tdj-sharp-elements.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-sharp-elements.tree</fr:source-path><fr:title>Sharp Elements and Apartness in Domains</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -25,4 +25,4 @@ name="bibtex">@inproceedings{tdj-sharp-elements,
   url        = {https://doi.org/10.4204/EPTCS.351.9},
   doi        = {10.4204/EPTCS.351.9},
   biburl     = {https://dblp.org/rec/journals/corr/abs-2112-14052.bib},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

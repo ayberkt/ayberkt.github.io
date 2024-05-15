@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1618</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000N</fr:addr><fr:route>axt-000N.xml</fr:route><fr:title>The point functor</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author>Samson Abramsky</fr:author><fr:author>Achim Jung</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1633</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000N</fr:addr><fr:route>axt-000N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000N.tree</fr:source-path><fr:title>The point functor</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author>Samson Abramsky</fr:author><fr:author>Achim Jung</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame.
   A <fr:em>point</fr:em> of <fr:tex>L</fr:tex> is a <fr:em>completely prime filter</fr:em> of the lattice <fr:tex>L</fr:tex>.
 </fr:p><fr:p>
@@ -32,7 +32,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1615</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1630</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000L.tree</fr:source-path><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
 href="samson-abramsky.xml"
 type="local"
 addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
@@ -42,7 +42,7 @@ addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
 name="date-added">2023-09-07</fr:meta><fr:meta
 name="source"><fr:link
 href="abramsky-and-jung-domain-theory-1995"
-type="external">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Abramsky and Jung</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The Stone adjunction is the one formed by the <fr:link
 href="axt-000M.xml"
 type="local"

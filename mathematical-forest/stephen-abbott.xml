@@ -7,16 +7,16 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2686</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>stephen-abbott</fr:addr><fr:route>stephen-abbott.xml</fr:route><fr:title>Stephen Abbott</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2706</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>stephen-abbott</fr:addr><fr:route>stephen-abbott.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/stephen-abbott.tree</fr:source-path><fr:title>Stephen Abbott</fr:title><fr:meta
 name="institution">Middlebury College</fr:meta><fr:meta
-name="external">https://www.middlebury.edu/college/people/stephen-abbott</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="external">https://www.middlebury.edu/college/people/stephen-abbott</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2684</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abbott-understanding</fr:addr><fr:route>abbott-understanding.xml</fr:route><fr:title>Understanding Analysis</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2704</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abbott-understanding</fr:addr><fr:route>abbott-understanding.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/abbott-understanding.tree</fr:source-path><fr:title>Understanding Analysis</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="stephen-abbott.xml"
 type="local"
 addr="stephen-abbott">Stephen Abbott</fr:link></fr:author></fr:authors><fr:meta
@@ -30,4 +30,4 @@ name="bibtex">@book{abbott-understanding,
   isbn      = {9781493950263},
   publisher = {Springer},
   series    = {Undergraduate texts in mathematics},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

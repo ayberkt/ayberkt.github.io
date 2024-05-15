@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1561</fr:anchor><fr:addr>axt-0011</fr:addr><fr:route>axt-0011.xml</fr:route><fr:title>LEM∞</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1576</fr:anchor><fr:addr>axt-0011</fr:addr><fr:route>axt-0011.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0011.tree</fr:source-path><fr:title>LEM∞</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The statement that all types (in a given universe <fr:tex>\mathcal {U}</fr:tex>) are decidable, i.e.
   <fr:tex
 display="block">\prod _{X :  \mathcal {U} } X +  \neg  X.</fr:tex></fr:p><fr:p>
@@ -21,7 +21,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1560</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0012</fr:addr><fr:route>axt-0012.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1575</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0012</fr:addr><fr:route>axt-0012.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0012.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The strong form of the law of excluded middle, <fr:link
 href="axt-0011.xml"
 type="local"

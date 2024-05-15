@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>569</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>584</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003M.tree</fr:source-path><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -17,7 +17,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 1</fr:strong> from <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. A type <fr:tex>X :  \mathcal {U}</fr:tex> is called
   <fr:strong><fr:tex>\mathcal {V}</fr:tex>-small</fr:strong> if it has a copy in universe <fr:tex>\mathcal {V}</fr:tex>, which is
   to say
@@ -29,7 +29,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>565</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>580</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003N.tree</fr:source-path><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong>propositional <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that every <fr:link
 href="axt-0035.xml"
 type="local"
@@ -47,7 +47,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>566</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>581</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003P.tree</fr:source-path><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
@@ -57,7 +57,7 @@ addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Defn 2.ii</fr:strong> from <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that the type <fr:tex>\Omega _{ \mathcal {U} }</fr:tex> is
   <fr:link
 href="axt-003M.xml"
@@ -70,7 +70,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>562</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>577</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -89,4 +89,4 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

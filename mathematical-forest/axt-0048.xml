@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>465</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0048</fr:addr><fr:route>axt-0048.xml</fr:route><fr:title>Arena</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>480</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0048</fr:addr><fr:route>axt-0048.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0048.tree</fr:source-path><fr:title>Arena</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dan-ghica.xml"
 type="local"
 addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Defn. 2</fr:strong> from the lecture notes</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Defn. 2</fr:strong> from the lecture notes</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>arena</fr:strong> consists of:
   <fr:ul><fr:li>A set <fr:tex>M</fr:tex>, called the set of <fr:em>moves</fr:em>.</fr:li>
     <fr:li>A subset <fr:tex>Q  \subseteq  M</fr:tex>, called the set of <fr:em>questions</fr:em>.</fr:li>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1855</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-aspects-2006</fr:addr><fr:route>aczel-aspects-2006.xml</fr:route><fr:title>Aspects of general topology in constructive set theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1870</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-aspects-2006</fr:addr><fr:route>aczel-aspects-2006.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/aczel-aspects-2006.tree</fr:source-path><fr:title>Aspects of general topology in constructive set theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @article{aczel-aspects-2006,
   title   = {Aspects of general topology in constructive set theory},
@@ -20,6 +20,6 @@ name="bibtex">%
   issn    = {0168-0072},
   doi     = {https://doi.org/10.1016/j.apal.2005.05.016},
   url     = {https://www.sciencedirect.com/science/article/pii/S0168007205000643},
-}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
 href="skim:///Users/ayberkt/Dropbox/Reading/aczel-aspects-2006.pdf"
 type="external">PDF</fr:link></fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

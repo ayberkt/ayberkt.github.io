@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1728</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1743</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-dt.tree</fr:source-path><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -36,24 +36,24 @@ name="bibtex">%
                    Expanded version with full proofs available on arXiv:
                    \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
                  },
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1727</fr:anchor><fr:addr>tdj-bibliography</fr:addr><fr:route>tdj-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+root="false"><fr:frontmatter><fr:anchor>1742</fr:anchor><fr:addr>tdj-bibliography</fr:addr><fr:route>tdj-bibliography.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-bibliography.tree</fr:source-path><fr:title>Bibliography of <fr:link
 href="tom-de-jong.xml"
 type="local"
-addr="tom-de-jong">Tom de Jong</fr:link>'s work</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:tree
+addr="tom-de-jong">Tom de Jong</fr:link>'s work</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>784</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>799</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-thesis.tree</fr:source-path><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -65,14 +65,14 @@ name="bibtex">%
   school      = {University of Birmingham},
   location    = {Birmingham B15 2TT, UK},
   uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>786</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>801</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -91,14 +91,14 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>804</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-scott-model.tree</fr:source-path><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -113,14 +113,14 @@ name="bibtex">%
   number       = {10},
   issuetitle   = {Homotopy Type Theory 2019},
   doi          = {10.1017/S0960129521000153},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>806</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-dt.tree</fr:source-path><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -149,4 +149,4 @@ name="bibtex">%
                    Expanded version with full proofs available on arXiv:
                    \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
                  },
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

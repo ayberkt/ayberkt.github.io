@@ -7,17 +7,17 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2349</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>hilary-priestley</fr:addr><fr:route>hilary-priestley.xml</fr:route><fr:title>Hilary A. Priestley</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2367</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>hilary-priestley</fr:addr><fr:route>hilary-priestley.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/hilary-priestley.tree</fr:source-path><fr:title>Hilary A. Priestley</fr:title><fr:meta
 name="institution">St Anne's College</fr:meta><fr:meta
 name="institution">University of Oxford</fr:meta><fr:meta
-name="external">https://people.maths.ox.ac.uk/hap/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="external">https://people.maths.ox.ac.uk/hap/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2315</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0049</fr:addr><fr:route>axt-0049.xml</fr:route><fr:title>Totally order-disconnected space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2333</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0049</fr:addr><fr:route>axt-0049.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0049.tree</fr:source-path><fr:title>Totally order-disconnected space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -27,7 +27,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Paragraph 11.20</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An ordered space is called <fr:strong>totally order-disconnected</fr:strong> if for any
   two <fr:tex>x, y  \in  X</fr:tex> with <fr:tex>x  \not \le  y</fr:tex>, there exists a downward-closed clopen
   set <fr:tex>F  \subseteq  X</fr:tex> with <fr:tex>y  \in  F</fr:tex> and <fr:tex>x  \notin  F</fr:tex>.
@@ -38,7 +38,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2318</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2336</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0045.tree</fr:source-path><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -48,7 +48,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Defn 2.35</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a complete lattice and <fr:tex>F : L  \to  L</fr:tex> a monotone map.
   Then the set
   <fr:tex
@@ -64,7 +64,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>487</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0045.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -92,13 +92,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2321</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003E</fr:addr><fr:route>axt-003E.xml</fr:route><fr:title><fr:tex>\mathsf {(AC)}</fr:tex> implies <fr:tex>\mathsf {(ZL)''}</fr:tex></fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2339</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003E</fr:addr><fr:route>axt-003E.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003E.tree</fr:source-path><fr:title><fr:tex>\mathsf {(AC)}</fr:tex> implies <fr:tex>\mathsf {(ZL)''}</fr:tex></fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-003D.xml"
 type="local"
@@ -116,7 +116,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>636</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>651</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003E.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -160,14 +160,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2324</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2342</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003A.tree</fr:source-path><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Every <fr:link
 href="axt-003B.xml"
 type="local"
@@ -182,7 +182,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2326</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003D</fr:addr><fr:route>axt-003D.xml</fr:route><fr:title>Axiom of choice in set theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2344</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003D</fr:addr><fr:route>axt-003D.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003D.tree</fr:source-path><fr:title>Axiom of choice in set theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -192,7 +192,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Paragraph 10.1</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   For every nonempty family <fr:tex>\{  A_i  \} _{i  \in  I}</fr:tex> of nonempty sets, there
   exists a function <fr:tex>f : I  \to   \bigcup _{i  \in  I} A_i</fr:tex> such that
   <fr:tex
@@ -203,13 +203,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2329</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2347</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003C.tree</fr:source-path><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>directed-complete partial order</fr:strong> is a poset <fr:tex>(D,  \sqsubseteq )</fr:tex>
   that is directed-complete i.e. one in which joins of all directed subsets
   exist.
@@ -220,7 +220,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2332</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003G</fr:addr><fr:route>axt-003G.xml</fr:route><fr:title>Fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2350</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003G</fr:addr><fr:route>axt-003G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003G.tree</fr:source-path><fr:title>Fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -230,7 +230,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
   An element <fr:tex>x  \in  P</fr:tex> is called a <fr:strong>fixed point</fr:strong> of <fr:tex>h</fr:tex> if it
   satisfies <fr:tex>h(x) = x</fr:tex>.
@@ -241,7 +241,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2335</fr:anchor><fr:addr>axt-003H</fr:addr><fr:route>axt-003H.xml</fr:route><fr:title>Least fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2353</fr:anchor><fr:addr>axt-003H</fr:addr><fr:route>axt-003H.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003H.tree</fr:source-path><fr:title>Least fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -251,7 +251,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
   An element <fr:tex>x  \in  P</fr:tex> is called the <fr:strong>least fixed point</fr:strong> of <fr:tex>h</fr:tex> if
   <fr:ul><fr:li>it is a <fr:link
@@ -267,13 +267,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2338</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2356</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003F.tree</fr:source-path><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a <fr:link
 href="axt-003B.xml"
 type="local"
@@ -290,14 +290,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2341</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2359</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0039.tree</fr:source-path><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>P</fr:tex> be an ordered set, and <fr:tex>Q  \subseteq  P</fr:tex> a subset. An element <fr:tex>a  \in    Q</fr:tex> is called a <fr:strong>maximal element</fr:strong> of <fr:tex>Q</fr:tex> if it satisfies
   <fr:tex
 display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -307,7 +307,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2344</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2362</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/davey-priestley-book.tree</fr:source-path><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -324,21 +324,21 @@ name="bibtex">%
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2347</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2365</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003B.tree</fr:source-path><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
 name="date-added">2023-11-06</fr:meta><fr:meta
 name="source"><fr:strong>Defn. 8.1</fr:strong> of <fr:link
 href="foo"
-type="external">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>pointed dcpo</fr:strong> is a <fr:link
 href="axt-003C.xml"
 type="local"

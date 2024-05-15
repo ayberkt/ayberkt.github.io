@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>374</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0051</fr:addr><fr:route>axt-0051.xml</fr:route><fr:title>Intensional pseudobasis</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>389</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0051</fr:addr><fr:route>axt-0051.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0051.tree</fr:source-path><fr:title>Intensional pseudobasis</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>pseudobasis</fr:strong> for a large and locally small locale <fr:tex>X</fr:tex> is a
   <fr:link
 href="axt-001F.xml"
@@ -22,7 +22,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>387</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001F.tree</fr:source-path><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em><fr:tex>\mathcal {V}</fr:tex>-family on a type <fr:tex>A :  \mathcal {U}</fr:tex></fr:em> is a pair <fr:tex>(I,  \alpha )</fr:tex> where
   <fr:ul><fr:li><fr:tex>I</fr:tex> is a type in universe <fr:tex>\mathcal {V}</fr:tex>,</fr:li>
     <fr:li>and <fr:tex>\alpha</fr:tex> is a function of type <fr:tex>I  \to  A</fr:tex>.</fr:li></fr:ul></fr:p><fr:p>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1346</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001W</fr:addr><fr:route>axt-001W.xml</fr:route><fr:title>Scott locale of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1361</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001W</fr:addr><fr:route>axt-001W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001W.tree</fr:source-path><fr:title>Scott locale of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The Scott locale of a dcpo <fr:tex>D</fr:tex> is the locale given by the frame of opens
   of the <fr:link
 href="axt-001X.xml"
@@ -20,7 +20,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1345</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001X</fr:addr><fr:route>axt-001X.xml</fr:route><fr:title>Scott space of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1360</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001X</fr:addr><fr:route>axt-001X.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001X.tree</fr:source-path><fr:title>Scott space of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. The <fr:em>Scott space</fr:em> of <fr:tex>D</fr:tex> is the
   topological space <fr:tex>(D,  \sigma ( D ) )</fr:tex> whose open sets are given by the class
   <fr:tex>\sigma ( D )</fr:tex> of <fr:link
@@ -34,7 +34,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1344</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-001V</fr:addr><fr:route>axt-001V.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1359</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-001V</fr:addr><fr:route>axt-001V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001V.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:link
 href="axt-001W.xml"
 type="local"

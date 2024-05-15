@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1634</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000F</fr:addr><fr:route>axt-000F.xml</fr:route><fr:title>Connected space (clopen)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1649</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000F</fr:addr><fr:route>axt-000F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000F.tree</fr:source-path><fr:title>Connected space (clopen)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A topological space <fr:tex>X</fr:tex> is <fr:em>connected</fr:em> if for any subset <fr:tex>A  \subseteq  X</fr:tex>,
   if <fr:tex>A</fr:tex> is clopen then <fr:tex>A</fr:tex> is either the empty set <fr:tex>\emptyset</fr:tex> or the entire
   set <fr:tex>X</fr:tex>.
@@ -18,7 +18,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1632</fr:anchor><fr:addr>axt-000G</fr:addr><fr:route>axt-000G.xml</fr:route><fr:title>Study notes on connectedness</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1647</fr:anchor><fr:addr>axt-000G</fr:addr><fr:route>axt-000G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000G.tree</fr:source-path><fr:title>Study notes on connectedness</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   There are different definitions of connectedness that are classicaly
   equivalent.
 </fr:p><fr:p>
@@ -34,8 +34,8 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1624</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000E</fr:addr><fr:route>axt-000E.xml</fr:route><fr:title>Connected space (set-theoretic)</fr:title><fr:meta
-name="date-added">2023-09-04</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1639</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000E</fr:addr><fr:route>axt-000E.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000E.tree</fr:source-path><fr:title>Connected space (set-theoretic)</fr:title><fr:meta
+name="date-added">2023-09-04</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A topological space <fr:tex>X</fr:tex> is called <fr:em>connected</fr:em> if there does not exist a
   pair <fr:tex>U, V  \in   \mathcal {O} (X)</fr:tex> of disjoint and nonempty open sets such that <fr:tex>X = U    \cup  V</fr:tex>.
 </fr:p><fr:p>
@@ -49,7 +49,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1625</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000F</fr:addr><fr:route>axt-000F.xml</fr:route><fr:title>Connected space (clopen)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1640</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000F</fr:addr><fr:route>axt-000F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000F.tree</fr:source-path><fr:title>Connected space (clopen)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A topological space <fr:tex>X</fr:tex> is <fr:em>connected</fr:em> if for any subset <fr:tex>A  \subseteq  X</fr:tex>,
   if <fr:tex>A</fr:tex> is clopen then <fr:tex>A</fr:tex> is either the empty set <fr:tex>\emptyset</fr:tex> or the entire
   set <fr:tex>X</fr:tex>.
@@ -62,7 +62,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1626</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000H</fr:addr><fr:route>axt-000H.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A space <fr:tex>X</fr:tex> has <fr:link
+root="false"><fr:frontmatter><fr:anchor>1641</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000H</fr:addr><fr:route>axt-000H.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000H.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>A space <fr:tex>X</fr:tex> has <fr:link
 href="axt-000E.xml"
 type="local"
 addr="axt-000E">no separation</fr:link> iff its only clopen subsets are the trivial ones.</fr:p><fr:p><fr:tex>( \Rightarrow )</fr:tex> Suppose space <fr:tex>X</fr:tex> has no separation and let <fr:tex>F  \subseteq  X</fr:tex>

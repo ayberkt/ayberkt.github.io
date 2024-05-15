@@ -7,21 +7,21 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1725</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-topological-and-uniform-2022</fr:addr><fr:route>bridges-topological-and-uniform-2022.xml</fr:route><fr:title>Lectures on Topological and Uniform Spaces</fr:title><fr:date><fr:year>2022</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1740</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-topological-and-uniform-2022</fr:addr><fr:route>bridges-topological-and-uniform-2022.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/bridges-topological-and-uniform-2022.tree</fr:source-path><fr:title>Lectures on Topological and Uniform Spaces</fr:title><fr:date><fr:year>2022</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @misc{bridges-topological-and-uniform,
   title        = {{Lectures on Topological and Uniform Spaces}},
   author       = {Bridges, Douglas S.},
   date         = {2022-05-20},
   note         = {Unpublished lecture notes}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1723</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Y</fr:addr><fr:route>axt-000Y.xml</fr:route><fr:title>Filter base</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1738</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Y</fr:addr><fr:route>axt-000Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000Y.tree</fr:source-path><fr:title>Filter base</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em>filter base</fr:em> on a nonempty set <fr:tex>X</fr:tex> is a family <fr:tex>\{  B_i  \} _{i  \in  I}</fr:tex>
   of subsets of <fr:tex>\mathcal {P} (X)</fr:tex> satisfying the following properties:
   <fr:ol><fr:li><fr:tex>I  \neq   \emptyset</fr:tex> and <fr:tex>B_i  \neq   \emptyset</fr:tex> for each <fr:tex>i  \in  I</fr:tex></fr:li>

@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1605</fr:anchor><fr:addr>axt-000P</fr:addr><fr:route>axt-000P.xml</fr:route><fr:title>Subbasis</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+root="false"><fr:frontmatter><fr:anchor>1620</fr:anchor><fr:addr>axt-000P</fr:addr><fr:route>axt-000P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000P.tree</fr:source-path><fr:title>Subbasis</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1604</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000O</fr:addr><fr:route>axt-000O.xml</fr:route><fr:title>Alexander Subbase Theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1619</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000O</fr:addr><fr:route>axt-000O.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000O.tree</fr:source-path><fr:title>Alexander Subbase Theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a topological space and let <fr:tex>S</fr:tex> be a <fr:link
 href="axt-000P.xml"
 type="local"

@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>716</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>731</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0039.tree</fr:source-path><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>P</fr:tex> be an ordered set, and <fr:tex>Q  \subseteq  P</fr:tex> a subset. An element <fr:tex>a  \in    Q</fr:tex> is called a <fr:strong>maximal element</fr:strong> of <fr:tex>Q</fr:tex> if it satisfies
   <fr:tex
 display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
@@ -24,7 +24,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>707</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>722</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:title><fr:link
 href="axt-0053.xml"
 type="local"
 addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
@@ -40,7 +40,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-0053.xml"
 type="local"
@@ -59,7 +59,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -103,7 +103,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>710</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>725</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003S.tree</fr:source-path><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -113,7 +113,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 47</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex>, <fr:tex>\mathcal {V}</fr:tex>, and <fr:tex>\mathcal {W}</fr:tex> be universes. <fr:strong>Zorn’s Lemma at
   <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex></fr:strong> asserts that every pointed <fr:link
 href="axt-0021.xml"
@@ -131,14 +131,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>713</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>728</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003A.tree</fr:source-path><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Every <fr:link
 href="axt-003B.xml"
 type="local"
@@ -153,7 +153,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>715</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
+root="false"><fr:frontmatter><fr:anchor>730</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000Z.tree</fr:source-path><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
   <fr:link
 href="axt-0038.xml"
 type="local"

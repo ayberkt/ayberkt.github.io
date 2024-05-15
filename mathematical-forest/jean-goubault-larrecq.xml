@@ -7,23 +7,23 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2377</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>jean-goubault-larrecq</fr:addr><fr:route>jean-goubault-larrecq.xml</fr:route><fr:title>Jean Goubault-Larrecq</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2395</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>jean-goubault-larrecq</fr:addr><fr:route>jean-goubault-larrecq.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/jean-goubault-larrecq.tree</fr:source-path><fr:title>Jean Goubault-Larrecq</fr:title><fr:meta
 name="external">http://www.lsv.fr/~goubault/</fr:meta><fr:meta
-name="orcid">0000-0001-5879-3304</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="orcid">0000-0001-5879-3304</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2357</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0056</fr:addr><fr:route>axt-0056.xml</fr:route><fr:title>Strong Choquet game</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2375</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0056</fr:addr><fr:route>axt-0056.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0056.tree</fr:source-path><fr:title>Strong Choquet game</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Sec. 7.6.1</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>strong Choquet game</fr:strong> on a space <fr:tex>X</fr:tex> is a game played by
   two players that we call the <fr:em>player</fr:em> and the <fr:em>opponent</fr:em>.
   <fr:ol><fr:li>
@@ -57,11 +57,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2359</fr:anchor><fr:taxon>Lemma</fr:taxon><fr:addr>axt-002Z</fr:addr><fr:route>axt-002Z.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2377</fr:anchor><fr:taxon>Lemma</fr:taxon><fr:addr>axt-002Z</fr:addr><fr:route>axt-002Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Z.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Lemma 4.2.5</fr:strong> of ???</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Lemma 4.2.5</fr:strong> of ???</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a topological space. Every open subset <fr:tex>U  \in   \mathcal {O}( X )</fr:tex> is
   <fr:link
 href="axt-001Z.xml"
@@ -81,7 +81,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>722</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Z.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:parent>axt-002Z</fr:parent></fr:frontmatter><fr:mainmatter>
@@ -95,7 +95,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2361</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2379</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/jgl-non-hausdorff.tree</fr:source-path><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -109,14 +109,14 @@ name="bibtex">%
   isbn         = {978-1-107-03413-6},
   volume       = {22},
   series       = {New mathematical monographs},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2363</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2381</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003U.tree</fr:source-path><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -124,7 +124,7 @@ name="date-added">2023-11-13</fr:meta><fr:meta
 name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
   is given by the class of <fr:link
 href="axt-001Z.xml"
@@ -141,7 +141,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2365</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0057</fr:addr><fr:route>axt-0057.xml</fr:route><fr:title>Choquet-complete space</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2383</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0057</fr:addr><fr:route>axt-0057.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0057.tree</fr:source-path><fr:title>Choquet-complete space</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -149,7 +149,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Defn. 7.6.1</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is <fr:strong>Choquet-complete</fr:strong> if the player has a winning
   strategy in the <fr:link
 href="axt-0056.xml"
@@ -162,7 +162,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2367</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0058</fr:addr><fr:route>axt-0058.xml</fr:route><fr:title>Choquet-completeness and continuous dcpos</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2385</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0058</fr:addr><fr:route>axt-0058.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0058.tree</fr:source-path><fr:title>Choquet-completeness and continuous dcpos</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -170,7 +170,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Lemma. 7.6.3</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The Scott topology of any <fr:link
 href="axt-001T.xml"
 type="local"
@@ -186,7 +186,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2369</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2387</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005A.tree</fr:source-path><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -194,7 +194,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Every <fr:link
 href="axt-0057.xml"
 type="local"
@@ -209,7 +209,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2371</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004R</fr:addr><fr:route>axt-004R.xml</fr:route><fr:title>Skula topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2389</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004R</fr:addr><fr:route>axt-004R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004R.tree</fr:source-path><fr:title>Skula topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -217,7 +217,7 @@ name="date-added">2024-01-16</fr:meta><fr:meta
 name="source"><fr:strong>Exercise 9.7.16</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">JGL's book</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">JGL's book</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a <fr:tex>T_0</fr:tex> space. The <fr:strong>Skula topology</fr:strong> on <fr:tex>X</fr:tex> is
   the topology the union of the opens of <fr:tex>X</fr:tex> and its downward closed subsets
   (w.r.t. the <fr:link
@@ -231,7 +231,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2373</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0059</fr:addr><fr:route>axt-0059.xml</fr:route><fr:title>The Baire property</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2391</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0059</fr:addr><fr:route>axt-0059.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0059.tree</fr:source-path><fr:title>The Baire property</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -239,7 +239,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>11</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is called <fr:strong>Baire</fr:strong> if the intersection of countably
   many dense open subsets of <fr:tex>X</fr:tex> is still dense in <fr:tex>X</fr:tex>.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -249,11 +249,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2375</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2393</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004L.tree</fr:source-path><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
-name="date-added">2024-01-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2024-01-13</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>upper topology</fr:strong> of <fr:tex>X</fr:tex> is the
   one generated by the subbasis consisting of complements of principal ideals.
 </fr:p></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

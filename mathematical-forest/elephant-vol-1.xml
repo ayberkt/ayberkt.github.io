@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1911</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>elephant-vol-1</fr:addr><fr:route>elephant-vol-1.xml</fr:route><fr:title>Sketches of an Elephant: A Topos Theory Compendium</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1926</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>elephant-vol-1</fr:addr><fr:route>elephant-vol-1.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/elephant-vol-1.tree</fr:source-path><fr:title>Sketches of an Elephant: A Topos Theory Compendium</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -22,4 +22,4 @@ name="bibtex">%
   series       = {Oxford Logic Guides},
   volume       = {1},
   title        = {Sketches of an Elephant: A Topos Theory Compendium},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

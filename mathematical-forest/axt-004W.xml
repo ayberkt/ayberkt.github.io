@@ -7,10 +7,10 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>388</fr:anchor><fr:addr>axt-004W</fr:addr><fr:route>axt-004W.xml</fr:route><fr:title>Supercompactness in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>403</fr:anchor><fr:addr>axt-004W</fr:addr><fr:route>axt-004W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004W.tree</fr:source-path><fr:title>Supercompactness in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a large and locally small locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex>
   is called <fr:strong>supercompact</fr:strong> if for any small inhabited family
   <fr:tex>(I, V_{(-)})</fr:tex>,
@@ -22,10 +22,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:addr>axt-004V</fr:addr><fr:route>axt-004V.xml</fr:route><fr:title>Superspectral locale in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>401</fr:anchor><fr:addr>axt-004V</fr:addr><fr:route>axt-004V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004V.tree</fr:source-path><fr:title>Superspectral locale in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A large and locally small locale <fr:tex>X</fr:tex> is called <fr:strong>superspectral</fr:strong> if
   it satisfies the following conditions:
   <fr:ol><fr:li><fr:tex>X</fr:tex> is a <fr:link

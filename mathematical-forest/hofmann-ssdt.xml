@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1939</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>hofmann-ssdt</fr:addr><fr:route>hofmann-ssdt.xml</fr:route><fr:title>Syntax and Semantics of Dependent Types</fr:title><fr:date><fr:year>1997</fr:year></fr:date><fr:authors><fr:author>martin-hofmann</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1954</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>hofmann-ssdt</fr:addr><fr:route>hofmann-ssdt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/hofmann-ssdt.tree</fr:source-path><fr:title>Syntax and Semantics of Dependent Types</fr:title><fr:date><fr:year>1997</fr:year></fr:date><fr:authors><fr:author>martin-hofmann</fr:author></fr:authors><fr:meta
 name="bibtex">@inbook{hofmann-ssdt,
   author    = {Hofmann, Martin},
   title     = {Syntax and semantics of dependent types},
@@ -19,19 +19,19 @@ name="bibtex">@inbook{hofmann-ssdt,
   isbn      = {978-1-4471-0963-1},
   doi       = {10.1007/978-1-4471-0963-1_2},
   url       = {https://doi.org/10.1007/978-1-4471-0963-1_2},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1938</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005N</fr:addr><fr:route>axt-005N.xml</fr:route><fr:title>Category of families</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1953</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005N</fr:addr><fr:route>axt-005N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005N.tree</fr:source-path><fr:title>Category of families</fr:title><fr:meta
 name="date-added">2024-04-17</fr:meta><fr:meta
 name="source"><fr:strong>Defn. 3.1</fr:strong> of <fr:link
 href="hofmann-ssdt.xml"
 type="local"
-addr="hofmann-ssdt">Hofmann</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hofmann-ssdt">Hofmann</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>category <fr:tex>\mathsf {Fam}</fr:tex> of families</fr:strong> is defined by the following data.
   <fr:ul><fr:li>Its objects are families of sets <fr:tex>(A_i)_{i  \in  I}</fr:tex>.</fr:li>
     <fr:li>

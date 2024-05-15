@@ -7,14 +7,14 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>487</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-0040</fr:addr><fr:route>axt-0040.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>502</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-0040</fr:addr><fr:route>axt-0040.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0040.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="andrej-bauer.xml"
 type="local"
 addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:link
 href="ab-post-stone-fin.xml"
 type="local"
-addr="ab-post-stone-fin">Stone on finite sets</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ab-post-stone-fin">Stone on finite sets</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If every set has a listing without repetitions, then the law of excluded
   middle holds.
 </fr:p>
@@ -27,7 +27,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>485</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>500</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0040.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="andrej-bauer.xml"
 type="local"
 addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:parent>axt-0040</fr:parent></fr:frontmatter><fr:mainmatter>
@@ -42,7 +42,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>482</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ab-post-stone-fin</fr:addr><fr:route>ab-post-stone-fin.xml</fr:route><fr:title>Constructive stone: finite sets</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>497</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ab-post-stone-fin</fr:addr><fr:route>ab-post-stone-fin.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/ab-post-stone-fin.tree</fr:source-path><fr:title>Constructive stone: finite sets</fr:title><fr:authors><fr:author><fr:link
 href="andrej-bauer.xml"
 type="local"
 addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:meta
@@ -53,4 +53,4 @@ name="bibtex">%
   url          = {https://math.andrej.com/2009/09/07/constructive-stone-finite-sets/},
   date         = {2009-09-07},
   urldate      = {2023-11-21},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

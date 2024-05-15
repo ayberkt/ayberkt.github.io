@@ -7,10 +7,10 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1423</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1438</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -36,13 +36,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1420</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1435</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001P.tree</fr:source-path><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The following is the summary of my understanding of <fr:link
 href="john-longley.xml"
 type="local"
@@ -102,10 +102,10 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1409</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -140,7 +140,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1419</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001O</fr:addr><fr:route>axt-001O.xml</fr:route><fr:title>Minimization operator</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1434</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001O</fr:addr><fr:route>axt-001O.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001O.tree</fr:source-path><fr:title>Minimization operator</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:em>minimization operation</fr:em> (sometimes called "unbounded search") is a
   partial function <fr:tex
 display="block">\mu  : ( \mathbb {N}   \to   \mathsf {Bool} )  \rightharpoonup   \mathbb {N}</fr:tex> defined as
@@ -158,13 +158,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1414</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1429</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001P.tree</fr:source-path><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The following is the summary of my understanding of <fr:link
 href="john-longley.xml"
 type="local"
@@ -224,10 +224,10 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1409</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -262,14 +262,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1417</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001M</fr:addr><fr:route>axt-001M.xml</fr:route><fr:title>Kleene's countable functionals</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1432</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001M</fr:addr><fr:route>axt-001M.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001M.tree</fr:source-path><fr:title>Kleene's countable functionals</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
 addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Defn. 3.13</fr:strong> of <fr:link
 href="longley-notions-I.xml"
 type="local"
-addr="longley-notions-I">[Longley]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="longley-notions-I">[Longley]</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The class <fr:tex>\mathsf {C} _n</fr:tex> of <fr:em>countable functionals at level <fr:tex>n</fr:tex></fr:em> is defined by
   induction on <fr:tex>n</fr:tex>, together with a notion of <fr:em>associate</fr:em> for each <fr:tex>\mathsf {C} _n</fr:tex>.
   <fr:ul><fr:li><fr:tex>\mathsf {C} _0  \vcentcolon \equiv   \mathbb {N}</fr:tex>.</fr:li>
@@ -294,7 +294,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1411</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>longley-normann-hoc</fr:addr><fr:route>longley-normann-hoc.xml</fr:route><fr:title>Higher-Order Computability</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1426</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>longley-normann-hoc</fr:addr><fr:route>longley-normann-hoc.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/longley-normann-hoc.tree</fr:source-path><fr:title>Higher-Order Computability</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
 addr="john-longley">John R. Longley</fr:link></fr:author><fr:author><fr:link
@@ -308,4 +308,4 @@ name="bibtex">@book{longley-normann-hoc,
   publisher = {Springer},
   series    = {Theory and Applications of Computability},
   doi       = {10.1007/978-3-662-47992-6},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

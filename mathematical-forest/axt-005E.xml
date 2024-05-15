@@ -7,9 +7,9 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2857</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005E</fr:addr><fr:route>axt-005E.xml</fr:route><fr:title>Two-sided Dedekind cut</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2877</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005E</fr:addr><fr:route>axt-005E.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005E.tree</fr:source-path><fr:title>Two-sided Dedekind cut</fr:title><fr:meta
 name="date-added">2024-03-16</fr:meta><fr:meta
-name="source">Defn. 3.10 of Aczel and Rathjen</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source">Defn. 3.10 of Aczel and Rathjen</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>17</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>Dedekind cut</fr:strong> is a pair <fr:tex>(X, Y)</fr:tex> of sets of rationals
   such that
   <fr:ul><fr:li>every <fr:tex>r  \in  X</fr:tex> is strictly below every <fr:tex>s  \in  Y</fr:tex>.</fr:li>

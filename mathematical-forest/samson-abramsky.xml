@@ -7,15 +7,15 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2650</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>samson-abramsky</fr:addr><fr:route>samson-abramsky.xml</fr:route><fr:title>Samson Abramsky</fr:title><fr:meta
-name="external">http://www0.cs.ucl.ac.uk/people/S.Abramsky.html</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+root="false"><fr:frontmatter><fr:anchor>2670</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>samson-abramsky</fr:addr><fr:route>samson-abramsky.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/samson-abramsky.tree</fr:source-path><fr:title>Samson Abramsky</fr:title><fr:meta
+name="external">http://www0.cs.ucl.ac.uk/people/S.Abramsky.html</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2641</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2661</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/abramsky-jung-dt.tree</fr:source-path><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="samson-abramsky.xml"
 type="local"
 addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
@@ -31,14 +31,14 @@ name="bibtex">@inbook{abramsky-jung-dt,
   booktitle = {Handbook of Logic in Computer Science (Vol. 3): Semantic Structures},
   pages     = {1–168},
   numpages  = {168},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2644</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001U</fr:addr><fr:route>axt-001U.xml</fr:route><fr:title>Basis for a dcpo</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2664</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001U</fr:addr><fr:route>axt-001U.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001U.tree</fr:source-path><fr:title>Basis for a dcpo</fr:title><fr:authors><fr:author><fr:link
 href="samson-abramsky.xml"
 type="local"
 addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
@@ -49,7 +49,7 @@ name="source"><fr:strong>Defn. 2.2.3</fr:strong> of <fr:link
 href="abramsky-jung-dt.xml"
 type="local"
 addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta><fr:meta
-name="date-added">2023-10-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2023-10-26</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a dcpo and let <fr:tex>\Downarrow (x)</fr:tex> denote the set
   <fr:tex>\{  y  \in  D  \mid  y  \ll  x  \}</fr:tex>.
 </fr:p><fr:p>
@@ -64,7 +64,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2647</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2667</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000L.tree</fr:source-path><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
 href="samson-abramsky.xml"
 type="local"
 addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
@@ -74,7 +74,7 @@ addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
 name="date-added">2023-09-07</fr:meta><fr:meta
 name="source"><fr:link
 href="abramsky-and-jung-domain-theory-1995"
-type="external">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Abramsky and Jung</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The Stone adjunction is the one formed by the <fr:link
 href="axt-000M.xml"
 type="local"

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1965</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-domains-for-ds</fr:addr><fr:route>dss-domains-for-ds.xml</fr:route><fr:title>Domains for denotational semantics</fr:title><fr:date><fr:year>1982</fr:year><fr:month>7</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1980</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-domains-for-ds</fr:addr><fr:route>dss-domains-for-ds.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/dss-domains-for-ds.tree</fr:source-path><fr:title>Domains for denotational semantics</fr:title><fr:date><fr:year>1982</fr:year><fr:month>7</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -24,4 +24,4 @@ name="bibtex">%
   location     = {Berlin, Heidelberg},
   pages        = {577--610},
   isbn         = {978-3-540-39308-5}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

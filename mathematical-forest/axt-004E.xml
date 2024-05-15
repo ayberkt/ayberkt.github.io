@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>428</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004E</fr:addr><fr:route>axt-004E.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>443</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004E</fr:addr><fr:route>axt-004E.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004E.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   For any frame <fr:tex>L</fr:tex>, there is a bijection between the set of nuclei on <fr:tex>L</fr:tex> and
   the class of maxsets of <fr:tex>L</fr:tex>.
 </fr:p>
@@ -20,7 +20,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>427</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004E</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>442</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004E.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004E</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p>
     Given a <fr:link
 href="axt-002N.xml"
@@ -60,7 +60,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>425</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>440</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004F.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame and <fr:tex>j : L  \to  L</fr:tex> a nucleus on it. The set of fixed
   points of <fr:tex>j</fr:tex> forms a <fr:link
 href="axt-003I.xml"
@@ -76,7 +76,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>424</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>439</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004F.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
   We need to show that <fr:tex>\mathfrak {F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</fr:tex> is
   (1) closed under arbitrary meets and is (2) an exponential ideal.
   <fr:ol><fr:li>
@@ -113,11 +113,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>426</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002N</fr:addr><fr:route>axt-002N.xml</fr:route><fr:title>Nucleus</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>441</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002N</fr:addr><fr:route>axt-002N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002N.tree</fr:source-path><fr:title>Nucleus</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Paragraph II.2.2.</fr:strong> of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame. A nucleus on <fr:tex>L</fr:tex> is an endofunction <fr:tex>j : L  \to  L</fr:tex>
   satisfying the following three conditions.
   <fr:ol><fr:li><fr:em>Meet preservation</fr:em>: <fr:tex>\forall  x, y  \in  L. \  j(x  \wedge  y) = j(x)  \wedge  j(y).</fr:tex></fr:li>

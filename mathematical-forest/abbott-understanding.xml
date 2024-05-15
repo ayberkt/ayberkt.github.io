@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1795</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abbott-understanding</fr:addr><fr:route>abbott-understanding.xml</fr:route><fr:title>Understanding Analysis</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1810</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abbott-understanding</fr:addr><fr:route>abbott-understanding.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/abbott-understanding.tree</fr:source-path><fr:title>Understanding Analysis</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="stephen-abbott.xml"
 type="local"
 addr="stephen-abbott">Stephen Abbott</fr:link></fr:author></fr:authors><fr:meta
@@ -21,19 +21,19 @@ name="bibtex">@book{abbott-understanding,
   isbn      = {9781493950263},
   publisher = {Springer},
   series    = {Undergraduate texts in mathematics},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1794</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005M</fr:addr><fr:route>axt-005M.xml</fr:route><fr:title>Convergence of a sequence</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1809</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005M</fr:addr><fr:route>axt-005M.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005M.tree</fr:source-path><fr:title>Convergence of a sequence</fr:title><fr:meta
 name="date-added">2024-04-13</fr:meta><fr:meta
 name="source">Defn. 2.2.3 of <fr:link
 href="abbott-understanding.xml"
 type="local"
-addr="abbott-understanding">Abbott</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="abbott-understanding">Abbott</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>( x_n )</fr:tex> be a sequence and let <fr:tex>x  \in   \mathbb {R}</fr:tex>.
 
   The sequence <fr:tex>( x_n )</fr:tex> is said to <fr:strong>converge to</fr:strong> <fr:tex>x</fr:tex> if

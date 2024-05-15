@@ -7,12 +7,12 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1989</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-003V</fr:addr><fr:route>axt-003V.xml</fr:route><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2005</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-003V</fr:addr><fr:route>axt-003V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003V.tree</fr:source-path><fr:meta
 name="date-added">2023-11-13</fr:meta><fr:meta
 name="source"><fr:strong>Ex. 4.2.15</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a finite set equipped with a preorder <fr:tex>( \le )</fr:tex>. There is a unique
   topology on <fr:tex>A</fr:tex> whose specialization preorder is <fr:tex>\le</fr:tex>.
 </fr:p>
@@ -25,7 +25,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1802</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-003V</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>1817</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003V.tree</fr:source-path><fr:parent>axt-003V</fr:parent></fr:frontmatter><fr:mainmatter>
   We know that the Alexandroff topology on <fr:tex>A</fr:tex> is finer than any topology whose
   specialization preorder coincides with <fr:tex>\le</fr:tex>, meaning any other such topology
   finer than it must be equivalent to it. Consider a topology <fr:tex>\mathcal {T}</fr:tex> on <fr:tex>A</fr:tex>
@@ -40,7 +40,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1987</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2003</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/jgl-non-hausdorff.tree</fr:source-path><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -54,4 +54,4 @@ name="bibtex">%
   isbn         = {978-1-107-03413-6},
   volume       = {22},
   series       = {New mathematical monographs},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

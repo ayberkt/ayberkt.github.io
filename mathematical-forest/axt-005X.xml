@@ -7,8 +7,8 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2712</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>axt-005X</fr:addr><fr:route>axt-005X.xml</fr:route><fr:title>The computability model <fr:tex>T_2</fr:tex></fr:title><fr:meta
-name="date-added">2024-04-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2732</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>axt-005X</fr:addr><fr:route>axt-005X.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005X.tree</fr:source-path><fr:title>The computability model <fr:tex>T_2</fr:tex></fr:title><fr:meta
+name="date-added">2024-04-26</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   First, we fix a convention on how to represent natural numbers on a <fr:link
 href="TODO"
 type="external">Turing
@@ -37,12 +37,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2711</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005W</fr:addr><fr:route>axt-005W.xml</fr:route><fr:title>Computability model</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2731</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005W</fr:addr><fr:route>axt-005W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005W.tree</fr:source-path><fr:title>Computability model</fr:title><fr:meta
 name="date-added">2024-04-26</fr:meta><fr:meta
 name="source">from <fr:strong>Sec. 1.1.2</fr:strong> of <fr:link
 href="longley-normann-hoc.xml"
 type="local"
-addr="longley-normann-hoc">HOC</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="longley-normann-hoc">HOC</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>computability model</fr:strong> consists of the data:
   <fr:ul><fr:li>a set <fr:tex>\mathsf {T}</fr:tex> of <fr:em>type names</fr:em>,</fr:li>
     <fr:li>a <fr:tex>\mathsf {T}</fr:tex>-indexed family of sets <fr:tex>(  \mathbf {C} _ \tau )_{ \tau   \in  T}</fr:tex>,</fr:li>

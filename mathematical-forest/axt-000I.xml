@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1621</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000I</fr:addr><fr:route>axt-000I.xml</fr:route><fr:title>De Bruijn–Erdős theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1636</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000I</fr:addr><fr:route>axt-000I.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000I.tree</fr:source-path><fr:title>De Bruijn–Erdős theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>G = (V, E)</fr:tex> be a (possibly infinite) graph. If all finite subgraphs of
   <fr:tex>G</fr:tex> have a maximum chromatic number of <fr:tex>c</fr:tex> then <fr:tex>G</fr:tex> itself has a maximum
   chromatic number of <fr:tex>c</fr:tex>.

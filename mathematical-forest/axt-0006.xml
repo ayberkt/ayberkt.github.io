@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2654</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0006</fr:addr><fr:route>axt-0006.xml</fr:route><fr:title>Scott Formal Topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2674</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0006</fr:addr><fr:route>axt-0006.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0006.tree</fr:source-path><fr:title>Scott Formal Topology</fr:title><fr:authors><fr:author><fr:link
 href="giovanni-sambin.xml"
 type="local"
 addr="giovanni-sambin">Giovanni Sambin</fr:link></fr:author></fr:authors><fr:meta
-name="date-added">2023-08-19</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2023-08-19</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {A}  = (S,  \cdot , 1,  \lhd ,  \mathsf {Pos} )</fr:tex> be a formal topology.
   <fr:tex>\mathcal {A}</fr:tex> is called <fr:em>Scott</fr:em> if its cover is unary i.e. it satisfies
   <fr:tex
@@ -22,8 +22,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2653</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0007</fr:addr><fr:route>axt-0007.xml</fr:route><fr:title>Unary formal topologies and Scott domains</fr:title><fr:meta
-name="date-added">2023-08-19</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A formal topology <fr:tex>\mathcal {A}</fr:tex> is <fr:link
+root="false"><fr:frontmatter><fr:anchor>2673</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0007</fr:addr><fr:route>axt-0007.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0007.tree</fr:source-path><fr:title>Unary formal topologies and Scott domains</fr:title><fr:meta
+name="date-added">2023-08-19</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>A formal topology <fr:tex>\mathcal {A}</fr:tex> is <fr:link
 href="axt-0006.xml"
 type="local"
 addr="axt-0006">Scott</fr:link> iff <fr:tex>\mathsf {Pt} ( \mathcal {A} )</fr:tex> is a Scott domain.</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

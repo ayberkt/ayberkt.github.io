@@ -7,17 +7,17 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2740</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>thierry-coquand</fr:addr><fr:route>thierry-coquand.xml</fr:route><fr:title>Thierry Coquand</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2760</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>thierry-coquand</fr:addr><fr:route>thierry-coquand.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/thierry-coquand.tree</fr:source-path><fr:title>Thierry Coquand</fr:title><fr:meta
 name="institution">Chalmers University of Technology</fr:meta><fr:meta
 name="orcid">0000-0002-5429-5153</fr:meta><fr:meta
-name="external">https://www.cse.chalmers.se/~coquand/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="external">https://www.cse.chalmers.se/~coquand/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2727</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0010</fr:addr><fr:route>axt-0010.xml</fr:route><fr:title>Weakly constant map</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Nicolai Kraus</fr:author><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2747</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0010</fr:addr><fr:route>axt-0010.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0010.tree</fr:source-path><fr:title>Weakly constant map</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Nicolai Kraus</fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
@@ -26,7 +26,7 @@ type="local"
 addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author>Thorsten Altenkirch</fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Defn 2.13</fr:strong> from <fr:link
 href="keca"
-type="external">KECA</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">KECA</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A function <fr:tex>f : X  \to  Y</fr:tex> is called <fr:strong>weakly constant</fr:strong> if
   <fr:tex>\prod _{x, y : X} f(x) = f(y)</fr:tex>.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -36,7 +36,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2732</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2752</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tc-at-ft.tree</fr:source-path><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="thierry-coquand.xml"
 type="local"
 addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
@@ -53,14 +53,14 @@ name="bibtex">%
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2735</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2755</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/keca-anonymous.tree</fr:source-path><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
@@ -81,4 +81,4 @@ name="bibtex">%
   url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
   doi          = {10.23638/LMCS-13(1:15)2017},
   biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

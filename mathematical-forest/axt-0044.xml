@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>510</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0044</fr:addr><fr:route>axt-0044.xml</fr:route><fr:title>Σ-algebra</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>525</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0044</fr:addr><fr:route>axt-0044.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0044.tree</fr:source-path><fr:title>Σ-algebra</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\Sigma  =  \{  F_n  \} _{n  \in   \mathbb {N} }</fr:tex> be an <fr:link
 href="axt-0043.xml"
 type="local"
@@ -23,11 +23,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>509</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0043</fr:addr><fr:route>axt-0043.xml</fr:route><fr:title>Unsorted signature</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0043</fr:addr><fr:route>axt-0043.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0043.tree</fr:source-path><fr:title>Unsorted signature</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Defn. 15</fr:strong> of <fr:link
 href="stacs.xml"
 type="local"
-addr="stacs">STACS</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="stacs">STACS</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>unsorted signature</fr:strong> <fr:tex>\Sigma</fr:tex> is an <fr:tex>\mathbb {N}</fr:tex>-indexed family
   <fr:tex>\{   \mathsf {op} _n  \} _{n  \in   \mathbb {N} }</fr:tex>, where elements <fr:tex>\mathsf {op} _n</fr:tex> are called the <fr:tex>n</fr:tex>-ary
   operation symbols of <fr:tex>\Sigma</fr:tex>. The <fr:tex>0</fr:tex>-ary symbols <fr:tex>c  \in  F_0</fr:tex> are called

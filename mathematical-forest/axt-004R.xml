@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2673</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004R</fr:addr><fr:route>axt-004R.xml</fr:route><fr:title>Skula topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2693</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004R</fr:addr><fr:route>axt-004R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004R.tree</fr:source-path><fr:title>Skula topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -15,7 +15,7 @@ name="date-added">2024-01-16</fr:meta><fr:meta
 name="source"><fr:strong>Exercise 9.7.16</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">JGL's book</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">JGL's book</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a <fr:tex>T_0</fr:tex> space. The <fr:strong>Skula topology</fr:strong> on <fr:tex>X</fr:tex> is
   the topology the union of the opens of <fr:tex>X</fr:tex> and its downward closed subsets
   (w.r.t. the <fr:link
@@ -29,11 +29,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2672</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0030</fr:addr><fr:route>axt-0030.xml</fr:route><fr:title>Specialization preorder</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2692</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0030</fr:addr><fr:route>axt-0030.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0030.tree</fr:source-path><fr:title>Specialization preorder</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Defn 4.1.1</fr:strong> of <fr:link
 href="smyth-topology.xml"
 type="local"
-addr="smyth-topology">[Smyth93]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="smyth-topology">[Smyth93]</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a topological space. The <fr:strong>specialization preorder</fr:strong> on
   <fr:tex>X</fr:tex>, denoted <fr:tex>x   \le _{ X }  y</fr:tex>, is defined as follows:
   <fr:tex
@@ -44,14 +44,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2669</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004T</fr:addr><fr:route>axt-004T.xml</fr:route><fr:date><fr:year>2009</fr:year><fr:month>6</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2689</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004T</fr:addr><fr:route>axt-004T.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004T.tree</fr:source-path><fr:date><fr:year>2009</fr:year><fr:month>6</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="klaus-keimel.xml"
 type="local"
 addr="klaus-keimel">Klaus Keimel</fr:link></fr:author><fr:author><fr:link
 href="jimmie-lawson.xml"
 type="local"
 addr="jimmie-lawson">Jimmie D. Lawson</fr:link></fr:author></fr:authors><fr:meta
-name="date-added">2024-01-16</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2024-01-16</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Given a sober space <fr:tex>X</fr:tex>, the subsets of of <fr:tex>X</fr:tex> that are sober as subspaces
   are exactly its <fr:link
 href="axt-004R.xml"
@@ -64,7 +64,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2667</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2687</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/jgl-non-hausdorff.tree</fr:source-path><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -78,4 +78,4 @@ name="bibtex">%
   isbn         = {978-1-107-03413-6},
   volume       = {22},
   series       = {New mathematical monographs},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

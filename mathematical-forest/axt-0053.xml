@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>384</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0053.tree</fr:source-path><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -17,7 +17,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Definition 51</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
   in universe <fr:tex>\mathcal {U}</fr:tex> and order taking values in <fr:tex>\mathcal {V}</fr:tex> has a greatest monotone
   inflationary endofunction.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
@@ -27,7 +27,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>366</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>381</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:title><fr:link
 href="axt-0053.xml"
 type="local"
 addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
@@ -43,7 +43,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-0053.xml"
 type="local"
@@ -62,7 +62,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -106,7 +106,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>378</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -125,4 +125,4 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

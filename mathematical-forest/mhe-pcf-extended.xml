@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1941</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-pcf-extended</fr:addr><fr:route>mhe-pcf-extended.xml</fr:route><fr:title>PCF extended with real numbers</fr:title><fr:date><fr:year>1996</fr:year><fr:month>8</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1956</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-pcf-extended</fr:addr><fr:route>mhe-pcf-extended.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/mhe-pcf-extended.tree</fr:source-path><fr:title>PCF extended with real numbers</fr:title><fr:date><fr:year>1996</fr:year><fr:month>8</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
@@ -23,4 +23,4 @@ name="bibtex">%
   pages       = {79-115},
   publisher   = {Elsevier B.V},
   volume      = {162},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

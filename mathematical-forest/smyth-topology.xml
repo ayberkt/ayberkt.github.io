@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1956</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>smyth-topology</fr:addr><fr:route>smyth-topology.xml</fr:route><fr:title>Topology</fr:title><fr:date><fr:year>1993</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1971</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>smyth-topology</fr:addr><fr:route>smyth-topology.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/smyth-topology.tree</fr:source-path><fr:title>Topology</fr:title><fr:date><fr:year>1993</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="michael-smyth.xml"
 type="local"
 addr="michael-smyth">Michael B. Smyth</fr:link></fr:author></fr:authors><fr:meta
@@ -20,18 +20,18 @@ name="bibtex">%
   pages      = {641--761},
   publisher  = {Oxford University Press, Inc.},
   isbn       = {0-19-853735-2},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1954</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0030</fr:addr><fr:route>axt-0030.xml</fr:route><fr:title>Specialization preorder</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1969</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0030</fr:addr><fr:route>axt-0030.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0030.tree</fr:source-path><fr:title>Specialization preorder</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Defn 4.1.1</fr:strong> of <fr:link
 href="smyth-topology.xml"
 type="local"
-addr="smyth-topology">[Smyth93]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="smyth-topology">[Smyth93]</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a topological space. The <fr:strong>specialization preorder</fr:strong> on
   <fr:tex>X</fr:tex>, denoted <fr:tex>x   \le _{ X }  y</fr:tex>, is defined as follows:
   <fr:tex
@@ -42,7 +42,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1955</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1970</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Y.tree</fr:source-path><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. A subset <fr:tex>U  \subseteq  D</fr:tex> is called a
   <fr:em>Scott open</fr:em> if it satisfies the following conditions.
   <fr:ol><fr:li><fr:tex>U</fr:tex> is <fr:link

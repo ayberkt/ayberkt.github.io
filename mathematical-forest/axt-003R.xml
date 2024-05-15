@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>599</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>614</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003R.tree</fr:source-path><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -17,7 +17,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn 2.iii</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> be a universe. The <fr:strong>type of <fr:tex>\neg \neg</fr:tex>-stable
   propositions</fr:strong> at universe <fr:tex>\mathcal {U}</fr:tex> is defined as:
   <fr:tex
@@ -28,7 +28,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>596</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>611</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -47,4 +47,4 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

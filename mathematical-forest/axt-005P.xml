@@ -7,8 +7,8 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2229</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005P</fr:addr><fr:route>axt-005P.xml</fr:route><fr:title>Compact open of a locale</fr:title><fr:meta
-name="date-added">2024-04-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2247</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005P</fr:addr><fr:route>axt-005P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005P.tree</fr:source-path><fr:title>Compact open of a locale</fr:title><fr:meta
+name="date-added">2024-04-18</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> of a locale <fr:tex>X</fr:tex> is said to be <fr:strong>compact</fr:strong>
   if
   <fr:tex
@@ -21,12 +21,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2228</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:title>Spectral locale</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2246</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0024.tree</fr:source-path><fr:title>Spectral locale</fr:title><fr:meta
 name="date-added">2023-10-26</fr:meta><fr:meta
 name="source"><fr:strong>II.3.2</fr:strong> from <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A locale <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong> if it satisfies the following two
   conditions.
   <fr:ol><fr:li>

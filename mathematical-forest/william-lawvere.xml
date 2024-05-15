@@ -7,17 +7,17 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2874</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>william-lawvere</fr:addr><fr:route>william-lawvere.xml</fr:route><fr:title>William Lawvere</fr:title></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+root="false"><fr:frontmatter><fr:anchor>2894</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>william-lawvere</fr:addr><fr:route>william-lawvere.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/william-lawvere.tree</fr:source-path><fr:title>William Lawvere</fr:title><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2872</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001G</fr:addr><fr:route>axt-001G.xml</fr:route><fr:title>Hyperdoctrine</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2892</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001G</fr:addr><fr:route>axt-001G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001G.tree</fr:source-path><fr:title>Hyperdoctrine</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="william-lawvere.xml"
 type="local"
-addr="william-lawvere">William Lawvere</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="william-lawvere">William Lawvere</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathbb {C}</fr:tex> be category with finite products. A <fr:em>first order hyperdoctrine</fr:em>
   <fr:tex>\mathcal {P}</fr:tex> over <fr:tex>\mathbb {C}</fr:tex> is a contravariant functor <fr:tex>\mathcal {P}  :  { \mathbb {C} }^{ \mathsf {op}}   \to   \mathbf {Poset}</fr:tex>
   satisfying the following conditions.

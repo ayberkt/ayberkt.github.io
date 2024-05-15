@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1962</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-richman-varieties</fr:addr><fr:route>bridges-richman-varieties.xml</fr:route><fr:title>Varieties of constructive mathematics</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1977</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-richman-varieties</fr:addr><fr:route>bridges-richman-varieties.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/bridges-richman-varieties.tree</fr:source-path><fr:title>Varieties of constructive mathematics</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @book{bridges-richman-varieties,
   title        = {Varieties of Constructive Mathematics},
@@ -17,18 +17,18 @@ name="bibtex">%
   series       = {London Mathematical Society Lecture Note Series},
   volume       = 97,
   doi          = {10.1017/CBO9780511565663}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1958</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004A</fr:addr><fr:route>axt-004A.xml</fr:route><fr:title>Lesser Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1973</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004A</fr:addr><fr:route>axt-004A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004A.tree</fr:source-path><fr:title>Lesser Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:meta
 name="source">Defined in <fr:link
 href="bridges-richman-varieties.xml"
 type="local"
-addr="bridges-richman-varieties">Varieties of constructive mathematics</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="bridges-richman-varieties">Varieties of constructive mathematics</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>lesser limited principle of omniscience</fr:strong> (<fr:strong>LLPO</fr:strong> for short)
   states that for any binary sequence <fr:tex>\{  a_n  \} _{n  \in   \mathbb {N} }</fr:tex> that contains at
   most one <fr:tex>1</fr:tex>, either
@@ -43,11 +43,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1959</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001A</fr:addr><fr:route>axt-001A.xml</fr:route><fr:title>Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1974</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001A</fr:addr><fr:route>axt-001A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001A.tree</fr:source-path><fr:title>Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
 name="source">from page 3 of <fr:link
 href="bridges-richman-varieties.xml"
 type="local"
-addr="bridges-richman-varieties">Varieties</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="bridges-richman-varieties">Varieties</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:em>limited principle of omniscience</fr:em> (often abbreviated as <fr:strong>LPO</fr:strong>)
   says that, for any binary sequence <fr:tex>\{  a_n  \} _{n  \in   \mathbb {N} }</fr:tex>, either there
   exists some <fr:tex>n  \in   \mathbb {N}</fr:tex> such that <fr:tex>a_n = 1</fr:tex> or <fr:tex>a_n = 0</fr:tex> for all <fr:tex>n  \in     \mathbb {N}</fr:tex>.

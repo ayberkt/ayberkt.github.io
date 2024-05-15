@@ -7,10 +7,10 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>331</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005C</fr:addr><fr:route>axt-005C.xml</fr:route><fr:title>Scott computability</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>346</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005C</fr:addr><fr:route>axt-005C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005C.tree</fr:source-path><fr:title>Scott computability</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
-addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An element <fr:tex>x  \in  D</fr:tex> of on effectively given domain is said to be
   <fr:strong>Scott computable</fr:strong> if
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

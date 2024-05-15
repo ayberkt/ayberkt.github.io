@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1484</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001D</fr:addr><fr:route>axt-001D.xml</fr:route><fr:title>Algebraic dcpo in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1499</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001D</fr:addr><fr:route>axt-001D.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001D.tree</fr:source-path><fr:title>Algebraic dcpo in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -17,7 +17,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link>'s <fr:link
 href="tdj-thesis.xml"
 type="local"
-addr="tdj-thesis">PhD thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-thesis">PhD thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:tex>\mathcal {V}</fr:tex>-dcpo is <fr:em>algebraic</fr:em> if the propositional truncation of its
   <fr:link
 href="axt-001C.xml"
@@ -30,7 +30,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1481</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001C</fr:addr><fr:route>axt-001C.xml</fr:route><fr:title>Structural algebraicity of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1496</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001C</fr:addr><fr:route>axt-001C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001C.tree</fr:source-path><fr:title>Structural algebraicity of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -40,7 +40,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link>'s <fr:link
 href="tdj-thesis.xml"
 type="local"
-addr="tdj-thesis">PhD thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-thesis">PhD thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is called <fr:em>structurally algebraic</fr:em> if for every <fr:tex>x : D</fr:tex>
   we have a specified <fr:tex>I :  \mathcal {V}</fr:tex> and directed <fr:em>compact family</fr:em> <fr:tex>\kappa  : I    \to  D</fr:tex> such that <fr:tex>\kappa</fr:tex> has supremum <fr:tex>x</fr:tex> and each element <fr:tex>\kappa (i)</fr:tex>
   is compact.
@@ -51,9 +51,9 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1483</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>tom-de-jong</fr:addr><fr:route>tom-de-jong.xml</fr:route><fr:title>Tom de Jong</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1498</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>tom-de-jong</fr:addr><fr:route>tom-de-jong.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/tom-de-jong.tree</fr:source-path><fr:title>Tom de Jong</fr:title><fr:meta
 name="orcid">0000-0003-1585-3172</fr:meta><fr:meta
-name="external">https://tdejong.com/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https://tdejong.com/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Standard abbreviation: <fr:code>tdj</fr:code>.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -62,7 +62,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1479</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1494</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-thesis.tree</fr:source-path><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -74,4 +74,4 @@ name="bibtex">%
   school      = {University of Birmingham},
   location    = {Birmingham B15 2TT, UK},
   uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

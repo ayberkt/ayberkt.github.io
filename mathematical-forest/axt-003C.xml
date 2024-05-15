@@ -7,13 +7,13 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>666</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>681</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003C.tree</fr:source-path><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>directed-complete partial order</fr:strong> is a poset <fr:tex>(D,  \sqsubseteq )</fr:tex>
   that is directed-complete i.e. one in which joins of all directed subsets
   exist.
@@ -24,14 +24,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>664</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>679</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003B.tree</fr:source-path><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
 name="date-added">2023-11-06</fr:meta><fr:meta
 name="source"><fr:strong>Defn. 8.1</fr:strong> of <fr:link
 href="foo"
-type="external">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>pointed dcpo</fr:strong> is a <fr:link
 href="axt-003C.xml"
 type="local"

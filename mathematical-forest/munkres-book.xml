@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1936</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>munkres-book</fr:addr><fr:route>munkres-book.xml</fr:route><fr:title>Topology</fr:title><fr:date><fr:year>2000</fr:year></fr:date><fr:authors><fr:author>James R. Munkres</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1951</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>munkres-book</fr:addr><fr:route>munkres-book.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/munkres-book.tree</fr:source-path><fr:title>Topology</fr:title><fr:date><fr:year>2000</fr:year></fr:date><fr:authors><fr:author>James R. Munkres</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @book{munkres-book,
   title     = {Topology},
@@ -17,17 +17,17 @@ name="bibtex">%
   edition   = {2},
   location  = {Upper Saddle River, NJ 07458},
   isbn      = {0-13-181629-2},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1934</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Q</fr:addr><fr:route>axt-000Q.xml</fr:route><fr:title>Hausdorff space (point-set)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>James R. Munkres</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1949</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Q</fr:addr><fr:route>axt-000Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000Q.tree</fr:source-path><fr:title>Hausdorff space (point-set)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>James R. Munkres</fr:author></fr:authors><fr:meta
 name="source"><fr:link
 href="munkres-book.xml"
 type="local"
-addr="munkres-book">Topology by Munkres</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="munkres-book">Topology by Munkres</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is called <fr:em>Hausdorff</fr:em> if for any two distinct points <fr:tex>x_1,   x_2  \in  X</fr:tex>, there exist a <fr:em>disjoint</fr:em> pair of open neighbourhoods <fr:tex>U_1, U_2    \in   \mathcal {O}( X )</fr:tex>, of <fr:tex>x_1</fr:tex> and <fr:tex>x_2</fr:tex>.
 </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

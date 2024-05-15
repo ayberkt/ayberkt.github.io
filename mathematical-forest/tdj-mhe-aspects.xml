@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1758</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1773</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -26,24 +26,24 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1757</fr:anchor><fr:addr>tdj-bibliography</fr:addr><fr:route>tdj-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+root="false"><fr:frontmatter><fr:anchor>1772</fr:anchor><fr:addr>tdj-bibliography</fr:addr><fr:route>tdj-bibliography.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-bibliography.tree</fr:source-path><fr:title>Bibliography of <fr:link
 href="tom-de-jong.xml"
 type="local"
-addr="tom-de-jong">Tom de Jong</fr:link>'s work</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:tree
+addr="tom-de-jong">Tom de Jong</fr:link>'s work</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>784</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>799</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-thesis.tree</fr:source-path><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -55,14 +55,14 @@ name="bibtex">%
   school      = {University of Birmingham},
   location    = {Birmingham B15 2TT, UK},
   uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>786</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>801</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -81,14 +81,14 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>804</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-scott-model.tree</fr:source-path><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -103,14 +103,14 @@ name="bibtex">%
   number       = {10},
   issuetitle   = {Homotopy Type Theory 2019},
   doi          = {10.1017/S0960129521000153},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>806</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-dt.tree</fr:source-path><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -139,14 +139,14 @@ name="bibtex">%
                    Expanded version with full proofs available on arXiv:
                    \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
                  },
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1735</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>1750</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:title><fr:link
 href="axt-0053.xml"
 type="local"
 addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
@@ -162,7 +162,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-0053.xml"
 type="local"
@@ -181,7 +181,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -225,7 +225,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1738</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1753</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0053.tree</fr:source-path><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -235,7 +235,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Definition 51</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
   in universe <fr:tex>\mathcal {U}</fr:tex> and order taking values in <fr:tex>\mathcal {V}</fr:tex> has a greatest monotone
   inflationary endofunction.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -245,7 +245,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1741</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003T</fr:addr><fr:route>axt-003T.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1756</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003T</fr:addr><fr:route>axt-003T.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003T.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -255,7 +255,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Thm. 48</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes.
   If <fr:link
 href="axt-003S.xml"
@@ -272,7 +272,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1744</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1759</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003S.tree</fr:source-path><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -282,7 +282,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 47</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex>, <fr:tex>\mathcal {V}</fr:tex>, and <fr:tex>\mathcal {W}</fr:tex> be universes. <fr:strong>Zorn’s Lemma at
   <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex></fr:strong> asserts that every pointed <fr:link
 href="axt-0021.xml"
@@ -300,11 +300,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1747</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003Q</fr:addr><fr:route>axt-003Q.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1762</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003Q</fr:addr><fr:route>axt-003Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003Q.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Prop. 3.i</fr:strong> from <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:link
 href="axt-003P.xml"
 type="local"
@@ -321,7 +321,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1748</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1763</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003M.tree</fr:source-path><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -331,7 +331,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 1</fr:strong> from <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. A type <fr:tex>X :  \mathcal {U}</fr:tex> is called
   <fr:strong><fr:tex>\mathcal {V}</fr:tex>-small</fr:strong> if it has a copy in universe <fr:tex>\mathcal {V}</fr:tex>, which is
   to say
@@ -343,7 +343,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1751</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1766</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003R.tree</fr:source-path><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -353,7 +353,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn 2.iii</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> be a universe. The <fr:strong>type of <fr:tex>\neg \neg</fr:tex>-stable
   propositions</fr:strong> at universe <fr:tex>\mathcal {U}</fr:tex> is defined as:
   <fr:tex
@@ -364,7 +364,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1754</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1769</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003P.tree</fr:source-path><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
@@ -374,7 +374,7 @@ addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Defn 2.ii</fr:strong> from <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that the type <fr:tex>\Omega _{ \mathcal {U} }</fr:tex> is
   <fr:link
 href="axt-003M.xml"

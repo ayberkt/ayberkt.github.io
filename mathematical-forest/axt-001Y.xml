@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1354</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1369</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Y.tree</fr:source-path><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. A subset <fr:tex>U  \subseteq  D</fr:tex> is called a
   <fr:em>Scott open</fr:em> if it satisfies the following conditions.
   <fr:ol><fr:li><fr:tex>U</fr:tex> is <fr:link
@@ -33,7 +33,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1352</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Z</fr:addr><fr:route>axt-001Z.xml</fr:route><fr:title>Upwards-closed subset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1367</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Z</fr:addr><fr:route>axt-001Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Z.tree</fr:source-path><fr:title>Upwards-closed subset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(X,  \le )</fr:tex> be a poset. A subset <fr:tex>A  \subseteq  X</fr:tex> is <fr:em>upwards-closed</fr:em>
   if it satisfies
   <fr:tex
@@ -44,18 +44,18 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1353</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>michael-smyth</fr:addr><fr:route>michael-smyth.xml</fr:route><fr:title>Michael B. Smyth</fr:title></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+root="false"><fr:frontmatter><fr:anchor>1368</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>michael-smyth</fr:addr><fr:route>michael-smyth.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/michael-smyth.tree</fr:source-path><fr:title>Michael B. Smyth</fr:title><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1349</fr:anchor><fr:taxon>Exercise</fr:taxon><fr:addr>axt-003W</fr:addr><fr:route>axt-003W.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>13</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1364</fr:anchor><fr:taxon>Exercise</fr:taxon><fr:addr>axt-003W</fr:addr><fr:route>axt-003W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003W.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>13</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Ex. 4.2.19</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathbb {R} _{ \sigma }</fr:tex> be the <fr:link
 href="axt-001X.xml"
 type="local"
@@ -77,7 +77,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1350</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1365</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be an <fr:link
 href="axt-001S.xml"
 type="local"
@@ -94,7 +94,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1016</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>1031</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p><fr:tex>( \impliedby )</fr:tex> This direction follows directly from the <fr:link
 href="axt-001Z.xml"
 type="local"
@@ -131,7 +131,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1351</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001X</fr:addr><fr:route>axt-001X.xml</fr:route><fr:title>Scott space of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1366</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001X</fr:addr><fr:route>axt-001X.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001X.tree</fr:source-path><fr:title>Scott space of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. The <fr:em>Scott space</fr:em> of <fr:tex>D</fr:tex> is the
   topological space <fr:tex>(D,  \sigma ( D ) )</fr:tex> whose open sets are given by the class
   <fr:tex>\sigma ( D )</fr:tex> of <fr:link
@@ -145,7 +145,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1347</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>smyth-topology</fr:addr><fr:route>smyth-topology.xml</fr:route><fr:title>Topology</fr:title><fr:date><fr:year>1993</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1362</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>smyth-topology</fr:addr><fr:route>smyth-topology.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/smyth-topology.tree</fr:source-path><fr:title>Topology</fr:title><fr:date><fr:year>1993</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="michael-smyth.xml"
 type="local"
 addr="michael-smyth">Michael B. Smyth</fr:link></fr:author></fr:authors><fr:meta
@@ -158,4 +158,4 @@ name="bibtex">%
   pages      = {641--761},
   publisher  = {Oxford University Press, Inc.},
   isbn       = {0-19-853735-2},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

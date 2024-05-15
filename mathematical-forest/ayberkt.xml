@@ -7,41 +7,41 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2143</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>ayberkt</fr:addr><fr:route>ayberkt.xml</fr:route><fr:title>Ayberk Tosun</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2161</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>ayberkt</fr:addr><fr:route>ayberkt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/ayberkt.tree</fr:source-path><fr:title>Ayberk Tosun</fr:title><fr:meta
 name="external">https://www.cs.bham.ac.uk/~axt978/</fr:meta><fr:meta
 name="institution">University of Birmingham</fr:meta><fr:meta
-name="orcid">0000-0002-0190-3020</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>PhD Student at the University of Birmingham.</fr:p></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="orcid">0000-0002-0190-3020</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>PhD Student at the University of Birmingham.</fr:p></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2068</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2085</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0065.tree</fr:source-path><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor>Bertrand Russell</fr:contributor></fr:authors><fr:meta
 name="source">notes from a talk by <fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Escardó</fr:link>, with some additions by <fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+addr="ayberkt">Ayberk Tosun</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Z.tree</fr:source-path><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all sets of a given type gives a set of the next type.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -50,11 +50,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
-name="source">pp. 241 of <fr:link
+root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0067.tree</fr:source-path><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
+name="source">pp. 241-244 of <fr:link
 href="br-logic-based-on-tt.xml"
 type="local"
-addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
   (i.e. propositional function) can be expressed by a formally equivalent
   <fr:em>predicative</fr:em> truth function.
@@ -68,11 +68,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Y.tree</fr:source-path><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all types in the first universe gives a type in the first
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -85,7 +85,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0060.tree</fr:source-path><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -94,7 +94,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0061.tree</fr:source-path><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is not</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -103,7 +103,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0062.tree</fr:source-path><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over the types in one universe gives a type in the next
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -118,7 +118,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0066.tree</fr:source-path><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   This is the same as <fr:link
 href="axt-0062.xml"
 type="local"
@@ -132,7 +132,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0063.tree</fr:source-path><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Voevodsky’s <fr:link
 href="axt-0030.xml"
 type="local"
@@ -152,7 +152,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0064.tree</fr:source-path><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Any theory that has the strength of the Feferman-Schütte ordinal or above is
   deemed to be impredicative.
 </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
@@ -162,10 +162,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2071</fr:anchor><fr:addr>axt-004W</fr:addr><fr:route>axt-004W.xml</fr:route><fr:title>Supercompactness in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2089</fr:anchor><fr:addr>axt-004W</fr:addr><fr:route>axt-004W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004W.tree</fr:source-path><fr:title>Supercompactness in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a large and locally small locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex>
   is called <fr:strong>supercompact</fr:strong> if for any small inhabited family
   <fr:tex>(I, V_{(-)})</fr:tex>,
@@ -177,10 +177,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2073</fr:anchor><fr:addr>axt-004V</fr:addr><fr:route>axt-004V.xml</fr:route><fr:title>Superspectral locale in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2091</fr:anchor><fr:addr>axt-004V</fr:addr><fr:route>axt-004V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004V.tree</fr:source-path><fr:title>Superspectral locale in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A large and locally small locale <fr:tex>X</fr:tex> is called <fr:strong>superspectral</fr:strong> if
   it satisfies the following conditions:
   <fr:ol><fr:li><fr:tex>X</fr:tex> is a <fr:link
@@ -212,13 +212,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2075</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-004K</fr:addr><fr:route>axt-004K.xml</fr:route><fr:title>Topologies on ordered sets</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2093</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-004K</fr:addr><fr:route>axt-004K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004K.tree</fr:source-path><fr:title>Topologies on ordered sets</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
-addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Given a preordered set <fr:tex>(A,  \le )</fr:tex>, there are a couple of natural topologies
   on it to consider.
 </fr:p><fr:p>
@@ -240,7 +240,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>325</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003U.tree</fr:source-path><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -248,7 +248,7 @@ name="date-added">2023-11-13</fr:meta><fr:meta
 name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
   is given by the class of <fr:link
 href="axt-001Z.xml"
@@ -265,8 +265,8 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:meta
-name="date-added">2024-04-20</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>327</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Q.tree</fr:source-path><fr:meta
+name="date-added">2024-04-20</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
 href="axt-0030.xml"
 type="local"
@@ -286,7 +286,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Q.tree</fr:source-path><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p>
   The <fr:link
 href="axt-0030.xml"
@@ -320,12 +320,12 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>313</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:meta
+root="false"><fr:frontmatter><fr:anchor>328</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005R.tree</fr:source-path><fr:meta
 name="date-added">2024-04-24</fr:meta><fr:meta
 name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
 href="axt-003U.xml"
 type="local"
@@ -345,7 +345,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005R.tree</fr:source-path><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
   Let <fr:tex>\mathcal {T}</fr:tex> be a topology on <fr:tex>A</fr:tex> such that the specialization preorder
   <fr:tex>\le _{ \mathcal {T}}</fr:tex> coincides with the order <fr:tex>\le</fr:tex>. Let <fr:tex>U  \subseteq  A</fr:tex> be
   a <fr:tex>\mathcal {T}</fr:tex>-open. The open subset <fr:tex>U</fr:tex> must be <fr:link
@@ -367,7 +367,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005V</fr:addr><fr:route>axt-005V.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005V</fr:addr><fr:route>axt-005V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Given a preordered set <fr:tex>(A,  \le )</fr:tex>, the <fr:link
 href="axt-003U.xml"
 type="local"
@@ -384,7 +384,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date><fr:parent>axt-005V</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date><fr:parent>axt-005V</fr:parent></fr:frontmatter><fr:mainmatter>
   We know by <fr:link
 href="axt-005Q.xml"
 type="local"
@@ -417,11 +417,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>331</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004L.tree</fr:source-path><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
-name="date-added">2024-01-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="date-added">2024-01-13</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>upper topology</fr:strong> of <fr:tex>X</fr:tex> is the
   one generated by the subbasis consisting of complements of principal ideals.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -431,7 +431,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004S</fr:addr><fr:route>axt-004S.xml</fr:route><fr:title>Lower topology</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>333</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004S</fr:addr><fr:route>axt-004S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004S.tree</fr:source-path><fr:title>Lower topology</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>lower topology</fr:strong> on <fr:tex>X</fr:tex> is
   the topology generated by the subbasis consisting of complements of principal
   filters.
@@ -442,13 +442,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2078</fr:anchor><fr:taxon>Idea</fr:taxon><fr:addr>axt-004D</fr:addr><fr:route>axt-004D.xml</fr:route><fr:title>Maxsets in a predicative setting</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2096</fr:anchor><fr:taxon>Idea</fr:taxon><fr:addr>axt-004D</fr:addr><fr:route>axt-004D.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004D.tree</fr:source-path><fr:title>Maxsets in a predicative setting</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="todd-wilson.xml"
 type="local"
-addr="todd-wilson">J. Todd Wilson</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   In impredicative locale theory, the notion of a <fr:link
 href="axt-003I.xml"
 type="local"
@@ -461,7 +461,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>447</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003I.tree</fr:source-path><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
 href="todd-wilson.xml"
 type="local"
 addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
@@ -469,7 +469,7 @@ name="date-added">2023-11-08</fr:meta><fr:meta
 name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
 href="wilson-thesis.xml"
 type="local"
-addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a <fr:link
 href="axt-003J.xml"
 type="local"
@@ -489,7 +489,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>449</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004F.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame and <fr:tex>j : L  \to  L</fr:tex> a nucleus on it. The set of fixed
   points of <fr:tex>j</fr:tex> forms a <fr:link
 href="axt-003I.xml"
@@ -505,7 +505,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>424</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>439</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004F.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
   We need to show that <fr:tex>\mathfrak {F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</fr:tex> is
   (1) closed under arbitrary meets and is (2) an exponential ideal.
   <fr:ol><fr:li>
@@ -542,10 +542,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2081</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004B</fr:addr><fr:route>axt-004B.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2099</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004B</fr:addr><fr:route>axt-004B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004B.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a small-complete and large and locally small lattice with a <fr:link
 href="axt-0022.xml"
 type="local"
@@ -559,7 +559,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>451</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>466</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004B.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:parent>axt-004B</fr:parent></fr:frontmatter><fr:mainmatter>
@@ -590,7 +590,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2083</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0046</fr:addr><fr:route>axt-0046.xml</fr:route><fr:title>Fixed point theorems</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2101</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0046</fr:addr><fr:route>axt-0046.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0046.tree</fr:source-path><fr:title>Fixed point theorems</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
@@ -599,20 +599,20 @@ type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:contributor><fr:contributor><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>469</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>484</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003F.tree</fr:source-path><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
-addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a <fr:link
 href="axt-003B.xml"
 type="local"
@@ -629,7 +629,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>475</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>490</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0045.tree</fr:source-path><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -639,7 +639,7 @@ addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><f
 name="source"><fr:strong>Defn 2.35</fr:strong> of <fr:link
 href="davey-priestley-book.xml"
 type="local"
-addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a complete lattice and <fr:tex>F : L  \to  L</fr:tex> a monotone map.
   Then the set
   <fr:tex
@@ -655,7 +655,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>487</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0045.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
@@ -683,13 +683,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2087</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2105</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0033.tree</fr:source-path><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>extensional spectral basis</fr:strong> <fr:tex>(B,  \beta )</fr:tex> for a
   <fr:link
 href="axt-0008.xml"
@@ -709,13 +709,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2090</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2108</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0032.tree</fr:source-path><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
 href="axt-0008.xml"
 type="local"
@@ -747,7 +747,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2093</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2111</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002S.tree</fr:source-path><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -757,7 +757,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 3.5</fr:strong> of <fr:link
 href="patch-mfps.xml"
 type="local"
-addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> is called
   <fr:strong>compact</fr:strong> if the principal filter on <fr:tex>U</fr:tex> is inaccessible by joins
   of directed <fr:link
@@ -771,7 +771,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2096</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2114</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002O.tree</fr:source-path><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -780,7 +780,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:link
 href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903"
-type="external">Defn. in TypeTopology</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external">Defn. in TypeTopology</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:em>initial frame</fr:em> at universe <fr:tex>\mathcal {U}</fr:tex> in UF is <fr:link
 href="axt-003K.xml"
 type="local"
@@ -801,13 +801,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2099</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2117</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Q.tree</fr:source-path><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0008.xml"
 type="local"
@@ -830,26 +830,26 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2102</fr:anchor><fr:addr>axt-002P</fr:addr><fr:route>axt-002P.xml</fr:route><fr:title>Terminology for locale theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2120</fr:anchor><fr:addr>axt-002P</fr:addr><fr:route>axt-002P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002P.tree</fr:source-path><fr:title>Terminology for locale theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>820</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Q.tree</fr:source-path><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0008.xml"
 type="local"
@@ -889,13 +889,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0032.tree</fr:source-path><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
 href="axt-0008.xml"
 type="local"
@@ -927,13 +927,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>811</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>826</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0033.tree</fr:source-path><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>extensional spectral basis</fr:strong> <fr:tex>(B,  \beta )</fr:tex> for a
   <fr:link
 href="axt-0008.xml"
@@ -953,13 +953,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>814</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>829</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002R.tree</fr:source-path><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0008.xml"
 type="local"
@@ -978,13 +978,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2105</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2123</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002R.tree</fr:source-path><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0008.xml"
 type="local"
@@ -1003,7 +1003,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2108</fr:anchor><fr:addr>axt-002L</fr:addr><fr:route>axt-002L.xml</fr:route><fr:title>Preliminary notions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2126</fr:anchor><fr:addr>axt-002L</fr:addr><fr:route>axt-002L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002L.tree</fr:source-path><fr:title>Preliminary notions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
@@ -1012,7 +1012,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:contributor><fr:contributor><fr:link
 href="tom-de-jong.xml"
 type="local"
-addr="tom-de-jong">Tom de Jong</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tom-de-jong">Tom de Jong</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   In our presentation here, we decouple the notion of a basis for a
   <fr:link
 href="axt-0021.xml"
@@ -1052,7 +1052,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>862</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0022</fr:addr><fr:route>axt-0022.xml</fr:route><fr:title>Intensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>877</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0022</fr:addr><fr:route>axt-0022.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0022.tree</fr:source-path><fr:title>Intensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -1061,7 +1061,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1082,7 +1082,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>866</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>881</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0028.tree</fr:source-path><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -1091,7 +1091,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1111,7 +1111,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2112</fr:anchor><fr:addr>axt-002M</fr:addr><fr:route>axt-002M.xml</fr:route><fr:title>Terminology for domain theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2130</fr:anchor><fr:addr>axt-002M</fr:addr><fr:route>axt-002M.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002M.tree</fr:source-path><fr:title>Terminology for domain theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -1120,7 +1120,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   In <fr:link
 href="tom-de-jong.xml"
 type="local"
@@ -1144,7 +1144,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>732</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002H</fr:addr><fr:route>axt-002H.xml</fr:route><fr:title>Continuity datum for a <fr:link
+root="false"><fr:frontmatter><fr:anchor>747</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002H</fr:addr><fr:route>axt-002H.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002H.tree</fr:source-path><fr:title>Continuity datum for a <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1153,7 +1153,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em>continuity datum</fr:em> for a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1185,7 +1185,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>735</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-001K</fr:addr><fr:route>axt-001K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>750</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-001K</fr:addr><fr:route>axt-001K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
@@ -1195,7 +1195,7 @@ type="local"
 addr="tom-de-jong">de Jong</fr:link>'s <fr:link
 href="tdj-thesis.xml"
 type="local"
-addr="tdj-thesis">PhD thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-thesis">PhD thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1228,7 +1228,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002I</fr:addr><fr:route>axt-002I.xml</fr:route><fr:title>Continuous <fr:link
+root="false"><fr:frontmatter><fr:anchor>752</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002I</fr:addr><fr:route>axt-002I.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002I.tree</fr:source-path><fr:title>Continuous <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1237,7 +1237,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1253,7 +1253,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>740</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0029</fr:addr><fr:route>axt-0029.xml</fr:route><fr:title>Pseudocontinuous <fr:link
+root="false"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0029</fr:addr><fr:route>axt-0029.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0029.tree</fr:source-path><fr:title>Pseudocontinuous <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1262,7 +1262,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1282,13 +1282,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>743</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>axt-0031</fr:addr><fr:route>axt-0031.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>758</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>axt-0031</fr:addr><fr:route>axt-0031.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0031.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1309,13 +1309,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>746</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002D</fr:addr><fr:route>axt-002D.xml</fr:route><fr:title>Intensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002D</fr:addr><fr:route>axt-002D.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002D.tree</fr:source-path><fr:title>Intensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>intensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
   <fr:link
 href="axt-0022.xml"
@@ -1334,13 +1334,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>749</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002E</fr:addr><fr:route>axt-002E.xml</fr:route><fr:title>Extensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>764</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002E</fr:addr><fr:route>axt-002E.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002E.tree</fr:source-path><fr:title>Extensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>extensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
   <fr:link
 href="axt-002D.xml"
@@ -1356,7 +1356,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>752</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002B</fr:addr><fr:route>axt-002B.xml</fr:route><fr:title>Algebraicity datum for a <fr:link
+root="false"><fr:frontmatter><fr:anchor>767</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002B</fr:addr><fr:route>axt-002B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002B.tree</fr:source-path><fr:title>Algebraicity datum for a <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1365,7 +1365,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>algebraicity datum</fr:em> for a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1408,13 +1408,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-002A</fr:addr><fr:route>axt-002A.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>770</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-002A</fr:addr><fr:route>axt-002A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002A.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1434,7 +1434,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>758</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001L</fr:addr><fr:route>axt-001L.xml</fr:route><fr:title>Algebraic <fr:link
+root="false"><fr:frontmatter><fr:anchor>773</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001L</fr:addr><fr:route>axt-001L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001L.tree</fr:source-path><fr:title>Algebraic <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1443,7 +1443,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1459,7 +1459,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:title>Algebraic <fr:link
+root="false"><fr:frontmatter><fr:anchor>776</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002C.tree</fr:source-path><fr:title>Algebraic <fr:link
 href="axt-0021.xml"
 type="local"
 addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> (alternative)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
@@ -1468,7 +1468,7 @@ type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1491,13 +1491,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>764</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002F</fr:addr><fr:route>axt-002F.xml</fr:route><fr:title>Intensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002F</fr:addr><fr:route>axt-002F.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002F.tree</fr:source-path><fr:title>Intensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>intensional algebraic basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an <fr:link
 href="axt-0022.xml"
 type="local"
@@ -1511,13 +1511,13 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>767</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002G</fr:addr><fr:route>axt-002G.xml</fr:route><fr:title>Extensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>782</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002G</fr:addr><fr:route>axt-002G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002G.tree</fr:source-path><fr:title>Extensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>extensional algebraic basis</fr:em> for a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1537,7 +1537,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2116</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2134</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0028.tree</fr:source-path><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -1546,7 +1546,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1566,7 +1566,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2120</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0022</fr:addr><fr:route>axt-0022.xml</fr:route><fr:title>Intensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2138</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0022</fr:addr><fr:route>axt-0022.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0022.tree</fr:source-path><fr:title>Intensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -1575,7 +1575,7 @@ type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be a <fr:link
 href="axt-0021.xml"
 type="local"
@@ -1596,13 +1596,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2124</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0023</fr:addr><fr:route>axt-0023.xml</fr:route><fr:title>Large and locally small locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2142</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0023</fr:addr><fr:route>axt-0023.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0023.tree</fr:source-path><fr:title>Large and locally small locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A locale <fr:tex>X</fr:tex> is called <fr:em>large and locally small</fr:em> if it is given by
   a <fr:tex>( \mathcal {U} ^+,  \mathcal {U} ,  \mathcal {U} )</fr:tex>-frame.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -1612,13 +1612,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2127</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2145</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001P.tree</fr:source-path><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The following is the summary of my understanding of <fr:link
 href="john-longley.xml"
 type="local"
@@ -1678,10 +1678,10 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1409</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -1716,7 +1716,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2130</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0008</fr:addr><fr:route>axt-0008.xml</fr:route><fr:title>Frame (type-theoretic)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2148</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0008</fr:addr><fr:route>axt-0008.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0008.tree</fr:source-path><fr:title>Frame (type-theoretic)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -1726,7 +1726,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 2.4</fr:strong> from <fr:link
 href="patch-mfps.xml"
 type="local"
-addr="patch-mfps">Patch MFPS</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="patch-mfps">Patch MFPS</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-frame <fr:tex>L</fr:tex> consists of a
   <fr:ol><fr:li>a type <fr:tex>|L| :  \mathcal {U}</fr:tex></fr:li>
     <fr:li>a partial order <fr:tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal {V} }</fr:tex>,</fr:li>
@@ -1751,7 +1751,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2133</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2151</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/patch-mfps.tree</fr:source-path><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -1768,14 +1768,14 @@ name="bibtex">%
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2136</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2154</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tc-at-ft.tree</fr:source-path><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="thierry-coquand.xml"
 type="local"
 addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
@@ -1792,14 +1792,14 @@ name="bibtex">%
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2139</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2157</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/msc-thesis.tree</fr:source-path><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
@@ -1813,17 +1813,17 @@ name="bibtex">%
   school    = {{Chalmers} {University} of {Technology}},
   address   = {Gothenburg, Sweden},
   type      = {MSc thesis},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>2141</fr:anchor><fr:addr>axt-0001</fr:addr><fr:route>index.xml</fr:route><fr:title>The root of my forest</fr:title><fr:authors><fr:author><fr:link
+root="true"><fr:frontmatter><fr:anchor>2159</fr:anchor><fr:addr>axt-0001</fr:addr><fr:route>index.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0001.tree</fr:source-path><fr:title>The root of my forest</fr:title><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>This forest is a draft!</fr:strong></fr:p><fr:p>
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>This forest is a draft!</fr:strong></fr:p><fr:p>
   This <fr:link
 href="https://www.jonmsterling.com/tfmt-000V.xml"
 type="external">forest</fr:link> is currently a work
@@ -1841,31 +1841,31 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2064</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2080</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0065.tree</fr:source-path><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor>Bertrand Russell</fr:contributor></fr:authors><fr:meta
 name="source">notes from a talk by <fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Escardó</fr:link>, with some additions by <fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+addr="ayberkt">Ayberk Tosun</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Z.tree</fr:source-path><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all sets of a given type gives a set of the next type.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -1874,11 +1874,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
-name="source">pp. 241 of <fr:link
+root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0067.tree</fr:source-path><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
+name="source">pp. 241-244 of <fr:link
 href="br-logic-based-on-tt.xml"
 type="local"
-addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
   (i.e. propositional function) can be expressed by a formally equivalent
   <fr:em>predicative</fr:em> truth function.
@@ -1892,11 +1892,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Y.tree</fr:source-path><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all types in the first universe gives a type in the first
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -1909,7 +1909,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0060.tree</fr:source-path><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -1918,7 +1918,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0061.tree</fr:source-path><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is not</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -1927,7 +1927,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0062.tree</fr:source-path><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over the types in one universe gives a type in the next
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -1942,7 +1942,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0066.tree</fr:source-path><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   This is the same as <fr:link
 href="axt-0062.xml"
 type="local"
@@ -1956,7 +1956,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0063.tree</fr:source-path><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Voevodsky’s <fr:link
 href="axt-0030.xml"
 type="local"
@@ -1976,7 +1976,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0064.tree</fr:source-path><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Any theory that has the strength of the Feferman-Schütte ordinal or above is
   deemed to be impredicative.
 </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
@@ -1986,17 +1986,17 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2067</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>at-bibliography</fr:addr><fr:route>at-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+root="false"><fr:frontmatter><fr:anchor>2084</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>at-bibliography</fr:addr><fr:route>at-bibliography.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/at-bibliography.tree</fr:source-path><fr:title>Bibliography of <fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:title></fr:frontmatter><fr:mainmatter><fr:tree
+addr="ayberkt">Ayberk Tosun</fr:link></fr:title><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1682</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1697</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/msc-thesis.tree</fr:source-path><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
@@ -2010,14 +2010,14 @@ name="bibtex">%
   school    = {{Chalmers} {University} of {Technology}},
   address   = {Gothenburg, Sweden},
   type      = {MSc thesis},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1684</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1699</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tc-at-ft.tree</fr:source-path><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="thierry-coquand.xml"
 type="local"
 addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
@@ -2034,14 +2034,14 @@ name="bibtex">%
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1687</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1702</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/patch-mfps.tree</fr:source-path><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
@@ -2058,4 +2058,4 @@ name="bibtex">%
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

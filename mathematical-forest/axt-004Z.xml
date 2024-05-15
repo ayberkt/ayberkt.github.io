@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>382</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004Z</fr:addr><fr:route>axt-004Z.xml</fr:route><fr:title>Characterization of Scott continuity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>31</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004Z</fr:addr><fr:route>axt-004Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004Z.tree</fr:source-path><fr:title>Characterization of Scott continuity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>31</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Proposition 2.2.11</fr:strong> of <fr:link
 href="abramsky-jung-dt.xml"
 type="local"
-addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><html:mark
+addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><html:mark
 xmlns:html="http://www.w3.org/1999/xhtml">TODO</html:mark>: complete.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -20,7 +20,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>378</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>393</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/abramsky-jung-dt.tree</fr:source-path><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="samson-abramsky.xml"
 type="local"
 addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
@@ -36,4 +36,4 @@ name="bibtex">@inbook{abramsky-jung-dt,
   booktitle = {Handbook of Logic in Computer Science (Vol. 3): Semantic Structures},
   pages     = {1–168},
   numpages  = {168},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

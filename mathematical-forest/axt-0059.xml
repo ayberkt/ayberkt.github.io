@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2698</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0059</fr:addr><fr:route>axt-0059.xml</fr:route><fr:title>The Baire property</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2718</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0059</fr:addr><fr:route>axt-0059.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0059.tree</fr:source-path><fr:title>The Baire property</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -15,7 +15,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>11</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A space <fr:tex>X</fr:tex> is called <fr:strong>Baire</fr:strong> if the intersection of countably
   many dense open subsets of <fr:tex>X</fr:tex> is still dense in <fr:tex>X</fr:tex>.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
@@ -25,7 +25,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2696</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2716</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005A.tree</fr:source-path><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -33,7 +33,7 @@ name="date-added">2024-02-08</fr:meta><fr:meta
 name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Every <fr:link
 href="axt-0057.xml"
 type="local"
@@ -48,7 +48,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2694</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2714</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/jgl-non-hausdorff.tree</fr:source-path><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -62,4 +62,4 @@ name="bibtex">%
   isbn         = {978-1-107-03413-6},
   volume       = {22},
   series       = {New mathematical monographs},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

@@ -7,18 +7,18 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2693</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>steve-awodey</fr:addr><fr:route>steve-awodey.xml</fr:route><fr:title>Steve Awodey</fr:title><fr:meta
-name="external">https://awodey.github.io/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+root="false"><fr:frontmatter><fr:anchor>2713</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>steve-awodey</fr:addr><fr:route>steve-awodey.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/steve-awodey.tree</fr:source-path><fr:title>Steve Awodey</fr:title><fr:meta
+name="external">https://awodey.github.io/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2689</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2709</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Q.tree</fr:source-path><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="steve-awodey.xml"
 type="local"
-addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> be two categories. An <fr:em>adjunction</fr:em> between
   <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> consists of functors <fr:tex>F :  \mathbb {C}   \to   \mathbb {D}</fr:tex> and
   <fr:tex>U :  \mathbb {D}   \to   \mathbb {C}</fr:tex> equipped with a natural transformation
@@ -51,7 +51,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2691</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>awodey-ct-book</fr:addr><fr:route>awodey-ct-book.xml</fr:route><fr:title>Category Theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2711</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>awodey-ct-book</fr:addr><fr:route>awodey-ct-book.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/awodey-ct-book.tree</fr:source-path><fr:title>Category Theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="steve-awodey.xml"
 type="local"
 addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors><fr:meta
@@ -66,17 +66,17 @@ name="bibtex">%
   publisher    = {Oxford University Press},
   series       = {Oxford Logic Guides},
   volume       = {52},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2687</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2707</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Q.tree</fr:source-path><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="steve-awodey.xml"
 type="local"
-addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> be two categories. An <fr:em>adjunction</fr:em> between
   <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> consists of functors <fr:tex>F :  \mathbb {C}   \to   \mathbb {D}</fr:tex> and
   <fr:tex>U :  \mathbb {D}   \to   \mathbb {C}</fr:tex> equipped with a natural transformation

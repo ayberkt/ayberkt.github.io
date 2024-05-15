@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Y.tree</fr:source-path><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all types in the first universe gives a type in the first
   universe.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
@@ -21,31 +21,31 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>267</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0065.tree</fr:source-path><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor>Bertrand Russell</fr:contributor></fr:authors><fr:meta
 name="source">notes from a talk by <fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Escardó</fr:link>, with some additions by <fr:link
 href="ayberkt.xml"
 type="local"
-addr="ayberkt">Ayberk Tosun</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+addr="ayberkt">Ayberk Tosun</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Z.tree</fr:source-path><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all sets of a given type gives a set of the next type.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -54,11 +54,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
-name="source">pp. 241 of <fr:link
+root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0067.tree</fr:source-path><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
+name="source">pp. 241-244 of <fr:link
 href="br-logic-based-on-tt.xml"
 type="local"
-addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
   (i.e. propositional function) can be expressed by a formally equivalent
   <fr:em>predicative</fr:em> truth function.
@@ -72,11 +72,11 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Y.tree</fr:source-path><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
 name="source"><fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over all types in the first universe gives a type in the first
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -89,7 +89,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0060.tree</fr:source-path><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -98,7 +98,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0061.tree</fr:source-path><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Forming powersets <fr:em>is not</fr:em> allowed.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -107,7 +107,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0062.tree</fr:source-path><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Quantification over the types in one universe gives a type in the next
   universe.
 </fr:p></fr:mainmatter></fr:tree><fr:p>
@@ -122,7 +122,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0066.tree</fr:source-path><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   This is the same as <fr:link
 href="axt-0062.xml"
 type="local"
@@ -136,7 +136,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0063.tree</fr:source-path><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Voevodsky’s <fr:link
 href="axt-0030.xml"
 type="local"
@@ -156,7 +156,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0064.tree</fr:source-path><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Any theory that has the strength of the Feferman-Schütte ordinal or above is
   deemed to be impredicative.
 </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
@@ -166,12 +166,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>261</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>martin-escardo</fr:addr><fr:route>martin-escardo.xml</fr:route><fr:title>Martín H. Escardó</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>martin-escardo</fr:addr><fr:route>martin-escardo.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/martin-escardo.tree</fr:source-path><fr:title>Martín H. Escardó</fr:title><fr:meta
 name="institution"><fr:link
 href="uni-of-birmingham.xml"
 type="local"
 addr="uni-of-birmingham">University of Birmingham</fr:link></fr:meta><fr:meta
 name="orcid">0000-0002-4091-6334</fr:meta><fr:meta
-name="external">https://www.cs.bham.ac.uk/~mhe/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https://www.cs.bham.ac.uk/~mhe/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Standard abbreviation: <fr:code>mhe</fr:code>.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

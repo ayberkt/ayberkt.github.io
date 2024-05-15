@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>528</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003T</fr:addr><fr:route>axt-003T.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>543</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003T</fr:addr><fr:route>axt-003T.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003T.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -17,7 +17,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Thm. 48</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes.
   If <fr:link
 href="axt-003S.xml"
@@ -34,7 +34,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>539</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003S.tree</fr:source-path><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -44,7 +44,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Defn. 47</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex>, <fr:tex>\mathcal {V}</fr:tex>, and <fr:tex>\mathcal {W}</fr:tex> be universes. <fr:strong>Zorn’s Lemma at
   <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex></fr:strong> asserts that every pointed <fr:link
 href="axt-0021.xml"
@@ -62,7 +62,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>527</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>542</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003N.tree</fr:source-path><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong>propositional <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that every <fr:link
 href="axt-0035.xml"
 type="local"
@@ -80,7 +80,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>521</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>536</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -99,4 +99,4 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

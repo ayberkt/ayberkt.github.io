@@ -7,8 +7,8 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2034</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005K</fr:addr><fr:route>axt-005K.xml</fr:route><fr:title>Addition of Dedekind cuts</fr:title><fr:meta
-name="date-added">2024-04-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>2050</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005K</fr:addr><fr:route>axt-005K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005K.tree</fr:source-path><fr:title>Addition of Dedekind cuts</fr:title><fr:meta
+name="date-added">2024-04-13</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex>. The addition <fr:tex>C+D</fr:tex> is defined
   as
   <fr:tex
@@ -24,9 +24,9 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2033</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:title>Addition as a cut</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2049</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005L.tree</fr:source-path><fr:title>Addition as a cut</fr:title><fr:meta
 name="date-added">2024-04-13</fr:meta><fr:meta
-name="to-ankify">true</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="to-ankify">true</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex> be two <fr:link
 href="axt-005G"
 type="external">Dedekind cuts</fr:link>. Their
@@ -46,7 +46,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2030</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>2046</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005L.tree</fr:source-path><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:ol><fr:li>
       It is easy to see that <fr:tex>C+D</fr:tex> is inhabited since <fr:tex>C</fr:tex> and <fr:tex>D</fr:tex>
       are both inhabited. To show that <fr:tex>C+D  \neq   \mathbb {Q}</fr:tex>, we need to exhibit
@@ -73,9 +73,9 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2032</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:title>Addition as a cut</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2048</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005L.tree</fr:source-path><fr:title>Addition as a cut</fr:title><fr:meta
 name="date-added">2024-04-13</fr:meta><fr:meta
-name="to-ankify">true</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="to-ankify">true</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>14</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex> be two <fr:link
 href="axt-005G"
 type="external">Dedekind cuts</fr:link>. Their
@@ -95,7 +95,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2030</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>2046</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005L.tree</fr:source-path><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:ol><fr:li>
       It is easy to see that <fr:tex>C+D</fr:tex> is inhabited since <fr:tex>C</fr:tex> and <fr:tex>D</fr:tex>
       are both inhabited. To show that <fr:tex>C+D  \neq   \mathbb {Q}</fr:tex>, we need to exhibit

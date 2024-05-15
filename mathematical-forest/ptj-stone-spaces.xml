@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1919</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1934</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/ptj-stone-spaces.tree</fr:source-path><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -21,18 +21,18 @@ name="bibtex">%
   location     = {{Cambridge}},
   isbn         = {978-0-521-33779-3},
   langid       = {english}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1913</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002N</fr:addr><fr:route>axt-002N.xml</fr:route><fr:title>Nucleus</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1928</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002N</fr:addr><fr:route>axt-002N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002N.tree</fr:source-path><fr:title>Nucleus</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:meta
 name="source"><fr:strong>Paragraph II.2.2.</fr:strong> of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame. A nucleus on <fr:tex>L</fr:tex> is an endofunction <fr:tex>j : L  \to  L</fr:tex>
   satisfying the following three conditions.
   <fr:ol><fr:li><fr:em>Meet preservation</fr:em>: <fr:tex>\forall  x, y  \in  L. \  j(x  \wedge  y) = j(x)  \wedge  j(y).</fr:tex></fr:li>
@@ -44,7 +44,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1914</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1929</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0055.tree</fr:source-path><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -52,7 +52,7 @@ name="date-added">2024-02-07</fr:meta><fr:meta
 name="source">II.2.4.(a) of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame and <fr:tex>x : L</fr:tex> an element of it. The
   <fr:strong>closed nucleus</fr:strong> on <fr:tex>x</fr:tex> is the nucleus defined by
   <fr:tex
@@ -63,7 +63,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1916</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001B</fr:addr><fr:route>axt-001B.xml</fr:route><fr:title>Spatial locale</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1931</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001B</fr:addr><fr:route>axt-001B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001B.tree</fr:source-path><fr:title>Spatial locale</fr:title><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -71,7 +71,7 @@ name="date-added">2023-10-15</fr:meta><fr:meta
 name="source">Paragraph <fr:strong>II.1.5</fr:strong> (p. 42) of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A locale <fr:tex>X</fr:tex> is called <fr:em>spatial</fr:em>, or said to <fr:em>have enough points</fr:em> if
   it satisfies the condition
   <fr:tex
@@ -82,12 +82,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1918</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:title>Spectral locale</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1933</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0024.tree</fr:source-path><fr:title>Spectral locale</fr:title><fr:meta
 name="date-added">2023-10-26</fr:meta><fr:meta
 name="source"><fr:strong>II.3.2</fr:strong> from <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A locale <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong> if it satisfies the following two
   conditions.
   <fr:ol><fr:li>

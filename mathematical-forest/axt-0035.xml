@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>782</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0035</fr:addr><fr:route>axt-0035.xml</fr:route><fr:title>Being a proposition</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>797</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0035</fr:addr><fr:route>axt-0035.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0035.tree</fr:source-path><fr:title>Being a proposition</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A type <fr:tex>X</fr:tex> is called a <fr:strong>proposition</fr:strong> if
   <fr:tex>\prod _{ x, y  :  X }  x  =  y</fr:tex>.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>778</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>793</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003N.tree</fr:source-path><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong>propositional <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that every <fr:link
 href="axt-0035.xml"
 type="local"
@@ -35,14 +35,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003L</fr:addr><fr:route>axt-003L.xml</fr:route><fr:title>Δv-complete poset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>794</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003L</fr:addr><fr:route>axt-003L.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003L.tree</fr:source-path><fr:title>Δv-complete poset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Defn. 6.2.1</fr:strong> from <fr:link
 href="tdj-thesis.xml"
 type="local"
-addr="tdj-thesis">Tom de Jong's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-thesis">Tom de Jong's thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {V}</fr:tex> be a universe. A poset <fr:tex>A</fr:tex> is called
   <fr:strong><fr:tex>\delta _{ \mathcal {V} }</fr:tex>-complete</fr:strong> if for any two elements <fr:tex>x, y : A</fr:tex>
   with <fr:tex>x  \le  y</fr:tex> and every <fr:link
@@ -73,9 +73,9 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>781</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0036</fr:addr><fr:route>axt-0036.xml</fr:route><fr:title>Embedding</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>796</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0036</fr:addr><fr:route>axt-0036.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0036.tree</fr:source-path><fr:title>Embedding</fr:title><fr:meta
 name="date-added">2023-11-02</fr:meta><fr:meta
-name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>18</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A function <fr:tex>f : X  \to  Y</fr:tex> is called an <fr:strong>embedding</fr:strong> if, for every
   <fr:tex>y : Y</fr:tex>, the type <fr:link
 href="axt-0034.xml"

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1994</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005B</fr:addr><fr:route>axt-005B.xml</fr:route><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2010</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005B</fr:addr><fr:route>axt-005B.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005B.tree</fr:source-path><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -15,7 +15,7 @@ name="date-added">2024-02-13</fr:meta><fr:meta
 name="source"><fr:link
 href="dss-dtal.xml"
 type="local"
-addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   In the <fr:link
 href="axt-0002.xml"
 type="local"
@@ -28,7 +28,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1992</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2008</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0002.tree</fr:source-path><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -36,7 +36,7 @@ name="date-added">2023-08-18</fr:meta><fr:meta
 name="source">from <fr:link
 href="dss-dtal.xml"
 type="local"
-addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
   inclusion.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
@@ -46,7 +46,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1990</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2006</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/dss-dtal.tree</fr:source-path><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -59,6 +59,6 @@ name="bibtex">%
   publisher = {Oxford University Computing Laboratory, Programming Research Group},
   isbn      = {9780902928107},
   address   = {Oxford, UK},
-}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
 href="skim:///Users/ayberkt/Dropbox/Reading/dss-dtal.pdf"
 type="external">PDF</fr:link></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

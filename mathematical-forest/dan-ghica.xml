@@ -7,20 +7,20 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2263</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>dan-ghica</fr:addr><fr:route>dan-ghica.xml</fr:route><fr:title>Dan R. Ghica</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2281</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>dan-ghica</fr:addr><fr:route>dan-ghica.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/dan-ghica.tree</fr:source-path><fr:title>Dan R. Ghica</fr:title><fr:meta
 name="external">https://www.cs.bham.ac.uk/~drg/</fr:meta><fr:meta
-name="institution">University of Birmingham</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+name="institution">University of Birmingham</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2259</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0048</fr:addr><fr:route>axt-0048.xml</fr:route><fr:title>Arena</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2277</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0048</fr:addr><fr:route>axt-0048.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0048.tree</fr:source-path><fr:title>Arena</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dan-ghica.xml"
 type="local"
 addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Defn. 2</fr:strong> from the lecture notes</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Defn. 2</fr:strong> from the lecture notes</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:strong>arena</fr:strong> consists of:
   <fr:ul><fr:li>A set <fr:tex>M</fr:tex>, called the set of <fr:em>moves</fr:em>.</fr:li>
     <fr:li>A subset <fr:tex>Q  \subseteq  M</fr:tex>, called the set of <fr:em>questions</fr:em>.</fr:li>
@@ -38,10 +38,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2261</fr:anchor><fr:addr>axt-0047</fr:addr><fr:route>axt-0047.xml</fr:route><fr:title>Idea of full abstraction</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>2279</fr:anchor><fr:addr>axt-0047</fr:addr><fr:route>axt-0047.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0047.tree</fr:source-path><fr:title>Idea of full abstraction</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="dan-ghica.xml"
 type="local"
-addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A denotational semantics for a programming language is called <fr:em>fully
   abstract</fr:em> if the notion of semantic equality that it induces coincides with
   the notion of observational equivalence in the language. In other words,

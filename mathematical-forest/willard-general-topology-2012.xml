@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1821</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>willard-general-topology-2012</fr:addr><fr:route>willard-general-topology-2012.xml</fr:route><fr:title>General Topology</fr:title><fr:date><fr:year>2012</fr:year></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1836</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>willard-general-topology-2012</fr:addr><fr:route>willard-general-topology-2012.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/willard-general-topology-2012.tree</fr:source-path><fr:title>General Topology</fr:title><fr:date><fr:year>2012</fr:year></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @book{willard-general-topology-2012,
   title     = {General Topology},
@@ -17,14 +17,14 @@ name="bibtex">%
   isbn      = {0-486-13178-5},
   publisher = {Dover Publications},
   series    = {Dover Books on Mathematics},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1819</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0019</fr:addr><fr:route>axt-0019.xml</fr:route><fr:title>Regular space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1834</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0019</fr:addr><fr:route>axt-0019.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0019.tree</fr:source-path><fr:title>Regular space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A topological space <fr:tex>X</fr:tex> is called a <fr:em>regular</fr:em> if for any closed <fr:tex>F    \subseteq  X</fr:tex> and any <fr:tex>x  \notin  F</fr:tex>, there exist disjoint open sets containing
   <fr:tex>x</fr:tex> and <fr:tex>F</fr:tex>.
 </fr:p><fr:p>

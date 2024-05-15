@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1952</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>wilson-thesis</fr:addr><fr:route>wilson-thesis.xml</fr:route><fr:title>The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory</fr:title><fr:date><fr:year>1994</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1967</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>wilson-thesis</fr:addr><fr:route>wilson-thesis.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/wilson-thesis.tree</fr:source-path><fr:title>The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory</fr:title><fr:date><fr:year>1994</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
 href="todd-wilson.xml"
 type="local"
 addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
@@ -18,14 +18,14 @@ name="bibtex">%
   date      = {1994-05},
   school    = {School of Computer Science, Carnegie Mellon University},
   location  = {Pittsburgh, PA},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1950</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1965</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003I.tree</fr:source-path><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
 href="todd-wilson.xml"
 type="local"
 addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
@@ -33,7 +33,7 @@ name="date-added">2023-11-08</fr:meta><fr:meta
 name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
 href="wilson-thesis.xml"
 type="local"
-addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a <fr:link
 href="axt-003J.xml"
 type="local"

@@ -7,12 +7,12 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1784</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0013</fr:addr><fr:route>axt-0013.xml</fr:route><fr:title>Split support</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1799</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0013</fr:addr><fr:route>axt-0013.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0013.tree</fr:source-path><fr:title>Split support</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:meta
 name="date-added">2023-09-18</fr:meta><fr:meta
 name="source"><fr:strong>Defn. 3.9</fr:strong> of <fr:link
 href="keca-anonymous.xml"
 type="local"
-addr="keca-anonymous">KECA</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="keca-anonymous">KECA</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A type <fr:tex>X</fr:tex> is said to <fr:em>have split support</fr:em> if <fr:tex>|| X ||  \to  X.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -20,7 +20,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1779</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1794</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/keca-anonymous.tree</fr:source-path><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
 href="martin-escardo.xml"
 type="local"
 addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
@@ -41,4 +41,4 @@ name="bibtex">%
   url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
   doi          = {10.23638/LMCS-13(1:15)2017},
   biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1550</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0017</fr:addr><fr:route>axt-0017.xml</fr:route><fr:title>Information system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author>Dana S. Scott</fr:author><fr:author>Glynn Winskel</fr:author><fr:author>Larden?</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1565</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0017</fr:addr><fr:route>axt-0017.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0017.tree</fr:source-path><fr:title>Information system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author>Dana S. Scott</fr:author><fr:author>Glynn Winskel</fr:author><fr:author>Larden?</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   An <fr:em>information system</fr:em> is a triple <fr:tex>S = (E,  \mathsf {Con} ,  \vdash )</fr:tex>, where
   <fr:ol><fr:li><fr:tex>E</fr:tex> is a set,</fr:li>
     <fr:li><fr:tex>\mathsf {Con}   \subseteq   \mathcal {P}( E )</fr:tex> is a collection of finite subsets of <fr:tex>E</fr:tex>, and</fr:li>

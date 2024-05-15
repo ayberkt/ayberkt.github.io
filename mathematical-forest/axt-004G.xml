@@ -7,11 +7,11 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>423</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-004G</fr:addr><fr:route>axt-004G.xml</fr:route><fr:title>Principle of linearity</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:meta
+root="false"><fr:frontmatter><fr:anchor>438</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-004G</fr:addr><fr:route>axt-004G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004G.tree</fr:source-path><fr:title>Principle of linearity</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:meta
 name="source">Personal communication with <fr:link
 href="martin-escardo.xml"
 type="local"
-addr="martin-escardo">Martín H. Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>principle of linearity</fr:strong> says that, for any two propositions
   <fr:tex>P</fr:tex> and <fr:tex>Q</fr:tex>, either <fr:tex>P</fr:tex> implies <fr:tex>Q</fr:tex> or <fr:tex>Q</fr:tex> implies P.
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -21,12 +21,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>422</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>martin-escardo</fr:addr><fr:route>martin-escardo.xml</fr:route><fr:title>Martín H. Escardó</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>437</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>martin-escardo</fr:addr><fr:route>martin-escardo.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/martin-escardo.tree</fr:source-path><fr:title>Martín H. Escardó</fr:title><fr:meta
 name="institution"><fr:link
 href="uni-of-birmingham.xml"
 type="local"
 addr="uni-of-birmingham">University of Birmingham</fr:link></fr:meta><fr:meta
 name="orcid">0000-0002-4091-6334</fr:meta><fr:meta
-name="external">https://www.cs.bham.ac.uk/~mhe/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="external">https://www.cs.bham.ac.uk/~mhe/</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Standard abbreviation: <fr:code>mhe</fr:code>.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

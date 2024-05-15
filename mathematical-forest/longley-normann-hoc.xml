@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1791</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>longley-normann-hoc</fr:addr><fr:route>longley-normann-hoc.xml</fr:route><fr:title>Higher-Order Computability</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1806</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>longley-normann-hoc</fr:addr><fr:route>longley-normann-hoc.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/longley-normann-hoc.tree</fr:source-path><fr:title>Higher-Order Computability</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
 addr="john-longley">John R. Longley</fr:link></fr:author><fr:author><fr:link
@@ -21,20 +21,20 @@ name="bibtex">@book{longley-normann-hoc,
   publisher = {Springer},
   series    = {Theory and Applications of Computability},
   doi       = {10.1007/978-3-662-47992-6},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1785</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1800</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001P.tree</fr:source-path><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="ayberkt.xml"
 type="local"
 addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The following is the summary of my understanding of <fr:link
 href="john-longley.xml"
 type="local"
@@ -94,10 +94,10 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1409</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -132,10 +132,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1788</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1803</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001N.tree</fr:source-path><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="john-longley.xml"
 type="local"
-addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let
   <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
     <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
@@ -161,12 +161,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1790</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005W</fr:addr><fr:route>axt-005W.xml</fr:route><fr:title>Computability model</fr:title><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1805</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005W</fr:addr><fr:route>axt-005W.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005W.tree</fr:source-path><fr:title>Computability model</fr:title><fr:meta
 name="date-added">2024-04-26</fr:meta><fr:meta
 name="source">from <fr:strong>Sec. 1.1.2</fr:strong> of <fr:link
 href="longley-normann-hoc.xml"
 type="local"
-addr="longley-normann-hoc">HOC</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="longley-normann-hoc">HOC</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:strong>computability model</fr:strong> consists of the data:
   <fr:ul><fr:li>a set <fr:tex>\mathsf {T}</fr:tex> of <fr:em>type names</fr:em>,</fr:li>
     <fr:li>a <fr:tex>\mathsf {T}</fr:tex>-indexed family of sets <fr:tex>(  \mathbf {C} _ \tau )_{ \tau   \in  T}</fr:tex>,</fr:li>

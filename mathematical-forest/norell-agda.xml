@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>2295</fr:anchor><fr:addr>norell-agda</fr:addr><fr:route>norell-agda.xml</fr:route><fr:title>Dependently Typed Programming in Agda</fr:title><fr:authors><fr:author>Ulf Norell</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2313</fr:anchor><fr:addr>norell-agda</fr:addr><fr:route>norell-agda.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/norell-agda.tree</fr:source-path><fr:title>Dependently Typed Programming in Agda</fr:title><fr:authors><fr:author>Ulf Norell</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @inbook{norell-agda,
   author       = {Norell, Ulf},
@@ -22,4 +22,4 @@ name="bibtex">%
   isbn         = {978-3-642-04652-0},
   doi          = {10.1007/978-3-642-04652-0_5},
   url          = {https://doi.org/10.1007/978-3-642-04652-0_5},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1985</fr:anchor><fr:addr>br-logic-based-on-tt</fr:addr><fr:route>br-logic-based-on-tt.xml</fr:route><fr:title>Mathematical Logic as based on the Theory of Types</fr:title><fr:date><fr:year>1908</fr:year></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>2001</fr:anchor><fr:addr>br-logic-based-on-tt</fr:addr><fr:route>br-logic-based-on-tt.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/br-logic-based-on-tt.tree</fr:source-path><fr:title>Mathematical Logic as based on the Theory of Types</fr:title><fr:date><fr:year>1908</fr:year></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
 name="date-added">2024-05-15</fr:meta><fr:meta
 name="bibtex">@article{br-logic-based-on-tt,
   title     = {Mathematical Logic as Based on the Theory of Types},
@@ -19,18 +19,18 @@ name="bibtex">@article{br-logic-based-on-tt,
   volume    = {30},
   publisher = {Johns Hopkins Press},
   number    = {3},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1984</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
-name="source">pp. 241 of <fr:link
+root="false"><fr:frontmatter><fr:anchor>1999</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0067.tree</fr:source-path><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author>Bertrand Russell</fr:author></fr:authors><fr:meta
+name="source">pp. 241-244 of <fr:link
 href="br-logic-based-on-tt.xml"
 type="local"
-addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
   (i.e. propositional function) can be expressed by a formally equivalent
   <fr:em>predicative</fr:em> truth function.

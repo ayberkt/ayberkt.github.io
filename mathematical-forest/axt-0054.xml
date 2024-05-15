@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:title><fr:link
 href="axt-0053.xml"
 type="local"
 addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
@@ -23,7 +23,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   If <fr:link
 href="axt-0053.xml"
 type="local"
@@ -42,7 +42,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0054.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -86,7 +86,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>342</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0053.tree</fr:source-path><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -96,7 +96,7 @@ addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:
 name="source"><fr:strong>Definition 51</fr:strong> of <fr:link
 href="tdj-mhe-aspects.xml"
 type="local"
-addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
   in universe <fr:tex>\mathcal {U}</fr:tex> and order taking values in <fr:tex>\mathcal {V}</fr:tex> has a greatest monotone
   inflationary endofunction.
 </fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -106,7 +106,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>345</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>360</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003N.tree</fr:source-path><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong>propositional <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that every <fr:link
 href="axt-0035.xml"
 type="local"
@@ -124,14 +124,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>346</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>361</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0039.tree</fr:source-path><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="brian-davey.xml"
 type="local"
 addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
 href="hilary-priestley.xml"
 type="local"
 addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>P</fr:tex> be an ordered set, and <fr:tex>Q  \subseteq  P</fr:tex> a subset. An element <fr:tex>a  \in    Q</fr:tex> is called a <fr:strong>maximal element</fr:strong> of <fr:tex>Q</fr:tex> if it satisfies
   <fr:tex
 display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
@@ -141,7 +141,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>349</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0021</fr:addr><fr:route>axt-0021.xml</fr:route><fr:title><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0021</fr:addr><fr:route>axt-0021.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0021.tree</fr:source-path><fr:title><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -153,7 +153,7 @@ href="tdj-thesis.xml"
 type="local"
 addr="tdj-thesis">[TdJ]</fr:link>, <fr:link
 href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941"
-type="external"><fr:tex>\dagger</fr:tex></fr:link>)</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+type="external"><fr:tex>\dagger</fr:tex></fr:link>)</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathcal {V}</fr:tex> be a universe. A poset <fr:tex>D</fr:tex> is a <fr:em><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:em> if the join of
   of every <fr:link
 href="axt-001F.xml"
@@ -166,7 +166,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>352</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>367</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0055.tree</fr:source-path><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
 href="peter-johnstone.xml"
 type="local"
 addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
@@ -174,7 +174,7 @@ name="date-added">2024-02-07</fr:meta><fr:meta
 name="source">II.2.4.(a) of <fr:link
 href="ptj-stone-spaces.xml"
 type="local"
-addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>L</fr:tex> be a frame and <fr:tex>x : L</fr:tex> an element of it. The
   <fr:strong>closed nucleus</fr:strong> on <fr:tex>x</fr:tex> is the nucleus defined by
   <fr:tex
@@ -185,7 +185,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>339</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/tdj-mhe-aspects.tree</fr:source-path><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="tom-de-jong.xml"
 type="local"
 addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
@@ -204,4 +204,4 @@ name="bibtex">%
   editor       = {Kobayashi, Naoki},
   publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

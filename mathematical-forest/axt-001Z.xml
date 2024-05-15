@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1368</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Z</fr:addr><fr:route>axt-001Z.xml</fr:route><fr:title>Upwards-closed subset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1383</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Z</fr:addr><fr:route>axt-001Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Z.tree</fr:source-path><fr:title>Upwards-closed subset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(X,  \le )</fr:tex> be a poset. A subset <fr:tex>A  \subseteq  X</fr:tex> is <fr:em>upwards-closed</fr:em>
   if it satisfies
   <fr:tex
@@ -18,7 +18,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1359</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004J</fr:addr><fr:route>axt-004J.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1374</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004J</fr:addr><fr:route>axt-004J.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(X,  \le )</fr:tex> be a preordered set. The class of <fr:link
 href="axt-001Z.xml"
 type="local"
@@ -31,7 +31,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>420</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:parent>axt-004J</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>435</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-004J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:parent>axt-004J</fr:parent></fr:frontmatter><fr:mainmatter>
     <fr:p>
       The entire set <fr:tex>X</fr:tex> is trivially upward closed. Let <fr:tex>U, V  \subseteq  X</fr:tex> be
       two upward closed sets. Given an element <fr:tex>x  \in  U  \cap  V</fr:tex> falling in
@@ -55,11 +55,11 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1360</fr:anchor><fr:taxon>Lemma</fr:taxon><fr:addr>axt-002Z</fr:addr><fr:route>axt-002Z.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1375</fr:anchor><fr:taxon>Lemma</fr:taxon><fr:addr>axt-002Z</fr:addr><fr:route>axt-002Z.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Z.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
-name="source"><fr:strong>Lemma 4.2.5</fr:strong> of ???</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+name="source"><fr:strong>Lemma 4.2.5</fr:strong> of ???</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>X</fr:tex> be a topological space. Every open subset <fr:tex>U  \in   \mathcal {O}( X )</fr:tex> is
   <fr:link
 href="axt-001Z.xml"
@@ -79,7 +79,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>722</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002Z.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:parent>axt-002Z</fr:parent></fr:frontmatter><fr:mainmatter>
@@ -93,7 +93,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1362</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1377</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>16</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>D</fr:tex> be an <fr:link
 href="axt-001S.xml"
 type="local"
@@ -110,7 +110,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1016</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>1031</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-002K.tree</fr:source-path><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p><fr:tex>( \impliedby )</fr:tex> This direction follows directly from the <fr:link
 href="axt-001Z.xml"
 type="local"
@@ -147,7 +147,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1363</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1378</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001Y.tree</fr:source-path><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. A subset <fr:tex>U  \subseteq  D</fr:tex> is called a
   <fr:em>Scott open</fr:em> if it satisfies the following conditions.
   <fr:ol><fr:li><fr:tex>U</fr:tex> is <fr:link
@@ -173,8 +173,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1364</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:meta
-name="date-added">2024-04-20</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1379</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Q.tree</fr:source-path><fr:meta
+name="date-added">2024-04-20</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
 href="axt-0030.xml"
 type="local"
@@ -194,7 +194,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005Q.tree</fr:source-path><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:p>
   The <fr:link
 href="axt-0030.xml"
@@ -228,12 +228,12 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1365</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1380</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005R.tree</fr:source-path><fr:meta
 name="date-added">2024-04-24</fr:meta><fr:meta
 name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
 href="axt-003U.xml"
 type="local"
@@ -253,7 +253,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:taxon>Proof</fr:taxon><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-005R.tree</fr:source-path><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
   Let <fr:tex>\mathcal {T}</fr:tex> be a topology on <fr:tex>A</fr:tex> such that the specialization preorder
   <fr:tex>\le _{ \mathcal {T}}</fr:tex> coincides with the order <fr:tex>\le</fr:tex>. Let <fr:tex>U  \subseteq  A</fr:tex> be
   a <fr:tex>\mathcal {T}</fr:tex>-open. The open subset <fr:tex>U</fr:tex> must be <fr:link
@@ -275,7 +275,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1366</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1381</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-003U.tree</fr:source-path><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
 href="jean-goubault-larrecq.xml"
 type="local"
 addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
@@ -283,7 +283,7 @@ name="date-added">2023-11-13</fr:meta><fr:meta
 name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
 href="jgl-non-hausdorff.xml"
 type="local"
-addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
   is given by the class of <fr:link
 href="axt-001Z.xml"

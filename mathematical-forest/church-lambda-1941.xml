@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1982</fr:anchor><fr:addr>church-lambda-1941</fr:addr><fr:route>church-lambda-1941.xml</fr:route><fr:title>The Calculi of Lambda-Conversion</fr:title><fr:date><fr:year>1941</fr:year></fr:date><fr:authors><fr:author>alonzo-church</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1997</fr:anchor><fr:addr>church-lambda-1941</fr:addr><fr:route>church-lambda-1941.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/church-lambda-1941.tree</fr:source-path><fr:title>The Calculi of Lambda-Conversion</fr:title><fr:date><fr:year>1941</fr:year></fr:date><fr:authors><fr:author>alonzo-church</fr:author></fr:authors><fr:meta
 name="bibtex">%
 @book{church-lambda-1941,
   title     = {The calculi of lambda-conversion},
@@ -16,4 +16,4 @@ name="bibtex">%
   address   = {Princeton},
   publisher = {Princeton University Press},
   series    = {Annals of mathematics studies; no. 6},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

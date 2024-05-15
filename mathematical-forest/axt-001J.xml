@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1461</fr:anchor><fr:addr>axt-001J</fr:addr><fr:route>axt-001J.xml</fr:route><fr:title>Birmingham Realizability Reading Group</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1476</fr:anchor><fr:addr>axt-001J</fr:addr><fr:route>axt-001J.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001J.tree</fr:source-path><fr:title>Birmingham Realizability Reading Group</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A reading group organized by some people in the <fr:link
 href="https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx"
 type="external">Theory of
@@ -33,10 +33,10 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1457</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001G</fr:addr><fr:route>axt-001G.xml</fr:route><fr:title>Hyperdoctrine</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1472</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001G</fr:addr><fr:route>axt-001G.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001G.tree</fr:source-path><fr:title>Hyperdoctrine</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="william-lawvere.xml"
 type="local"
-addr="william-lawvere">William Lawvere</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+addr="william-lawvere">William Lawvere</fr:link></fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   Let <fr:tex>\mathbb {C}</fr:tex> be category with finite products. A <fr:em>first order hyperdoctrine</fr:em>
   <fr:tex>\mathcal {P}</fr:tex> over <fr:tex>\mathbb {C}</fr:tex> is a contravariant functor <fr:tex>\mathcal {P}  :  { \mathbb {C} }^{ \mathsf {op}}   \to   \mathbf {Poset}</fr:tex>
   satisfying the following conditions.
@@ -68,14 +68,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1459</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001I</fr:addr><fr:route>axt-001I.xml</fr:route><fr:title>Partial combinatory algebra</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1474</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001I</fr:addr><fr:route>axt-001I.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-001I.tree</fr:source-path><fr:title>Partial combinatory algebra</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 href="andrew-pitts.xml"
 type="local"
 addr="andrew-pitts">Andrew M. Pitts</fr:link></fr:author></fr:authors><fr:meta
 name="source"><fr:strong>Example 2.3</fr:strong> of <fr:link
 href="pitts-tripos-retrospect.xml"
 type="local"
-addr="pitts-tripos-retrospect">Tripos theory in retrospect</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="pitts-tripos-retrospect">Tripos theory in retrospect</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   A <fr:em>partial combinatory algebra</fr:em> (<fr:strong>PCA</fr:strong> for short) is a set
   <fr:tex>\mathbb {A}</fr:tex> equipped with
   <fr:ul><fr:li>a partial function <fr:tex>({-})  \cdot  ({-}) :  \mathbb {A}   \times   \mathbb {A}   \nrightarrow   \mathbb {A}</fr:tex>,</fr:li>

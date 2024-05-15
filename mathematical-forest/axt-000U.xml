@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1580</fr:anchor><fr:addr>axt-000U</fr:addr><fr:route>axt-000U.xml</fr:route><fr:title>Sierpiński frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1595</fr:anchor><fr:addr>axt-000U</fr:addr><fr:route>axt-000U.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000U.tree</fr:source-path><fr:title>Sierpiński frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The <fr:em>Sierpiński frame</fr:em> is the <fr:link
 href="axt-000V.xml"
 type="local"
@@ -25,4 +25,4 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1578</fr:anchor><fr:addr>axt-000V</fr:addr><fr:route>axt-000V.xml</fr:route><fr:title>Free frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+root="false"><fr:frontmatter><fr:anchor>1593</fr:anchor><fr:addr>axt-000V</fr:addr><fr:route>axt-000V.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-000V.tree</fr:source-path><fr:title>Free frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

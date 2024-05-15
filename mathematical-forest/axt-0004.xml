@@ -7,13 +7,13 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1649</fr:anchor><fr:addr>axt-0004</fr:addr><fr:route>axt-0004.xml</fr:route><fr:title>Notes from <fr:link
+root="false"><fr:frontmatter><fr:anchor>1664</fr:anchor><fr:addr>axt-0004</fr:addr><fr:route>axt-0004.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0004.tree</fr:source-path><fr:title>Notes from <fr:link
 href="dss-dtal.xml"
 type="local"
 addr="dss-dtal">Data types as lattices</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author><fr:contributor><fr:link
 href="dana-scott.xml"
 type="local"
-addr="dana-scott">Dana S. Scott</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+addr="dana-scott">Dana S. Scott</fr:link></fr:contributor></fr:authors><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana Scott</fr:link>'s 1976 paper whose main novelty is to model data
@@ -29,7 +29,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1647</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1662</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0002.tree</fr:source-path><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -37,7 +37,7 @@ name="date-added">2023-08-18</fr:meta><fr:meta
 name="source">from <fr:link
 href="dss-dtal.xml"
 type="local"
-addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
   inclusion.
 </fr:p></fr:mainmatter></fr:tree></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -47,14 +47,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1644</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>dana-scott</fr:addr><fr:route>dana-scott.xml</fr:route><fr:title>Dana S. Scott</fr:title></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+root="false"><fr:frontmatter><fr:anchor>1659</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>dana-scott</fr:addr><fr:route>dana-scott.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/people/dana-scott.tree</fr:source-path><fr:title>Dana S. Scott</fr:title><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1645</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1660</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/axt-0002.tree</fr:source-path><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -62,7 +62,7 @@ name="date-added">2023-08-18</fr:meta><fr:meta
 name="source">from <fr:link
 href="dss-dtal.xml"
 type="local"
-addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p>
   The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
   inclusion.
 </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
@@ -72,7 +72,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1642</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
+root="false"><fr:frontmatter><fr:anchor>1657</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:source-path>/Users/ayberkt/Code/mathematical-forest/trees/public/refs/dss-dtal.tree</fr:source-path><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
 href="dana-scott.xml"
 type="local"
 addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
@@ -85,6 +85,6 @@ name="bibtex">%
   publisher = {Oxford University Computing Laboratory, Programming Research Group},
   isbn      = {9780902928107},
   address   = {Oxford, UK},
-}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
+}</fr:meta><fr:last-changed><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:last-changed></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
 href="skim:///Users/ayberkt/Dropbox/Reading/dss-dtal.pdf"
 type="external">PDF</fr:link></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>
