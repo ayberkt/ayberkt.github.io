@@ -1,11 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>996</anchor>  <taxon>Definition</taxon> <addr>axt-0036</addr>  <route>axt-0036.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Embedding</title> <meta name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</meta></frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called an <b>embedding</b> if, for every
-  <tex>y : Y</tex>, the type <link href="axt-0034.xml" type="local" title="Fiber"><tex>\mathsf{fiber} ( f ,  y )</tex></link> is <link href="axt-0035.xml" type="local" title="Being a proposition">a proposition</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>997</anchor>  <taxon>Definition</taxon> <addr>axt-0035</addr>  <route>axt-0035.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Being a proposition</title> </frontmatter> <mainmatter><p>  A type <tex>X</tex> is called a <b>proposition</b> if
-  <tex>\prod _{ x, y  :  X }  x  =  y</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>998</anchor>  <taxon>Definition</taxon> <addr>axt-0034</addr>  <route>axt-0034.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Fiber</title> <meta name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/Notation.General.html#398</meta></frontmatter> <mainmatter><p>  Let <tex>f : X  \to  Y</tex> be a function. The the type <b><tex>\mathsf{fiber} ( f ,  y )</tex></b> is
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2303</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0036</fr:addr><fr:route>axt-0036.xml</fr:route><fr:title>Embedding</fr:title><fr:meta
+name="date-added">2023-11-02</fr:meta><fr:meta
+name="external">https:/www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Embeddings.html#593</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A function <fr:tex>f : X  \to  Y</fr:tex> is called an <fr:strong>embedding</fr:strong> if, for every
+  <fr:tex>y : Y</fr:tex>, the type <fr:link
+href="axt-0034.xml"
+type="local"
+addr="axt-0034"><fr:tex>\mathsf {fiber}( f ,  y )</fr:tex></fr:link> is <fr:link
+href="axt-0035.xml"
+type="local"
+addr="axt-0035">a proposition</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2301</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0035</fr:addr><fr:route>axt-0035.xml</fr:route><fr:title>Being a proposition</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  A type <fr:tex>X</fr:tex> is called a <fr:strong>proposition</fr:strong> if
+  <fr:tex>\prod _{ x, y  :  X }  x  =  y</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2302</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0034</fr:addr><fr:route>axt-0034.xml</fr:route><fr:title>Fiber</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/Notation.General.html#398</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>f : X  \to  Y</fr:tex> be a function. The the type <fr:strong><fr:tex>\mathsf {fiber}( f ,  y )</fr:tex></fr:strong> is
   defined as
-  <tex display="block">\mathsf{fiber} ( f ,  y )   \vcentcolon \equiv   \sum _{ x \  : \  X }  f(x) = y .</tex></p></mainmatter> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>999</anchor>  <taxon>Definition</taxon> <addr>axt-0028</addr>  <route>axt-0028.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Extensional basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link>. An <em>intensional basis</em> <tex>(B,  \beta )</tex>  for <tex>D</tex> is called an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">extensional basis</link> if <tex>\beta</tex> is an
-  <link href="axt-0036.xml" type="local" title="Embedding">embedding</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+  <fr:tex
+display="block">\mathsf {fiber}( f ,  y )   \vcentcolon \equiv   \sum _{ x \  : \  X }  f(x) = y .</fr:tex></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2297</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link>. An <fr:em>intensional basis</fr:em> <fr:tex>(B,  \beta )</fr:tex>
+  for <fr:tex>D</fr:tex> is called an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">extensional basis</fr:link> if <fr:tex>\beta</fr:tex> is an
+  <fr:link
+href="axt-0036.xml"
+type="local"
+addr="axt-0036">embedding</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>171</anchor>  <taxon>Definition</taxon> <addr>axt-0009</addr>  <route>axt-0009.xml</route> <date><year>2023</year> <month>8</month> <day>22</day></date>  <title>Karoubi envelope</title> </frontmatter> <mainmatter><p>  The Karoubi envelope of a category <tex>\mathbb{C}</tex>, written <tex>\mathsf{Split} ( \mathbb{C} )</tex>, is the
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1639</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0009</fr:addr><fr:route>axt-0009.xml</fr:route><fr:title>Karoubi envelope</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>22</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The Karoubi envelope of a category <fr:tex>\mathbb {C}</fr:tex>, written <fr:tex>\mathsf {Split} ( \mathbb {C} )</fr:tex>, is the
   category whose
-    <ol>      <li>        <em>objects</em> are pairs of the form <tex>(C, e)</tex> where <tex>C</tex> is an object of
-        <tex>\mathbb{C}</tex> and <tex>e : C  \to  C</tex> is an <link href="axt-000A.xml" type="local" title="Idempotent in a category">idempotent</link> of <tex>C</tex>;
-      </li>      <li>        <em>morphisms</em> are triples <tex>(e, f, e') : (C, e)  \to  (C', e')</tex> where <tex>f
-        : C  \to  C'</tex> is a morphism of <tex>\mathbb{C}</tex> satisfying <tex>e'  \circ  f = f = f
-         \circ  e</tex>;
-      </li>      <li>        <em>composition</em> operation is taken directly from <tex>\mathbb{C}</tex>;
-      </li>      <li>        <em>identity morphisms</em> on objects <tex>(C, e)</tex> are given by <tex>(e, e, e)</tex>.
-      </li>    </ol></p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>172</anchor>  <taxon>Definition</taxon> <addr>axt-000A</addr>  <route>axt-000A.xml</route> <date><year>2023</year> <month>8</month> <day>22</day></date>  <title>Idempotent in a category</title> </frontmatter> <mainmatter><p>  An <em>idempotent</em> on an object <tex>C</tex> of some category <tex>\mathbb{C}</tex> is an
-  endomorphism <tex>e : C  \to  C</tex> satisfying <tex display="block">e  \circ  e = e.</tex></p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>
+    <fr:ol><fr:li><fr:em>objects</fr:em> are pairs of the form <fr:tex>(C, e)</fr:tex> where <fr:tex>C</fr:tex> is an object of
+        <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>e : C  \to  C</fr:tex> is an <fr:link
+href="axt-000A.xml"
+type="local"
+addr="axt-000A">idempotent</fr:link> of <fr:tex>C</fr:tex>;
+      </fr:li>
+      <fr:li><fr:em>morphisms</fr:em> are triples <fr:tex>(e, f, e') : (C, e)  \to  (C', e')</fr:tex> where <fr:tex>f         : C  \to  C'</fr:tex> is a morphism of <fr:tex>\mathbb {C}</fr:tex> satisfying <fr:tex>e'  \circ  f = f = f          \circ  e</fr:tex>;
+      </fr:li>
+      <fr:li><fr:em>composition</fr:em> operation is taken directly from <fr:tex>\mathbb {C}</fr:tex>;
+      </fr:li>
+      <fr:li><fr:em>identity morphisms</fr:em> on objects <fr:tex>(C, e)</fr:tex> are given by <fr:tex>(e, e, e)</fr:tex>.
+      </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1638</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000A</fr:addr><fr:route>axt-000A.xml</fr:route><fr:title>Idempotent in a category</fr:title><fr:meta
+name="date-added">2023-08-22</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>idempotent</fr:em> on an object <fr:tex>C</fr:tex> of some category <fr:tex>\mathbb {C}</fr:tex> is an
+  endomorphism <fr:tex>e : C  \to  C</fr:tex> satisfying <fr:tex
+display="block">e  \circ  e = e.</fr:tex></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

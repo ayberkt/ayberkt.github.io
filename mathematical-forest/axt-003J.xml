@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1049</anchor>  <taxon>Definition</taxon> <addr>axt-003J</addr>  <route>axt-003J.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>  <title>Frame</title> </frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1050</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
-  <b>maxset</b> if,
-  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
-      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
-    </li>  </ol></p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>574</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003J</fr:addr><fr:route>axt-003J.xml</fr:route><fr:title>Frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>572</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-08</fr:meta><fr:meta
+name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
+href="wilson-thesis.xml"
+type="local"
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a <fr:link
+href="axt-003J.xml"
+type="local"
+addr="axt-003J">frame</fr:link>. A subset <fr:tex>M  \subseteq  L</fr:tex> is called a
+  <fr:strong>maxset</fr:strong> if,
+  <fr:ol><fr:li>it is closed under arbitrary meets, and</fr:li>
+    <fr:li>
+      it is an exponential ideal i.e.
+      <fr:tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

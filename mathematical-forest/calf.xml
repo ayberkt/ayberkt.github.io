@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1237</anchor>  <taxon>Reference</taxon> <addr>calf</addr>  <route>calf.xml</route> <date><year>2022</year> <month>1</month> </date> <authors><author>Yue Niu</author><author><link href="jonathan-sterling.xml" type="local">Jonathan M. Sterling</link></author><author>Harrison Grodin</author><author><link href="robert-harper.xml" type="local">Robert Harper</link></author> </authors> <title>A cost-aware logical framework</title> <meta name="bibtex">@article{calf,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1718</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>calf</fr:addr><fr:route>calf.xml</fr:route><fr:title>A cost-aware logical framework</fr:title><fr:date><fr:year>2022</fr:year><fr:month>1</fr:month></fr:date><fr:authors><fr:author>Yue Niu</fr:author><fr:author><fr:link
+href="jonathan-sterling.xml"
+type="local"
+addr="jonathan-sterling">Jonathan M. Sterling</fr:link></fr:author><fr:author>Harrison Grodin</fr:author><fr:author><fr:link
+href="robert-harper.xml"
+type="local"
+addr="robert-harper">Robert Harper</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{calf,
   author       = {Niu, Yue and Sterling, Jonathan and Grodin, Harrison and
                   Harper, Robert},
   title        = {A Cost-Aware Logical Framework},
@@ -11,5 +26,4 @@
   number       = {POPL},
   doi          = {10.1145/3498670},
   journal      = {Proc. ACM Program. Lang.},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

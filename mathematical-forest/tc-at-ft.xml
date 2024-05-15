@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1444</anchor>  <taxon>Reference</taxon> <addr>tc-at-ft</addr>  <route>tc-at-ft.xml</route> <date><year>2021</year>  </date> <authors><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Formal Topology and Univalent Foundations</title> <meta name="bibtex">@inbook{tc-at-ft,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1732</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inbook{tc-at-ft,
   title     = {Formal Topology and Univalent Foundations},
   author    = {Coquand, Thierry and Tosun, Ayberk},
   year      = {2021},
@@ -9,8 +24,29 @@
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1445</anchor>  <taxon>Bibliography</taxon> <addr>at-bibliography</addr>  <route>at-bibliography.xml</route>   <title>Bibliography of <link href="ayberkt.xml" type="local" title="Ayberk Tosun">Ayberk Tosun</link></title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1446</anchor>  <taxon>Reference</taxon> <addr>msc-thesis</addr>  <route>msc-thesis.xml</route> <date><year>2020</year> <month>6</month> <day>30</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Formal Topology in Univalent Foundations</title> <meta name="bibtex">@masterthesis{msc-thesis,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1731</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>at-bibliography</fr:addr><fr:route>at-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:title></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1682</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@masterthesis{msc-thesis,
   title     = {Formal Topology in Univalent Foundations},
   author    = {Tosun, Ayberk},
   date      = {2020-06-30},
@@ -19,8 +55,22 @@
   school    = {{Chalmers} {University} of {Technology}},
   address   = {Gothenburg, Sweden},
   type      = {MSc thesis},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1447</anchor>  <taxon>Reference</taxon> <addr>tc-at-ft</addr>  <route>tc-at-ft.xml</route> <date><year>2021</year>  </date> <authors><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Formal Topology and Univalent Foundations</title> <meta name="bibtex">@inbook{tc-at-ft,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1684</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inbook{tc-at-ft,
   title     = {Formal Topology and Univalent Foundations},
   author    = {Coquand, Thierry and Tosun, Ayberk},
   year      = {2021},
@@ -29,8 +79,22 @@
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1448</anchor>  <taxon>Reference</taxon> <addr>patch-mfps</addr>  <route>patch-mfps.xml</route> <date><year>2023</year> <month>2</month> </date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Patch Locale of a Spectral Locale in Univalent Type Theory</title> <meta name="bibtex">@inproceedings{patch-mfps,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1687</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{patch-mfps,
   title     = {{Patch Locale of a Spectral Locale in Univalent Type Theory}},
   author    = {Ayberk Tosun and Mart\'in H. Escard\'o},
   url       = {https://entics.episciences.org/10808},
@@ -39,5 +103,4 @@
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}
-</meta></frontmatter> <mainmatter/> </tree></mainmatter> </tree></context> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

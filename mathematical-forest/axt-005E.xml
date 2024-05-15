@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2857</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005E</fr:addr><fr:route>axt-005E.xml</fr:route><fr:title>Two-sided Dedekind cut</fr:title><fr:meta
+name="date-added">2024-03-16</fr:meta><fr:meta
+name="source">Defn. 3.10 of Aczel and Rathjen</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>Dedekind cut</fr:strong> is a pair <fr:tex>(X, Y)</fr:tex> of sets of rationals
+  such that
+  <fr:ul><fr:li>every <fr:tex>r  \in  X</fr:tex> is strictly below every <fr:tex>s  \in  Y</fr:tex>.</fr:li>
+    <fr:li><fr:tex>X = X^{&lt;}</fr:tex> and <fr:tex>Y = Y^{&gt;}</fr:tex>.</fr:li>
+    <fr:li>
+      For every rational <fr:tex>\epsilon  &gt; 0</fr:tex>, there exist <fr:tex>r  \in  X</fr:tex>, <fr:tex>s  \in  Y</fr:tex>,
+      such that <fr:tex>s - r =  \epsilon</fr:tex>.
+    </fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

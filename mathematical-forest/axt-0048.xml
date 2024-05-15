@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1142</anchor>  <taxon>Definition</taxon> <addr>axt-0048</addr>  <route>axt-0048.xml</route> <date><year>2023</year> <month>11</month> <day>23</day></date> <authors><author><link href="dan-ghica.xml" type="local">Dan R. Ghica</link></author> </authors> <title>Arena</title> <meta name="source"><b>Defn. 2</b> from the lecture notes</meta></frontmatter> <mainmatter><p>  An <b>arena</b> consists of:
-  <ul>    <li>A set <tex>M</tex>, called the set of <em>moves</em>.</li>    <li>A subset <tex>Q  \subseteq  M</tex>, called the set of <em>questions</em>.</li>    <li>A subset <tex>O  \subseteq  M</tex>, called the set of <em>opponent moves</em>.</li>    <li>A subset <tex>I  \subseteq  Q  \cap  O</tex>, called the set of <em>initial moves</em>.</li>    <li>      A relation <tex>{-}  \vdash  {-}  \subseteq  M  \times  M</tex> satisfying the
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>465</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0048</fr:addr><fr:route>axt-0048.xml</fr:route><fr:title>Arena</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="dan-ghica.xml"
+type="local"
+addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2</fr:strong> from the lecture notes</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>arena</fr:strong> consists of:
+  <fr:ul><fr:li>A set <fr:tex>M</fr:tex>, called the set of <fr:em>moves</fr:em>.</fr:li>
+    <fr:li>A subset <fr:tex>Q  \subseteq  M</fr:tex>, called the set of <fr:em>questions</fr:em>.</fr:li>
+    <fr:li>A subset <fr:tex>O  \subseteq  M</fr:tex>, called the set of <fr:em>opponent moves</fr:em>.</fr:li>
+    <fr:li>A subset <fr:tex>I  \subseteq  Q  \cap  O</fr:tex>, called the set of <fr:em>initial moves</fr:em>.</fr:li>
+    <fr:li>
+      A relation <fr:tex>{-}  \vdash  {-}  \subseteq  M  \times  M</fr:tex> satisfying the
       conditions
-      <ol>        <li><tex>m  \in  Q</tex>,</li>        <li><tex>m  \in  O</tex> iff <tex>n  \in  P</tex>, and</li>        <li><tex>n  \notin  I</tex>.</li>      </ol>    </li>  </ul></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+      <fr:ol><fr:li><fr:tex>m  \in  Q</fr:tex>,</fr:li>
+        <fr:li><fr:tex>m  \in  O</fr:tex> iff <fr:tex>n  \in  P</fr:tex>, and</fr:li>
+        <fr:li><fr:tex>n  \notin  I</fr:tex>.</fr:li></fr:ol></fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

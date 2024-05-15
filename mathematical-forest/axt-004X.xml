@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004X</fr:addr><fr:route>axt-004X.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  A frame is <fr:link
+href="axt-004V.xml"
+type="local"
+addr="axt-004V">superspectral</fr:link> iff it is isomorphic to <fr:tex>\mathfrak {D}( A )</fr:tex> for some
+  semilattice <fr:tex>A</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr>axt-004V</fr:addr><fr:route>axt-004V.xml</fr:route><fr:title>Superspectral locale in UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A large and locally small locale <fr:tex>X</fr:tex> is called <fr:strong>superspectral</fr:strong> if
+  it satisfies the following conditions:
+  <fr:ol><fr:li><fr:tex>X</fr:tex> is a <fr:link
+href="axt-004W.xml"
+type="local"
+addr="axt-004W">supercompact</fr:link> locale.</fr:li>
+    <fr:li>The meet of two <fr:link
+href="axt-004W.xml"
+type="local"
+addr="axt-004W">supercompact</fr:link> opens is <fr:link
+href="axt-004W.xml"
+type="local"
+addr="axt-004W">supercompact</fr:link>.</fr:li>
+    <fr:li>The type of <fr:link
+href="axt-004W.xml"
+type="local"
+addr="axt-004W">supercompact</fr:link> opens of <fr:tex>X</fr:tex> is small.</fr:li>
+    <fr:li>
+      For every open <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a small directed family
+      <fr:tex>(I_U,  \kappa _{U})</fr:tex> on <fr:tex>U</fr:tex> satisfying:
+      <fr:ul><fr:li><fr:tex>U =  \bigvee _{k : K}  \kappa _{U}(k)</fr:tex>.</fr:li>
+        <fr:li>The open <fr:tex>\kappa (i)</fr:tex> is <fr:link
+href="axt-004W.xml"
+type="local"
+addr="axt-004W">supercompact</fr:link> for every <fr:tex>i : I</fr:tex>.</fr:li></fr:ul></fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

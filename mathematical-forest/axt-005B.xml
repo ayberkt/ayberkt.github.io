@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1994</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005B</fr:addr><fr:route>axt-005B.xml</fr:route><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-13</fr:meta><fr:meta
+name="source"><fr:link
+href="dss-dtal.xml"
+type="local"
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  In the <fr:link
+href="axt-0002.xml"
+type="local"
+addr="axt-0002">the universal domain</fr:link>, <fr:tex>X  \ll  Y</fr:tex> iff <fr:tex>X</fr:tex> is a finite subset
+  of <fr:tex>Y</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1992</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-08-18</fr:meta><fr:meta
+name="source">from <fr:link
+href="dss-dtal.xml"
+type="local"
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
+  inclusion.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1990</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{dss-dtal,
+  title     = {Data types as lattices},
+  author    = {Scott, Dana S.},
+  date      = {1976},
+  series    = {Technical monograph (Oxford University Computing Laboratory. Programming Research Group); PRG-5},
+  publisher = {Oxford University Computing Laboratory, Programming Research Group},
+  isbn      = {9780902928107},
+  address   = {Oxford, UK},
+}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
+href="skim:///Users/ayberkt/Dropbox/Reading/dss-dtal.pdf"
+type="external">PDF</fr:link></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

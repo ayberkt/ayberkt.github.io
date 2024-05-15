@@ -1,41 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1041</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
-  <b>maxset</b> if,
-  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
-      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
-    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1042</anchor>  <taxon>Idea</taxon> <addr>axt-004D</addr>  <route>axt-004D.xml</route> <date><year>2023</year> <month>12</month> <day>6</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> <contributor><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></contributor></authors> <title>Maxsets in a predicative setting</title> </frontmatter> <mainmatter><p>  In impredicative locale theory, the notion of a <link href="axt-003I.xml" type="local" title="Maxset">maxset</link> is defined
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2594</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-08</fr:meta><fr:meta
+name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
+href="wilson-thesis.xml"
+type="local"
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a <fr:link
+href="axt-003J.xml"
+type="local"
+addr="axt-003J">frame</fr:link>. A subset <fr:tex>M  \subseteq  L</fr:tex> is called a
+  <fr:strong>maxset</fr:strong> if,
+  <fr:ol><fr:li>it is closed under arbitrary meets, and</fr:li>
+    <fr:li>
+      it is an exponential ideal i.e.
+      <fr:tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2591</fr:anchor><fr:taxon>Idea</fr:taxon><fr:addr>axt-004D</fr:addr><fr:route>axt-004D.xml</fr:route><fr:title>Maxsets in a predicative setting</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  In impredicative locale theory, the notion of a <fr:link
+href="axt-003I.xml"
+type="local"
+addr="axt-003I">maxset</fr:link> is defined
   as:
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1043</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
-  <b>maxset</b> if,
-  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
-      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
-    </li>  </ol></p></mainmatter> </tree><p>  It is a standard fact of locale theory that there is a correspondence
-  between the set of nuclei on and the class of maxsets of any frame.
-</p></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1044</anchor>  <taxon>Definition</taxon> <addr>axt-003J</addr>  <route>axt-003J.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>  <title>Frame</title> </frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1045</anchor>  <taxon>Proposition</taxon> <addr>axt-004F</addr>  <route>axt-004F.xml</route> <date><year>2023</year> <month>12</month> <day>6</day></date>   </frontmatter> <mainmatter><p>  Let <tex>L</tex> be a frame and <tex>j : L  \to  L</tex> a nucleus on it. The set of fixed
-  points of <tex>j</tex> forms a <link href="axt-003I.xml" type="local" title="Maxset">maxset</link>.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   We need to show that <tex>\mathfrak{F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</tex> is
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-08</fr:meta><fr:meta
+name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
+href="wilson-thesis.xml"
+type="local"
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a <fr:link
+href="axt-003J.xml"
+type="local"
+addr="axt-003J">frame</fr:link>. A subset <fr:tex>M  \subseteq  L</fr:tex> is called a
+  <fr:strong>maxset</fr:strong> if,
+  <fr:ol><fr:li>it is closed under arbitrary meets, and</fr:li>
+    <fr:li>
+      it is an exponential ideal i.e.
+      <fr:tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  It is a standard fact of locale theory that there is a correspondence between
+  the set of nuclei on, and the class of maxsets of, every frame.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a frame and <fr:tex>j : L  \to  L</fr:tex> a nucleus on it. The set of fixed
+  points of <fr:tex>j</fr:tex> forms a <fr:link
+href="axt-003I.xml"
+type="local"
+addr="axt-003I">maxset</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>424</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
+  We need to show that <fr:tex>\mathfrak {F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</fr:tex> is
   (1) closed under arbitrary meets and is (2) an exponential ideal.
-  <ol>    <li>      Let <tex>S  \subseteq   \mathfrak{F} _j</tex>. To show that <tex>\left ( \bigwedge  S \right )  \in        \mathfrak{F} _j</tex>, we have to show <tex>\left ( \bigwedge  S \right )</tex> is itself a fixed
-      point of <tex>j</tex>, for which it suffices to show <tex>j \left ( \bigwedge  S \right )       \le   \bigwedge  S</tex>. Consider some <tex>x  \in  S</tex>, which satisfies <tex>x = j(x)</tex> by
-      the definition of <tex>S</tex>. To show <tex>j( \bigwedge  S)  \le  j(x)</tex>, it suffices
-      to show <tex>\bigwedge  S  \le  x</tex> which holds by definition.
-    </li>    <li>      Let <tex>x  \in  L</tex>, <tex>y  \in   \mathfrak{F} _j</tex>. We need to show that
-      <tex>j(x  \Rightarrow  y)  \in   \mathfrak{F} _j</tex> i.e. <tex>j(x  \Rightarrow  y)  \le  x  \Rightarrow  y.</tex>      By the definition of Heyting implication, we just have to show
-      <tex>j(x  \Rightarrow  y)  \wedge  x  \le  y</tex>. This is the case since we have
-      <center><img src="resources/ab801e350987eb0c5c0774d537bc3021-web.svg"/></center>    </li>  </ol></block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1046</anchor>  <taxon>Idea</taxon> <addr>axt-004D</addr>  <route>axt-004D.xml</route> <date><year>2023</year> <month>12</month> <day>6</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> <contributor><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></contributor></authors> <title>Maxsets in a predicative setting</title> </frontmatter> <mainmatter><p>  In impredicative locale theory, the notion of a <link href="axt-003I.xml" type="local" title="Maxset">maxset</link> is defined
+  <fr:ol><fr:li>
+      Let <fr:tex>S  \subseteq   \mathfrak {F} _j</fr:tex>. To show that <fr:tex>\left ( \bigwedge  S \right )  \in         \mathfrak {F} _j</fr:tex>, we have to show <fr:tex>\left ( \bigwedge  S \right )</fr:tex> is itself a fixed
+      point of <fr:tex>j</fr:tex>, for which it suffices to show <fr:tex>j \left ( \bigwedge  S \right )        \le   \bigwedge  S</fr:tex>. Consider some <fr:tex>x  \in  S</fr:tex>, which satisfies <fr:tex>x = j(x)</fr:tex> by
+      the definition of <fr:tex>S</fr:tex>. To show <fr:tex>j( \bigwedge  S)  \le  j(x)</fr:tex>, it suffices
+      to show <fr:tex>\bigwedge  S  \le  x</fr:tex> which holds by definition.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>x  \in  L</fr:tex>, <fr:tex>y  \in   \mathfrak {F} _j</fr:tex>. We need to show that
+      <fr:tex>j(x  \Rightarrow  y)  \in   \mathfrak {F} _j</fr:tex> i.e. <fr:tex>j(x  \Rightarrow  y)  \le  x  \Rightarrow  y.</fr:tex>
+      By the definition of Heyting implication, we just have to show
+      <fr:tex>j(x  \Rightarrow  y)  \wedge  x  \le  y</fr:tex>. This is the case since we have
+      <fr:embedded-tex
+hash="cbdeb60d1d6c165b774af2dc2964aa9d"><fr:embedded-tex-preamble>
+         \usepackage {amsmath}
+         \usepackage {amsfonts}
+         \usepackage {amssymb}
+         \usepackage {mathtools}
+      </fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tabular}{l l l l}
+        ~                             &amp; ~     &amp; ~ &amp; ~ \\ 
+        $j(x  \Rightarrow  y)  \wedge  x$ &amp; $ \le $ &amp; $j(x  \Rightarrow  y)  \wedge  j(x)$ &amp;  \textsf {[inflationarity]} \\ 
+        ~                             &amp; $ \le $ &amp; $j((x  \Rightarrow  y)  \wedge  x)$  &amp;  \textsf {[meet-preservation]}  \\ 
+        ~                             &amp; $ \le $ &amp; $j(y)$ &amp;  \textsf {[modus ponens]} \\ 
+        ~                             &amp; $ \le $ &amp; $y$    &amp;  \textsf {[$y$ is a fixed point of $j$]}
+         \end {tabular}
+      </fr:embedded-tex-body></fr:embedded-tex></fr:li></fr:ol>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2590</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003J</fr:addr><fr:route>axt-003J.xml</fr:route><fr:title>Frame</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2586</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a frame and <fr:tex>j : L  \to  L</fr:tex> a nucleus on it. The set of fixed
+  points of <fr:tex>j</fr:tex> forms a <fr:link
+href="axt-003I.xml"
+type="local"
+addr="axt-003I">maxset</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>424</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
+  We need to show that <fr:tex>\mathfrak {F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</fr:tex> is
+  (1) closed under arbitrary meets and is (2) an exponential ideal.
+  <fr:ol><fr:li>
+      Let <fr:tex>S  \subseteq   \mathfrak {F} _j</fr:tex>. To show that <fr:tex>\left ( \bigwedge  S \right )  \in         \mathfrak {F} _j</fr:tex>, we have to show <fr:tex>\left ( \bigwedge  S \right )</fr:tex> is itself a fixed
+      point of <fr:tex>j</fr:tex>, for which it suffices to show <fr:tex>j \left ( \bigwedge  S \right )        \le   \bigwedge  S</fr:tex>. Consider some <fr:tex>x  \in  S</fr:tex>, which satisfies <fr:tex>x = j(x)</fr:tex> by
+      the definition of <fr:tex>S</fr:tex>. To show <fr:tex>j( \bigwedge  S)  \le  j(x)</fr:tex>, it suffices
+      to show <fr:tex>\bigwedge  S  \le  x</fr:tex> which holds by definition.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>x  \in  L</fr:tex>, <fr:tex>y  \in   \mathfrak {F} _j</fr:tex>. We need to show that
+      <fr:tex>j(x  \Rightarrow  y)  \in   \mathfrak {F} _j</fr:tex> i.e. <fr:tex>j(x  \Rightarrow  y)  \le  x  \Rightarrow  y.</fr:tex>
+      By the definition of Heyting implication, we just have to show
+      <fr:tex>j(x  \Rightarrow  y)  \wedge  x  \le  y</fr:tex>. This is the case since we have
+      <fr:embedded-tex
+hash="cbdeb60d1d6c165b774af2dc2964aa9d"><fr:embedded-tex-preamble>
+         \usepackage {amsmath}
+         \usepackage {amsfonts}
+         \usepackage {amssymb}
+         \usepackage {mathtools}
+      </fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tabular}{l l l l}
+        ~                             &amp; ~     &amp; ~ &amp; ~ \\ 
+        $j(x  \Rightarrow  y)  \wedge  x$ &amp; $ \le $ &amp; $j(x  \Rightarrow  y)  \wedge  j(x)$ &amp;  \textsf {[inflationarity]} \\ 
+        ~                             &amp; $ \le $ &amp; $j((x  \Rightarrow  y)  \wedge  x)$  &amp;  \textsf {[meet-preservation]}  \\ 
+        ~                             &amp; $ \le $ &amp; $j(y)$ &amp;  \textsf {[modus ponens]} \\ 
+        ~                             &amp; $ \le $ &amp; $y$    &amp;  \textsf {[$y$ is a fixed point of $j$]}
+         \end {tabular}
+      </fr:embedded-tex-body></fr:embedded-tex></fr:li></fr:ol>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2587</fr:anchor><fr:taxon>Idea</fr:taxon><fr:addr>axt-004D</fr:addr><fr:route>axt-004D.xml</fr:route><fr:title>Maxsets in a predicative setting</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  In impredicative locale theory, the notion of a <fr:link
+href="axt-003I.xml"
+type="local"
+addr="axt-003I">maxset</fr:link> is defined
   as:
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1047</anchor>  <taxon>Definition</taxon> <addr>axt-003I</addr>  <route>axt-003I.xml</route> <date><year>2023</year> <month>11</month> <day>8</day></date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>Maxset</title> <meta name="source"><b>Paragraph 13.2</b> (p. 66) of <link href="wilson-thesis.xml" type="local" title="The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory">Wilson's thesis</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a <link href="axt-003J.xml" type="local" title="Frame">frame</link>. A subset <tex>M  \subseteq  L</tex> is called a
-  <b>maxset</b> if,
-  <ol>    <li>it is closed under arbitrary meets, and</li>    <li>      it is an exponential ideal i.e.
-      <tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</tex>.
-    </li>  </ol></p></mainmatter> </tree><p>  It is a standard fact of locale theory that there is a correspondence
-  between the set of nuclei on and the class of maxsets of any frame.
-</p></mainmatter> </tree></backlinks> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1048</anchor>  <taxon>Reference</taxon> <addr>wilson-thesis</addr>  <route>wilson-thesis.xml</route> <date><year>1994</year> <month>5</month> </date> <authors><author><link href="todd-wilson.xml" type="local">J. Todd Wilson</link></author> </authors> <title>The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory</title> <meta name="bibtex">@phdthesis{wilson-thesis,
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003I</fr:addr><fr:route>axt-003I.xml</fr:route><fr:title>Maxset</fr:title><fr:authors><fr:author><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-08</fr:meta><fr:meta
+name="source"><fr:strong>Paragraph 13.2</fr:strong> (p. 66) of <fr:link
+href="wilson-thesis.xml"
+type="local"
+addr="wilson-thesis">Wilson's thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a <fr:link
+href="axt-003J.xml"
+type="local"
+addr="axt-003J">frame</fr:link>. A subset <fr:tex>M  \subseteq  L</fr:tex> is called a
+  <fr:strong>maxset</fr:strong> if,
+  <fr:ol><fr:li>it is closed under arbitrary meets, and</fr:li>
+    <fr:li>
+      it is an exponential ideal i.e.
+      <fr:tex>\forall  x  \in  L. \  \forall  m  \in  M. \  (x  \Rightarrow  m)  \in  M</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  It is a standard fact of locale theory that there is a correspondence between
+  the set of nuclei on, and the class of maxsets of, every frame.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004F</fr:addr><fr:route>axt-004F.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a frame and <fr:tex>j : L  \to  L</fr:tex> a nucleus on it. The set of fixed
+  points of <fr:tex>j</fr:tex> forms a <fr:link
+href="axt-003I.xml"
+type="local"
+addr="axt-003I">maxset</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>424</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:parent>axt-004F</fr:parent></fr:frontmatter><fr:mainmatter>
+  We need to show that <fr:tex>\mathfrak {F} _j  \vcentcolon \equiv   \{  x  \in  L  \mid  j(x) = x  \}</fr:tex> is
+  (1) closed under arbitrary meets and is (2) an exponential ideal.
+  <fr:ol><fr:li>
+      Let <fr:tex>S  \subseteq   \mathfrak {F} _j</fr:tex>. To show that <fr:tex>\left ( \bigwedge  S \right )  \in         \mathfrak {F} _j</fr:tex>, we have to show <fr:tex>\left ( \bigwedge  S \right )</fr:tex> is itself a fixed
+      point of <fr:tex>j</fr:tex>, for which it suffices to show <fr:tex>j \left ( \bigwedge  S \right )        \le   \bigwedge  S</fr:tex>. Consider some <fr:tex>x  \in  S</fr:tex>, which satisfies <fr:tex>x = j(x)</fr:tex> by
+      the definition of <fr:tex>S</fr:tex>. To show <fr:tex>j( \bigwedge  S)  \le  j(x)</fr:tex>, it suffices
+      to show <fr:tex>\bigwedge  S  \le  x</fr:tex> which holds by definition.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>x  \in  L</fr:tex>, <fr:tex>y  \in   \mathfrak {F} _j</fr:tex>. We need to show that
+      <fr:tex>j(x  \Rightarrow  y)  \in   \mathfrak {F} _j</fr:tex> i.e. <fr:tex>j(x  \Rightarrow  y)  \le  x  \Rightarrow  y.</fr:tex>
+      By the definition of Heyting implication, we just have to show
+      <fr:tex>j(x  \Rightarrow  y)  \wedge  x  \le  y</fr:tex>. This is the case since we have
+      <fr:embedded-tex
+hash="cbdeb60d1d6c165b774af2dc2964aa9d"><fr:embedded-tex-preamble>
+         \usepackage {amsmath}
+         \usepackage {amsfonts}
+         \usepackage {amssymb}
+         \usepackage {mathtools}
+      </fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tabular}{l l l l}
+        ~                             &amp; ~     &amp; ~ &amp; ~ \\ 
+        $j(x  \Rightarrow  y)  \wedge  x$ &amp; $ \le $ &amp; $j(x  \Rightarrow  y)  \wedge  j(x)$ &amp;  \textsf {[inflationarity]} \\ 
+        ~                             &amp; $ \le $ &amp; $j((x  \Rightarrow  y)  \wedge  x)$  &amp;  \textsf {[meet-preservation]}  \\ 
+        ~                             &amp; $ \le $ &amp; $j(y)$ &amp;  \textsf {[modus ponens]} \\ 
+        ~                             &amp; $ \le $ &amp; $y$    &amp;  \textsf {[$y$ is a fixed point of $j$]}
+         \end {tabular}
+      </fr:embedded-tex-body></fr:embedded-tex></fr:li></fr:ol>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2584</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>wilson-thesis</fr:addr><fr:route>wilson-thesis.xml</fr:route><fr:title>The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory</fr:title><fr:date><fr:year>1994</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="todd-wilson.xml"
+type="local"
+addr="todd-wilson">J. Todd Wilson</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@phdthesis{wilson-thesis,
   title     = {The Assembly Tower and Some Categorical and Algebraic Aspects of Frame Theory},
   author    = {Wilson, J. Todd},
   date      = {1994-05},
   school    = {School of Computer Science, Carnegie Mellon University},
   location  = {Pittsburgh, PA},
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

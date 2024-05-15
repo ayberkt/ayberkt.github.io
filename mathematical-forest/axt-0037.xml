@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1000</anchor>  <taxon>Definition</taxon> <addr>axt-0037</addr>  <route>axt-0037.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Axiom of choice in UF</title> <meta name="source"><b>3.8.3</b> from <link href="hott-book" type="external">the HoTT book</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U} ,  \mathcal{V}</tex> be two universes and let
-  <ul>    <li><tex>A :  \mathsf{Set} _{ \mathcal{U} }</tex>; and</li>    <li><tex>B : A  \to   \mathsf{Set} _{ \mathcal{V} }</tex>.</li>  </ul>  The <b>axiom of choice</b> is the following statement:
-  <tex display="block">  \left ( \prod _{ a  :  A }  \Bigl \lVert   B(a)   \Bigr \rVert \right )  \to   \Bigl \lVert   \prod _{ a  :  A }  B(a)   \Bigr \rVert  </tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0037</fr:addr><fr:route>axt-0037.xml</fr:route><fr:title>Axiom of choice in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+name="source"><fr:strong>3.8.3</fr:strong> from <fr:link
+href="hott-book"
+type="external">the HoTT book</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U} ,  \mathcal {V}</fr:tex> be two universes and let
+  <fr:ul><fr:li><fr:tex>A :  \mathsf {Set}_{ \mathcal {U} }</fr:tex>; and</fr:li>
+    <fr:li><fr:tex>B : A  \to   \mathsf {Set}_{ \mathcal {V} }</fr:tex>.</fr:li></fr:ul>
+  The <fr:strong>axiom of choice</fr:strong> is the following statement:
+  <fr:tex
+display="block">  \left ( \prod _{ a  :  A }  \Bigl \lVert   B(a)   \Bigr \rVert \right )  \to   \Bigl \lVert   \prod _{ a  :  A }  B(a)   \Bigr \rVert  </fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

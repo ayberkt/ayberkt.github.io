@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2416</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005O</fr:addr><fr:route>axt-005O.xml</fr:route><fr:title>Labelled transition system</fr:title><fr:meta
+name="date-added">2024-04-18</fr:meta><fr:meta
+name="source"><fr:strong>Example 1.3</fr:strong> from <fr:link
+href="blackburn-rijke-venema-book.xml"
+type="local"
+addr="blackburn-rijke-venema-book">Blackburn, Rijke, and Venema</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>labeled transition system</fr:strong> is a pair <fr:tex>(W, L, (R_l)_{l  \in  I})</fr:tex> where
+  <fr:ul><fr:li><fr:tex>W</fr:tex> is a nonempty set of states.</fr:li>
+    <fr:li><fr:tex>L</fr:tex> is a nonempty set of labels.</fr:li>
+    <fr:li><fr:tex>(R_i)_{i  \in  L}</fr:tex> is an <fr:tex>L</fr:tex>-indexed family of relations on <fr:tex>W</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2412</fr:anchor><fr:addr>blackburn-rijke-venema-book</fr:addr><fr:route>blackburn-rijke-venema-book.xml</fr:route><fr:title>Modal Logic</fr:title><fr:date><fr:year>2001</fr:year></fr:date><fr:authors><fr:author>Patrick Blackburn</fr:author><fr:author>Maarten de Rijke</fr:author><fr:author>Yde Venema</fr:author></fr:authors><fr:meta
+name="bibtex">@book{blackburn-rijke-venema-book,
+  title       = {Modal Logic},
+  year        = {2001},
+  publisher   = {Cambridge University Press},
+  place       = {Cambridge},
+  series      = {Cambridge Tracts in Theoretical Computer Science},
+  author      = {Blackburn, Patrick and Rijke, Maarten de and Venema, Yde},
+  collection  = {Cambridge Tracts in Theoretical Computer Science},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

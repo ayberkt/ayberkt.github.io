@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>252</anchor>  <taxon>Definition</taxon> <addr>axt-0010</addr>  <route>axt-0010.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date> <authors><author>Nicolai Kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>Thorsten Altenkirch</author> </authors> <title>Weakly constant map</title> <meta name="source"><b>Defn 2.13</b> from <link href="keca.xml" type="local" title="Notions of Anonymous Existence in Martin-Löf Type Theory">KECA</link></meta></frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called <b>weakly constant</b> if
-  <tex>\prod _{x, y : X} f(x) = f(y)</tex>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>253</anchor>   <addr>keca</addr>  <route>keca.xml</route> <date><year>2017</year>  </date> <authors><author>nicolai-kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>thorsten-altenkirch</author> </authors> <title>Notions of Anonymous Existence in Martin-Löf Type Theory</title> <meta name="bibtex">@article{keca,
-  author       = {Nicolai Kraus and
-                  Mart{\'{\i}}n Escard{\'{o}} and
-                  Thierry Coquand and
-                  Thorsten Altenkirch},
-  title        = {Notions of Anonymous Existence in Martin-L{\&quot;{o}}f Type Theory},
-  journal      = {Logical Methods in Computer Science},
-  volume       = {13},
-  number       = {1},
-  year         = {2017},
-  url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
-  doi          = {10.23638/LMCS-13(1:15)2017},
-  biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1562</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0010</fr:addr><fr:route>axt-0010.xml</fr:route><fr:title>Weakly constant map</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Nicolai Kraus</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author>Thorsten Altenkirch</fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.13</fr:strong> from <fr:link
+href="keca"
+type="external">KECA</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A function <fr:tex>f : X  \to  Y</fr:tex> is called <fr:strong>weakly constant</fr:strong> if
+  <fr:tex>\prod _{x, y : X} f(x) = f(y)</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>121</anchor>  <taxon>Reference</taxon> <addr>aczel-inductive-1977</addr>  <route>aczel-inductive-1977.xml</route> <date><year>1977</year>  </date> <authors><author>Peter Aczel</author> </authors> <title>An Introduction to Inductive Definitions</title> <meta name="bibtex">@incollection{aczel-inductive-1977,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1969</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-inductive-1977</fr:addr><fr:route>aczel-inductive-1977.xml</fr:route><fr:title>An Introduction to Inductive Definitions</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@incollection{aczel-inductive-1977,
   title        = {An Introduction to Inductive Definitions},
   author       = {Aczel, Peter},
   date         = 1977,
@@ -11,5 +20,4 @@
   pages        = {739--782},
   booktitle    = {Handbook of Mathematical Logic},
   doi          = {10.1016/S0049-237X(08)71120-0},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

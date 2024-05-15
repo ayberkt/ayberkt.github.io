@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1238</anchor>   <addr>church-lambda-1941</addr>  <route>church-lambda-1941.xml</route> <date><year>1941</year>  </date> <authors><author>alonzo-church</author> </authors> <title>The Calculi of Lambda-Conversion</title> <meta name="bibtex">@book{church-lambda-1941,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1982</fr:anchor><fr:addr>church-lambda-1941</fr:addr><fr:route>church-lambda-1941.xml</fr:route><fr:title>The Calculi of Lambda-Conversion</fr:title><fr:date><fr:year>1941</fr:year></fr:date><fr:authors><fr:author>alonzo-church</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{church-lambda-1941,
   title     = {The calculi of lambda-conversion},
   author    = {Church, Alonzo},
   date      = {1941},
   address   = {Princeton},
   publisher = {Princeton University Press},
   series    = {Annals of mathematics studies; no. 6},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

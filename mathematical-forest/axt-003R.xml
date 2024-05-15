@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1094</anchor>  <taxon>Definition</taxon> <addr>axt-003R</addr>  <route>axt-003R.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The type of ¬¬-stable propositions</title> <meta name="source"><b>Defn 2.iii</b> of <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> be a universe. The <b>type of <tex>\neg \neg</tex>-stable
-  propositions</b> at universe <tex>\mathcal{U}</tex> is defined as:
-  <tex display="block">\Omega ^{ \neg \neg }_{ \mathcal{U} }   \vcentcolon \equiv   \sum _{ P \  : \  \Omega _{ \mathcal{U} } }  \mathsf{isNotNotStable} ( P )</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1095</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>599</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.iii</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> be a universe. The <fr:strong>type of <fr:tex>\neg \neg</fr:tex>-stable
+  propositions</fr:strong> at universe <fr:tex>\mathcal {U}</fr:tex> is defined as:
+  <fr:tex
+display="block">\Omega ^{ \neg \neg }_{ \mathcal {U} }   \vcentcolon \equiv   \sum _{ P \  : \  \Omega _{ \mathcal {U} } }  \mathsf {isNotNotStable}( P )</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>596</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@InProceedings{tdj-mhe-aspects,
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
   author       = {de Jong, Tom and Escardó, Martín H.},
   date         = {2021},
@@ -11,7 +45,6 @@
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
   volume       = 195,
   editor       = {Kobayashi, Naoki},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

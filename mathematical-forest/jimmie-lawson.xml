@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2388</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>jimmie-lawson</fr:addr><fr:route>jimmie-lawson.xml</fr:route><fr:title>Jimmie D. Lawson</fr:title><fr:meta
+name="external">https://www.math.lsu.edu/~lawson/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2378</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004T</fr:addr><fr:route>axt-004T.xml</fr:route><fr:date><fr:year>2009</fr:year><fr:month>6</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="klaus-keimel.xml"
+type="local"
+addr="klaus-keimel">Klaus Keimel</fr:link></fr:author><fr:author><fr:link
+href="jimmie-lawson.xml"
+type="local"
+addr="jimmie-lawson">Jimmie D. Lawson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-16</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a sober space <fr:tex>X</fr:tex>, the subsets of of <fr:tex>X</fr:tex> that are sober as subspaces
+  are exactly its <fr:link
+href="axt-004R.xml"
+type="local"
+addr="axt-004R">Skula</fr:link>-closed subsets.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2381</fr:anchor><fr:addr>clad</fr:addr><fr:route>clad.xml</fr:route><fr:title>Continuous Lattices and Domains</fr:title><fr:date><fr:year>2003</fr:year></fr:date><fr:authors><fr:author>Gerhard Gierz</fr:author><fr:author>Karl H. Hofmann</fr:author><fr:author>Klaus Keimel</fr:author><fr:author><fr:link
+href="jimmie-lawson.xml"
+type="local"
+addr="jimmie-lawson">Jimmie D. Lawson</fr:link></fr:author><fr:author>Michael Mislove</fr:author><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{clad,
+  series    = {Encyclopedia of Mathematics and its Applications},
+  title     = {Continuous Lattices and Domains},
+  publisher = {Cambridge University Press},
+  author    = {Gierz, G. and Hofmann, K. H. and Keimel, K. and Lawson,
+               J. D. and Mislove, M. and Scott, D S.},
+  date      = {2003},
+  volume    = 93,
+  doi       = {10.1017/CBO9780511542725},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

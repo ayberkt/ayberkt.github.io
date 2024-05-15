@@ -1,25 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>419</anchor>  <taxon>Definition</taxon> <addr>axt-001Z</addr>  <route>axt-001Z.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date>  <title>Upwards-closed subset</title> </frontmatter> <mainmatter><p>  Let <tex>(X,  \le )</tex> be a poset. A subset <tex>A  \subseteq  X</tex> is <em>upwards-closed</em>  if it satisfies
-  <tex display="block">\forall  a  \in  A. \  \forall  x  \in  X. \  a  \le  x  \rightarrow  x  \in  A.</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>420</anchor>  <taxon>Definition</taxon> <addr>axt-003U</addr>  <route>axt-003U.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Alexandroff topology</title> <meta name="source"><b>Prop. 4.2.11</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  Let <tex>A</tex> be a preordered set. A subset <tex>U  \subseteq  A</tex> is taken as an open in
-  its <b>Alexandroff topology</b> if it is <link href="axt-001Z.xml" type="local" title="Upwards-closed subset">upward closed</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>421</anchor>  <taxon>Lemma</taxon> <addr>axt-002Z</addr>  <route>axt-002Z.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors>  <meta name="source"><b>Lemma 4.2.5</b> of ???</meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> be a topological space. Every open subset <tex>U  \in   \mathcal{O} ( X )</tex> is
-  <link href="axt-001Z.xml" type="local" title="Upwards-closed subset">upward-closed</link> with respect to its <link href="axt-0030.xml" type="local" title="Specialization preorder">specialization
-  preorder</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>422</anchor>  <taxon>Theorem</taxon> <addr>axt-002K</addr>  <route>axt-002K.xml</route> <date><year>2023</year> <month>10</month> <day>30</day></date>   </frontmatter> <mainmatter><p>  Let <tex>D</tex> be an <link href="axt-001S.xml" type="local" title="Algebraic dcpo">algebraic dcpo</link> and <tex>U  \subseteq  D</tex> a Scott open
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1368</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Z</fr:addr><fr:route>axt-001Z.xml</fr:route><fr:title>Upwards-closed subset</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(X,  \le )</fr:tex> be a poset. A subset <fr:tex>A  \subseteq  X</fr:tex> is <fr:em>upwards-closed</fr:em>
+  if it satisfies
+  <fr:tex
+display="block">\forall  a  \in  A. \  \forall  x  \in  X. \  a  \le  x  \rightarrow  x  \in  A.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1359</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004J</fr:addr><fr:route>axt-004J.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(X,  \le )</fr:tex> be a preordered set. The class of <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed</fr:link>
+  sets on <fr:tex>X</fr:tex> form a topology.
+</fr:p><fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>420</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:parent>axt-004J</fr:parent></fr:frontmatter><fr:mainmatter>
+    <fr:p>
+      The entire set <fr:tex>X</fr:tex> is trivially upward closed. Let <fr:tex>U, V  \subseteq  X</fr:tex> be
+      two upward closed sets. Given an element <fr:tex>x  \in  U  \cap  V</fr:tex> falling in
+      both, any <fr:tex>y  \ge  x</fr:tex> must also fall in both by the upward closure
+      properties of <fr:tex>U</fr:tex> and <fr:tex>V</fr:tex>, which is to say that <fr:tex>U  \cap  V</fr:tex> is itself
+      upward closed. This is to say that the class of upward closed sets is
+      closed under finite intersection.
+    </fr:p>
+    <fr:p>
+      Let <fr:tex>\{  V_i  \} _{i  \in  I}</fr:tex> be an arbitrary family of upward closed sets
+      and let <fr:tex>x  \in   \bigcup _{i  \in  I} V_i</fr:tex>. This means that there exists some
+      <fr:tex>k  \in  I</fr:tex> such that <fr:tex>x  \in  V_k</fr:tex>. Any <fr:tex>y  \ge  x</fr:tex> must also be in
+      <fr:tex>V_k</fr:tex> by its upward closure property which is to say any such <fr:tex>y</fr:tex>
+      will also fall in the union <fr:tex>\bigcup _{i  \in  I} V_i</fr:tex>. Therefore, the class
+      of upward closed sets is closed under arbitrary union.
+    </fr:p>
+  </fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1360</fr:anchor><fr:taxon>Lemma</fr:taxon><fr:addr>axt-002Z</fr:addr><fr:route>axt-002Z.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Lemma 4.2.5</fr:strong> of ???</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a topological space. Every open subset <fr:tex>U  \in   \mathcal {O}( X )</fr:tex> is
+  <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed</fr:link> with respect to its <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization
+  preorder</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>722</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:parent>axt-002Z</fr:parent></fr:frontmatter><fr:mainmatter>
+  Direct by the definition of the specialization preorder.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1362</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-002K</fr:addr><fr:route>axt-002K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be an <fr:link
+href="axt-001S.xml"
+type="local"
+addr="axt-001S">algebraic dcpo</fr:link> and <fr:tex>U  \subseteq  D</fr:tex> a Scott open
   subset. We then have
-  <tex display="block">U =  \bigcup   \{   { \uparrow } c   \mid  c  \in  U, c \  \mathsf{compact}   \} .</tex></p>      <block open="open"><headline><b>Proof</b>.</headline>   <p>    <tex>( \impliedby )</tex> This direction follows directly from the <link href="axt-001Z.xml" type="local" title="Upwards-closed subset">upward
-    closure</link> of <tex>U</tex>, which is entailed by its <link href="axt-001Y.xml" type="local" title="Scott open subset of a dcpo">Scott
-    openness</link>.
-  </p>  <p>    <tex>( \implies )</tex> Let <tex>x  \in  U</tex>. We need to show that there exists a compact
-    <tex>c  \in  U</tex> such that <tex>x  \in   { \uparrow } c</tex>. Thanks to the
-    <link href="axt-001S.xml" type="local" title="Algebraic dcpo">algebraicity</link> of <tex>D</tex>, we know that
-    <tex>x =  \bigvee ^{ \uparrow }  \{  c  \in   \mathcal{K} (D)  \mid  c  \sqsubseteq  x  \} .</tex>    The fact that <tex>U</tex> is <link href="axt-001Y.xml" type="local" title="Scott open subset of a dcpo">Scott open</link> entails it is inaccessible by
+  <fr:tex
+display="block">U =  \bigcup   \{   { \uparrow } c   \mid  c  \in  U, c \  \mathsf {compact}  \} .</fr:tex></fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1016</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>30</fr:day></fr:date><fr:parent>axt-002K</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:tex>( \impliedby )</fr:tex> This direction follows directly from the <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward
+    closure</fr:link> of <fr:tex>U</fr:tex>, which is entailed by its <fr:link
+href="axt-001Y.xml"
+type="local"
+addr="axt-001Y">Scott
+    openness</fr:link>.
+  </fr:p>
+  <fr:p><fr:tex>( \implies )</fr:tex> Let <fr:tex>x  \in  U</fr:tex>. We need to show that there exists a compact
+    <fr:tex>c  \in  U</fr:tex> such that <fr:tex>x  \in   { \uparrow } c</fr:tex>. Thanks to the
+    <fr:link
+href="axt-001S.xml"
+type="local"
+addr="axt-001S">algebraicity</fr:link> of <fr:tex>D</fr:tex>, we know that
+    <fr:tex>x =  \bigvee ^{ \uparrow }  \{  c  \in   \mathcal {K} (D)  \mid  c  \sqsubseteq  x  \} .</fr:tex>
+    The fact that <fr:tex>U</fr:tex> is <fr:link
+href="axt-001Y.xml"
+type="local"
+addr="axt-001Y">Scott open</fr:link> entails it is inaccessible by
     directed joins so the fact that
-    <tex display="block">\left ( \bigvee ^{ \uparrow }  \{  c  \in   \mathcal{K} (D)  \mid  c  \sqsubseteq  x  \} \right )  \in  U</tex>    means there exists a compact <tex>c_0  \in  U</tex> with <tex>c_0  \sqsubseteq  x</tex>    which is to say <tex>x  \in   { \uparrow } c_0</tex>.
-  </p></block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>423</anchor>  <taxon>Definition</taxon> <addr>axt-001Y</addr>  <route>axt-001Y.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date>  <title>Scott open subset of a dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a dcpo. A subset <tex>U  \subseteq  D</tex> is called a
-  <em>Scott open</em> if it satisfies the following conditions.
-  <ol>    <li><tex>U</tex> is <link href="axt-001Z.xml" type="local" title="Upwards-closed subset"><b>upwards-closed</b></link>.</li>    <li>      <tex>U</tex> is <b>inaccessible by directed joins</b>, which is to say
-      for any directed subset <tex>S  \subseteq  D</tex>, if <tex>( { \bigvee }^{ \uparrow } S )  \in  U</tex>      then there is some <tex>x  \in  S</tex> such that <tex>x  \in  U</tex>.
-    </li>  </ol></p><p>  The definition here follows the definition at the beginning of <b>Section 2.2</b>  of <link href="michael-smyth.xml" type="local" title="Michael B. Smyth">Mike Smyth</link>'s <link href="smyth-topology.xml" type="local" title="Topology">handbook chapter on topology</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+    <fr:tex
+display="block">\left ( \bigvee ^{ \uparrow }  \{  c  \in   \mathcal {K} (D)  \mid  c  \sqsubseteq  x  \} \right )  \in  U</fr:tex>
+    means there exists a compact <fr:tex>c_0  \in  U</fr:tex> with <fr:tex>c_0  \sqsubseteq  x</fr:tex>
+    which is to say <fr:tex>x  \in   { \uparrow } c_0</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1363</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. A subset <fr:tex>U  \subseteq  D</fr:tex> is called a
+  <fr:em>Scott open</fr:em> if it satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>U</fr:tex> is <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z"><fr:strong>upwards-closed</fr:strong></fr:link>.</fr:li>
+    <fr:li><fr:tex>U</fr:tex> is <fr:strong>inaccessible by directed joins</fr:strong>, which is to say
+      for any directed subset <fr:tex>S  \subseteq  D</fr:tex>, if <fr:tex>( { \bigvee }^{ \uparrow } S )  \in  U</fr:tex>
+      then there is some <fr:tex>x  \in  S</fr:tex> such that <fr:tex>x  \in  U</fr:tex>.
+    </fr:li></fr:ol></fr:p><fr:p>
+  The definition here follows the definition at the beginning of <fr:strong>Section 2.2</fr:strong>
+  of <fr:link
+href="michael-smyth.xml"
+type="local"
+addr="michael-smyth">Mike Smyth</fr:link>'s <fr:link
+href="smyth-topology.xml"
+type="local"
+addr="smyth-topology">handbook chapter on topology</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1364</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:meta
+name="date-added">2024-04-20</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization
+  preorder</fr:link> of the <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link> on <fr:tex>A</fr:tex> coincides
+  with the order <fr:tex>\le</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p>
+  The <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization preorder</fr:link> in the context of the <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link>
+  amounts to:
+  <fr:tex
+display="block">x  \le _{ \uparrow } y   \vcentcolon \equiv   \forall  U  \in   \operatorname { \uparrow }( A ) . \  x  \in  U  \rightarrow  y  \in  U .</fr:tex></fr:p>
+  <fr:p>
+  (<fr:tex>\Rightarrow</fr:tex>) Let <fr:tex>x, y  \in  A</fr:tex> with <fr:tex>x  \le  y</fr:tex> and consider an arbitrary
+  <fr:tex>U  \in   \operatorname { \uparrow }( A )</fr:tex> containing <fr:tex>x</fr:tex>. Because <fr:tex>y  \ge  x</fr:tex> it is immediate that
+  <fr:tex>y  \in  U</fr:tex> by the <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closure</fr:link> of <fr:tex>U</fr:tex>.
+  </fr:p>
+  <fr:p>
+  (<fr:tex>\Leftarrow</fr:tex>) Let <fr:tex>x, y  \in  A</fr:tex> with <fr:tex>x  \le _{ \uparrow } y</fr:tex>. The principal
+  filter <fr:tex>\operatorname { \uparrow }( x )</fr:tex> must be an open in the Alexandroff topology as it is
+  upward closed. Since <fr:tex>x  \in   \operatorname { \uparrow }( x )</fr:tex>, we immediately have <fr:tex>y  \in     \operatorname { \uparrow }( x )</fr:tex> by the definition of <fr:tex>\le _{ \uparrow }</fr:tex>. which is to say <fr:tex>x  \le  y</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1365</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:meta
+name="date-added">2024-04-24</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff
+  topology</fr:link> on <fr:tex>A</fr:tex> is <fr:link
+href="axt-005U.xml"
+type="local"
+addr="axt-005U">finer</fr:link> than any topology whose specialization
+  preorder coincides with <fr:tex>( \le )</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
+  Let <fr:tex>\mathcal {T}</fr:tex> be a topology on <fr:tex>A</fr:tex> such that the specialization preorder
+  <fr:tex>\le _{ \mathcal {T}}</fr:tex> coincides with the order <fr:tex>\le</fr:tex>. Let <fr:tex>U  \subseteq  A</fr:tex> be
+  a <fr:tex>\mathcal {T}</fr:tex>-open. The open subset <fr:tex>U</fr:tex> must be <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed</fr:link> with
+  respect to <fr:tex>\le _{ \mathcal {T}}</fr:tex> by <fr:link
+href="axt-002Z.xml"
+type="local"
+addr="axt-002Z">axt-002Z</fr:link>. Since <fr:tex>\le _ \mathcal {T}</fr:tex> coincides
+  with <fr:tex>\le</fr:tex>, this means that <fr:tex>U</fr:tex> is upward closed with respect to the
+  order <fr:tex>\le</fr:tex> on <fr:tex>A</fr:tex>, which is to say it is an Alexandroff open.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1366</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-13</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
+  is given by the class of <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed subsets</fr:link> of <fr:tex>A</fr:tex> (<fr:link
+href="axt-004J.xml"
+type="local"
+addr="axt-004J">which
+  always form a topology</fr:link>).
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

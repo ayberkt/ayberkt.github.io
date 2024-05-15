@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1051</anchor>  <taxon>Definition</taxon> <addr>axt-003K</addr>  <route>axt-003K.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>  <title>Type Ω of propositions</title> </frontmatter> <mainmatter><p>  The type <b><tex>\Omega _{ \mathcal{U} }</tex></b>, of propositions at universe <tex>\mathcal{U}</tex>, is
-  defined as <tex display="block">\Omega _{ \mathcal{U} }   \vcentcolon \equiv   \sum _{ P \  : \  \mathcal{U} }  \mathsf{isProp} ( P ) .</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1052</anchor>  <taxon>Definition</taxon> <addr>axt-002O</addr>  <route>axt-002O.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Initial frame in UF</title> <meta name="source"><link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903" type="external">Defn. in TypeTopology</link></meta></frontmatter> <mainmatter><p>  The <em>initial frame</em> at universe <tex>\mathcal{U}</tex> in UF is <link href="axt-003K.xml" type="local" title="Type Ω of propositions">the type
-  <tex>\Omega _{ \mathcal{U} }</tex></link> viewed as a <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ^+,  \mathcal{U} ,  \mathcal{U} )</tex>-frame</link>  as follows:
-  <ul>    <li><em>Order</em>: <tex>P  \le  Q   \vcentcolon \equiv   P  \Rightarrow  Q</tex>.</li>    <li><em>Top element</em>: <tex>\mathbf{1}   \vcentcolon \equiv   \top _{ \mathcal{U} } .</tex> </li> 
-    <li><em>Meet</em>: <tex>P  \wedge  Q   \vcentcolon \equiv   P  \times  Q</tex>.</li>    <li>      <em>Arbitrary join</em>:
-        <tex>\left ( \bigvee _{i : I} P_i \right )   \vcentcolon \equiv   \exists  k : I. \  P_k .</tex>    </li>  </ul></p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>618</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003K</fr:addr><fr:route>axt-003K.xml</fr:route><fr:title>Type Ω of propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The type <fr:strong><fr:tex>\Omega _{ \mathcal {U} }</fr:tex></fr:strong>, of propositions at universe <fr:tex>\mathcal {U}</fr:tex>, is
+  defined as <fr:tex
+display="block">\Omega _{ \mathcal {U} }   \vcentcolon \equiv   \sum _{ P \  : \  \mathcal {U} }  \mathsf {isProp}( P ) .</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>615</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903"
+type="external">Defn. in TypeTopology</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:em>initial frame</fr:em> at universe <fr:tex>\mathcal {U}</fr:tex> in UF is <fr:link
+href="axt-003K.xml"
+type="local"
+addr="axt-003K">the type
+  <fr:tex>\Omega _{ \mathcal {U} }</fr:tex></fr:link> viewed as a <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ^+,  \mathcal {U} ,  \mathcal {U} )</fr:tex>-frame</fr:link>
+  as follows:
+  <fr:ul><fr:li><fr:em>Order</fr:em>: <fr:tex>P  \le  Q   \vcentcolon \equiv   P  \Rightarrow  Q</fr:tex>.</fr:li>
+    <fr:li><fr:em>Top element</fr:em>: <fr:tex>\mathbf {1}   \vcentcolon \equiv   \top _{ \mathcal {U} } .</fr:tex></fr:li> 
+    <fr:li><fr:em>Meet</fr:em>: <fr:tex>P  \wedge  Q   \vcentcolon \equiv   P  \times  Q</fr:tex>.</fr:li>
+    <fr:li><fr:em>Arbitrary join</fr:em>:
+        <fr:tex>\left ( \bigvee _{i : I} P_i \right )   \vcentcolon \equiv   \exists  k : I. \  P_k .</fr:tex></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

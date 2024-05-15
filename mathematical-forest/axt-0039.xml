@@ -1,11 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1003</anchor>  <taxon>Definition</taxon> <addr>axt-0039</addr>  <route>axt-0039.xml</route> <date><year>2023</year> <month>11</month> <day>3</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Maximal element</title> <meta name="source"><b>Paragraph 1.23</b> of Davey and Priestley</meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be an ordered set, and <tex>Q  \subseteq  P</tex> a subset. An element <tex>a  \in   Q</tex> is called a <b>maximal element</b> of <tex>Q</tex> if it satisfies
-  <tex display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1004</anchor>  <taxon>Axiom</taxon> <addr>axt-003S</addr>  <route>axt-003S.xml</route> <date><year>2023</year> <month>11</month> <day>12</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zorn's Lemma in UF</title> <meta name="source"><b>Defn. 47</b> of <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex>, <tex>\mathcal{V}</tex>, and <tex>\mathcal{W}</tex> be universes. <b>Zorn’s Lemma at
-  <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex></b> asserts that every pointed <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>( \mathcal{U} ,  \mathcal{V} ,
-   \mathcal{W} )</tex>-dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p><p>  This is sometimes denoted <tex>\mathsf{ZornsLemma} ( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1005</anchor>  <taxon>Axiom</taxon> <addr>axt-003A</addr>  <route>axt-003A.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Alternative formulation of Zorn’s Lemma</title> <meta name="source"><tex>(ZL)''</tex> from <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Every <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1006</anchor>  <taxon>Definition</taxon> <addr>axt-000Z</addr>  <route>axt-000Z.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date>  <title>Zorn's Lemma</title> </frontmatter> <mainmatter><p>  <b>Zorn's lemma</b> is the statement that every nonempty
-  <link href="axt-0038.xml" type="local" title="Inductive ordered set">inductive</link> ordered set has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>716</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be an ordered set, and <fr:tex>Q  \subseteq  P</fr:tex> a subset. An element <fr:tex>a  \in    Q</fr:tex> is called a <fr:strong>maximal element</fr:strong> of <fr:tex>Q</fr:tex> if it satisfies
+  <fr:tex
+display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>707</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">propositional resizing</fr:link></fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds (for <fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos)
+  then <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N"><fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-propositional resizing</fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:parent>axt-0054</fr:parent></fr:frontmatter><fr:mainmatter>
+  Suppose <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds for <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos</fr:link>
+  and let <fr:tex>P :  \Omega _{ \mathcal {U} }</fr:tex>. Consider the lifting dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. By
+  Lemma 45, it suffices to show that <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex> has a maximal element
+  <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>. By <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link>, there must be a greatest monotone
+  inflationary endofunction <fr:tex
+display="block">g :  \mathcal {L}_{ \mathcal {V} }( P )   \to   \mathcal {L}_{ \mathcal {V} }( P )</fr:tex> for
+  the dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. One can then show that <fr:tex>g(0) :  \Omega _{ \mathcal {V} }</fr:tex> is
+  a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link> of <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. Let <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>
+  with <fr:tex>g(0)  \sqsubseteq  Q</fr:tex>. We have to show <fr:tex>Q  \sqsubseteq  g(0)</fr:tex> to conclude
+  that <fr:tex>g(0)</fr:tex> is a maximal element. Consider the <fr:link
+href="axt-0055.xml"
+type="local"
+addr="axt-0055">closed nucleus</fr:link>
+  <fr:tex>\mathbf {c}( Q )</fr:tex>, which must satisfy <fr:tex>\mathbf {c}( Q )   \sqsubseteq  g</fr:tex>
+  since <fr:tex>g</fr:tex> is the greatest element of the poset of monotone and inflationary
+  endofunctions. We therefore have <fr:tex>Q =  \mathbf {c}( 0 )   \sqsubseteq  g(0)</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>710</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 47</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex>, <fr:tex>\mathcal {V}</fr:tex>, and <fr:tex>\mathcal {W}</fr:tex> be universes. <fr:strong>Zorn’s Lemma at
+  <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex></fr:strong> asserts that every pointed <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,    \mathcal {W} )</fr:tex>-dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p><fr:p>
+  This is sometimes denoted <fr:tex>\mathsf {ZornsLemma}( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>713</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>715</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
+  <fr:link
+href="axt-0038.xml"
+type="local"
+addr="axt-0038">inductive</fr:link> ordered set has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

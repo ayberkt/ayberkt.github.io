@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>414</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-004K</fr:addr><fr:route>axt-004K.xml</fr:route><fr:title>Topologies on ordered sets</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a preordered set <fr:tex>(A,  \le )</fr:tex>, there are a couple of natural topologies
+  on it to consider.
+</fr:p><fr:p>
+  The <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link> is the <fr:link
+href="axt-005U.xml"
+type="local"
+addr="axt-005U">finest</fr:link> topology whose
+  <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization preorder</fr:link> coincides with the order <fr:tex>\le</fr:tex>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-13</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
+  is given by the class of <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed subsets</fr:link> of <fr:tex>A</fr:tex> (<fr:link
+href="axt-004J.xml"
+type="local"
+addr="axt-004J">which
+  always form a topology</fr:link>).
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005Q</fr:addr><fr:route>axt-005Q.xml</fr:route><fr:meta
+name="date-added">2024-04-20</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization
+  preorder</fr:link> of the <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link> on <fr:tex>A</fr:tex> coincides
+  with the order <fr:tex>\le</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005Q</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p>
+  The <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization preorder</fr:link> in the context of the <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link>
+  amounts to:
+  <fr:tex
+display="block">x  \le _{ \uparrow } y   \vcentcolon \equiv   \forall  U  \in   \operatorname { \uparrow }( A ) . \  x  \in  U  \rightarrow  y  \in  U .</fr:tex></fr:p>
+  <fr:p>
+  (<fr:tex>\Rightarrow</fr:tex>) Let <fr:tex>x, y  \in  A</fr:tex> with <fr:tex>x  \le  y</fr:tex> and consider an arbitrary
+  <fr:tex>U  \in   \operatorname { \uparrow }( A )</fr:tex> containing <fr:tex>x</fr:tex>. Because <fr:tex>y  \ge  x</fr:tex> it is immediate that
+  <fr:tex>y  \in  U</fr:tex> by the <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closure</fr:link> of <fr:tex>U</fr:tex>.
+  </fr:p>
+  <fr:p>
+  (<fr:tex>\Leftarrow</fr:tex>) Let <fr:tex>x, y  \in  A</fr:tex> with <fr:tex>x  \le _{ \uparrow } y</fr:tex>. The principal
+  filter <fr:tex>\operatorname { \uparrow }( x )</fr:tex> must be an open in the Alexandroff topology as it is
+  upward closed. Since <fr:tex>x  \in   \operatorname { \uparrow }( x )</fr:tex>, we immediately have <fr:tex>y  \in     \operatorname { \uparrow }( x )</fr:tex> by the definition of <fr:tex>\le _{ \uparrow }</fr:tex>. which is to say <fr:tex>x  \le  y</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>313</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:meta
+name="date-added">2024-04-24</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff
+  topology</fr:link> on <fr:tex>A</fr:tex> is <fr:link
+href="axt-005U.xml"
+type="local"
+addr="axt-005U">finer</fr:link> than any topology whose specialization
+  preorder coincides with <fr:tex>( \le )</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
+  Let <fr:tex>\mathcal {T}</fr:tex> be a topology on <fr:tex>A</fr:tex> such that the specialization preorder
+  <fr:tex>\le _{ \mathcal {T}}</fr:tex> coincides with the order <fr:tex>\le</fr:tex>. Let <fr:tex>U  \subseteq  A</fr:tex> be
+  a <fr:tex>\mathcal {T}</fr:tex>-open. The open subset <fr:tex>U</fr:tex> must be <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed</fr:link> with
+  respect to <fr:tex>\le _{ \mathcal {T}}</fr:tex> by <fr:link
+href="axt-002Z.xml"
+type="local"
+addr="axt-002Z">axt-002Z</fr:link>. Since <fr:tex>\le _ \mathcal {T}</fr:tex> coincides
+  with <fr:tex>\le</fr:tex>, this means that <fr:tex>U</fr:tex> is upward closed with respect to the
+  order <fr:tex>\le</fr:tex> on <fr:tex>A</fr:tex>, which is to say it is an Alexandroff open.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005V</fr:addr><fr:route>axt-005V.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a preordered set <fr:tex>(A,  \le )</fr:tex>, the <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link> is
+  the finest one among the topologies whose specialization preorders
+  coincide with the order <fr:tex>\le</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>25</fr:day></fr:date><fr:parent>axt-005V</fr:parent></fr:frontmatter><fr:mainmatter>
+  We know by <fr:link
+href="axt-005Q.xml"
+type="local"
+addr="axt-005Q">axt-005Q</fr:link> that the <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization preorder</fr:link> of the
+  <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff topology</fr:link> always coincides with the order <fr:tex>\le</fr:tex>.
+  Furthermore, we know by <fr:link
+href="axt-005R.xml"
+type="local"
+addr="axt-005R">axt-005R</fr:link> that it is finer than any topology
+  whose specialization preorder coincides with the order <fr:tex>\le</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:p>
+  The <fr:link
+href="axt-004L.xml"
+type="local"
+addr="axt-004L">upper topology</fr:link> is, in a sense, the dual of the Alexandroff
+  topology: it is the <fr:em>coarsest possible topology</fr:em> whose specialization
+  preorder coincides with the order <fr:tex>\le</fr:tex>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>upper topology</fr:strong> of <fr:tex>X</fr:tex> is the
+  one generated by the subbasis consisting of complements of principal ideals.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004S</fr:addr><fr:route>axt-004S.xml</fr:route><fr:title>Lower topology</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>16</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>lower topology</fr:strong> on <fr:tex>X</fr:tex> is
+  the topology generated by the subbasis consisting of complements of principal
+  filters.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>408</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0030</fr:addr><fr:route>axt-0030.xml</fr:route><fr:title>Specialization preorder</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Defn 4.1.1</fr:strong> of <fr:link
+href="smyth-topology.xml"
+type="local"
+addr="smyth-topology">[Smyth93]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a topological space. The <fr:strong>specialization preorder</fr:strong> on
+  <fr:tex>X</fr:tex>, denoted <fr:tex>x   \le _{ X }  y</fr:tex>, is defined as follows:
+  <fr:tex
+display="block">x   \le _{ X }  y   \vcentcolon \equiv   \forall  U  \in   \mathcal {O}( X ) . \  x  \in  U  \to  y  \in  U .</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>409</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-13</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
+  is given by the class of <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed subsets</fr:link> of <fr:tex>A</fr:tex> (<fr:link
+href="axt-004J.xml"
+type="local"
+addr="axt-004J">which
+  always form a topology</fr:link>).
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>411</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005U</fr:addr><fr:route>axt-005U.xml</fr:route><fr:title>Finer/coarser topology</fr:title><fr:meta
+name="date-added">2024-04-25</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a set and <fr:tex>\mathcal {T} _0</fr:tex> and <fr:tex>\mathcal {T} _1</fr:tex> two topologies on it.
+  The topology <fr:tex>\mathcal {T} _1</fr:tex> is said to be <fr:strong>finer</fr:strong> than <fr:tex>\mathcal {T} _0</fr:tex> and
+  <fr:tex>\mathcal {T} _0</fr:tex> is said to be <fr:strong>coarser</fr:strong> than <fr:tex>\mathcal {T} _1</fr:tex> if it is the case
+  that
+    <fr:tex>\mathcal {T} _0  \subseteq   \mathcal {T} _1.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>412</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004L</fr:addr><fr:route>axt-004L.xml</fr:route><fr:title>Upper topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a preordered set. The <fr:strong>upper topology</fr:strong> of <fr:tex>X</fr:tex> is the
+  one generated by the subbasis consisting of complements of principal ideals.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>406</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{jgl-non-hausdorff,
+  title        = {Non-Hausdorff topology and domain theory},
+  author       = {Goubault-Larrecq, Jean},
+  date         = {2013},
+  publisher    = {Cambridge University Press},
+  address      = {Cambridge},
+  isbn         = {978-1-107-03413-6},
+  volume       = {22},
+  series       = {New mathematical monographs},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>254</anchor>   <addr>axt-0011</addr>  <route>axt-0011.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date>  <title>LEM∞</title> </frontmatter> <mainmatter><p>  The statement that all types (in a given universe <tex>\mathcal{U}</tex>) are decidable, i.e.
-  <tex display="block">\prod _{X :  \mathcal{U} } X +  \neg  X.</tex></p>Definition (2.19) from the <link href="TODO" type="external">KECA paper</link>.
-</mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>255</anchor>  <taxon>Theorem</taxon> <addr>axt-0012</addr>  <route>axt-0012.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date>   </frontmatter> <mainmatter><p>  The strong form of the law of excluded middle, <link href="axt-0011.xml" type="local" title="LEM∞">LEM∞</link>,
-  is inconsistent with the <link href="TODO" type="external">univalence axiom</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1561</fr:anchor><fr:addr>axt-0011</fr:addr><fr:route>axt-0011.xml</fr:route><fr:title>LEM∞</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The statement that all types (in a given universe <fr:tex>\mathcal {U}</fr:tex>) are decidable, i.e.
+  <fr:tex
+display="block">\prod _{X :  \mathcal {U} } X +  \neg  X.</fr:tex></fr:p><fr:p>
+  Definition (2.19) from the <fr:link
+href="TODO"
+type="external">KECA paper</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1560</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0012</fr:addr><fr:route>axt-0012.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The strong form of the law of excluded middle, <fr:link
+href="axt-0011.xml"
+type="local"
+addr="axt-0011">LEM∞</fr:link>,
+  is inconsistent with the <fr:link
+href="TODO"
+type="external">univalence axiom</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

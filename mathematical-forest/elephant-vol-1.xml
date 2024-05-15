@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1280</anchor>  <taxon>Reference</taxon> <addr>elephant-vol-1</addr>  <route>elephant-vol-1.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Sketches of an Elephant: A Topos Theory Compendium</title> <meta name="bibtex">@book{elephant-vol-1,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1911</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>elephant-vol-1</fr:addr><fr:route>elephant-vol-1.xml</fr:route><fr:title>Sketches of an Elephant: A Topos Theory Compendium</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="peter-johnstone.xml"
+type="local"
+addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{elephant-vol-1,
   author       = {Johnstone, Peter T.},
   publisher    = {Oxford University Press},
   address      = {Oxford OX2 6DP, UK},
@@ -10,5 +22,4 @@
   series       = {Oxford Logic Guides},
   volume       = {1},
   title        = {Sketches of an Elephant: A Topos Theory Compendium},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

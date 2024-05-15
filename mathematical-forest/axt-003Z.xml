@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1117</anchor>  <taxon>Definition</taxon> <addr>axt-003Z</addr>  <route>axt-003Z.xml</route> <date><year>2023</year> <month>11</month> <day>20</day></date>  <title>Morita equivalence</title> </frontmatter> <mainmatter><p>  Let <tex>T_1</tex> and <tex>T_2</tex> be two algebraic theories. These are called
-  <b>Morita equivalent</b> if their categories of models are equivalent
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>511</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003Z</fr:addr><fr:route>axt-003Z.xml</fr:route><fr:title>Morita equivalence</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>20</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>T_1</fr:tex> and <fr:tex>T_2</fr:tex> be two algebraic theories. These are called
+  <fr:strong>Morita equivalent</fr:strong> if their categories of models are equivalent
   categories.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

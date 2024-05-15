@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>222</anchor>  <taxon>Definition</taxon> <addr>axt-000N</addr>  <route>axt-000N.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author>Samson Abramsky</author><author>Achim Jung</author> </authors> <title>The point functor</title> </frontmatter> <mainmatter> 
-<p>  Let <tex>L</tex> be a frame.
-  A <em>point</em> of <tex>L</tex> is a <em>completely prime filter</em> of the lattice <tex>L</tex>.
-</p><p>  The collection of all points of a frame <tex>L</tex> is denoted <tex>\mathsf{pt} ( L )</tex>.
-</p><p>  This collection of all points can be topologised by equipping it with a class
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1618</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000N</fr:addr><fr:route>axt-000N.xml</fr:route><fr:title>The point functor</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author>Samson Abramsky</fr:author><fr:author>Achim Jung</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a frame.
+  A <fr:em>point</fr:em> of <fr:tex>L</fr:tex> is a <fr:em>completely prime filter</fr:em> of the lattice <fr:tex>L</fr:tex>.
+</fr:p><fr:p>
+  The collection of all points of a frame <fr:tex>L</fr:tex> is denoted <fr:tex>\mathsf {pt} ( L )</fr:tex>.
+</fr:p><fr:p>
+  This collection of all points can be topologised by equipping it with a class
   of opens as follows.
-</p><p>  Let <tex>U  \subseteq   \mathsf{pt} ( L )</tex> be a set of points of <tex>L</tex>. The set <tex>U</tex> is
-  taken as open if it satisfies: <tex display="block">\exists  x  \in  L. \  \forall  F  \in  U. \  x  \in   F.</tex> In other words, there is some &quot;open&quot; <tex>x  \in  L</tex> which is an open
-  neighbourhood of every &quot;point&quot; <tex>F  \in  U.</tex></p><p>  This can be viewed as a mapping <tex>\mathsf{pt}  :  \mathbf{Frm}   \to   \mathbf{Top}</tex>, which is then extended
-  to a contravariant functor <tex>\mathbf{Frm} ^{ \mathsf{op} }  \to   \mathbf{Top}</tex>. Let
-  <tex>h : M  \to  L</tex> be a frame homomorphism. The functor <tex>\mathsf{pt}</tex> should then give
-  a continuous map <tex>\mathsf{pt} (h) :  \mathsf{pt} ( L )   \to   \mathsf{pt} ( M )</tex> which is defined as
-  <tex display="block">\mathsf{pt} (h)(F) := h^{-1}(F).</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>223</anchor>   <addr>axt-000L</addr>  <route>axt-000L.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author><link href="samson-abramsky.xml" type="local">Samson Abramsky</link></author><author><link href="achim-jung.xml" type="local">Achim Jung</link></author> </authors> <title>The Stone adjunction</title> </frontmatter> <mainmatter><p>  The Stone adjunction is the one formed by the <link href="axt-000M.xml" type="local" title="The open set functor">open set functor</link>  <tex>\mathcal{O}  :  \mathbf{Top}   \to   \mathbf{Frm}</tex> and the <link href="axt-000N.xml" type="local" title="The point functor">point functor</link> <tex>\mathsf{Pt}  :  \mathbf{Frm}   \to    \mathbf{Top}</tex>.
-</p><p>  Adapted by Ayberk Tosun from <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="Domain Theory">the handbook chapter of Abramsky and
-  Jung</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+</fr:p><fr:p>
+  Let <fr:tex>U  \subseteq   \mathsf {pt} ( L )</fr:tex> be a set of points of <fr:tex>L</fr:tex>. The set <fr:tex>U</fr:tex> is
+  taken as open if it satisfies: <fr:tex
+display="block">\exists  x  \in  L. \  \forall  F  \in  U. \  x  \in    F.</fr:tex> In other words, there is some "open" <fr:tex>x  \in  L</fr:tex> which is an open
+  neighbourhood of every "point" <fr:tex>F  \in  U.</fr:tex></fr:p><fr:p>
+  This can be viewed as a mapping <fr:tex>\mathsf {pt}  :  \mathbf {Frm}   \to   \mathbf {Top}</fr:tex>, which is then extended
+  to a contravariant functor <fr:tex>\mathbf {Frm} ^{ \mathsf {op}}  \to   \mathbf {Top}</fr:tex>. Let
+  <fr:tex>h : M  \to  L</fr:tex> be a frame homomorphism. The functor <fr:tex>\mathsf {pt}</fr:tex> should then give
+  a continuous map <fr:tex>\mathsf {pt} (h) :  \mathsf {pt} ( L )   \to   \mathsf {pt} ( M )</fr:tex> which is defined as
+  <fr:tex
+display="block">\mathsf {pt} (h)(F) := h^{-1}(F).</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1615</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-09-07</fr:meta><fr:meta
+name="source"><fr:link
+href="abramsky-and-jung-domain-theory-1995"
+type="external">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Stone adjunction is the one formed by the <fr:link
+href="axt-000M.xml"
+type="local"
+addr="axt-000M">open set functor</fr:link>
+  <fr:tex>\mathcal {O}  :  \mathbf {Top}   \to   \mathbf {Frm}</fr:tex> and the <fr:link
+href="axt-000N.xml"
+type="local"
+addr="axt-000N">point functor</fr:link> <fr:tex>\mathsf {Pt}  :  \mathbf {Frm}   \to     \mathbf {Top}</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

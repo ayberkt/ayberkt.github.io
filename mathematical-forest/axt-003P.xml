@@ -1,25 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1078</anchor>  <taxon>Axiom</taxon> <addr>axt-003P</addr>  <route>axt-003P.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Ω (𝓤, 𝓥)-resizing axiom</title> <meta name="source"><b>Defn 2.ii</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b><tex>\Omega</tex> <tex>( \mathcal{U} ,
-   \mathcal{V} )</tex>-resizing axiom</b> says that the type <tex>\Omega _{ \mathcal{U} }</tex> is
-  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
-</p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1079</anchor>  <taxon>Stocktaking</taxon> <addr>axt-003O</addr>  <route>axt-003O.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors> <contributor><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></contributor><contributor><link href="tom-de-jong.xml" type="local">Tom de Jong</link></contributor></authors> <title>Resizing axioms</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1080</anchor>  <taxon>Axiom</taxon> <addr>axt-003N</addr>  <route>axt-003N.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>  <title>The propositional (𝓤, 𝓥)-resizing axiom</title> </frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b>propositional <tex>( \mathcal{U} ,
-   \mathcal{V} )</tex>-resizing axiom</b> says that every <link href="axt-0035.xml" type="local" title="Being a proposition">proposition</link> <tex>P :  \mathcal{U}</tex> is
-  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
-</p><p>  This is sometimes denoted <tex>\mathsf{PropositionalResizing} ( \mathcal{U} ,  \mathcal{V} )</tex>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1081</anchor>  <taxon>Axiom</taxon> <addr>axt-003P</addr>  <route>axt-003P.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Ω (𝓤, 𝓥)-resizing axiom</title> <meta name="source"><b>Defn 2.ii</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b><tex>\Omega</tex> <tex>( \mathcal{U} ,
-   \mathcal{V} )</tex>-resizing axiom</b> says that the type <tex>\Omega _{ \mathcal{U} }</tex> is
-  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1082</anchor>  <taxon>Theorem</taxon> <addr>axt-003Q</addr>  <route>axt-003Q.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>   <meta name="source"><b>Prop. 3.i</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <link href="axt-003P.xml" type="local" title="The Ω (𝓤, 𝓥)-resizing axiom"><tex>\Omega</tex> <tex>( \mathcal{U} ,  \mathcal{V} )</tex>-resizing
-  axiom</link> implies <link href="axt-003N.xml" type="local" title="The propositional (𝓤, 𝓥)-resizing axiom">the propositional <tex>( \mathcal{U} ,  \mathcal{V} )</tex>-resizing
-  axiom</link>.
-</p></mainmatter> </tree></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1083</anchor>  <taxon>Definition</taxon> <addr>axt-003M</addr>  <route>axt-003M.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Being 𝓥-small</title> <meta name="source"><b>Defn. 1</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. A type <tex>X :  \mathcal{U}</tex> is called
-  <b><tex>\mathcal{V}</tex>-small</b> if it has a copy in universe <tex>\mathcal{V}</tex>, which is
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>612</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.ii</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that the type <fr:tex>\Omega _{ \mathcal {U} }</fr:tex> is
+  <fr:link
+href="axt-003M.xml"
+type="local"
+addr="axt-003M"><fr:tex>\mathcal {V}</fr:tex>-small</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>609</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-003O</fr:addr><fr:route>axt-003O.xml</fr:route><fr:title>Resizing axioms</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:contributor><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:contributor><fr:contributor><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>553</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003N</fr:addr><fr:route>axt-003N.xml</fr:route><fr:title>The propositional (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong>propositional <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that every <fr:link
+href="axt-0035.xml"
+type="local"
+addr="axt-0035">proposition</fr:link> <fr:tex>P :  \mathcal {U}</fr:tex> is
+  <fr:link
+href="axt-003M.xml"
+type="local"
+addr="axt-003M"><fr:tex>\mathcal {V}</fr:tex>-small</fr:link>.
+</fr:p><fr:p>
+  This is sometimes denoted <fr:tex>\mathsf {PropositionalResizing}( \mathcal {U} ,  \mathcal {V} )</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>554</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.ii</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that the type <fr:tex>\Omega _{ \mathcal {U} }</fr:tex> is
+  <fr:link
+href="axt-003M.xml"
+type="local"
+addr="axt-003M"><fr:tex>\mathcal {V}</fr:tex>-small</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>557</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003Q</fr:addr><fr:route>axt-003Q.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Prop. 3.i</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:link
+href="axt-003P.xml"
+type="local"
+addr="axt-003P"><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-resizing
+  axiom</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">the propositional <fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-resizing
+  axiom</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>606</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 1</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. A type <fr:tex>X :  \mathcal {U}</fr:tex> is called
+  <fr:strong><fr:tex>\mathcal {V}</fr:tex>-small</fr:strong> if it has a copy in universe <fr:tex>\mathcal {V}</fr:tex>, which is
   to say
-  <tex display="block">\mathsf{hasSize} ( X ,  \mathcal{V} )   \vcentcolon \equiv   \sum _{ Y \  : \  \mathcal{V} }  X  \simeq  Y .</tex></p></mainmatter> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1084</anchor>  <taxon>Theorem</taxon> <addr>axt-003Q</addr>  <route>axt-003Q.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date>   <meta name="source"><b>Prop. 3.i</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <link href="axt-003P.xml" type="local" title="The Ω (𝓤, 𝓥)-resizing axiom"><tex>\Omega</tex> <tex>( \mathcal{U} ,  \mathcal{V} )</tex>-resizing
-  axiom</link> implies <link href="axt-003N.xml" type="local" title="The propositional (𝓤, 𝓥)-resizing axiom">the propositional <tex>( \mathcal{U} ,  \mathcal{V} )</tex>-resizing
-  axiom</link>.
-</p></mainmatter> </tree></backlinks> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1085</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+  <fr:tex
+display="block">\mathsf {hasSize}( X ,  \mathcal {V} )   \vcentcolon \equiv   \sum _{ Y \  : \  \mathcal {V} }  X  \simeq  Y .</fr:tex></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>605</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003Q</fr:addr><fr:route>axt-003Q.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Prop. 3.i</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:link
+href="axt-003P.xml"
+type="local"
+addr="axt-003P"><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-resizing
+  axiom</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">the propositional <fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-resizing
+  axiom</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>602</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@InProceedings{tdj-mhe-aspects,
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
   author       = {de Jong, Tom and Escardó, Martín H.},
   date         = {2021},
@@ -28,7 +165,6 @@
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
   volume       = 195,
   editor       = {Kobayashi, Naoki},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

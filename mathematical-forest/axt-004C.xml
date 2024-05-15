@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1149</anchor>  <taxon>Definition</taxon> <addr>axt-004C</addr>  <route>axt-004C.xml</route> <date><year>2023</year> <month>12</month> <day>1</day></date>  <title>Displayed category</title> </frontmatter> <mainmatter><p>  Given a category <tex>\mathbb{C}</tex>, a <b>displayed category</b> <tex>\mathbb{D}</tex> over
-  <tex>\mathbb{C}</tex> consists of:
-  <ol>    <li>for each object <tex>C  \in   \mathbb{C}</tex>, a type <tex>\mathbb{D} _C</tex> of “objects over <tex>\mathbb{C}</tex>”  ;</li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>446</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004C</fr:addr><fr:route>axt-004C.xml</fr:route><fr:title>Displayed category</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a category <fr:tex>\mathbb {C}</fr:tex>, a <fr:strong>displayed category</fr:strong> <fr:tex>\mathbb {D}</fr:tex> over
+  <fr:tex>\mathbb {C}</fr:tex> consists of:
+  <fr:ol><fr:li>for each object <fr:tex>C  \in   \mathbb {C}</fr:tex>, a type <fr:tex>\mathbb {D} _C</fr:tex> of “objects over <fr:tex>\mathbb {C}</fr:tex>”  ;</fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

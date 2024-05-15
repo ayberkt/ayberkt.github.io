@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1410</anchor>  <taxon>Reference</taxon> <addr>patch-mfps</addr>  <route>patch-mfps.xml</route> <date><year>2023</year> <month>2</month> </date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Patch Locale of a Spectral Locale in Univalent Type Theory</title> <meta name="bibtex">@inproceedings{patch-mfps,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1691</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{patch-mfps,
   title     = {{Patch Locale of a Spectral Locale in Univalent Type Theory}},
   author    = {Ayberk Tosun and Mart\'in H. Escard\'o},
   url       = {https://entics.episciences.org/10808},
@@ -9,8 +24,29 @@
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1411</anchor>  <taxon>Bibliography</taxon> <addr>at-bibliography</addr>  <route>at-bibliography.xml</route>   <title>Bibliography of <link href="ayberkt.xml" type="local" title="Ayberk Tosun">Ayberk Tosun</link></title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1412</anchor>  <taxon>Reference</taxon> <addr>msc-thesis</addr>  <route>msc-thesis.xml</route> <date><year>2020</year> <month>6</month> <day>30</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Formal Topology in Univalent Foundations</title> <meta name="bibtex">@masterthesis{msc-thesis,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1690</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>at-bibliography</fr:addr><fr:route>at-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:title></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1682</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>msc-thesis</fr:addr><fr:route>msc-thesis.xml</fr:route><fr:title>Formal Topology in Univalent Foundations</fr:title><fr:date><fr:year>2020</fr:year><fr:month>6</fr:month><fr:day>30</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@masterthesis{msc-thesis,
   title     = {Formal Topology in Univalent Foundations},
   author    = {Tosun, Ayberk},
   date      = {2020-06-30},
@@ -19,8 +55,22 @@
   school    = {{Chalmers} {University} of {Technology}},
   address   = {Gothenburg, Sweden},
   type      = {MSc thesis},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1413</anchor>  <taxon>Reference</taxon> <addr>tc-at-ft</addr>  <route>tc-at-ft.xml</route> <date><year>2021</year>  </date> <authors><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Formal Topology and Univalent Foundations</title> <meta name="bibtex">@inbook{tc-at-ft,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1684</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tc-at-ft</fr:addr><fr:route>tc-at-ft.xml</fr:route><fr:title>Formal Topology and Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inbook{tc-at-ft,
   title     = {Formal Topology and Univalent Foundations},
   author    = {Coquand, Thierry and Tosun, Ayberk},
   year      = {2021},
@@ -29,8 +79,22 @@
   pages     = {255-266},
   doi       = {10.1142/9789811236488_0006},
   url       = {https://www.worldscientific.com/doi/abs/10.1142/9789811236488_0006}
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1414</anchor>  <taxon>Reference</taxon> <addr>patch-mfps</addr>  <route>patch-mfps.xml</route> <date><year>2023</year> <month>2</month> </date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Patch Locale of a Spectral Locale in Univalent Type Theory</title> <meta name="bibtex">@inproceedings{patch-mfps,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1687</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{patch-mfps,
   title     = {{Patch Locale of a Spectral Locale in Univalent Type Theory}},
   author    = {Ayberk Tosun and Mart\'in H. Escard\'o},
   url       = {https://entics.episciences.org/10808},
@@ -39,15 +103,63 @@
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}
-</meta></frontmatter> <mainmatter/> </tree></mainmatter> </tree></context> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1415</anchor>  <taxon>Definition</taxon> <addr>axt-002S</addr>  <route>axt-002S.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Compact open of a locale in UF</title> <meta name="source"><b>Defn. 3.5</b> of <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Tosun and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> be a <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale. An open <tex>U :  \mathcal{O} ( X )</tex> is called
-  <b>compact</b> if the principal filter on <tex>U</tex> is inaccessible by joins
-  of directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{W}</tex>-families</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1416</anchor>  <taxon>Definition</taxon> <addr>axt-0008</addr>  <route>axt-0008.xml</route> <date><year>2023</year> <month>8</month> <day>19</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Frame (type-theoretic)</title> <meta name="source"><b>Defn. 2.4</b> from <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Patch Locale of a Spectral Locale in Univalent Type Theory</link></meta></frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
-  <ol>    <li>a type <tex>|L| :  \mathcal{U}</tex></li>    <li>a partial order <tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal{V} }</tex>,</li>    <li>a top element <tex>\mathbf{1}  : |L|</tex>,</li>    <li>      an operation <tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</tex> giving the greatest lower
-      bound <tex>U  \wedge  V</tex> of any two <tex>U, V : |L|</tex>.
-    </li>    <li>      an operation <tex>\bigvee  - :  \mathsf{Fam} _{ \mathcal{W} }(|L|)  \to  |L|</tex> giving the least upper
-      bound <tex>\bigvee _{i : I} U_i</tex> of any <tex>\mathcal{W}</tex>-family <tex>\left \{  U_i  \right \} _{i : I}</tex>.
-    </li>    <li>      such that binary meets distribute over arbitrary joins, i.e.
-      <tex display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</tex>      for every <tex>U : |L|</tex> and <tex>\mathcal{W}</tex>-family <tex>\{  V_i  \} _{i : I}</tex> in <tex>|L|</tex>.
-    </li>  </ol></p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1676</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 3.5</fr:strong> of <fr:link
+href="patch-mfps.xml"
+type="local"
+addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> is called
+  <fr:strong>compact</fr:strong> if the principal filter on <fr:tex>U</fr:tex> is inaccessible by joins
+  of directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {W}</fr:tex>-families</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1679</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0008</fr:addr><fr:route>axt-0008.xml</fr:route><fr:title>Frame (type-theoretic)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> from <fr:link
+href="patch-mfps.xml"
+type="local"
+addr="patch-mfps">Patch MFPS</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-frame <fr:tex>L</fr:tex> consists of a
+  <fr:ol><fr:li>a type <fr:tex>|L| :  \mathcal {U}</fr:tex></fr:li>
+    <fr:li>a partial order <fr:tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal {V} }</fr:tex>,</fr:li>
+    <fr:li>a top element <fr:tex>\mathbf {1}  : |L|</fr:tex>,</fr:li>
+    <fr:li>
+      an operation <fr:tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</fr:tex> giving the greatest lower
+      bound <fr:tex>U  \wedge  V</fr:tex> of any two <fr:tex>U, V : |L|</fr:tex>.
+    </fr:li>
+    <fr:li>
+      an operation <fr:tex>\bigvee  - :  \mathsf {Fam} _{ \mathcal {W} }(|L|)  \to  |L|</fr:tex> giving the least upper
+      bound <fr:tex>\bigvee _{i : I} U_i</fr:tex> of any <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\left \{  U_i  \right \} _{i : I}</fr:tex>.
+    </fr:li>
+    <fr:li>
+      such that binary meets distribute over arbitrary joins, i.e.
+      <fr:tex
+display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</fr:tex>
+      for every <fr:tex>U : |L|</fr:tex> and <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\{  V_i  \} _{i : I}</fr:tex> in <fr:tex>|L|</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

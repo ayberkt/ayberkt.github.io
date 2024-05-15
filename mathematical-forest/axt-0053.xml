@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Definition 51</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
+  in universe <fr:tex>\mathcal {U}</fr:tex> and order taking values in <fr:tex>\mathcal {V}</fr:tex> has a greatest monotone
+  inflationary endofunction.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>366</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">propositional resizing</fr:link></fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds (for <fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos)
+  then <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N"><fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-propositional resizing</fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:parent>axt-0054</fr:parent></fr:frontmatter><fr:mainmatter>
+  Suppose <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds for <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos</fr:link>
+  and let <fr:tex>P :  \Omega _{ \mathcal {U} }</fr:tex>. Consider the lifting dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. By
+  Lemma 45, it suffices to show that <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex> has a maximal element
+  <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>. By <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link>, there must be a greatest monotone
+  inflationary endofunction <fr:tex
+display="block">g :  \mathcal {L}_{ \mathcal {V} }( P )   \to   \mathcal {L}_{ \mathcal {V} }( P )</fr:tex> for
+  the dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. One can then show that <fr:tex>g(0) :  \Omega _{ \mathcal {V} }</fr:tex> is
+  a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link> of <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. Let <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>
+  with <fr:tex>g(0)  \sqsubseteq  Q</fr:tex>. We have to show <fr:tex>Q  \sqsubseteq  g(0)</fr:tex> to conclude
+  that <fr:tex>g(0)</fr:tex> is a maximal element. Consider the <fr:link
+href="axt-0055.xml"
+type="local"
+addr="axt-0055">closed nucleus</fr:link>
+  <fr:tex>\mathbf {c}( Q )</fr:tex>, which must satisfy <fr:tex>\mathbf {c}( Q )   \sqsubseteq  g</fr:tex>
+  since <fr:tex>g</fr:tex> is the greatest element of the poset of monotone and inflationary
+  endofunctions. We therefore have <fr:tex>Q =  \mathbf {c}( 0 )   \sqsubseteq  g(0)</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@InProceedings{tdj-mhe-aspects,
+  title        = {Predicative Aspects of Order Theory in Univalent Foundations},
+  author       = {de Jong, Tom and Escardó, Martín H.},
+  date         = {2021},
+  booktitle    = {6th International Conference on Formal Structures for Computation and Deduction (FSCD 2021)},
+  pages        = {8:1--8:18},
+  series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  volume       = 195,
+  editor       = {Kobayashi, Naoki},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
+  doi          = {10.4230/LIPIcs.FSCD.2021.8},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

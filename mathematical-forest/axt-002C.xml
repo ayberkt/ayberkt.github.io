@@ -1,70 +1,502 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>625</anchor>  <taxon>Definition</taxon> <addr>axt-002C</addr>  <route>axt-002C.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> (alternative)</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> and define the type
-  <tex display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf{isCompact} ( c )   \times  c  \sqsubseteq  x}</tex> of
-  compact elements below a given <tex>x : D</tex>. The <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is
-  called <em>algebraic</em> if it satisfies the following conditions.
-  <ul>    <li>For every <tex>x : D</tex>, <tex>K_x</tex> is <tex>\mathcal{V}</tex>-small.</li>    <li>The <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \mathsf{pr} _1 )</tex> is directed with supremum <tex>x</tex>.</li>  </ul></p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>626</anchor>   <addr>axt-002M</addr>  <route>axt-002M.xml</route> <date><year>2023</year> <month>10</month> <day>31</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Terminology for domain theory</title> </frontmatter> <mainmatter><p>  In <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link> and his Agda formalization of domain
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1052</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> (alternative)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> and define the type
+  <fr:tex
+display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf {isCompact}( c )   \times  c  \sqsubseteq  x}</fr:tex> of
+  compact elements below a given <fr:tex>x : D</fr:tex>. The <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is
+  called <fr:em>algebraic</fr:em> if it satisfies the following conditions.
+  <fr:ul><fr:li>For every <fr:tex>x : D</fr:tex>, <fr:tex>K_x</fr:tex> is <fr:tex>\mathcal {V}</fr:tex>-small.</fr:li>
+    <fr:li>The <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \mathsf {pr}_1 )</fr:tex> is directed with supremum <fr:tex>x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1048</fr:anchor><fr:addr>axt-002M</fr:addr><fr:route>axt-002M.xml</fr:route><fr:title>Terminology for domain theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  In <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link> and his Agda formalization of domain
   theory, the term “structurally continuous” is used to mean a
-  <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> equipped with a function giving, for every <tex>x :
-  D</tex>, a small directed family of elements way below <tex>x</tex>, giving <tex>x</tex> as its
+  <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> equipped with a function giving, for every <fr:tex>x :   D</fr:tex>, a small directed family of elements way below <fr:tex>x</fr:tex>, giving <fr:tex>x</fr:tex> as its
   join.
-</p><p>  In the new terminology, this notion of “structure” involved in the continuity
+</fr:p><fr:p>
+  In the new terminology, this notion of “structure” involved in the continuity
   of a dcpo is made explicit by the following notion.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>627</anchor>  <taxon>Definition</taxon> <addr>axt-002H</addr>  <route>axt-002H.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <em>continuity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,
-   \kappa _x)</tex> on <tex>D</tex> satisfying the following conditions.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ol></p></mainmatter> </tree><p>  Factoring this structure out into a definition of its own obviates the need to
-  have a name for the notion of a “<tex>\mathcal{V}</tex>-dcpo having a specified continuity
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>732</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002H</fr:addr><fr:route>axt-002H.xml</fr:route><fr:title>Continuity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>continuity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,    \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following conditions.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Factoring this structure out into a definition of its own obviates the need to
+  have a name for the notion of a “<fr:tex>\mathcal {V}</fr:tex>-dcpo having a specified continuity
   datum”, which is what “structurally continuous” means. Even though the
-  equivalence between <link href="axt-0027.xml" type="local" title="Unintentionally left blank">structurally continuous</link> and “having a
-  specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>” is completely trivial, we still record
+  equivalence between <fr:link
+href="axt-0027.xml"
+type="local"
+addr="axt-0027">structurally continuous</fr:link> and “having a
+  specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>” is completely trivial, we still record
   this in the following proposition to be able to explicitly refer to this
   terminological identity.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>628</anchor>  <taxon>Proposition</taxon> <addr>axt-001K</addr>  <route>axt-001K.xml</route> <date><year>2023</year> <month>10</month> <day>24</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors>  <meta name="source"><b>Defn 4.4.1</b> of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">de Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">PhD thesis</link></meta></frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> having a specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>  is the same thing as <tex>D</tex> being <link href="axt-0027.xml" type="local" title="Unintentionally left blank">structurally continuous</link>.
-</p></mainmatter> </tree><p>  By replacing the specified existence here with mere existence, we obtain the
-  notion of a <link href="axt-002I.xml" type="local" title="Continuous V-dcpo">continuous <tex>\mathcal{V}</tex>-dcpo</link>. The terminology for this is
-  unchanged (i.e. is the same as the terminology of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s
-  <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link>).
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>629</anchor>  <taxon>Definition</taxon> <addr>axt-002I</addr>  <route>axt-002I.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <em>continuous</em> if there exists a
-  <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>630</anchor>  <taxon>Definition</taxon> <addr>axt-0029</addr>  <route>axt-0029.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Pseudocontinuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <b>pseudocontinuous</b> if there is
-  a specified function giving, for every <tex>x : D</tex>, the mere existence of a
-  <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> satisfying the following
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>735</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-001K</fr:addr><fr:route>axt-001K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 4.4.1</fr:strong> of <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">de Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">PhD thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> having a specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>
+  is the same thing as <fr:tex>D</fr:tex> being <fr:link
+href="axt-0027.xml"
+type="local"
+addr="axt-0027">structurally continuous</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  By replacing the specified existence here with mere existence, we obtain the
+  notion of a <fr:link
+href="axt-002I.xml"
+type="local"
+addr="axt-002I">continuous <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link>. The terminology for this is
+  unchanged (i.e. is the same as the terminology of <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link>'s
+  <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link>).
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002I</fr:addr><fr:route>axt-002I.xml</fr:route><fr:title>Continuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:em>continuous</fr:em> if there exists a
+  <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>740</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0029</fr:addr><fr:route>axt-0029.xml</fr:route><fr:title>Pseudocontinuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:strong>pseudocontinuous</fr:strong> if there is
+  a specified function giving, for every <fr:tex>x : D</fr:tex>, the mere existence of a
+  <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following
   conditions.
-  <ul>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>5</crumb></trail> <anchor>631</anchor>  <taxon>Remark</taxon> <addr>axt-0031</addr>  <route>axt-0031.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> being pseudocontinuous is the same thing as it
-  having a specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>, but with the specified
-  existence requirement in the notion of <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> relaxed to
+  <fr:ul><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>743</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>axt-0031</fr:addr><fr:route>axt-0031.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> being pseudocontinuous is the same thing as it
+  having a specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>, but with the specified
+  existence requirement in the notion of <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> relaxed to
   requirement of mere existence.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>6</crumb></trail> <anchor>632</anchor>  <taxon>Definition</taxon> <addr>axt-002D</addr>  <route>axt-002D.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> with the further requirement that
-  for every <tex>x : D</tex>, the directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex>  given by the basis satisfies the condition
-  <tex display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</tex></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>7</crumb></trail> <anchor>633</anchor>  <taxon>Definition</taxon> <addr>axt-002E</addr>  <route>axt-002E.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-002D.xml" type="local" title="Intensional continuous basis for a V-dcpo">intensional continuous basis</link> that is <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>8</crumb></trail> <anchor>634</anchor>  <taxon>Definition</taxon> <addr>axt-002B</addr>  <route>axt-002B.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraicity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  An <em>algebraicity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link>  <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> that satisfies the following.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)</tex> is compact.</li>  </ol></p></mainmatter> </tree><p>  Similar to the case of a <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>, we record the
-  terminological identity between a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> being
-  <link href="axt-001C.xml" type="local" title="Structural algebraicity of a dcpo">“structurally algebraic”</link> (the terminology from <link href="tom-de-jong.xml" type="local" title="Tom de Jong">de
-  Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link>) and it having a specified
-  <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity datum</link>.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>9</crumb></trail> <anchor>635</anchor>  <taxon>Proposition</taxon> <addr>axt-002A</addr>  <route>axt-002A.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> having a specified <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity
-  datum</link> is the same thing as <tex>D</tex> being <link href="axt-001C.xml" type="local" title="Structural algebraicity of a dcpo">structurally
-  algebraic</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>10</crumb></trail> <anchor>636</anchor>  <taxon>Definition</taxon> <addr>axt-001L</addr>  <route>axt-001L.xml</route> <date><year>2023</year> <month>10</month> <day>24</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is called <em>algebraic</em> if there exists an
-  <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>11</crumb></trail> <anchor>637</anchor>  <taxon>Definition</taxon> <addr>axt-002C</addr>  <route>axt-002C.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> (alternative)</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> and define the type
-  <tex display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf{isCompact} ( c )   \times  c  \sqsubseteq  x}</tex> of
-  compact elements below a given <tex>x : D</tex>. The <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is
-  called <em>algebraic</em> if it satisfies the following conditions.
-  <ul>    <li>For every <tex>x : D</tex>, <tex>K_x</tex> is <tex>\mathcal{V}</tex>-small.</li>    <li>The <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \mathsf{pr} _1 )</tex> is directed with supremum <tex>x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>12</crumb></trail> <anchor>638</anchor>  <taxon>Definition</taxon> <addr>axt-002F</addr>  <route>axt-002F.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional algebraic basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional
-  basis</link> <tex>(B,  \beta )</tex> satisfying
-  <tex display="block">\forall  b : B. \  \mathsf{isCompact} ( \beta (b) ) .</tex></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>13</crumb></trail> <anchor>639</anchor>  <taxon>Definition</taxon> <addr>axt-002G</addr>  <route>axt-002G.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional algebraic basis</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is an
-  <link href="axt-002F.xml" type="local" title="Intensional algebraic basis for a V-dcpo">intensional algebraic basis</link> <tex>(B,  \beta )</tex> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>640</anchor>  <taxon>Definition</taxon> <addr>axt-0021</addr>  <route>axt-0021.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title><tex>\mathcal{V}</tex>-dcpo</title> <meta name="source"><b>Defn. 3.2.7</b> of (<link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">[TdJ]</link>, <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941" type="external"><tex>\dagger</tex></link>)</meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{V}</tex> be a universe. A poset <tex>D</tex> is a <em><tex>\mathcal{V}</tex>-dcpo</em> if the join of
-  of every <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> on set <tex>D</tex> exists in <tex>D</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>641</anchor>  <taxon>Definition</taxon> <addr>axt-001F</addr>  <route>axt-001F.xml</route> <date><year>2023</year> <month>10</month> <day>16</day></date> <authors><author>Ayberk Tosun</author> </authors> <title>𝓥-Family</title> </frontmatter> <mainmatter><p>  A <em><tex>\mathcal{V}</tex>-family on a type <tex>A :  \mathcal{U}</tex></em> is a pair <tex>(I,  \iota )</tex> where
-  <ul>    <li><tex>I</tex> is a type in universe <tex>\mathcal{V}</tex>,</li>    <li>and <tex>\iota</tex> is a function of type <tex>I  \to  A</tex>.</li>  </ul></p><p>  List of formal definitions:
-  <ol>    <li>      <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Slice.Family.html#262" type="external">Fam in UF.Slice</link>      in TypeTopology.
-    </li>  </ol></p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>746</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002D</fr:addr><fr:route>axt-002D.xml</fr:route><fr:title>Intensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> with the further requirement that
+  for every <fr:tex>x : D</fr:tex>, the directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex>
+  given by the basis satisfies the condition
+  <fr:tex
+display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>749</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002E</fr:addr><fr:route>axt-002E.xml</fr:route><fr:title>Extensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002D.xml"
+type="local"
+addr="axt-002D">intensional continuous basis</fr:link> that is <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>752</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002B</fr:addr><fr:route>axt-002B.xml</fr:route><fr:title>Algebraicity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>algebraicity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link>
+  <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> that satisfies the following.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)</fr:tex> is compact.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Similar to the case of a <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>, we record the
+  terminological identity between a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> being
+  <fr:link
+href="axt-001C.xml"
+type="local"
+addr="axt-001C">“structurally algebraic”</fr:link> (the terminology from <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">de
+  Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link>) and it having a specified
+  <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity datum</fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-002A</fr:addr><fr:route>axt-002A.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> having a specified <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity
+  datum</fr:link> is the same thing as <fr:tex>D</fr:tex> being <fr:link
+href="axt-001C.xml"
+type="local"
+addr="axt-001C">structurally
+  algebraic</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>758</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001L</fr:addr><fr:route>axt-001L.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is called <fr:em>algebraic</fr:em> if there exists an
+  <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> (alternative)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> and define the type
+  <fr:tex
+display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf {isCompact}( c )   \times  c  \sqsubseteq  x}</fr:tex> of
+  compact elements below a given <fr:tex>x : D</fr:tex>. The <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is
+  called <fr:em>algebraic</fr:em> if it satisfies the following conditions.
+  <fr:ul><fr:li>For every <fr:tex>x : D</fr:tex>, <fr:tex>K_x</fr:tex> is <fr:tex>\mathcal {V}</fr:tex>-small.</fr:li>
+    <fr:li>The <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \mathsf {pr}_1 )</fr:tex> is directed with supremum <fr:tex>x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>764</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002F</fr:addr><fr:route>axt-002F.xml</fr:route><fr:title>Intensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional algebraic basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional
+  basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> satisfying
+  <fr:tex
+display="block">\forall  b : B. \  \mathsf {isCompact}( \beta (b) ) .</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>767</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002G</fr:addr><fr:route>axt-002G.xml</fr:route><fr:title>Extensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional algebraic basis</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002F.xml"
+type="local"
+addr="axt-002F">intensional algebraic basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1043</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0021</fr:addr><fr:route>axt-0021.xml</fr:route><fr:title><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 3.2.7</fr:strong> of (<fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">[TdJ]</fr:link>, <fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941"
+type="external"><fr:tex>\dagger</fr:tex></fr:link>)</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {V}</fr:tex> be a universe. A poset <fr:tex>D</fr:tex> is a <fr:em><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:em> if the join of
+  of every <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> on set <fr:tex>D</fr:tex> exists in <fr:tex>D</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1046</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em><fr:tex>\mathcal {V}</fr:tex>-family on a type <fr:tex>A :  \mathcal {U}</fr:tex></fr:em> is a pair <fr:tex>(I,  \alpha )</fr:tex> where
+  <fr:ul><fr:li><fr:tex>I</fr:tex> is a type in universe <fr:tex>\mathcal {V}</fr:tex>,</fr:li>
+    <fr:li>and <fr:tex>\alpha</fr:tex> is a function of type <fr:tex>I  \to  A</fr:tex>.</fr:li></fr:ul></fr:p><fr:p>
+  List of formal definitions:
+  <fr:ol><fr:li><fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Slice.Family.html#262"
+type="external">Fam in UF.Slice</fr:link>
+      in TypeTopology.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

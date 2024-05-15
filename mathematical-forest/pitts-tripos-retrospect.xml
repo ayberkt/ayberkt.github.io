@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1421</anchor>   <addr>pitts-tripos-retrospect</addr>  <route>pitts-tripos-retrospect.xml</route> <date><year>2002</year>  </date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Tripos theory in retrospect</title> <meta name="bibtex">@article{pitts-tripos-retrospect,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1925</fr:anchor><fr:addr>pitts-tripos-retrospect</fr:addr><fr:route>pitts-tripos-retrospect.xml</fr:route><fr:title>Tripos theory in retrospect</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="andrew-pitts.xml"
+type="local"
+addr="andrew-pitts">Andrew M. Pitts</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{pitts-tripos-retrospect,
   title        = {Tripos theory in retrospect},
   volume       = {12},
   DOI          = {10.1017/S096012950200364X},
@@ -10,22 +22,67 @@
   author       = {Pitts, Andrew M.},
   year         = {2002},
   pages        = {265–279}
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1422</anchor>  <taxon>Definition</taxon> <addr>axt-001G</addr>  <route>axt-001G.xml</route> <date><year>2023</year> <month>10</month> <day>19</day></date> <authors><author><link href="william-lawvere.xml" type="local">William Lawvere</link></author> </authors> <title>Hyperdoctrine</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> be category with finite products. A <em>first order hyperdoctrine</em>  <tex>\mathcal{P}</tex> over <tex>\mathbb{C}</tex> is a contravariant functor <tex>\mathcal{P}  :  { \mathbb{C} }^{ \mathsf{op} }   \to   \mathbf{Poset}</tex>  satisfying the following conditions.
-  <ul>    <li><tex>\mathcal{P} (C)</tex> is a <link href="axt-001H.xml" type="local" title="Heyting algebra">Heyting algebra</link> for each object <tex>C  \in   \mathbb{C}</tex>.</li>    <li>      For each <tex>\mathbb{C}</tex>-morphism <tex>f : C  \to  D</tex>, the monotone function
-      <tex>\mathcal{P} (f) :  \mathcal{P} (D)  \to   \mathcal{P} (C)</tex> is a Heyting algebra homomorphism.
-    </li>    <li>      For each diagonal morphism <tex>\Delta _C : C  \to  C  \times  C</tex> in <tex>\mathbb{C}</tex>, the
-      left adjoint to <tex>\mathcal{P} ( \Delta _C)</tex> at the top element <tex>\mathbf{1}   \in        \mathcal{P} (X)</tex> exists.
-    </li>    <li>      For each projection <tex>\pi  : {-}  \times  C  \to  {-}</tex>, the monotone
-      function <tex>\mathcal{P} ( \pi )  \to   \mathcal{P} ({-})  \to   \mathcal{P} ({-}  \times  C)</tex> has both a left
-      adjoint <tex>( \exists  C)_{ \Gamma }</tex> and a right adjoint <tex>( \forall  C)_{ \Gamma }</tex>.
-    </li>  </ul></p><p>  Adapted from <b>Definition 2.1</b> of <link href="pitts-tripos-retrospect.xml" type="local" title="Tripos theory in retrospect">Tripos theory in retrospect</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1423</anchor>  <taxon>Definition</taxon> <addr>axt-001I</addr>  <route>axt-001I.xml</route> <date><year>2023</year> <month>10</month> <day>19</day></date> <authors><author><link href="andrew-pitts.xml" type="local">Andrew M. Pitts</link></author> </authors> <title>Partial combinatory algebra</title> </frontmatter> <mainmatter><p>  A <em>partial combinatory algebra</em> (<b>PCA</b> for short) is a set
-  <tex>\mathbb{A}</tex> equipped with
-  <ul>    <li>a partial function <tex>({-})  \cdot  ({-}) :  \mathbb{A}   \times   \mathbb{A}   \nrightarrow   \mathbb{A}</tex>,</li>    <li>an element <tex>\mathsf{k}   \in   \mathbb{A}</tex>, and</li>    <li>an element <tex>\mathsf{s}   \in   \mathbb{A}</tex>;</li>  </ul>  satisfying the following conditions.
-  <ul>    <li>      For every <tex>a, b  \in   \mathbb{A}</tex>,
-      <tex>( \mathsf{k}   \cdot  a)  \downarrow</tex>, and <tex>( \mathsf{k}   \cdot  a)  \cdot  b  \equiv  a;</tex>    </li>    <li>      For every <tex>a, b, c  \in   \mathbb{A}</tex>,
-      <tex>( \mathsf{s}   \cdot  a)  \downarrow</tex>,
-      <tex>((s  \cdot  a)  \cdot  b) \downarrow</tex>, and
-      <tex>(( \mathsf{s}   \cdot  a)  \cdot  b)  \cdot  c  \equiv  (a  \cdot  c)  \cdot  (b  \cdot  c).</tex>    </li>  </ul></p><p>  Adapted from the definition in <b>Example 2.3</b> of <link href="pitts-tripos-retrospect.xml" type="local" title="Tripos theory in retrospect">Tripos theory in retrospect</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1921</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001G</fr:addr><fr:route>axt-001G.xml</fr:route><fr:title>Hyperdoctrine</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="william-lawvere.xml"
+type="local"
+addr="william-lawvere">William Lawvere</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathbb {C}</fr:tex> be category with finite products. A <fr:em>first order hyperdoctrine</fr:em>
+  <fr:tex>\mathcal {P}</fr:tex> over <fr:tex>\mathbb {C}</fr:tex> is a contravariant functor <fr:tex>\mathcal {P}  :  { \mathbb {C} }^{ \mathsf {op}}   \to   \mathbf {Poset}</fr:tex>
+  satisfying the following conditions.
+  <fr:ul><fr:li><fr:tex>\mathcal {P} (C)</fr:tex> is a <fr:link
+href="axt-001H.xml"
+type="local"
+addr="axt-001H">Heyting algebra</fr:link> for each object <fr:tex>C  \in   \mathbb {C}</fr:tex>.</fr:li>
+    <fr:li>
+      For each <fr:tex>\mathbb {C}</fr:tex>-morphism <fr:tex>f : C  \to  D</fr:tex>, the monotone function
+      <fr:tex>\mathcal {P} (f) :  \mathcal {P} (D)  \to   \mathcal {P} (C)</fr:tex> is a Heyting algebra homomorphism.
+    </fr:li>
+    <fr:li>
+      For each diagonal morphism <fr:tex>\Delta _C : C  \to  C  \times  C</fr:tex> in <fr:tex>\mathbb {C}</fr:tex>, the
+      left adjoint to <fr:tex>\mathcal {P} ( \Delta _C)</fr:tex> at the top element <fr:tex>\mathbf {1}  \in         \mathcal {P} (X)</fr:tex> exists.
+    </fr:li>
+    <fr:li>
+      For each projection <fr:tex>\pi  : {-}  \times  C  \to  {-}</fr:tex>, the monotone
+      function <fr:tex>\mathcal {P} ( \pi )  \to   \mathcal {P} ({-})  \to   \mathcal {P} ({-}  \times  C)</fr:tex> has both a left
+      adjoint <fr:tex>( \exists  C)_{ \Gamma }</fr:tex> and a right adjoint <fr:tex>( \forall  C)_{ \Gamma }</fr:tex>.
+    </fr:li></fr:ul></fr:p><fr:p>
+  Adapted from <fr:strong>Definition 2.1</fr:strong> of <fr:link
+href="pitts-tripos-retrospect.xml"
+type="local"
+addr="pitts-tripos-retrospect">Tripos theory in retrospect</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1923</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001I</fr:addr><fr:route>axt-001I.xml</fr:route><fr:title>Partial combinatory algebra</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="andrew-pitts.xml"
+type="local"
+addr="andrew-pitts">Andrew M. Pitts</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Example 2.3</fr:strong> of <fr:link
+href="pitts-tripos-retrospect.xml"
+type="local"
+addr="pitts-tripos-retrospect">Tripos theory in retrospect</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>partial combinatory algebra</fr:em> (<fr:strong>PCA</fr:strong> for short) is a set
+  <fr:tex>\mathbb {A}</fr:tex> equipped with
+  <fr:ul><fr:li>a partial function <fr:tex>({-})  \cdot  ({-}) :  \mathbb {A}   \times   \mathbb {A}   \nrightarrow   \mathbb {A}</fr:tex>,</fr:li>
+    <fr:li>an element <fr:tex>\mathsf {k}   \in   \mathbb {A}</fr:tex>, and</fr:li>
+    <fr:li>an element <fr:tex>\mathsf {s}   \in   \mathbb {A}</fr:tex>;</fr:li></fr:ul>
+  satisfying the following conditions.
+  <fr:ul><fr:li>
+      For every <fr:tex>a, b  \in   \mathbb {A}</fr:tex>,
+      <fr:tex>( \mathsf {k}   \cdot  a)  \downarrow</fr:tex>, and <fr:tex>( \mathsf {k}   \cdot  a)  \cdot  b  \equiv  a;</fr:tex></fr:li>
+    <fr:li>
+      For every <fr:tex>a, b, c  \in   \mathbb {A}</fr:tex>,
+      <fr:tex>( \mathsf {s}   \cdot  a)  \downarrow</fr:tex>,
+      <fr:tex>((s  \cdot  a)  \cdot  b) \downarrow</fr:tex>, and
+      <fr:tex>(( \mathsf {s}   \cdot  a)  \cdot  b)  \cdot  c  \equiv  (a  \cdot  c)  \cdot  (b  \cdot  c).</fr:tex></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

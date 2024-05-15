@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1585</anchor>  <taxon>Reference</taxon> <addr>vv-resizing</addr>  <route>vv-resizing.xml</route> <date><year>2011</year> <month>9</month> <day>11</day></date> <authors><author>vladimir-voevodsky</author> </authors> <title>Resizing Rules -- Their Use and Semantic Justification</title> <meta name="external">https://www.math.ias. edu/vladimir/sites/math.ias.edu.vladimir/files/2011_Bergen.pdf</meta><meta name="bibtex">@unpublished{voevodsky-resizing,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1823</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>vv-resizing</fr:addr><fr:route>vv-resizing.xml</fr:route><fr:title>Resizing Rules -- Their Use and Semantic Justification</fr:title><fr:date><fr:year>2011</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author>vladimir-voevodsky</fr:author></fr:authors><fr:meta
+name="external">https://www.math.ias. edu/vladimir/sites/math.ias.edu/vladimir/files/2011_Bergen.pdf</fr:meta><fr:meta
+name="bibtex">%
+@unpublished{voevodsky-resizing,
   title     = {Resizing {{Rules}} -- Their Use and Semantic Justification},
   author    = {Voevodsky, Vladimir},
   date      = {2011-09-11},
   venue     = {{Bergen, Norway}},
   addendum  = {Invited talk at {{TYPES}} 2011},
   url       = {https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2011_Bergen.pdf}
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

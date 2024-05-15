@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004U</fr:addr><fr:route>axt-004U.xml</fr:route><fr:title>Cofinality</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>21</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Page 61</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">JGL</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a preordered set. A family <fr:tex>D  \subseteq  X</fr:tex> is
+  <fr:strong>cofinal in</fr:strong> the directed family <fr:tex>D'</fr:tex> iff <fr:tex>D  \subseteq  D'</fr:tex> and
+  for every <fr:tex>x'  \in  D'</fr:tex> there is an <fr:tex>x  \in  D</fr:tex> with <fr:tex>x'  \le  x</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>395</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{jgl-non-hausdorff,
+  title        = {Non-Hausdorff topology and domain theory},
+  author       = {Goubault-Larrecq, Jean},
+  date         = {2013},
+  publisher    = {Cambridge University Press},
+  address      = {Cambridge},
+  isbn         = {978-1-107-03413-6},
+  volume       = {22},
+  series       = {New mathematical monographs},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

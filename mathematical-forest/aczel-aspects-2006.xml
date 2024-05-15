@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>120</anchor>  <taxon>Reference</taxon> <addr>aczel-aspects-2006</addr>  <route>aczel-aspects-2006.xml</route> <date><year>2006</year>  </date> <authors><author>Peter Aczel</author> </authors> <title>Aspects of general topology in constructive set theory</title> <meta name="bibtex">@article{aczel-aspects-2006,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1855</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>aczel-aspects-2006</fr:addr><fr:route>aczel-aspects-2006.xml</fr:route><fr:title>Aspects of general topology in constructive set theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Peter Aczel</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{aczel-aspects-2006,
   title   = {Aspects of general topology in constructive set theory},
   author  = {Peter Aczel},
   journal = {Annals of Pure and Applied Logic},
@@ -11,5 +20,6 @@
   issn    = {0168-0072},
   doi     = {https://doi.org/10.1016/j.apal.2005.05.016},
   url     = {https://www.sciencedirect.com/science/article/pii/S0168007205000643},
-}
-</meta></frontmatter> <mainmatter><p>  <ol>    <li><link href="Skim:///Users/ayberkt/Dropbox/Reading/aczel-aspects-2006.pdf" type="external">PDF</link></li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
+href="skim:///Users/ayberkt/Dropbox/Reading/aczel-aspects-2006.pdf"
+type="external">PDF</fr:link></fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1761</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-sharp-elements</fr:addr><fr:route>tdj-sharp-elements.xml</fr:route><fr:title>Sharp Elements and Apartness in Domains</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">@inproceedings{tdj-sharp-elements,
+  author     = {Tom de Jong},
+  editor     = {Ana Sokolova},
+  title      = {Sharp Elements and Apartness in Domains},
+  booktitle  = {Proceedings 37th Conference on Mathematical Foundations of Programming
+                Semantics, {MFPS} 2021, Hybrid: Salzburg, Austria and Online, 30th
+                August - 2nd September, 2021},
+  series     = {{EPTCS}},
+  volume     = {351},
+  pages      = {134--151},
+  date       = {2021},
+  url        = {https://doi.org/10.4204/EPTCS.351.9},
+  doi        = {10.4204/EPTCS.351.9},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2112-14052.bib},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

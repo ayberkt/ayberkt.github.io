@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>266</anchor>  <taxon>Definition</taxon> <addr>axt-001A</addr>  <route>axt-001A.xml</route> <date><year>2023</year> <month>10</month> <day>14</day></date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Limited Principle of Omniscience</title> </frontmatter> <mainmatter><p>  The <em>limited principle of omniscience</em> (often abbreviated as <b>LPO</b>) says
-  that, for any binary sequence <tex>\{  a_n  \} _{n  \in   \mathbb{N} }</tex>, either there exists
-  some <tex>n  \in   \mathbb{N}</tex> such that <tex>a_n = 1</tex> or <tex>a_n = 0</tex> for all <tex>n  \in   \mathbb{N}</tex>.
-</p><p>  From page 3 of <link href="bridges-richman-varieties.xml" type="local" title="Varieties of constructive mathematics">Varieties of Constructive Mathematics</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>267</anchor>  <taxon>Reference</taxon> <addr>bridges-richman-varieties</addr>  <route>bridges-richman-varieties.xml</route> <date><year>1987</year>  </date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Varieties of constructive mathematics</title> <meta name="bibtex">@book{bridges-richman-varieties,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1542</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001A</fr:addr><fr:route>axt-001A.xml</fr:route><fr:title>Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
+name="source">from page 3 of <fr:link
+href="bridges-richman-varieties.xml"
+type="local"
+addr="bridges-richman-varieties">Varieties</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:em>limited principle of omniscience</fr:em> (often abbreviated as <fr:strong>LPO</fr:strong>)
+  says that, for any binary sequence <fr:tex>\{  a_n  \} _{n  \in   \mathbb {N} }</fr:tex>, either there
+  exists some <fr:tex>n  \in   \mathbb {N}</fr:tex> such that <fr:tex>a_n = 1</fr:tex> or <fr:tex>a_n = 0</fr:tex> for all <fr:tex>n  \in     \mathbb {N}</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1539</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-richman-varieties</fr:addr><fr:route>bridges-richman-varieties.xml</fr:route><fr:title>Varieties of constructive mathematics</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{bridges-richman-varieties,
   title        = {Varieties of Constructive Mathematics},
   author       = {Bridges, Douglas S. and Richman, Fred},
   date         = {1987},
@@ -12,5 +32,4 @@
   series       = {London Mathematical Society Lecture Note Series},
   volume       = 97,
   doi          = {10.1017/CBO9780511565663}
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

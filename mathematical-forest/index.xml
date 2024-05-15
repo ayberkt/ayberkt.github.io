@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="true"><frontmatter> <anchor>138</anchor>   <addr>axt-0001</addr>  <route>index.xml</route>  <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>The root of my forest</title> </frontmatter> <mainmatter><p>  <b>This forest is a draft!</b></p><p>  This <link href="https://www.jonmsterling.com/tfmt-000V.xml" type="external">forest</link> is currently a work
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>2713</fr:anchor><fr:addr>axt-0001</fr:addr><fr:route>index.xml</fr:route><fr:title>The root of my forest</fr:title><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>This forest is a draft!</fr:strong></fr:p><fr:p>
+  This <fr:link
+href="https://www.jonmsterling.com/tfmt-000V.xml"
+type="external">forest</fr:link> is currently a work
   in progress and has not yet reached version 1.0.
-</p><p>  Everything here (including citations and attributions) should be treated as
+</fr:p><fr:p>
+  Everything here (including citations and attributions) should be treated as
   WIP.
-</p><p>  Over the next couple of months, I will be revising and polishing the trees
+</fr:p><fr:p>
+  Over the next couple of months, I will be revising and polishing the trees
   in this forest, that started as a small experiment with forest.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

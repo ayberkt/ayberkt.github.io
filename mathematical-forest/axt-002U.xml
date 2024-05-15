@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>934</anchor>  <taxon>Definition</taxon> <addr>axt-002U</addr>  <route>axt-002U.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The Baire space</title> <meta name="source">1st paragraph of <b>Sec. 3.6</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  The <b>Baire</b> space is the subset of the <tex>\mathtt{Baire}</tex> data type
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>955</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002U</fr:addr><fr:route>axt-002U.xml</fr:route><fr:title>The Baire space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">1st paragraph of <fr:strong>Sec. 3.6</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>Baire</fr:strong> space is the subset of the <fr:tex>\mathtt {Baire}</fr:tex> data type
   in Haskell consisting of the strict total functions.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>935</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{barbados-notes,
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>953</fr:anchor><fr:addr>barbados-notes</fr:addr><fr:route>barbados-notes.xml</fr:route><fr:title>Synthetic Topology: of Data Types and Classical Spaces</fr:title><fr:date><fr:year>2004</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{barbados-notes,
   title        = {Synthetic Topology: of Data Types and Classical Spaces},
   author       = {Escardó, Martín H.},
   year         = {2004},
@@ -13,5 +40,4 @@
                  Probabilistic Processes},
   issn         = {1571-0661},
   doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

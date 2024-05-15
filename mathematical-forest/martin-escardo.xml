@@ -1,203 +1,1767 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1329</anchor>  <taxon>Person</taxon> <addr>martin-escardo</addr>  <route>martin-escardo.xml</route>   <title>Martín H. Escardó</title> <meta name="institution">University of Birmingham</meta><meta name="orcid">0000-0002-4091-6334</meta><meta name="external">https://www.cs.bham.ac.uk/~mhe/</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1330</anchor>  <taxon>Theorem</taxon> <addr>axt-003T</addr>  <route>axt-003T.xml</route> <date><year>2023</year> <month>11</month> <day>12</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  <meta name="source"><b>Thm. 48</b> of <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes.
-  If <link href="axt-003S.xml" type="local" title="Zorn's Lemma in UF"><tex>\mathsf{ZornsLemma} ( \mathcal{U}   \sqcup   \mathcal{V} ^{+} ,  \mathcal{V} ,  \mathcal{V} )</tex></link> holds then
-  <link href="axt-003N.xml" type="local" title="The propositional (𝓤, 𝓥)-resizing axiom"><tex>\mathsf{PropositionalResizing} ( \mathcal{U} ,  \mathcal{V} )</tex></link> holds.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1331</anchor>  <taxon>Axiom</taxon> <addr>axt-003S</addr>  <route>axt-003S.xml</route> <date><year>2023</year> <month>11</month> <day>12</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zorn's Lemma in UF</title> <meta name="source"><b>Defn. 47</b> of <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex>, <tex>\mathcal{V}</tex>, and <tex>\mathcal{W}</tex> be universes. <b>Zorn’s Lemma at
-  <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex></b> asserts that every pointed <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>( \mathcal{U} ,  \mathcal{V} ,
-   \mathcal{W} )</tex>-dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p><p>  This is sometimes denoted <tex>\mathsf{ZornsLemma} ( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1332</anchor>  <taxon>Definition</taxon> <addr>axt-003M</addr>  <route>axt-003M.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Being 𝓥-small</title> <meta name="source"><b>Defn. 1</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. A type <tex>X :  \mathcal{U}</tex> is called
-  <b><tex>\mathcal{V}</tex>-small</b> if it has a copy in universe <tex>\mathcal{V}</tex>, which is
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2583</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>martin-escardo</fr:addr><fr:route>martin-escardo.xml</fr:route><fr:title>Martín H. Escardó</fr:title><fr:meta
+name="institution"><fr:link
+href="uni-of-birmingham.xml"
+type="local"
+addr="uni-of-birmingham">University of Birmingham</fr:link></fr:meta><fr:meta
+name="orcid">0000-0002-4091-6334</fr:meta><fr:meta
+name="external">https://www.cs.bham.ac.uk/~mhe/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Standard abbreviation: <fr:code>mhe</fr:code>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2427</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="source">notes from a talk by <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Escardó</fr:link>, with some additions by <fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all sets of a given type gives a set of the next type.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source">pp. 241 of <fr:link
+href="br-logic-based-on-tt.xml"
+type="local"
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
+  (i.e. propositional function) can be expressed by a formally equivalent
+  <fr:em>predicative</fr:em> truth function.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This is where the term “predicative” originates from as it says propositional
+  functions can be reduced to predicates.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all types in the first universe gives a type in the first
+  universe.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This form of impredicativity is also present in the Calculus of Constructions
+  and the Calculus of Inductive Constructions.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Forming powersets <fr:em>is</fr:em> allowed.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Forming powersets <fr:em>is not</fr:em> allowed.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over the types in one universe gives a type in the next
+  universe.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This is similar to <fr:link
+href="axt-005Z.xml"
+type="local"
+addr="axt-005Z"><fr:code>axt-005Z</fr:code></fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  This is the same as <fr:link
+href="axt-0062.xml"
+type="local"
+addr="axt-0062"><fr:code>axt-0062</fr:code></fr:link> since HoTT/UF is a system
+  extending a particular MLTT with univalence and so-called higher-inductive
+  types.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Voevodsky’s <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">propositional resizing axiom</fr:link> is assumed. There are
+  several forms of this axiom of varying strengths but they are all variations
+  of the statement that propositional types quantifying over other types are
+  small.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This seems to be somewhat similar to <fr:link
+href="axt-0067.xml"
+type="local"
+addr="axt-0067"><fr:code>axt-0067</fr:code></fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Any theory that has the strength of the Feferman-Schütte ordinal or above is
+  deemed to be impredicative.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2430</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">propositional resizing</fr:link></fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds (for <fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos)
+  then <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N"><fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-propositional resizing</fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:parent>axt-0054</fr:parent></fr:frontmatter><fr:mainmatter>
+  Suppose <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds for <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos</fr:link>
+  and let <fr:tex>P :  \Omega _{ \mathcal {U} }</fr:tex>. Consider the lifting dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. By
+  Lemma 45, it suffices to show that <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex> has a maximal element
+  <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>. By <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link>, there must be a greatest monotone
+  inflationary endofunction <fr:tex
+display="block">g :  \mathcal {L}_{ \mathcal {V} }( P )   \to   \mathcal {L}_{ \mathcal {V} }( P )</fr:tex> for
+  the dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. One can then show that <fr:tex>g(0) :  \Omega _{ \mathcal {V} }</fr:tex> is
+  a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link> of <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. Let <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>
+  with <fr:tex>g(0)  \sqsubseteq  Q</fr:tex>. We have to show <fr:tex>Q  \sqsubseteq  g(0)</fr:tex> to conclude
+  that <fr:tex>g(0)</fr:tex> is a maximal element. Consider the <fr:link
+href="axt-0055.xml"
+type="local"
+addr="axt-0055">closed nucleus</fr:link>
+  <fr:tex>\mathbf {c}( Q )</fr:tex>, which must satisfy <fr:tex>\mathbf {c}( Q )   \sqsubseteq  g</fr:tex>
+  since <fr:tex>g</fr:tex> is the greatest element of the poset of monotone and inflationary
+  endofunctions. We therefore have <fr:tex>Q =  \mathbf {c}( 0 )   \sqsubseteq  g(0)</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2433</fr:anchor><fr:addr>axt-0053</fr:addr><fr:route>axt-0053.xml</fr:route><fr:title>Pataraia's Lemma</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Definition 51</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Pataraia's Lemma</fr:strong> says that every <fr:tex>\mathcal {W}</fr:tex>-dcpo with carrier
+  in universe <fr:tex>\mathcal {U}</fr:tex> and order taking values in <fr:tex>\mathcal {V}</fr:tex> has a greatest monotone
+  inflationary endofunction.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2436</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003T</fr:addr><fr:route>axt-003T.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Thm. 48</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes.
+  If <fr:link
+href="axt-003S.xml"
+type="local"
+addr="axt-003S"><fr:tex>\mathsf {ZornsLemma}( \mathcal {U}   \sqcup   \mathcal {V} ^{+} ,  \mathcal {V} ,  \mathcal {V} )</fr:tex></fr:link> holds then
+  <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N"><fr:tex>\mathsf {PropositionalResizing}( \mathcal {U} ,  \mathcal {V} )</fr:tex></fr:link> holds.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2439</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003S</fr:addr><fr:route>axt-003S.xml</fr:route><fr:title>Zorn's Lemma in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 47</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex>, <fr:tex>\mathcal {V}</fr:tex>, and <fr:tex>\mathcal {W}</fr:tex> be universes. <fr:strong>Zorn’s Lemma at
+  <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex></fr:strong> asserts that every pointed <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,    \mathcal {W} )</fr:tex>-dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p><fr:p>
+  This is sometimes denoted <fr:tex>\mathsf {ZornsLemma}( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2442</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003M</fr:addr><fr:route>axt-003M.xml</fr:route><fr:title>Being 𝓥-small</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 1</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. A type <fr:tex>X :  \mathcal {U}</fr:tex> is called
+  <fr:strong><fr:tex>\mathcal {V}</fr:tex>-small</fr:strong> if it has a copy in universe <fr:tex>\mathcal {V}</fr:tex>, which is
   to say
-  <tex display="block">\mathsf{hasSize} ( X ,  \mathcal{V} )   \vcentcolon \equiv   \sum _{ Y \  : \  \mathcal{V} }  X  \simeq  Y .</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1333</anchor>  <taxon>Definition</taxon> <addr>axt-003R</addr>  <route>axt-003R.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The type of ¬¬-stable propositions</title> <meta name="source"><b>Defn 2.iii</b> of <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> be a universe. The <b>type of <tex>\neg \neg</tex>-stable
-  propositions</b> at universe <tex>\mathcal{U}</tex> is defined as:
-  <tex display="block">\Omega ^{ \neg \neg }_{ \mathcal{U} }   \vcentcolon \equiv   \sum _{ P \  : \  \Omega _{ \mathcal{U} } }  \mathsf{isNotNotStable} ( P )</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1334</anchor>  <taxon>Axiom</taxon> <addr>axt-003P</addr>  <route>axt-003P.xml</route> <date><year>2023</year> <month>11</month> <day>9</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Ω (𝓤, 𝓥)-resizing axiom</title> <meta name="source"><b>Defn 2.ii</b> from <link href="tdj-mhe-aspects.xml" type="local" title="Predicative Aspects of Order Theory in Univalent Foundations">de Jong and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{U}</tex> and <tex>\mathcal{V}</tex> be two universes. The <b><tex>\Omega</tex> <tex>( \mathcal{U} ,
-   \mathcal{V} )</tex>-resizing axiom</b> says that the type <tex>\Omega _{ \mathcal{U} }</tex> is
-  <link href="axt-003M.xml" type="local" title="Being 𝓥-small"><tex>\mathcal{V}</tex>-small</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1335</anchor>  <taxon>Remark</taxon> <addr>axt-0031</addr>  <route>axt-0031.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> being pseudocontinuous is the same thing as it
-  having a specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>, but with the specified
-  existence requirement in the notion of <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> relaxed to
+  <fr:tex
+display="block">\mathsf {hasSize}( X ,  \mathcal {V} )   \vcentcolon \equiv   \sum _{ Y \  : \  \mathcal {V} }  X  \simeq  Y .</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2445</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003R</fr:addr><fr:route>axt-003R.xml</fr:route><fr:title>The type of ¬¬-stable propositions</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.iii</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> be a universe. The <fr:strong>type of <fr:tex>\neg \neg</fr:tex>-stable
+  propositions</fr:strong> at universe <fr:tex>\mathcal {U}</fr:tex> is defined as:
+  <fr:tex
+display="block">\Omega ^{ \neg \neg }_{ \mathcal {U} }   \vcentcolon \equiv   \sum _{ P \  : \  \Omega _{ \mathcal {U} } }  \mathsf {isNotNotStable}( P )</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2448</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003P</fr:addr><fr:route>axt-003P.xml</fr:route><fr:title>The Ω (𝓤, 𝓥)-resizing axiom</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.ii</fr:strong> from <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {U}</fr:tex> and <fr:tex>\mathcal {V}</fr:tex> be two universes. The <fr:strong><fr:tex>\Omega</fr:tex> <fr:tex>( \mathcal {U} ,    \mathcal {V} )</fr:tex>-resizing axiom</fr:strong> says that the type <fr:tex>\Omega _{ \mathcal {U} }</fr:tex> is
+  <fr:link
+href="axt-003M.xml"
+type="local"
+addr="axt-003M"><fr:tex>\mathcal {V}</fr:tex>-small</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2451</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>axt-0031</fr:addr><fr:route>axt-0031.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> being pseudocontinuous is the same thing as it
+  having a specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>, but with the specified
+  existence requirement in the notion of <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> relaxed to
   requirement of mere existence.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1336</anchor>  <taxon>Definition</taxon> <addr>axt-0033</addr>  <route>axt-0033.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>extensional spectral basis</b> <tex>(B,  \beta )</tex> for a
-  <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link> is an <link href="axt-0032.xml" type="local" title="Intensional spectral basis for a locale">intensional spectral basis</link> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1337</anchor>  <taxon>Definition</taxon> <addr>axt-0032</addr>  <route>axt-0032.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>intensional spectral basis</b> for a <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link>  <tex>X</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> for the frame
-  <tex>\mathcal{O} ( X )</tex> (considered as a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{W}</tex>-dcpo</link>) that satisfies the
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2454</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>extensional spectral basis</fr:strong> <fr:tex>(B,  \beta )</fr:tex> for a
+  <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link> is an <fr:link
+href="axt-0032.xml"
+type="local"
+addr="axt-0032">intensional spectral basis</fr:link> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2457</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link>
+  <fr:tex>X</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> for the frame
+  <fr:tex>\mathcal {O}( X )</fr:tex> (considered as a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {W}</fr:tex>-dcpo</fr:link>) that satisfies the
   following two conditions
-  <ul>    <li>For every <tex>b : B</tex>, <tex>\beta (b)</tex> is a <link href="axt-002S.xml" type="local" title="Compact open of a locale in UF">compact open</link> of <tex>X</tex>.</li>    <li>      The basis <tex>(B,  \beta )</tex> is closed under finite meets. This is to say
+  <fr:ul><fr:li>For every <fr:tex>b : B</fr:tex>, <fr:tex>\beta (b)</fr:tex> is a <fr:link
+href="axt-002S.xml"
+type="local"
+addr="axt-002S">compact open</fr:link> of <fr:tex>X</fr:tex>.</fr:li>
+    <fr:li>
+      The basis <fr:tex>(B,  \beta )</fr:tex> is closed under finite meets. This is to say
       that it satisfies the following conditions.
-      <ul>        <li>It contains the empty meet: <tex>\exists  t : B. \  \mathsf{isTop} ( \beta (t))</tex>.</li>        <li>          It is closed under binary meets:
-          <tex display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text{is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</tex>        </li>      </ul>    </li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1338</anchor>  <taxon>Definition</taxon> <addr>axt-002S</addr>  <route>axt-002S.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Compact open of a locale in UF</title> <meta name="source"><b>Defn. 3.5</b> of <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Tosun and Escardó</link></meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> be a <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale. An open <tex>U :  \mathcal{O} ( X )</tex> is called
-  <b>compact</b> if the principal filter on <tex>U</tex> is inaccessible by joins
-  of directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{W}</tex>-families</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1339</anchor>  <taxon>Definition</taxon> <addr>axt-002V</addr>  <route>axt-002V.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous map of data types</title> <meta name="source">2nd paragraph of <b>Sec. 3.1</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  A function <tex>f :  \mathtt{a}   \to   \mathtt{b}</tex> of data types is called
-  <b>continuous</b> if is definable Haskell.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1340</anchor>  <taxon>Definition</taxon> <addr>axt-002W</addr>  <route>axt-002W.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous map of spaces</title> <meta name="source">1st paragraph of <b>Sec. 3.7</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> and <tex>Y</tex> be two <link href="axt-002T.xml" type="local" title="Space">spaces</link> with environments <tex>\mathtt{a}</tex> and
-  <tex>\mathtt{b}</tex> respectively. A function <tex>\varphi  : X  \to  Y</tex> is continuous if
-  there exists a <link href="axt-002V.xml" type="local" title="Continuous map of data types">continuous function of data types</link>  <tex>f :  \mathtt{a}   \to   \mathtt{b}</tex> such that
-  <tex display="block">\forall  x  \in  X. \  \varphi (x) = f(x).</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1341</anchor>  <taxon>Definition</taxon> <addr>axt-002O</addr>  <route>axt-002O.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Initial frame in UF</title> <meta name="source"><link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903" type="external">Defn. in TypeTopology</link></meta></frontmatter> <mainmatter><p>  The <em>initial frame</em> at universe <tex>\mathcal{U}</tex> in UF is <link href="axt-003K.xml" type="local" title="Type Ω of propositions">the type
-  <tex>\Omega _{ \mathcal{U} }</tex></link> viewed as a <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ^+,  \mathcal{U} ,  \mathcal{U} )</tex>-frame</link>  as follows:
-  <ul>    <li><em>Order</em>: <tex>P  \le  Q   \vcentcolon \equiv   P  \Rightarrow  Q</tex>.</li>    <li><em>Top element</em>: <tex>\mathbf{1}   \vcentcolon \equiv   \top _{ \mathcal{U} } .</tex> </li> 
-    <li><em>Meet</em>: <tex>P  \wedge  Q   \vcentcolon \equiv   P  \times  Q</tex>.</li>    <li>      <em>Arbitrary join</em>:
-        <tex>\left ( \bigvee _{i : I} P_i \right )   \vcentcolon \equiv   \exists  k : I. \  P_k .</tex>    </li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1342</anchor>  <taxon>Definition</taxon> <addr>axt-002X</addr>  <route>axt-002X.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Not-not-separated type</title> <meta name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/UF.DiscreteAndSeparated.html#5439</meta></frontmatter> <mainmatter><p>  A type <tex>X</tex> is called <b><tex>\neg \neg</tex>-separated</b> if
-  <tex>x = y</tex> is a <link href="axt-002Y.xml" type="local" title="Not-not-stable type"><tex>\neg \neg</tex>-stable type</link> for every <tex>x, y : X</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1343</anchor>  <taxon>Definition</taxon> <addr>axt-002Y</addr>  <route>axt-002Y.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Not-not-stable type</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/TypeTopology/MLTT.Negation.html#2342</meta></frontmatter> <mainmatter><p>  A type <tex>X</tex> is called <b><tex>\neg \neg</tex>-stable</b> if <tex>\neg   \neg  A  \to   A</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1344</anchor>  <taxon>Definition</taxon> <addr>axt-002T</addr>  <route>axt-002T.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Space</title> <meta name="source">1st paragraph of <b>Sec. 3.5</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  A <b>space</b> is a subset <tex>X  \subseteq   \mathtt{a}</tex> of inhabitants of
-  a Haskell data type <tex>\mathtt{a}</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1345</anchor>  <taxon>Definition</taxon> <addr>axt-002Q</addr>  <route>axt-002Q.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Spectral locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called <b>spectral</b>  if it satisfies the following three conditions.
-  <ol>    <li>It is a compact locale (i.e. the empty meet is compact).</li>    <li>The meet of two compact opens is compact.</li>    <li>      For every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family
-      <tex>(K_U,  \kappa _U)</tex> that satisfies the following conditions.
-      <ol>        <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>        <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>        <li>          It consists of compact opens i.e.
-          <tex>\forall  k : K_U. \  \mathsf{isCompact} ( \kappa _{U}(k) )</tex>.
-        </li>      </ol>    </li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1346</anchor>   <addr>axt-002P</addr>  <route>axt-002P.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Terminology for locale theory</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1347</anchor>  <taxon>Definition</taxon> <addr>axt-002Q</addr>  <route>axt-002Q.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Spectral locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called <b>spectral</b>  if it satisfies the following three conditions.
-  <ol>    <li>It is a compact locale (i.e. the empty meet is compact).</li>    <li>The meet of two compact opens is compact.</li>    <li>      For every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family
-      <tex>(K_U,  \kappa _U)</tex> that satisfies the following conditions.
-      <ol>        <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>        <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>        <li>          It consists of compact opens i.e.
-          <tex>\forall  k : K_U. \  \mathsf{isCompact} ( \kappa _{U}(k) )</tex>.
-        </li>      </ol>    </li>  </ol></p></mainmatter> </tree><p>  Notice the relationship of the third condition here to
-  <link href="axt-0029.xml" type="local" title="Pseudocontinuous V-dcpo">pseudocontinuity</link>. If we formulate a notion of “pseudoalgebraicity”
-  i.e. the analogue of <link href="axt-0029.xml" type="local" title="Pseudocontinuous V-dcpo">pseudocontinuity</link> for
-  <link href="axt-001L.xml" type="local" title="Algebraic V-dcpo">algebraicity</link>, we could use that to avoid the repetition here
+      <fr:ul><fr:li>It contains the empty meet: <fr:tex>\exists  t : B. \  \mathsf {isTop}( \beta (t))</fr:tex>.</fr:li>
+        <fr:li>
+          It is closed under binary meets:
+          <fr:tex
+display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text {is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</fr:tex></fr:li></fr:ul></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2460</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002S</fr:addr><fr:route>axt-002S.xml</fr:route><fr:title>Compact open of a locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 3.5</fr:strong> of <fr:link
+href="patch-mfps.xml"
+type="local"
+addr="patch-mfps">Tosun and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale. An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> is called
+  <fr:strong>compact</fr:strong> if the principal filter on <fr:tex>U</fr:tex> is inaccessible by joins
+  of directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {W}</fr:tex>-families</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2463</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002V</fr:addr><fr:route>axt-002V.xml</fr:route><fr:title>Continuous map of data types</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">2nd paragraph of <fr:strong>Sec. 3.1</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A function <fr:tex>f :  \mathtt {a}  \to   \mathtt {b}</fr:tex> of data types is called
+  <fr:strong>continuous</fr:strong> if is definable Haskell.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2465</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002W</fr:addr><fr:route>axt-002W.xml</fr:route><fr:title>Continuous map of spaces</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">1st paragraph of <fr:strong>Sec. 3.7</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> and <fr:tex>Y</fr:tex> be two <fr:link
+href="axt-002T.xml"
+type="local"
+addr="axt-002T">spaces</fr:link> with environments <fr:tex>\mathtt { a }</fr:tex> and
+  <fr:tex>\mathtt { b }</fr:tex> respectively. A function <fr:tex>\varphi  : X  \to  Y</fr:tex> is continuous if
+  there exists a <fr:link
+href="axt-002V.xml"
+type="local"
+addr="axt-002V">continuous function of data types</fr:link>
+  <fr:tex>f :  \mathtt { a }   \to   \mathtt { b }</fr:tex> such that
+  <fr:tex
+display="block">\forall  x  \in  X. \  \varphi (x) = f(x).</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2467</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002O</fr:addr><fr:route>axt-002O.xml</fr:route><fr:title>Initial frame in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Locales.InitialFrame.html#1903"
+type="external">Defn. in TypeTopology</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:em>initial frame</fr:em> at universe <fr:tex>\mathcal {U}</fr:tex> in UF is <fr:link
+href="axt-003K.xml"
+type="local"
+addr="axt-003K">the type
+  <fr:tex>\Omega _{ \mathcal {U} }</fr:tex></fr:link> viewed as a <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ^+,  \mathcal {U} ,  \mathcal {U} )</fr:tex>-frame</fr:link>
+  as follows:
+  <fr:ul><fr:li><fr:em>Order</fr:em>: <fr:tex>P  \le  Q   \vcentcolon \equiv   P  \Rightarrow  Q</fr:tex>.</fr:li>
+    <fr:li><fr:em>Top element</fr:em>: <fr:tex>\mathbf {1}   \vcentcolon \equiv   \top _{ \mathcal {U} } .</fr:tex></fr:li> 
+    <fr:li><fr:em>Meet</fr:em>: <fr:tex>P  \wedge  Q   \vcentcolon \equiv   P  \times  Q</fr:tex>.</fr:li>
+    <fr:li><fr:em>Arbitrary join</fr:em>:
+        <fr:tex>\left ( \bigvee _{i : I} P_i \right )   \vcentcolon \equiv   \exists  k : I. \  P_k .</fr:tex></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2470</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002X</fr:addr><fr:route>axt-002X.xml</fr:route><fr:title>Not-not-separated type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://www.cs.bham.ac.uk//~mhe/TypeTopology/UF.DiscreteAndSeparated.html#5439</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A type <fr:tex>X</fr:tex> is called <fr:strong><fr:tex>\neg \neg</fr:tex>-separated</fr:strong> if
+  <fr:tex>x = y</fr:tex> is a <fr:link
+href="axt-002Y.xml"
+type="local"
+addr="axt-002Y"><fr:tex>\neg \neg</fr:tex>-stable type</fr:link> for every <fr:tex>x, y : X</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2472</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Y</fr:addr><fr:route>axt-002Y.xml</fr:route><fr:title>Not-not-stable type</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://www.cs.bham.ac.uk/~mhe/TypeTopology/MLTT.Negation.html#2342</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A type <fr:tex>X</fr:tex> is called <fr:strong><fr:tex>\neg \neg</fr:tex>-stable</fr:strong> if <fr:tex>\neg   \neg  A  \to    A</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2474</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002T</fr:addr><fr:route>axt-002T.xml</fr:route><fr:title>Space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">1st paragraph of <fr:strong>Sec. 3.5</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>space</fr:strong> is a subset <fr:tex>X  \subseteq   \mathtt {a}</fr:tex> of inhabitants of
+  a Haskell data type <fr:tex>\mathtt {a}</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2476</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong>
+  if it satisfies the following three conditions.
+  <fr:ol><fr:li>It is a compact locale (i.e. the empty meet is compact).</fr:li>
+    <fr:li>The meet of two compact opens is compact.</fr:li>
+    <fr:li>
+      For every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family
+      <fr:tex>(K_U,  \kappa _U)</fr:tex> that satisfies the following conditions.
+      <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+        <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+        <fr:li>
+          It consists of compact opens i.e.
+          <fr:tex>\forall  k : K_U. \  \mathsf {isCompact}( \kappa _{U}(k) )</fr:tex>.
+        </fr:li></fr:ol></fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2479</fr:anchor><fr:addr>axt-002P</fr:addr><fr:route>axt-002P.xml</fr:route><fr:title>Terminology for locale theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong>
+  if it satisfies the following three conditions.
+  <fr:ol><fr:li>It is a compact locale (i.e. the empty meet is compact).</fr:li>
+    <fr:li>The meet of two compact opens is compact.</fr:li>
+    <fr:li>
+      For every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family
+      <fr:tex>(K_U,  \kappa _U)</fr:tex> that satisfies the following conditions.
+      <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+        <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+        <fr:li>
+          It consists of compact opens i.e.
+          <fr:tex>\forall  k : K_U. \  \mathsf {isCompact}( \kappa _{U}(k) )</fr:tex>.
+        </fr:li></fr:ol></fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Notice the relationship of the third condition here to
+  <fr:link
+href="axt-0029.xml"
+type="local"
+addr="axt-0029">pseudocontinuity</fr:link>. If we formulate a notion of “pseudoalgebraicity”
+  i.e. the analogue of <fr:link
+href="axt-0029.xml"
+type="local"
+addr="axt-0029">pseudocontinuity</fr:link> for
+  <fr:link
+href="axt-001L.xml"
+type="local"
+addr="axt-001L">algebraicity</fr:link>, we could use that to avoid the repetition here
   because they are exactly the same thing. This is not good for presentation
   purposes (as for as locale theory is concerned), however, so it should
   probably be recorded as an equivalence.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1348</anchor>  <taxon>Definition</taxon> <addr>axt-0032</addr>  <route>axt-0032.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>intensional spectral basis</b> for a <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link>  <tex>X</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> for the frame
-  <tex>\mathcal{O} ( X )</tex> (considered as a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{W}</tex>-dcpo</link>) that satisfies the
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link>
+  <fr:tex>X</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> for the frame
+  <fr:tex>\mathcal {O}( X )</fr:tex> (considered as a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {W}</fr:tex>-dcpo</fr:link>) that satisfies the
   following two conditions
-  <ul>    <li>For every <tex>b : B</tex>, <tex>\beta (b)</tex> is a <link href="axt-002S.xml" type="local" title="Compact open of a locale in UF">compact open</link> of <tex>X</tex>.</li>    <li>      The basis <tex>(B,  \beta )</tex> is closed under finite meets. This is to say
+  <fr:ul><fr:li>For every <fr:tex>b : B</fr:tex>, <fr:tex>\beta (b)</fr:tex> is a <fr:link
+href="axt-002S.xml"
+type="local"
+addr="axt-002S">compact open</fr:link> of <fr:tex>X</fr:tex>.</fr:li>
+    <fr:li>
+      The basis <fr:tex>(B,  \beta )</fr:tex> is closed under finite meets. This is to say
       that it satisfies the following conditions.
-      <ul>        <li>It contains the empty meet: <tex>\exists  t : B. \  \mathsf{isTop} ( \beta (t))</tex>.</li>        <li>          It is closed under binary meets:
-          <tex display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text{is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</tex>        </li>      </ul>    </li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1349</anchor>  <taxon>Definition</taxon> <addr>axt-0033</addr>  <route>axt-0033.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>extensional spectral basis</b> <tex>(B,  \beta )</tex> for a
-  <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link> is an <link href="axt-0032.xml" type="local" title="Intensional spectral basis for a locale">intensional spectral basis</link> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>1350</anchor>  <taxon>Definition</taxon> <addr>axt-002R</addr>  <route>axt-002R.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zero-dimensional locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called
-  <b>zero-dimensional</b> if it satisfies the following condition:
-  for every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family <tex>(K_U,
-   \kappa _U)</tex> that satisfies the following conditions.
-  <ol>    <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>    <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>    <li>      It consists of clopens i.e.
-      <tex>\forall  k : K_U. \  \mathsf{isClopen} ( \kappa _{U}(k))</tex>.
-    </li>  </ol></p></mainmatter> </tree></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1351</anchor>  <taxon>Definition</taxon> <addr>axt-002U</addr>  <route>axt-002U.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The Baire space</title> <meta name="source">1st paragraph of <b>Sec. 3.6</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  The <b>Baire</b> space is the subset of the <tex>\mathtt{Baire}</tex> data type
+      <fr:ul><fr:li>It contains the empty meet: <fr:tex>\exists  t : B. \  \mathsf {isTop}( \beta (t))</fr:tex>.</fr:li>
+        <fr:li>
+          It is closed under binary meets:
+          <fr:tex
+display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text {is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</fr:tex></fr:li></fr:ul></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>811</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>extensional spectral basis</fr:strong> <fr:tex>(B,  \beta )</fr:tex> for a
+  <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link> is an <fr:link
+href="axt-0032.xml"
+type="local"
+addr="axt-0032">intensional spectral basis</fr:link> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>814</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called
+  <fr:strong>zero-dimensional</fr:strong> if it satisfies the following condition:
+  for every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>(K_U,    \kappa _U)</fr:tex> that satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+    <fr:li>
+      It consists of clopens i.e.
+      <fr:tex>\forall  k : K_U. \  \mathsf {isClopen}( \kappa _{U}(k))</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2482</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002U</fr:addr><fr:route>axt-002U.xml</fr:route><fr:title>The Baire space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">1st paragraph of <fr:strong>Sec. 3.6</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>Baire</fr:strong> space is the subset of the <fr:tex>\mathtt {Baire}</fr:tex> data type
   in Haskell consisting of the strict total functions.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1352</anchor>  <taxon>Definition</taxon> <addr>axt-002R</addr>  <route>axt-002R.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zero-dimensional locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called
-  <b>zero-dimensional</b> if it satisfies the following condition:
-  for every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family <tex>(K_U,
-   \kappa _U)</tex> that satisfies the following conditions.
-  <ol>    <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>    <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>    <li>      It consists of clopens i.e.
-      <tex>\forall  k : K_U. \  \mathsf{isClopen} ( \kappa _{U}(k))</tex>.
-    </li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1353</anchor>   <addr>axt-002M</addr>  <route>axt-002M.xml</route> <date><year>2023</year> <month>10</month> <day>31</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Terminology for domain theory</title> </frontmatter> <mainmatter><p>  In <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link> and his Agda formalization of domain
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2484</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called
+  <fr:strong>zero-dimensional</fr:strong> if it satisfies the following condition:
+  for every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>(K_U,    \kappa _U)</fr:tex> that satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+    <fr:li>
+      It consists of clopens i.e.
+      <fr:tex>\forall  k : K_U. \  \mathsf {isClopen}( \kappa _{U}(k))</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2487</fr:anchor><fr:addr>axt-002M</fr:addr><fr:route>axt-002M.xml</fr:route><fr:title>Terminology for domain theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>31</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  In <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link> and his Agda formalization of domain
   theory, the term “structurally continuous” is used to mean a
-  <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> equipped with a function giving, for every <tex>x :
-  D</tex>, a small directed family of elements way below <tex>x</tex>, giving <tex>x</tex> as its
+  <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> equipped with a function giving, for every <fr:tex>x :   D</fr:tex>, a small directed family of elements way below <fr:tex>x</fr:tex>, giving <fr:tex>x</fr:tex> as its
   join.
-</p><p>  In the new terminology, this notion of “structure” involved in the continuity
+</fr:p><fr:p>
+  In the new terminology, this notion of “structure” involved in the continuity
   of a dcpo is made explicit by the following notion.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>5</crumb></trail> <anchor>1354</anchor>  <taxon>Definition</taxon> <addr>axt-002H</addr>  <route>axt-002H.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <em>continuity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,
-   \kappa _x)</tex> on <tex>D</tex> satisfying the following conditions.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ol></p></mainmatter> </tree><p>  Factoring this structure out into a definition of its own obviates the need to
-  have a name for the notion of a “<tex>\mathcal{V}</tex>-dcpo having a specified continuity
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>732</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002H</fr:addr><fr:route>axt-002H.xml</fr:route><fr:title>Continuity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>continuity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,    \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following conditions.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Factoring this structure out into a definition of its own obviates the need to
+  have a name for the notion of a “<fr:tex>\mathcal {V}</fr:tex>-dcpo having a specified continuity
   datum”, which is what “structurally continuous” means. Even though the
-  equivalence between <link href="axt-0027.xml" type="local" title="Unintentionally left blank">structurally continuous</link> and “having a
-  specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>” is completely trivial, we still record
+  equivalence between <fr:link
+href="axt-0027.xml"
+type="local"
+addr="axt-0027">structurally continuous</fr:link> and “having a
+  specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>” is completely trivial, we still record
   this in the following proposition to be able to explicitly refer to this
   terminological identity.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>6</crumb></trail> <anchor>1355</anchor>  <taxon>Proposition</taxon> <addr>axt-001K</addr>  <route>axt-001K.xml</route> <date><year>2023</year> <month>10</month> <day>24</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors>  <meta name="source"><b>Defn 4.4.1</b> of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">de Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">PhD thesis</link></meta></frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> having a specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>  is the same thing as <tex>D</tex> being <link href="axt-0027.xml" type="local" title="Unintentionally left blank">structurally continuous</link>.
-</p></mainmatter> </tree><p>  By replacing the specified existence here with mere existence, we obtain the
-  notion of a <link href="axt-002I.xml" type="local" title="Continuous V-dcpo">continuous <tex>\mathcal{V}</tex>-dcpo</link>. The terminology for this is
-  unchanged (i.e. is the same as the terminology of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s
-  <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link>).
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>7</crumb></trail> <anchor>1356</anchor>  <taxon>Definition</taxon> <addr>axt-002I</addr>  <route>axt-002I.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <em>continuous</em> if there exists a
-  <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>8</crumb></trail> <anchor>1357</anchor>  <taxon>Definition</taxon> <addr>axt-0029</addr>  <route>axt-0029.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Pseudocontinuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <b>pseudocontinuous</b> if there is
-  a specified function giving, for every <tex>x : D</tex>, the mere existence of a
-  <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> satisfying the following
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>735</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-001K</fr:addr><fr:route>axt-001K.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 4.4.1</fr:strong> of <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">de Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">PhD thesis</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> having a specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>
+  is the same thing as <fr:tex>D</fr:tex> being <fr:link
+href="axt-0027.xml"
+type="local"
+addr="axt-0027">structurally continuous</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  By replacing the specified existence here with mere existence, we obtain the
+  notion of a <fr:link
+href="axt-002I.xml"
+type="local"
+addr="axt-002I">continuous <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link>. The terminology for this is
+  unchanged (i.e. is the same as the terminology of <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link>'s
+  <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link>).
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002I</fr:addr><fr:route>axt-002I.xml</fr:route><fr:title>Continuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:em>continuous</fr:em> if there exists a
+  <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>740</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0029</fr:addr><fr:route>axt-0029.xml</fr:route><fr:title>Pseudocontinuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:strong>pseudocontinuous</fr:strong> if there is
+  a specified function giving, for every <fr:tex>x : D</fr:tex>, the mere existence of a
+  <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following
   conditions.
-  <ul>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>9</crumb></trail> <anchor>1358</anchor>  <taxon>Remark</taxon> <addr>axt-0031</addr>  <route>axt-0031.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> being pseudocontinuous is the same thing as it
-  having a specified <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>, but with the specified
-  existence requirement in the notion of <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> relaxed to
+  <fr:ul><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>743</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>axt-0031</fr:addr><fr:route>axt-0031.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> being pseudocontinuous is the same thing as it
+  having a specified <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>, but with the specified
+  existence requirement in the notion of <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> relaxed to
   requirement of mere existence.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>10</crumb></trail> <anchor>1359</anchor>  <taxon>Definition</taxon> <addr>axt-002D</addr>  <route>axt-002D.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> with the further requirement that
-  for every <tex>x : D</tex>, the directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex>  given by the basis satisfies the condition
-  <tex display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</tex></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>11</crumb></trail> <anchor>1360</anchor>  <taxon>Definition</taxon> <addr>axt-002E</addr>  <route>axt-002E.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-002D.xml" type="local" title="Intensional continuous basis for a V-dcpo">intensional continuous basis</link> that is <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>12</crumb></trail> <anchor>1361</anchor>  <taxon>Definition</taxon> <addr>axt-002B</addr>  <route>axt-002B.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraicity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  An <em>algebraicity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link>  <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> that satisfies the following.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)</tex> is compact.</li>  </ol></p></mainmatter> </tree><p>  Similar to the case of a <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link>, we record the
-  terminological identity between a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> being
-  <link href="axt-001C.xml" type="local" title="Structural algebraicity of a dcpo">“structurally algebraic”</link> (the terminology from <link href="tom-de-jong.xml" type="local" title="Tom de Jong">de
-  Jong</link>'s <link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">thesis</link>) and it having a specified
-  <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity datum</link>.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>13</crumb></trail> <anchor>1362</anchor>  <taxon>Proposition</taxon> <addr>axt-002A</addr>  <route>axt-002A.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> having a specified <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity
-  datum</link> is the same thing as <tex>D</tex> being <link href="axt-001C.xml" type="local" title="Structural algebraicity of a dcpo">structurally
-  algebraic</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>14</crumb></trail> <anchor>1363</anchor>  <taxon>Definition</taxon> <addr>axt-001L</addr>  <route>axt-001L.xml</route> <date><year>2023</year> <month>10</month> <day>24</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is called <em>algebraic</em> if there exists an
-  <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>15</crumb></trail> <anchor>1364</anchor>  <taxon>Definition</taxon> <addr>axt-002C</addr>  <route>axt-002C.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> (alternative)</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> and define the type
-  <tex display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf{isCompact} ( c )   \times  c  \sqsubseteq  x}</tex> of
-  compact elements below a given <tex>x : D</tex>. The <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is
-  called <em>algebraic</em> if it satisfies the following conditions.
-  <ul>    <li>For every <tex>x : D</tex>, <tex>K_x</tex> is <tex>\mathcal{V}</tex>-small.</li>    <li>The <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \mathsf{pr} _1 )</tex> is directed with supremum <tex>x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>16</crumb></trail> <anchor>1365</anchor>  <taxon>Definition</taxon> <addr>axt-002F</addr>  <route>axt-002F.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional algebraic basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional
-  basis</link> <tex>(B,  \beta )</tex> satisfying
-  <tex display="block">\forall  b : B. \  \mathsf{isCompact} ( \beta (b) ) .</tex></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>17</crumb></trail> <anchor>1366</anchor>  <taxon>Definition</taxon> <addr>axt-002G</addr>  <route>axt-002G.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional algebraic basis</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is an
-  <link href="axt-002F.xml" type="local" title="Intensional algebraic basis for a V-dcpo">intensional algebraic basis</link> <tex>(B,  \beta )</tex> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1367</anchor>  <taxon>Proposition</taxon> <addr>axt-002A</addr>  <route>axt-002A.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors>  </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> having a specified <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity
-  datum</link> is the same thing as <tex>D</tex> being <link href="axt-001C.xml" type="local" title="Structural algebraicity of a dcpo">structurally
-  algebraic</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1368</anchor>  <taxon>Definition</taxon> <addr>axt-002C</addr>  <route>axt-002C.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> (alternative)</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> and define the type
-  <tex display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf{isCompact} ( c )   \times  c  \sqsubseteq  x}</tex> of
-  compact elements below a given <tex>x : D</tex>. The <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is
-  called <em>algebraic</em> if it satisfies the following conditions.
-  <ul>    <li>For every <tex>x : D</tex>, <tex>K_x</tex> is <tex>\mathcal{V}</tex>-small.</li>    <li>The <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \mathsf{pr} _1 )</tex> is directed with supremum <tex>x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1369</anchor>  <taxon>Definition</taxon> <addr>axt-002B</addr>  <route>axt-002B.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraicity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  An <em>algebraicity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link>  <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> that satisfies the following.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)</tex> is compact.</li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1370</anchor>  <taxon>Definition</taxon> <addr>axt-002H</addr>  <route>axt-002H.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity datum for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <em>continuity datum</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is a function
-  giving, for every <tex>x : D</tex>, a specified <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,
-   \kappa _x)</tex> on <tex>D</tex> satisfying the following conditions.
-  <ol>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1371</anchor>  <taxon>Definition</taxon> <addr>axt-002I</addr>  <route>axt-002I.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <em>continuous</em> if there exists a
-  <link href="axt-002H.xml" type="local" title="Continuity datum for a V-dcpo">continuity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1372</anchor>  <taxon>Definition</taxon> <addr>axt-002G</addr>  <route>axt-002G.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional algebraic basis</em> for a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is an
-  <link href="axt-002F.xml" type="local" title="Intensional algebraic basis for a V-dcpo">intensional algebraic basis</link> <tex>(B,  \beta )</tex> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1373</anchor>  <taxon>Definition</taxon> <addr>axt-002E</addr>  <route>axt-002E.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>extensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-002D.xml" type="local" title="Intensional continuous basis for a V-dcpo">intensional continuous basis</link> that is <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1374</anchor>  <taxon>Definition</taxon> <addr>axt-002F</addr>  <route>axt-002F.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional algebraic basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional algebraic basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional
-  basis</link> <tex>(B,  \beta )</tex> satisfying
-  <tex display="block">\forall  b : B. \  \mathsf{isCompact} ( \beta (b) ) .</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1375</anchor>  <taxon>Definition</taxon> <addr>axt-002D</addr>  <route>axt-002D.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional continuous basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  An <em>intensional continuous basis</em> for a <tex>\mathcal{V}</tex>-dcpo <tex>D</tex> is an
-  <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> with the further requirement that
-  for every <tex>x : D</tex>, the directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex>  given by the basis satisfies the condition
-  <tex display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1376</anchor>  <taxon>Definition</taxon> <addr>axt-0029</addr>  <route>axt-0029.xml</route> <date><year>2023</year> <month>10</month> <day>29</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Pseudocontinuous <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> is called <b>pseudocontinuous</b> if there is
-  a specified function giving, for every <tex>x : D</tex>, the mere existence of a
-  <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(K_x,  \kappa _x)</tex> on <tex>D</tex> satisfying the following
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>746</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002D</fr:addr><fr:route>axt-002D.xml</fr:route><fr:title>Intensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> with the further requirement that
+  for every <fr:tex>x : D</fr:tex>, the directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex>
+  given by the basis satisfies the condition
+  <fr:tex
+display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>749</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002E</fr:addr><fr:route>axt-002E.xml</fr:route><fr:title>Extensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002D.xml"
+type="local"
+addr="axt-002D">intensional continuous basis</fr:link> that is <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>752</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002B</fr:addr><fr:route>axt-002B.xml</fr:route><fr:title>Algebraicity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>algebraicity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link>
+  <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> that satisfies the following.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)</fr:tex> is compact.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Similar to the case of a <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link>, we record the
+  terminological identity between a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> being
+  <fr:link
+href="axt-001C.xml"
+type="local"
+addr="axt-001C">“structurally algebraic”</fr:link> (the terminology from <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">de
+  Jong</fr:link>'s <fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">thesis</fr:link>) and it having a specified
+  <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity datum</fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-002A</fr:addr><fr:route>axt-002A.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> having a specified <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity
+  datum</fr:link> is the same thing as <fr:tex>D</fr:tex> being <fr:link
+href="axt-001C.xml"
+type="local"
+addr="axt-001C">structurally
+  algebraic</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>758</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001L</fr:addr><fr:route>axt-001L.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is called <fr:em>algebraic</fr:em> if there exists an
+  <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> (alternative)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> and define the type
+  <fr:tex
+display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf {isCompact}( c )   \times  c  \sqsubseteq  x}</fr:tex> of
+  compact elements below a given <fr:tex>x : D</fr:tex>. The <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is
+  called <fr:em>algebraic</fr:em> if it satisfies the following conditions.
+  <fr:ul><fr:li>For every <fr:tex>x : D</fr:tex>, <fr:tex>K_x</fr:tex> is <fr:tex>\mathcal {V}</fr:tex>-small.</fr:li>
+    <fr:li>The <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \mathsf {pr}_1 )</fr:tex> is directed with supremum <fr:tex>x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>764</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002F</fr:addr><fr:route>axt-002F.xml</fr:route><fr:title>Intensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional algebraic basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional
+  basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> satisfying
+  <fr:tex
+display="block">\forall  b : B. \  \mathsf {isCompact}( \beta (b) ) .</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>767</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002G</fr:addr><fr:route>axt-002G.xml</fr:route><fr:title>Extensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional algebraic basis</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002F.xml"
+type="local"
+addr="axt-002F">intensional algebraic basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2491</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-002A</fr:addr><fr:route>axt-002A.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> having a specified <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity
+  datum</fr:link> is the same thing as <fr:tex>D</fr:tex> being <fr:link
+href="axt-001C.xml"
+type="local"
+addr="axt-001C">structurally
+  algebraic</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2494</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002C</fr:addr><fr:route>axt-002C.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> (alternative)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> and define the type
+  <fr:tex
+display="block">K_x   \vcentcolon \equiv   \sum _{c : D}{ \mathsf {isCompact}( c )   \times  c  \sqsubseteq  x}</fr:tex> of
+  compact elements below a given <fr:tex>x : D</fr:tex>. The <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is
+  called <fr:em>algebraic</fr:em> if it satisfies the following conditions.
+  <fr:ul><fr:li>For every <fr:tex>x : D</fr:tex>, <fr:tex>K_x</fr:tex> is <fr:tex>\mathcal {V}</fr:tex>-small.</fr:li>
+    <fr:li>The <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \mathsf {pr}_1 )</fr:tex> is directed with supremum <fr:tex>x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2497</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002B</fr:addr><fr:route>axt-002B.xml</fr:route><fr:title>Algebraicity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>algebraicity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link>
+  <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> that satisfies the following.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)</fr:tex> is compact.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2500</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002H</fr:addr><fr:route>axt-002H.xml</fr:route><fr:title>Continuity datum for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>continuity datum</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is a function
+  giving, for every <fr:tex>x : D</fr:tex>, a specified <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,    \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following conditions.
+  <fr:ol><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2503</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002I</fr:addr><fr:route>axt-002I.xml</fr:route><fr:title>Continuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:em>continuous</fr:em> if there exists a
+  <fr:link
+href="axt-002H.xml"
+type="local"
+addr="axt-002H">continuity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2506</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002G</fr:addr><fr:route>axt-002G.xml</fr:route><fr:title>Extensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional algebraic basis</fr:em> for a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002F.xml"
+type="local"
+addr="axt-002F">intensional algebraic basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2509</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002E</fr:addr><fr:route>axt-002E.xml</fr:route><fr:title>Extensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>extensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-002D.xml"
+type="local"
+addr="axt-002D">intensional continuous basis</fr:link> that is <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2512</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002F</fr:addr><fr:route>axt-002F.xml</fr:route><fr:title>Intensional algebraic basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional algebraic basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional
+  basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> satisfying
+  <fr:tex
+display="block">\forall  b : B. \  \mathsf {isCompact}( \beta (b) ) .</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2515</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002D</fr:addr><fr:route>axt-002D.xml</fr:route><fr:title>Intensional continuous basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>intensional continuous basis</fr:em> for a <fr:tex>\mathcal {V}</fr:tex>-dcpo <fr:tex>D</fr:tex> is an
+  <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> with the further requirement that
+  for every <fr:tex>x : D</fr:tex>, the directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex>
+  given by the basis satisfies the condition
+  <fr:tex
+display="block">\forall  k : K_x. \  \beta ( \kappa _x(k))  \ll  x.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2518</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0029</fr:addr><fr:route>axt-0029.xml</fr:route><fr:title>Pseudocontinuous <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>29</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> is called <fr:strong>pseudocontinuous</fr:strong> if there is
+  a specified function giving, for every <fr:tex>x : D</fr:tex>, the mere existence of a
+  <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(K_x,  \kappa _x)</fr:tex> on <fr:tex>D</fr:tex> satisfying the following
   conditions.
-  <ul>    <li>The family <tex>(K_x,  \kappa _x)</tex> is directed.</li>    <li><tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</tex>.</li>    <li>For each <tex>k : K_x</tex>, <tex>\kappa _x(k)  \ll  x</tex>.</li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1377</anchor>  <taxon>Definition</taxon> <addr>axt-0028</addr>  <route>axt-0028.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Extensional basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link>. An <em>intensional basis</em> <tex>(B,  \beta )</tex>  for <tex>D</tex> is called an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">extensional basis</link> if <tex>\beta</tex> is an
-  <link href="axt-0036.xml" type="local" title="Embedding">embedding</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1378</anchor>  <taxon>Definition</taxon> <addr>axt-0026</addr>  <route>axt-0026.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="davorin-lesnik.xml" type="local">Davorin Lešnik</link></author> </authors> <title>Intrinsically open</title> <meta name="source"><b>Defn. 2.4</b> of <link href="lesnik-thesis.xml" type="local" title="Synthetic Topology and Constructive Metric Spaces">[Leš2010]</link></meta></frontmatter> <mainmatter><p>  Let <tex>( \mathcal{E} ,  \Sigma )</tex> be a <link href="axt-0025.xml" type="local" title="Model of synthetic topology">model of synthetic topology</link>.
-  A subobject <tex>U  \hookrightarrow  X</tex> of an object <tex>X</tex> is called
-  <em>intrinsically open</em> if its characteristic map <tex>\chi _{U} : X  \to   \Omega</tex>  factors through the Sierpiński object <tex>\Sigma</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1379</anchor>  <taxon>Definition</taxon> <addr>axt-0025</addr>  <route>axt-0025.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="davorin-lesnik.xml" type="local">Davorin Lešnik</link></author> </authors> <title>Model of synthetic topology</title> <meta name="source"><b>Defn. 2.4</b> of <link href="lesnik-thesis.xml" type="local" title="Synthetic Topology and Constructive Metric Spaces">[Leš2010]</link></meta></frontmatter> <mainmatter><p>  A <em>model of synthetic topology</em> is a topos <tex>\mathcal{E}</tex> with a chosen subobject
-  <tex>\Sigma   \subseteq   \Omega</tex> of the subobject classifier, called the
-  <em>Sierpiński object</em>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1380</anchor>  <taxon>Definition</taxon> <addr>axt-0021</addr>  <route>axt-0021.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title><tex>\mathcal{V}</tex>-dcpo</title> <meta name="source"><b>Defn. 3.2.7</b> of (<link href="tdj-thesis.xml" type="local" title="Domain theory in constructive and predicative univalent foundations">[TdJ]</link>, <link href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941" type="external"><tex>\dagger</tex></link>)</meta></frontmatter> <mainmatter><p>  Let <tex>\mathcal{V}</tex> be a universe. A poset <tex>D</tex> is a <em><tex>\mathcal{V}</tex>-dcpo</em> if the join of
-  of every <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> on set <tex>D</tex> exists in <tex>D</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1381</anchor>  <taxon>Definition</taxon> <addr>axt-0022</addr>  <route>axt-0022.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intensional basis for a <tex>\mathcal{V}</tex>-dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>D</tex> be a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link>. An <em>intensional basis for <tex>D</tex></em> is a
-  <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link> <tex>(B,  \beta )</tex> on <tex>D</tex> satisfying the condition: for every
-  element <tex>x : D</tex>, there is a specified directed <link href="axt-001F.xml" type="local" title="𝓥-Family"><tex>\mathcal{V}</tex>-family</link>  <tex>(I_x,  \iota _x)</tex> on the basis index <tex>B</tex> such that
-  <tex>x =  \bigvee  (I_x,  \beta   \circ   \iota _x).</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1382</anchor>  <taxon>Definition</taxon> <addr>axt-0023</addr>  <route>axt-0023.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Large and locally small locale</title> </frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <em>large and locally small</em> if it is given by
-  a <tex>( \mathcal{U} ^+,  \mathcal{U} ,  \mathcal{U} )</tex>-frame.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1383</anchor>  <taxon>Definition</taxon> <addr>axt-001L</addr>  <route>axt-001L.xml</route> <date><year>2023</year> <month>10</month> <day>24</day></date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Algebraic <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link></title> </frontmatter> <mainmatter><p>  A <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{V}</tex>-dcpo</link> <tex>D</tex> is called <em>algebraic</em> if there exists an
-  <link href="axt-002B.xml" type="local" title="Algebraicity datum for a V-dcpo">algebraicity datum</link> for it.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1384</anchor>  <taxon>Definition</taxon> <addr>axt-0010</addr>  <route>axt-0010.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date> <authors><author>Nicolai Kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>Thorsten Altenkirch</author> </authors> <title>Weakly constant map</title> <meta name="source"><b>Defn 2.13</b> from <link href="keca.xml" type="local" title="Notions of Anonymous Existence in Martin-Löf Type Theory">KECA</link></meta></frontmatter> <mainmatter><p>  A function <tex>f : X  \to  Y</tex> is called <b>weakly constant</b> if
-  <tex>\prod _{x, y : X} f(x) = f(y)</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1385</anchor>  <taxon>Definition</taxon> <addr>axt-0008</addr>  <route>axt-0008.xml</route> <date><year>2023</year> <month>8</month> <day>19</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Frame (type-theoretic)</title> <meta name="source"><b>Defn. 2.4</b> from <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Patch Locale of a Spectral Locale in Univalent Type Theory</link></meta></frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
-  <ol>    <li>a type <tex>|L| :  \mathcal{U}</tex></li>    <li>a partial order <tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal{V} }</tex>,</li>    <li>a top element <tex>\mathbf{1}  : |L|</tex>,</li>    <li>      an operation <tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</tex> giving the greatest lower
-      bound <tex>U  \wedge  V</tex> of any two <tex>U, V : |L|</tex>.
-    </li>    <li>      an operation <tex>\bigvee  - :  \mathsf{Fam} _{ \mathcal{W} }(|L|)  \to  |L|</tex> giving the least upper
-      bound <tex>\bigvee _{i : I} U_i</tex> of any <tex>\mathcal{W}</tex>-family <tex>\left \{  U_i  \right \} _{i : I}</tex>.
-    </li>    <li>      such that binary meets distribute over arbitrary joins, i.e.
-      <tex display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</tex>      for every <tex>U : |L|</tex> and <tex>\mathcal{W}</tex>-family <tex>\{  V_i  \} _{i : I}</tex> in <tex>|L|</tex>.
-    </li>  </ol></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1386</anchor>  <taxon>Reference</taxon> <addr>patch-mfps</addr>  <route>patch-mfps.xml</route> <date><year>2023</year> <month>2</month> </date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Patch Locale of a Spectral Locale in Univalent Type Theory</title> <meta name="bibtex">@inproceedings{patch-mfps,
+  <fr:ul><fr:li>The family <fr:tex>(K_x,  \kappa _x)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>x =  \bigvee ^{ \uparrow }_{k : K_x}  \kappa _x(k)</fr:tex>.</fr:li>
+    <fr:li>For each <fr:tex>k : K_x</fr:tex>, <fr:tex>\kappa _x(k)  \ll  x</fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2521</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0028</fr:addr><fr:route>axt-0028.xml</fr:route><fr:title>Extensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link>. An <fr:em>intensional basis</fr:em> <fr:tex>(B,  \beta )</fr:tex>
+  for <fr:tex>D</fr:tex> is called an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">extensional basis</fr:link> if <fr:tex>\beta</fr:tex> is an
+  <fr:link
+href="axt-0036.xml"
+type="local"
+addr="axt-0036">embedding</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2525</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0026</fr:addr><fr:route>axt-0026.xml</fr:route><fr:title>Intrinsically open</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="davorin-lesnik.xml"
+type="local"
+addr="davorin-lesnik">Davorin Lešnik</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> of <fr:link
+href="lesnik-thesis.xml"
+type="local"
+addr="lesnik-thesis">[Leš2010]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>( \mathcal {E} ,  \Sigma )</fr:tex> be a <fr:link
+href="axt-0025.xml"
+type="local"
+addr="axt-0025">model of synthetic topology</fr:link>.
+  A subobject <fr:tex>U  \hookrightarrow  X</fr:tex> of an object <fr:tex>X</fr:tex> is called
+  <fr:em>intrinsically open</fr:em> if its characteristic map <fr:tex>\chi _{U} : X  \to   \Omega</fr:tex>
+  factors through the Sierpiński object <fr:tex>\Sigma</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2528</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0021</fr:addr><fr:route>axt-0021.xml</fr:route><fr:title><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 3.2.7</fr:strong> of (<fr:link
+href="tdj-thesis.xml"
+type="local"
+addr="tdj-thesis">[TdJ]</fr:link>, <fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/DomainTheory.Basics.Dcpo.html#4941"
+type="external"><fr:tex>\dagger</fr:tex></fr:link>)</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathcal {V}</fr:tex> be a universe. A poset <fr:tex>D</fr:tex> is a <fr:em><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:em> if the join of
+  of every <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> on set <fr:tex>D</fr:tex> exists in <fr:tex>D</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2531</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0022</fr:addr><fr:route>axt-0022.xml</fr:route><fr:title>Intensional basis for a <fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link>. An <fr:em>intensional basis for <fr:tex>D</fr:tex></fr:em> is a
+  <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link> <fr:tex>(B,  \beta )</fr:tex> on <fr:tex>D</fr:tex> satisfying the condition: for every
+  element <fr:tex>x : D</fr:tex>, there is a specified directed <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F"><fr:tex>\mathcal {V}</fr:tex>-family</fr:link>
+  <fr:tex>(I_x,  \iota _x)</fr:tex> on the basis index <fr:tex>B</fr:tex> such that
+  <fr:tex>x =  \bigvee  (I_x,  \beta   \circ   \iota _x).</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2535</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0023</fr:addr><fr:route>axt-0023.xml</fr:route><fr:title>Large and locally small locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A locale <fr:tex>X</fr:tex> is called <fr:em>large and locally small</fr:em> if it is given by
+  a <fr:tex>( \mathcal {U} ^+,  \mathcal {U} ,  \mathcal {U} )</fr:tex>-frame.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2538</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001L</fr:addr><fr:route>axt-001L.xml</fr:route><fr:title>Algebraic <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {V}</fr:tex>-dcpo</fr:link> <fr:tex>D</fr:tex> is called <fr:em>algebraic</fr:em> if there exists an
+  <fr:link
+href="axt-002B.xml"
+type="local"
+addr="axt-002B">algebraicity datum</fr:link> for it.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2541</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0010</fr:addr><fr:route>axt-0010.xml</fr:route><fr:title>Weakly constant map</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Nicolai Kraus</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author>Thorsten Altenkirch</fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.13</fr:strong> from <fr:link
+href="keca"
+type="external">KECA</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A function <fr:tex>f : X  \to  Y</fr:tex> is called <fr:strong>weakly constant</fr:strong> if
+  <fr:tex>\prod _{x, y : X} f(x) = f(y)</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2546</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-small-types</fr:addr><fr:route>tdj-mhe-small-types.xml</fr:route><fr:title>On Small Types in Univalent Foundations</fr:title><fr:date><fr:year>2023</fr:year><fr:month>5</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">@article{tdj-mhe-small-types,
+  title   = {{On Small Types in Univalent Foundations}},
+  author  = {Tom de Jong and Martín Hötzel Escardó},
+  date    = {2023-05},
+  url     = {https://lmcs.episciences.org/11270},
+  doi     = {10.46298/lmcs-19(2:8)2023},
+  journal = {{Logical Methods in Computer Science}},
+  volume  = {{Volume 19, Issue 2}},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2549</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0008</fr:addr><fr:route>axt-0008.xml</fr:route><fr:title>Frame (type-theoretic)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> from <fr:link
+href="patch-mfps.xml"
+type="local"
+addr="patch-mfps">Patch MFPS</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-frame <fr:tex>L</fr:tex> consists of a
+  <fr:ol><fr:li>a type <fr:tex>|L| :  \mathcal {U}</fr:tex></fr:li>
+    <fr:li>a partial order <fr:tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal {V} }</fr:tex>,</fr:li>
+    <fr:li>a top element <fr:tex>\mathbf {1}  : |L|</fr:tex>,</fr:li>
+    <fr:li>
+      an operation <fr:tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</fr:tex> giving the greatest lower
+      bound <fr:tex>U  \wedge  V</fr:tex> of any two <fr:tex>U, V : |L|</fr:tex>.
+    </fr:li>
+    <fr:li>
+      an operation <fr:tex>\bigvee  - :  \mathsf {Fam} _{ \mathcal {W} }(|L|)  \to  |L|</fr:tex> giving the least upper
+      bound <fr:tex>\bigvee _{i : I} U_i</fr:tex> of any <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\left \{  U_i  \right \} _{i : I}</fr:tex>.
+    </fr:li>
+    <fr:li>
+      such that binary meets distribute over arbitrary joins, i.e.
+      <fr:tex
+display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</fr:tex>
+      for every <fr:tex>U : |L|</fr:tex> and <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\{  V_i  \} _{i : I}</fr:tex> in <fr:tex>|L|</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2552</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-mfps</fr:addr><fr:route>patch-mfps.xml</fr:route><fr:title>Patch Locale of a Spectral Locale in Univalent Type Theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{patch-mfps,
   title     = {{Patch Locale of a Spectral Locale in Univalent Type Theory}},
   author    = {Ayberk Tosun and Mart\'in H. Escard\'o},
   url       = {https://entics.episciences.org/10808},
@@ -206,8 +1770,22 @@
   volume    = {1},
   booktitle = {Proceedings of MFPS XXXVIII},
   date      = {2023-02}
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1387</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2555</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{tdj-mhe-dt,
   title        = {
                    Domain Theory in Constructive and Predicative Univalent
                    Foundations
@@ -221,15 +1799,29 @@
   editor       = {Christel Baier and Jean Goubault-Larrecq},
   volume       = {183},
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f{\&quot;u}r Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f{\"u}r Informatik},
   pages        = {28:1--28:18},
   doi          = {10.4230/LIPIcs.CSL.2021.28},
   addendum     = {
                    Expanded version with full proofs available on arXiv:
                    \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
                  },
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1388</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2558</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@InProceedings{tdj-mhe-aspects,
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
   author       = {de Jong, Tom and Escardó, Martín H.},
   date         = {2021},
@@ -238,15 +1830,29 @@
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
   volume       = 195,
   editor       = {Kobayashi, Naoki},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1389</anchor>   <addr>keca</addr>  <route>keca.xml</route> <date><year>2017</year>  </date> <authors><author>nicolai-kraus</author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="thierry-coquand.xml" type="local">Thierry Coquand</link></author><author>thorsten-altenkirch</author> </authors> <title>Notions of Anonymous Existence in Martin-Löf Type Theory</title> <meta name="bibtex">@article{keca,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2561</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author>thorsten-altenkirch</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{keca,
   author       = {Nicolai Kraus and
                   Mart{\'{\i}}n Escard{\'{o}} and
                   Thierry Coquand and
                   Thorsten Altenkirch},
-  title        = {Notions of Anonymous Existence in Martin-L{\&quot;{o}}f Type Theory},
+  title        = {Notions of Anonymous Existence in Martin-L{\"{o}}f Type Theory},
   journal      = {Logical Methods in Computer Science},
   volume       = {13},
   number       = {1},
@@ -254,8 +1860,36 @@
   url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
   doi          = {10.23638/LMCS-13(1:15)2017},
   biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1390</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@inproceedings{mhe-effectful-forcing,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2566</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-mgs2007-slides</fr:addr><fr:route>mhe-mgs2007-slides.xml</fr:route><fr:title>Domain theory and denotational semantics of functional programming</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@misc{mhe-mgs2007-slides,
+  author    = {Escard\'{o}, Mart\'{i}n H.},
+  title     = {Domain theory and denotational semantics of functional programming},
+  date      = {2007-04-20},
+  note      = {Lecture slides at Midlands Graduate School 2007},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2568</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-effectful-forcing</fr:addr><fr:route>mhe-effectful-forcing.xml</fr:route><fr:title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{mhe-effectful-forcing,
   title        = {Continuity of Gödel's System T Definable Functionals via
                   Effectful Forcing},
   author       = {Escardó, Martín H.},
@@ -268,8 +1902,43 @@
   pages        = {119-141},
   note         = {Proceedings of the Twenty-ninth Conference on the Mathematical
                   Foundations of Programming Semantics, MFPS XXIX},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1391</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{barbados-notes,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2570</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>lawson-computability</fr:addr><fr:route>lawson-computability.xml</fr:route><fr:title>On the computational content of the Lawson topology</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Frédéric de Jaeger</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author>Gabriele Santini</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{lawson-computability,
+  title     = {On the computational content of the Lawson topology},
+  author    = {{De Jaeger}, Frédéric and Escardó, Martín H. and Santini, Gabriele},
+  date      = {2006},
+  journal   = {Theoretical Computer Science},
+  volume    = {357},
+  number    = {1},
+  pages     = {230-240},
+  note      = {Clifford Lectures and the Mathematical Foundations of Programming Semantics},
+  issn      = {0304-3975},
+  doi       = {https://doi.org/10.1016/j.tcs.2006.03.021},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0304397506002738},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2574</fr:anchor><fr:addr>barbados-notes</fr:addr><fr:route>barbados-notes.xml</fr:route><fr:title>Synthetic Topology: of Data Types and Classical Spaces</fr:title><fr:date><fr:year>2004</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{barbados-notes,
   title        = {Synthetic Topology: of Data Types and Classical Spaces},
   author       = {Escardó, Martín H.},
   year         = {2004},
@@ -280,8 +1949,19 @@
                  Probabilistic Processes},
   issn         = {1571-0661},
   doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1392</anchor>  <taxon>Reference</taxon> <addr>patch-full</addr>  <route>patch-full.xml</route> <date><year>2001</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The regular-locally compact coreflection of a stably locally compact locale</title> <meta name="bibtex">@article{mhe-patch-full,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2576</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-full</fr:addr><fr:route>patch-full.xml</fr:route><fr:title>The regular-locally compact coreflection of a stably locally compact locale</fr:title><fr:date><fr:year>2001</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{mhe-patch-full,
   title        = {The regular-locally compact coreflection of a stably locally
 	                compact locale},
   author       = {Escardó, Martín H.},
@@ -291,8 +1971,20 @@
   pages        = {41--55},
   volume       = {157},
   number       = {1},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1393</anchor>  <taxon>Reference</taxon> <addr>mhe-pcf-extended</addr>  <route>mhe-pcf-extended.xml</route> <date><year>1996</year> <month>8</month> </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>PCF extended with real numbers</title> <meta name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</meta><meta name="bibtex">@article{mhe-pcf-extended,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2578</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-pcf-extended</fr:addr><fr:route>mhe-pcf-extended.xml</fr:route><fr:title>PCF extended with real numbers</fr:title><fr:date><fr:year>1996</fr:year><fr:month>8</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://www.cs.bham.ac.uk/~mhe/papers/realpcf.pdf</fr:meta><fr:meta
+name="bibtex">%
+@article{mhe-pcf-extended,
   title       = {PCF extended with real numbers},
   author      = {Escardó, Martín H.},
   year        = {1996},
@@ -302,13 +1994,274 @@
   pages       = {79-115},
   publisher   = {Elsevier B.V},
   volume      = {162},
-}
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1394</anchor>  <taxon>Axiom</taxon> <addr>axt-004G</addr>  <route>axt-004G.xml</route> <date><year>2023</year> <month>12</month> <day>12</day></date>  <title>Principle of linearity</title> <meta name="source">Personal communication with <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín H. Escardó</link></meta></frontmatter> <mainmatter><p>  The <b>principle of linearity</b> says that, for any two propositions
-  <tex>P</tex> and <tex>Q</tex>, either <tex>P</tex> implies <tex>Q</tex> or <tex>Q</tex> implies P.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1395</anchor>  <taxon>Proposition</taxon> <addr>axt-0041</addr>  <route>axt-0041.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date>   <meta name="source">Personal communication with <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín H. Escardó</link></meta></frontmatter> <mainmatter><p>  Given a set <tex>X</tex>, the following are equivalent:
-  <ul>    <li><tex>\mathcal{P} ( X )</tex> is a <link href="axt-0024.xml" type="local" title="Spectral locale">spectral frame</link>.</li>    <li><tex>X</tex> is <link href="axt-0042.xml" type="local" title="Kuratowski finiteness">Kuratowski-finite</link> and has decidable equality.</li>    <li><tex>X</tex> is Bishop-finite.</li>    <li><tex>\mathcal{P} ( X )</tex> is a Stone frame.</li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1396</anchor>   <addr>axt-0003</addr>  <route>axt-0003.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intuition on the notion of a domain</title> </frontmatter> <mainmatter><p>  In the words of <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín Escardó</link>: A <em>domain</em> is a set of
-  concrete finite elements together with infinite, ideal elements such that the
-  ideal elements are characterised uniquely by their finite approximations.
-</p><p>  There are different ways of capturing this mathematically, to varying degrees of
-  precision. These include <link href="axt-001T.xml" type="local" title="Continuous dcpo">continuous</link> and <link href="axt-001S.xml" type="local" title="Algebraic dcpo">algebraic</link> dcpos.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2580</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0025</fr:addr><fr:route>axt-0025.xml</fr:route><fr:title>Model of synthetic topology</fr:title><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="davorin-lesnik.xml"
+type="local"
+addr="davorin-lesnik">Davorin Lešnik</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-10-28</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> of <fr:link
+href="lesnik-thesis.xml"
+type="local"
+addr="lesnik-thesis">[Leš2010]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>model of synthetic topology</fr:em> is a topos <fr:tex>\mathcal {E}</fr:tex> with a chosen subobject
+  <fr:tex>\Sigma   \subseteq   \Omega</fr:tex> of the subobject classifier, called the
+  <fr:em>Sierpiński object</fr:em>.
+</fr:p></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2426</fr:anchor><fr:taxon>Institution</fr:taxon><fr:addr>uni-of-birmingham</fr:addr><fr:route>uni-of-birmingham.xml</fr:route><fr:title>University of Birmingham</fr:title><fr:meta
+name="external">https://www.birmingham.ac.uk/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2418</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all types in the first universe gives a type in the first
+  universe.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2419</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all sets of a given type gives a set of the next type.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2420</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0065</fr:addr><fr:route>axt-0065.xml</fr:route><fr:title>Zoo of notions of (im)predicativity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors><fr:meta
+name="source">notes from a talk by <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Escardó</fr:link>, with some additions by <fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>239</fr:anchor><fr:addr>axt-005Z</fr:addr><fr:route>axt-005Z.xml</fr:route><fr:title>Predicativity in the sense of Russell's ramified type theory</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all sets of a given type gives a set of the next type.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr>axt-0067</fr:addr><fr:route>axt-0067.xml</fr:route><fr:title>Impredicativity in the sense of Russell’s Reducibility Axiom</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source">pp. 241 of <fr:link
+href="br-logic-based-on-tt.xml"
+type="local"
+addr="br-logic-based-on-tt">Mathematical Logic based on the Theory of Types</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>Axiom of Reducibility</fr:strong> states that any truth function
+  (i.e. propositional function) can be expressed by a formally equivalent
+  <fr:em>predicative</fr:em> truth function.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This is where the term “predicative” originates from as it says propositional
+  functions can be reduced to predicates.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>axt-005Y</fr:addr><fr:route>axt-005Y.xml</fr:route><fr:title>Impredicativity in the sense of System F</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:meta
+name="source"><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link>'s lab lunch talk</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over all types in the first universe gives a type in the first
+  universe.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This form of impredicativity is also present in the Calculus of Constructions
+  and the Calculus of Inductive Constructions.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>axt-0060</fr:addr><fr:route>axt-0060.xml</fr:route><fr:title>Impredicativity in the sense of topos logic</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Forming powersets <fr:em>is</fr:em> allowed.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>axt-0061</fr:addr><fr:route>axt-0061.xml</fr:route><fr:title>Predicativity in the sense of Aczel's CZF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Forming powersets <fr:em>is not</fr:em> allowed.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>axt-0062</fr:addr><fr:route>axt-0062.xml</fr:route><fr:title>Predicativity in the sense of MLTT</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Quantification over the types in one universe gives a type in the next
+  universe.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This is similar to <fr:link
+href="axt-005Z.xml"
+type="local"
+addr="axt-005Z"><fr:code>axt-005Z</fr:code></fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>axt-0066</fr:addr><fr:route>axt-0066.xml</fr:route><fr:title>Predicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  This is the same as <fr:link
+href="axt-0062.xml"
+type="local"
+addr="axt-0062"><fr:code>axt-0062</fr:code></fr:link> since HoTT/UF is a system
+  extending a particular MLTT with univalence and so-called higher-inductive
+  types.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>axt-0063</fr:addr><fr:route>axt-0063.xml</fr:route><fr:title>Impredicativity in the sense of HoTT/UF</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Voevodsky’s <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">propositional resizing axiom</fr:link> is assumed. There are
+  several forms of this axiom of varying strengths but they are all variations
+  of the statement that propositional types quantifying over other types are
+  small.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  This seems to be somewhat similar to <fr:link
+href="axt-0067.xml"
+type="local"
+addr="axt-0067"><fr:code>axt-0067</fr:code></fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>axt-0064</fr:addr><fr:route>axt-0064.xml</fr:route><fr:title>Predicativity in the sense of Feferman</fr:title><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Any theory that has the strength of the Feferman-Schütte ordinal or above is
+  deemed to be impredicative.
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2423</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-004G</fr:addr><fr:route>axt-004G.xml</fr:route><fr:title>Principle of linearity</fr:title><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:meta
+name="source">Personal communication with <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>principle of linearity</fr:strong> says that, for any two propositions
+  <fr:tex>P</fr:tex> and <fr:tex>Q</fr:tex>, either <fr:tex>P</fr:tex> implies <fr:tex>Q</fr:tex> or <fr:tex>Q</fr:tex> implies P.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2424</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-0041</fr:addr><fr:route>axt-0041.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:meta
+name="source">Personal communication with <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a set <fr:tex>X</fr:tex>, the following are equivalent:
+  <fr:ul><fr:li><fr:tex>\mathcal {P}( X )</fr:tex> is a <fr:link
+href="axt-0024.xml"
+type="local"
+addr="axt-0024">spectral frame</fr:link>.</fr:li>
+    <fr:li><fr:tex>X</fr:tex> is <fr:link
+href="axt-0042.xml"
+type="local"
+addr="axt-0042">Kuratowski-finite</fr:link> and has decidable equality.</fr:li>
+    <fr:li><fr:tex>X</fr:tex> is Bishop-finite.</fr:li>
+    <fr:li><fr:tex>\mathcal {P}( X )</fr:tex> is a Stone frame.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2425</fr:anchor><fr:addr>axt-0003</fr:addr><fr:route>axt-0003.xml</fr:route><fr:title>Intuition on the notion of a domain</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Slide 10</fr:strong> of <fr:link
+href="mhe-mgs2007-slides.xml"
+type="local"
+addr="mhe-mgs2007-slides">Domain Theory MGS 2007</fr:link></fr:meta><fr:meta
+name="date-added">2023-08-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  In the words of <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín Escardó</fr:link>:
+
+</fr:p><fr:blockquote><fr:p>
+    A <fr:em>domain</fr:em> is a set of concrete finite elements together with infinite,
+    ideal elements such that the ideal elements are characterized uniquely by
+    their finite approximations.
+  </fr:p></fr:blockquote><fr:p>
+  There are different ways of capturing this mathematically, to varying
+  degrees of precision. These include <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous</fr:link> and
+  <fr:link
+href="axt-001S.xml"
+type="local"
+addr="axt-001S">algebraic</fr:link> dcpos.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

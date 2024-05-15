@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1939</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>hofmann-ssdt</fr:addr><fr:route>hofmann-ssdt.xml</fr:route><fr:title>Syntax and Semantics of Dependent Types</fr:title><fr:date><fr:year>1997</fr:year></fr:date><fr:authors><fr:author>martin-hofmann</fr:author></fr:authors><fr:meta
+name="bibtex">@inbook{hofmann-ssdt,
+  author    = {Hofmann, Martin},
+  title     = {Syntax and semantics of dependent types},
+  booktitle = {Extensional Constructs in Intensional Type Theory},
+  year      = {1997},
+  publisher = {Springer London},
+  address   = {London},
+  pages     = {13--54},
+  isbn      = {978-1-4471-0963-1},
+  doi       = {10.1007/978-1-4471-0963-1_2},
+  url       = {https://doi.org/10.1007/978-1-4471-0963-1_2},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1938</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005N</fr:addr><fr:route>axt-005N.xml</fr:route><fr:title>Category of families</fr:title><fr:meta
+name="date-added">2024-04-17</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 3.1</fr:strong> of <fr:link
+href="hofmann-ssdt.xml"
+type="local"
+addr="hofmann-ssdt">Hofmann</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>category <fr:tex>\mathsf {Fam}</fr:tex> of families</fr:strong> is defined by the following data.
+  <fr:ul><fr:li>Its objects are families of sets <fr:tex>(A_i)_{i  \in  I}</fr:tex>.</fr:li>
+    <fr:li>
+      Given two families of sets <fr:tex>(A_i)_{i  \in  I}</fr:tex> and <fr:tex>(B_j)_{j  \in  J}</fr:tex>,
+      a morphism from <fr:tex>(A_i)_{i  \in  I}</fr:tex> to <fr:tex>(B_j)_{j  \in  J}</fr:tex> is a pair
+      <fr:tex>(f,  \vartheta )</fr:tex> where
+      <fr:ul><fr:li><fr:tex>f</fr:tex> is a function <fr:tex>f : I  \to  J</fr:tex>, and</fr:li>
+        <fr:li><fr:tex>\vartheta</fr:tex> is an <fr:tex>I</fr:tex>-indexed family of functions
+          <fr:tex
+display="block">(  \vartheta _i : A_i  \to  B_{f(j)} )_{i  \in  I}.</fr:tex></fr:li></fr:ul></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

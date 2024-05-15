@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1007</anchor>  <taxon>Axiom</taxon> <addr>axt-003A</addr>  <route>axt-003A.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Alternative formulation of Zorn’s Lemma</title> <meta name="source"><tex>(ZL)''</tex> from <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Every <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1008</anchor>  <taxon>Definition</taxon> <addr>axt-003B</addr>  <route>axt-003B.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo</title> <meta name="source"><b>Defn. 8.1</b> of <link href="foo" type="external">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  A <b>pointed dcpo</b> is a <link href="axt-003C.xml" type="local" title="Directed-complete partial order">dcpo</link> that has a bottom element
-  <tex>\bot   \in  D</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1009</anchor>  <taxon>Definition</taxon> <addr>axt-0039</addr>  <route>axt-0039.xml</route> <date><year>2023</year> <month>11</month> <day>3</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Maximal element</title> <meta name="source"><b>Paragraph 1.23</b> of Davey and Priestley</meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be an ordered set, and <tex>Q  \subseteq  P</tex> a subset. An element <tex>a  \in   Q</tex> is called a <b>maximal element</b> of <tex>Q</tex> if it satisfies
-  <tex display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1010</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>653</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>645</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0039</fr:addr><fr:route>axt-0039.xml</fr:route><fr:title>Maximal element</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Paragraph 1.23</fr:strong> of Davey and Priestley</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be an ordered set, and <fr:tex>Q  \subseteq  P</fr:tex> a subset. An element <fr:tex>a  \in    Q</fr:tex> is called a <fr:strong>maximal element</fr:strong> of <fr:tex>Q</fr:tex> if it satisfies
+  <fr:tex
+display="block">\forall  x  \in  X. \  a  \le  x  \rightarrow  x = a.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>648</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{davey-priestley-book,
   title        = {Introduction to Lattices and Order},
   date         = {2002},
   place        = {Cambridge CB2 8BS, UK},
@@ -13,15 +63,92 @@
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1011</anchor>  <taxon>Theorem</taxon> <addr>axt-003E</addr>  <route>axt-003E.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title><tex>\mathsf{(AC)}</tex> implies <tex>\mathsf{(ZL)''}</tex></title> </frontmatter> <mainmatter><p>  If <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link> holds then <link href="axt-003A.xml" type="local" title="Alternative formulation of Zorn’s Lemma"><tex>\mathsf{(ZL)''}</tex></link> holds.
-</p>      <block open="open"><headline><b>Proof</b>.</headline> <p>  Assume that <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link> holds and let <tex>(D,  \sqsubseteq )</tex> be a
-  <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link>. Suppose that every element of <tex>D</tex> fails to be
-  maximal. This is to say that for every <tex>x  \in  D</tex>, the set
-  <tex>\{  y  \in  D  \mid  x &lt; y  \}</tex> is nonempty.
-</p><p>  This means that the family <tex>\{   \{  y  \in  D  \mid  y&gt; x  \}   \} _{x  \in  D}</tex>  is nonempty. By <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link>, there exists a choice function
-  <tex>F : D  \to  D</tex>. This function is clearly inflationary by construction.
-</p><p>  By the <link href="axt-003F.xml" type="local" title="Pointed dcpo fixed point theorem III">Pointed Dcpo Fixed Point Theorem II</link>, <tex>F</tex> must have a least
-  fixed point <tex>\mu ( F )</tex> satisfying <tex>F( \mu ( F ) ) =  \mu ( F )</tex>. This contradicts
-  the fact that <tex>x &lt; F(x)</tex> for every <tex>x  \in  D</tex>.
-</p></block>  </mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>651</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-06</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 8.1</fr:strong> of <fr:link
+href="foo"
+type="external">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>pointed dcpo</fr:strong> is a <fr:link
+href="axt-003C.xml"
+type="local"
+addr="axt-003C">dcpo</fr:link> that has a bottom element
+  <fr:tex>\bot   \in  D</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>642</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003E</fr:addr><fr:route>axt-003E.xml</fr:route><fr:title><fr:tex>\mathsf {(AC)}</fr:tex> implies <fr:tex>\mathsf {(ZL)''}</fr:tex></fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link> holds then <fr:link
+href="axt-003A.xml"
+type="local"
+addr="axt-003A"><fr:tex>\mathsf {(ZL)''}</fr:tex></fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>636</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:parent>axt-003E</fr:parent></fr:frontmatter><fr:mainmatter>
+<fr:p>
+  Assume that <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link> holds and let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a
+  <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link>. Suppose that every element of <fr:tex>D</fr:tex> fails to be
+  maximal. This is to say that for every <fr:tex>x  \in  D</fr:tex>, the set
+  <fr:tex>\{  y  \in  D  \mid  x &lt; y  \}</fr:tex> is nonempty.
+</fr:p>
+<fr:p>
+  This means that the family <fr:tex>\{   \{  y  \in  D  \mid  y&gt; x  \}   \} _{x  \in  D}</fr:tex>
+  is nonempty. By <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link>, there exists a choice function
+  <fr:tex>F : D  \to  D</fr:tex>. This function is clearly inflationary by construction.
+</fr:p>
+<fr:p>
+  By the <fr:link
+href="axt-003F.xml"
+type="local"
+addr="axt-003F">Pointed Dcpo Fixed Point Theorem II</fr:link>, <fr:tex>F</fr:tex> must have a least
+  fixed point <fr:tex>\mu ( F )</fr:tex> satisfying <fr:tex>F( \mu ( F ) ) =  \mu ( F )</fr:tex>. This contradicts
+  the fact that <fr:tex>x &lt; F(x)</fr:tex> for every <fr:tex>x  \in  D</fr:tex>.
+</fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

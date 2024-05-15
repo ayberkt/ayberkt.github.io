@@ -1,12 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>516</anchor>  <taxon>Definition</taxon> <addr>axt-0024</addr>  <route>axt-0024.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Spectral locale</title> <meta name="source"><b>II.3.2</b> from <link href="ptj-stone-spaces.xml" type="local" title="Stone Spaces">Stone Spaces</link></meta></frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <b>spectral</b> if it satisfies the following two
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2683</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:title>Spectral locale</fr:title><fr:meta
+name="date-added">2023-10-26</fr:meta><fr:meta
+name="source"><fr:strong>II.3.2</fr:strong> from <fr:link
+href="ptj-stone-spaces.xml"
+type="local"
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A locale <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong> if it satisfies the following two
   conditions.
-  <ol>    <li>      Every open of <tex>X</tex> is expressible as a join of compact opens of <tex>X</tex>.
-    </li>    <li>      The set of compact elements of <tex>X</tex> forms a sub-meet-semilattice of
-      the frame <tex>\mathcal{O} ( X )</tex>.
-    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>517</anchor>  <taxon>Proposition</taxon> <addr>axt-0041</addr>  <route>axt-0041.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date>   <meta name="source">Personal communication with <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín H. Escardó</link></meta></frontmatter> <mainmatter><p>  Given a set <tex>X</tex>, the following are equivalent:
-  <ul>    <li><tex>\mathcal{P} ( X )</tex> is a <link href="axt-0024.xml" type="local" title="Spectral locale">spectral frame</link>.</li>    <li><tex>X</tex> is <link href="axt-0042.xml" type="local" title="Kuratowski finiteness">Kuratowski-finite</link> and has decidable equality.</li>    <li><tex>X</tex> is Bishop-finite.</li>    <li><tex>\mathcal{P} ( X )</tex> is a Stone frame.</li>  </ul></p></mainmatter> </tree></backlinks> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>518</anchor>  <taxon>Reference</taxon> <addr>ptj-stone-spaces</addr>  <route>ptj-stone-spaces.xml</route> <date><year>2002</year>  </date> <authors><author><link href="peter-johnstone.xml" type="local">Peter T. Johnstone</link></author> </authors> <title>Stone Spaces</title> <meta name="bibtex">@book{ptj-stone-spaces,
+  <fr:ol><fr:li>
+      Every open of <fr:tex>X</fr:tex> is expressible as a join of <fr:link
+href="axt-005P.xml"
+type="local"
+addr="axt-005P">compact opens</fr:link> of <fr:tex>X</fr:tex>.
+    </fr:li>
+    <fr:li>
+      The set of <fr:link
+href="axt-005P.xml"
+type="local"
+addr="axt-005P">compact opens</fr:link> of <fr:tex>X</fr:tex> forms a sub-meet-semilattice of
+      the frame <fr:tex>\mathcal {O}( X )</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2682</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005P</fr:addr><fr:route>axt-005P.xml</fr:route><fr:title>Compact open of a locale</fr:title><fr:meta
+name="date-added">2024-04-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> of a locale <fr:tex>X</fr:tex> is said to be <fr:strong>compact</fr:strong>
+  if
+  <fr:tex
+display="block">U  \le   \bigvee  S  \rightarrow   \exists  V  \in  S. \  U  \le  V</fr:tex>
+  for every directed set <fr:tex>S  \subseteq  L</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2681</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-0041</fr:addr><fr:route>axt-0041.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:meta
+name="source">Personal communication with <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a set <fr:tex>X</fr:tex>, the following are equivalent:
+  <fr:ul><fr:li><fr:tex>\mathcal {P}( X )</fr:tex> is a <fr:link
+href="axt-0024.xml"
+type="local"
+addr="axt-0024">spectral frame</fr:link>.</fr:li>
+    <fr:li><fr:tex>X</fr:tex> is <fr:link
+href="axt-0042.xml"
+type="local"
+addr="axt-0042">Kuratowski-finite</fr:link> and has decidable equality.</fr:li>
+    <fr:li><fr:tex>X</fr:tex> is Bishop-finite.</fr:li>
+    <fr:li><fr:tex>\mathcal {P}( X )</fr:tex> is a Stone frame.</fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2679</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="peter-johnstone.xml"
+type="local"
+addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{ptj-stone-spaces,
   title        = {Stone Spaces},
   author       = ptj,
   date         = {2002},
@@ -15,5 +84,4 @@
   location     = {{Cambridge}},
   isbn         = {978-0-521-33779-3},
   langid       = {english}
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

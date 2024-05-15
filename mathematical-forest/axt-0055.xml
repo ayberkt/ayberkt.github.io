@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2224</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0055</fr:addr><fr:route>axt-0055.xml</fr:route><fr:title>Closed nucleus</fr:title><fr:authors><fr:author><fr:link
+href="peter-johnstone.xml"
+type="local"
+addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-07</fr:meta><fr:meta
+name="source">II.2.4.(a) of <fr:link
+href="ptj-stone-spaces.xml"
+type="local"
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a frame and <fr:tex>x : L</fr:tex> an element of it. The
+  <fr:strong>closed nucleus</fr:strong> on <fr:tex>x</fr:tex> is the nucleus defined by
+  <fr:tex
+display="block">\mathbf {c}( x )   \vcentcolon \equiv  x  \vee  ( { \text {-}} ).</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2221</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0054</fr:addr><fr:route>axt-0054.xml</fr:route><fr:title><fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> implies <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N">propositional resizing</fr:link></fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Theorem 52</fr:strong> of <fr:link
+href="tdj-mhe-aspects.xml"
+type="local"
+addr="tdj-mhe-aspects">de Jong and Escardó</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds (for <fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos)
+  then <fr:link
+href="axt-003N.xml"
+type="local"
+addr="axt-003N"><fr:tex>( \mathcal {U} ,  \mathcal {V} )</fr:tex>-propositional resizing</fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:parent>axt-0054</fr:parent></fr:frontmatter><fr:mainmatter>
+  Suppose <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link> holds for <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>( \mathcal {U} \sqcup \mathcal {V} ^+,  \mathcal {V} ,  \mathcal {V} )</fr:tex>-dcpos</fr:link>
+  and let <fr:tex>P :  \Omega _{ \mathcal {U} }</fr:tex>. Consider the lifting dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. By
+  Lemma 45, it suffices to show that <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex> has a maximal element
+  <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>. By <fr:link
+href="axt-0053.xml"
+type="local"
+addr="axt-0053">Pataraia's Lemma</fr:link>, there must be a greatest monotone
+  inflationary endofunction <fr:tex
+display="block">g :  \mathcal {L}_{ \mathcal {V} }( P )   \to   \mathcal {L}_{ \mathcal {V} }( P )</fr:tex> for
+  the dcpo <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. One can then show that <fr:tex>g(0) :  \Omega _{ \mathcal {V} }</fr:tex> is
+  a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link> of <fr:tex>\mathcal {L}_{ \mathcal {V} }( P )</fr:tex>. Let <fr:tex>Q :  \Omega _{ \mathcal {V} }</fr:tex>
+  with <fr:tex>g(0)  \sqsubseteq  Q</fr:tex>. We have to show <fr:tex>Q  \sqsubseteq  g(0)</fr:tex> to conclude
+  that <fr:tex>g(0)</fr:tex> is a maximal element. Consider the <fr:link
+href="axt-0055.xml"
+type="local"
+addr="axt-0055">closed nucleus</fr:link>
+  <fr:tex>\mathbf {c}( Q )</fr:tex>, which must satisfy <fr:tex>\mathbf {c}( Q )   \sqsubseteq  g</fr:tex>
+  since <fr:tex>g</fr:tex> is the greatest element of the poset of monotone and inflationary
+  endofunctions. We therefore have <fr:tex>Q =  \mathbf {c}( 0 )   \sqsubseteq  g(0)</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2219</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ptj-stone-spaces</fr:addr><fr:route>ptj-stone-spaces.xml</fr:route><fr:title>Stone Spaces</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="peter-johnstone.xml"
+type="local"
+addr="peter-johnstone">Peter T. Johnstone</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{ptj-stone-spaces,
+  title        = {Stone Spaces},
+  author       = ptj,
+  date         = {2002},
+  series       = {Cambridge Studies in Advanced Mathematics},
+  publisher    = cup,
+  location     = {{Cambridge}},
+  isbn         = {978-0-521-33779-3},
+  langid       = {english}
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

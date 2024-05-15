@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>258</anchor>  <taxon>Definition</taxon> <addr>axt-0013</addr>  <route>axt-0013.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date>  <title>Split support</title> </frontmatter> <mainmatter><p>  A type <tex>X</tex> is said to <em>have split support</em> if <tex>|| X ||  \to  X.</tex></p><p>  Given in Definition 3.9 of the <link href="TODO" type="external">KECA paper</link>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1784</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0013</fr:addr><fr:route>axt-0013.xml</fr:route><fr:title>Split support</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:meta
+name="date-added">2023-09-18</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 3.9</fr:strong> of <fr:link
+href="keca-anonymous.xml"
+type="local"
+addr="keca-anonymous">KECA</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A type <fr:tex>X</fr:tex> is said to <fr:em>have split support</fr:em> if <fr:tex>|| X ||  \to  X.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1779</fr:anchor><fr:addr>keca-anonymous</fr:addr><fr:route>keca-anonymous.xml</fr:route><fr:title>Notions of Anonymous Existence in Martin-Löf Type Theory</fr:title><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>nicolai-kraus</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="thierry-coquand.xml"
+type="local"
+addr="thierry-coquand">Thierry Coquand</fr:link></fr:author><fr:author>thorsten-altenkirch</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{keca,
+  author       = {Nicolai Kraus and
+                  Mart{\'{\i}}n Escard{\'{o}} and
+                  Thierry Coquand and
+                  Thorsten Altenkirch},
+  title        = {Notions of Anonymous Existence in Martin-L{\"{o}}f Type Theory},
+  journal      = {Logical Methods in Computer Science},
+  volume       = {13},
+  number       = {1},
+  year         = {2017},
+  url          = {https://doi.org/10.23638/LMCS-13(1:15)2017},
+  doi          = {10.23638/LMCS-13(1:15)2017},
+  biburl       = {https://dblp.org/rec/journals/corr/KrausECA16.bib},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

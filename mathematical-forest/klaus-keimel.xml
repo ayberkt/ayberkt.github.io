@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2411</fr:anchor><fr:addr>klaus-keimel</fr:addr><fr:route>klaus-keimel.xml</fr:route><fr:title>Klaus Keimel</fr:title><fr:meta
+name="institution">Technische Universität Darmstadt</fr:meta><fr:meta
+name="external">https://www2.mathematik.tu-darmstadt.de/~logik/keimel/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2408</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004T</fr:addr><fr:route>axt-004T.xml</fr:route><fr:date><fr:year>2009</fr:year><fr:month>6</fr:month></fr:date><fr:authors><fr:author><fr:link
+href="klaus-keimel.xml"
+type="local"
+addr="klaus-keimel">Klaus Keimel</fr:link></fr:author><fr:author><fr:link
+href="jimmie-lawson.xml"
+type="local"
+addr="jimmie-lawson">Jimmie D. Lawson</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-16</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a sober space <fr:tex>X</fr:tex>, the subsets of of <fr:tex>X</fr:tex> that are sober as subspaces
+  are exactly its <fr:link
+href="axt-004R.xml"
+type="local"
+addr="axt-004R">Skula</fr:link>-closed subsets.
+</fr:p></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

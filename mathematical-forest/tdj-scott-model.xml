@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1477</anchor>  <taxon>Reference</taxon> <addr>tdj-scott-model</addr>  <route>tdj-scott-model.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Scott model of PCF in univalent type theory</title> <meta name="bibtex">@article{tdj-scott-model,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1764</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{tdj-scott-model,
   title        = {The {Scott} model of {PCF} in univalent type theory},
   author       = {de Jong, Tom},
   date         = {2021},
@@ -10,16 +22,51 @@
   number       = {10},
   issuetitle   = {Homotopy Type Theory 2019},
   doi          = {10.1017/S0960129521000153},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1478</anchor>   <addr>tdj-bibliography</addr>  <route>tdj-bibliography.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date>  <title>Bibliography of <link href="tom-de-jong.xml" type="local" title="Tom de Jong">Tom de Jong</link>'s work</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1479</anchor>  <taxon>Reference</taxon> <addr>tdj-thesis</addr>  <route>tdj-thesis.xml</route> <date><year>2023</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>Domain theory in constructive and predicative univalent foundations</title> <meta name="bibtex">@phdthesis{tdj-thesis,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1763</fr:anchor><fr:addr>tdj-bibliography</fr:addr><fr:route>tdj-bibliography.xml</fr:route><fr:title>Bibliography of <fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link>'s work</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>784</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-thesis</fr:addr><fr:route>tdj-thesis.xml</fr:route><fr:title>Domain theory in constructive and predicative univalent foundations</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@phdthesis{tdj-thesis,
   title       = {Domain theory in constructive and predicative univalent foundations},
   author      = {de Jong, Tom},
   date        = {2023},
   school      = {University of Birmingham},
   location    = {Birmingham B15 2TT, UK},
   uri         = {http://etheses.bham.ac.uk/id/eprint/13401},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1480</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-aspects</addr>  <route>tdj-mhe-aspects.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Predicative Aspects of Order Theory in Univalent Foundations</title> <meta name="bibtex">@InProceedings{tdj-mhe-aspects,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>786</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-aspects</fr:addr><fr:route>tdj-mhe-aspects.xml</fr:route><fr:title>Predicative Aspects of Order Theory in Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@InProceedings{tdj-mhe-aspects,
   title        = {Predicative Aspects of Order Theory in Univalent Foundations},
   author       = {de Jong, Tom and Escardó, Martín H.},
   date         = {2021},
@@ -28,10 +75,21 @@
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
   volume       = 195,
   editor       = {Kobayashi, Naoki},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\&quot;ur Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
   doi          = {10.4230/LIPIcs.FSCD.2021.8},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>1481</anchor>  <taxon>Reference</taxon> <addr>tdj-scott-model</addr>  <route>tdj-scott-model.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author> </authors> <title>The Scott model of PCF in univalent type theory</title> <meta name="bibtex">@article{tdj-scott-model,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-scott-model</fr:addr><fr:route>tdj-scott-model.xml</fr:route><fr:title>The Scott model of PCF in univalent type theory</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{tdj-scott-model,
   title        = {The {Scott} model of {PCF} in univalent type theory},
   author       = {de Jong, Tom},
   date         = {2021},
@@ -41,8 +99,22 @@
   number       = {10},
   issuetitle   = {Homotopy Type Theory 2019},
   doi          = {10.1017/S0960129521000153},
-}
-</meta></frontmatter> <mainmatter/> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>1482</anchor>  <taxon>Reference</taxon> <addr>tdj-mhe-dt</addr>  <route>tdj-mhe-dt.xml</route> <date><year>2021</year>  </date> <authors><author><link href="tom-de-jong.xml" type="local">Tom de Jong</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Domain Theory in Constructive and Predicative Univalent Foundations</title> <meta name="bibtex">@inproceedings{tdj-mhe-dt,
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>tdj-mhe-dt</fr:addr><fr:route>tdj-mhe-dt.xml</fr:route><fr:title>Domain Theory in Constructive and Predicative Univalent Foundations</fr:title><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{tdj-mhe-dt,
   title        = {
                    Domain Theory in Constructive and Predicative Univalent
                    Foundations
@@ -56,12 +128,11 @@
   editor       = {Christel Baier and Jean Goubault-Larrecq},
   volume       = {183},
   series       = {Leibniz International Proceedings in Informatics (LIPIcs)},
-  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f{\&quot;u}r Informatik},
+  publisher    = {Schloss Dagstuhl--Leibniz-Zentrum f{\"u}r Informatik},
   pages        = {28:1--28:18},
   doi          = {10.4230/LIPIcs.CSL.2021.28},
   addendum     = {
                    Expanded version with full proofs available on arXiv:
                    \href{https://arxiv.org/abs/2008.01422}{\texttt{2008.01422 [math.LO]}}
                  },
-}
-</meta></frontmatter> <mainmatter/> </tree></mainmatter> </tree></context> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

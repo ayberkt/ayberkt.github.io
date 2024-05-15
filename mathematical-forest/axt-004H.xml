@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1163</anchor>  <taxon>Theorem</taxon> <addr>axt-004H</addr>  <route>axt-004H.xml</route> <date><year>2023</year> <month>12</month> <day>14</day></date>  <title>The Borsuk-Ulam Theorem</title> </frontmatter> <mainmatter><p>  There is no continuous map <tex>f :  \mathsf{S} ^{k+1}  \to   \mathsf{S} ^k</tex> such that <tex>f(-x) = -f(x)</tex>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2700</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-004H</fr:addr><fr:route>axt-004H.xml</fr:route><fr:title>The Borsuk-Ulam Theorem</fr:title><fr:meta
+name="date-added">2023-12-14</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  There is no continuous map <fr:tex>f :  \mathsf {S} ^{k+1}  \to   \mathsf {S} ^k</fr:tex> such that <fr:tex>f(-x) = -f(x)</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -4,7 +4,8 @@
 \RequirePackage{hyperref}
 \RequirePackage{xspace}
 \RequirePackage{mparhack}
-\RequirePackage{newpxtext,newpxmath}
+\RequirePackage{lmodern}
+\allowdisplaybreaks
 
 \definecolor{Matterhorn}{RGB}{77,77,77}
 \definecolor{RegalBlue}{RGB}{3,69,117}
@@ -63,7 +64,7 @@
   \marginpar{\forester_format_slug_link:n {\l__forester_tree_slug}}
   \textbf{\text_titlecase_first:n{\l__forester_tree_taxon}~\use:c{the\l__forester_current_counter}}
   \tl_if_empty:NTF \l__forester_tree_title {} {~(\l__forester_tree_title)}
-  .\xspace
+  .
 }
 
 \cs_new:Npn \forester_format_section: {
@@ -103,7 +104,15 @@
   \cs_if_exist:cTF {r@#1} {
     \hyperref[#1]{#2}
   } {
-    #2~\cite{#1}
+    #2\nobreakspace\cite{#1}
+  }
+}
+
+\cs_new:Npn \forester_numbered_ref:n #1 {
+  \cs_if_exist:cTF {r@#1} {
+    \ref{#1}
+  } {
+    \forester_format_slug:n {#1} \nobreakspace \cite{#1}
   }
 }
 
@@ -115,6 +124,9 @@
   \forester_ref:nn {#1} {#2}
 }
 
+\NewDocumentCommand\ForesterNumberedRef{m}{
+  \forester_numbered_ref:n {#1}
+}
+
+
 \ExplSyntaxOff
-
-

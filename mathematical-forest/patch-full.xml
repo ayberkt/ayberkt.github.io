@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1409</anchor>  <taxon>Reference</taxon> <addr>patch-full</addr>  <route>patch-full.xml</route> <date><year>2001</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>The regular-locally compact coreflection of a stably locally compact locale</title> <meta name="bibtex">@article{mhe-patch-full,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1932</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>patch-full</fr:addr><fr:route>patch-full.xml</fr:route><fr:title>The regular-locally compact coreflection of a stably locally compact locale</fr:title><fr:date><fr:year>2001</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{mhe-patch-full,
   title        = {The regular-locally compact coreflection of a stably locally
 	                compact locale},
   author       = {Escardó, Martín H.},
@@ -10,5 +22,4 @@
   pages        = {41--55},
   volume       = {157},
   number       = {1},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

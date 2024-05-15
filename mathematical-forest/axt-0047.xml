@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1141</anchor>   <addr>axt-0047</addr>  <route>axt-0047.xml</route> <date><year>2023</year> <month>11</month> <day>23</day></date> <authors><author><link href="dan-ghica.xml" type="local">Dan R. Ghica</link></author> </authors> <title>Idea of full abstraction</title> </frontmatter> <mainmatter><p>  A denotational semantics for a programming language is called <em>fully
-  abstract</em> if the notion of semantic equality that it induces coincides with
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>467</fr:anchor><fr:addr>axt-0047</fr:addr><fr:route>axt-0047.xml</fr:route><fr:title>Idea of full abstraction</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="dan-ghica.xml"
+type="local"
+addr="dan-ghica">Dan R. Ghica</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A denotational semantics for a programming language is called <fr:em>fully
+  abstract</fr:em> if the notion of semantic equality that it induces coincides with
   the notion of observational equivalence in the language. In other words,
   we have
-  <tex display="block">\llbracket   t_1   \rrbracket  =  \llbracket   t_2   \rrbracket \  \leftrightarrow \  t_1  \equiv  t_2,</tex>  where <tex>\equiv</tex> denotes observational equivalence.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+  <fr:tex
+display="block">\llbracket   t_1   \rrbracket  =  \llbracket   t_2   \rrbracket \  \leftrightarrow \  t_1  \equiv  t_2,</fr:tex>
+  where <fr:tex>\equiv</fr:tex> denotes observational equivalence.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

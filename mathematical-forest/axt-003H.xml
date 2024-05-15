@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1037</anchor>   <addr>axt-003H</addr>  <route>axt-003H.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Least fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
-  An element <tex>x  \in  P</tex> is called the <b>least fixed point</b> of <tex>h</tex> if
-  <ul>    <li>it is a <link href="axt-003G.xml" type="local" title="Fixed point">fixed point</link> of <tex>h</tex>, and</li>    <li>it is below any other fixed point of <tex>h</tex>.</li>  </ul>  When it exists, the least fixed point is denoted <tex>\mu ( h )</tex>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1038</anchor>  <taxon>Definition</taxon> <addr>axt-003G</addr>  <route>axt-003G.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
-  An element <tex>x  \in  P</tex> is called a <b>fixed point</b> of <tex>h</tex> if it
-  satisfies <tex>h(x) = x</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1039</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>687</fr:anchor><fr:addr>axt-003H</fr:addr><fr:route>axt-003H.xml</fr:route><fr:title>Least fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
+  An element <fr:tex>x  \in  P</fr:tex> is called the <fr:strong>least fixed point</fr:strong> of <fr:tex>h</fr:tex> if
+  <fr:ul><fr:li>it is a <fr:link
+href="axt-003G.xml"
+type="local"
+addr="axt-003G">fixed point</fr:link> of <fr:tex>h</fr:tex>, and</fr:li>
+    <fr:li>it is below any other fixed point of <fr:tex>h</fr:tex>.</fr:li></fr:ul>
+  When it exists, the least fixed point is denoted <fr:tex>\mu ( h )</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>681</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003G</fr:addr><fr:route>axt-003G.xml</fr:route><fr:title>Fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
+  An element <fr:tex>x  \in  P</fr:tex> is called a <fr:strong>fixed point</fr:strong> of <fr:tex>h</fr:tex> if it
+  satisfies <fr:tex>h(x) = x</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>684</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{davey-priestley-book,
   title        = {Introduction to Lattices and Order},
   date         = {2002},
   place        = {Cambridge CB2 8BS, UK},
@@ -15,8 +71,27 @@
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1040</anchor>  <taxon>Theorem</taxon> <addr>axt-003F</addr>  <route>axt-003F.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo fixed point theorem III</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> and <tex>F : D  \to  D</tex> an
-  inflationary endomap on it. There exists a <link href="axt-003H.xml" type="local" title="Least fixed point">least fixed
-  point</link> for function <tex>F</tex>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>678</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> and <fr:tex>F : D  \to  D</fr:tex> an
+  inflationary endomap on it. There exists a <fr:link
+href="axt-003H.xml"
+type="local"
+addr="axt-003H">least fixed
+  point</fr:link> for function <fr:tex>F</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1302</anchor>  <taxon>Reference</taxon> <addr>jgl-non-hausdorff</addr>  <route>jgl-non-hausdorff.xml</route> <date><year>2013</year>  </date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Non-Hausdorff topology and domain theory</title> <meta name="bibtex">@book{jgl-non-hausdorff,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1817</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{jgl-non-hausdorff,
   title        = {Non-Hausdorff topology and domain theory},
   author       = {Goubault-Larrecq, Jean},
   date         = {2013},
@@ -9,15 +21,313 @@
   isbn         = {978-1-107-03413-6},
   volume       = {22},
   series       = {New mathematical monographs},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1303</anchor>  <taxon>Exercise</taxon> <addr>axt-003V</addr>  <route>axt-003V.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>   <meta name="source"><b>Ex. 4.2.15</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  Let <tex>(X,  \le )</tex> be a finite preordered set. There is a unique topology on <tex>X</tex>  whose specialization preorder is <tex>\le</tex>.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   <mark>TODO</mark>.
-</block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1304</anchor>  <taxon>Exercise</taxon> <addr>axt-003W</addr>  <route>axt-003W.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>   <meta name="source"><b>Ex. 4.2.19</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  Let <tex>\mathbb{R} _{ \sigma }</tex> be the <link href="axt-001X.xml" type="local" title="Scott space of a dcpo">Scott space</link> of the real numbers under
-  its natural ordering <tex>\le</tex>. The <link href="axt-001Y.xml" type="local" title="Scott open subset of a dcpo">Scott opens</link> of <tex>\mathbb{R} _{ \sigma }</tex>  are either one of the following:
-  <ul>    <li>The empty set <tex>\empty</tex>.</li>    <li>The entire set <tex>\mathbb{R}</tex>.</li>    <li>      An open interval of the form <tex>[  x  ,  + \infty  ]</tex> for some
-      <tex>x  \in   \mathbb{R}</tex>.
-    </li>  </ul></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1305</anchor>  <taxon>Definition</taxon> <addr>axt-003U</addr>  <route>axt-003U.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date> <authors><author><link href="jean-goubault-larrecq.xml" type="local">Jean Goubault-Larrecq</link></author> </authors> <title>Alexandroff topology</title> <meta name="source"><b>Prop. 4.2.11</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  Let <tex>A</tex> be a preordered set. A subset <tex>U  \subseteq  A</tex> is taken as an open in
-  its <b>Alexandroff topology</b> if it is <link href="axt-001Z.xml" type="local" title="Upwards-closed subset">upward closed</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1306</anchor>  <taxon>Definition</taxon> <addr>axt-003Y</addr>  <route>axt-003Y.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>  <title>Noetherian space</title> <meta name="source"><b>Defn. 9.7.1</b> of <link href="jgl-non-hausdorff.xml" type="local" title="Non-Hausdorff topology and domain theory">Goubault-Larrecq</link></meta></frontmatter> <mainmatter><p>  A <b>Noetherian space</b> is a topological space in which every open
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1797</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0056</fr:addr><fr:route>axt-0056.xml</fr:route><fr:title>Strong Choquet game</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Sec. 7.6.1</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>strong Choquet game</fr:strong> on a space <fr:tex>X</fr:tex> is a game played by
+  two players that we call the <fr:em>player</fr:em> and the <fr:em>opponent</fr:em>.
+  <fr:ol><fr:li>
+      The opponent starts the play by picking a point <fr:tex>x_0  \in  X</fr:tex> and an open
+      neighbourhood <fr:tex>V_0</fr:tex> of <fr:tex>x_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      In response, the player must find an open neighbourhood <fr:tex>U_0</fr:tex> of
+      <fr:tex>x_0</fr:tex> smaller than <fr:tex>V_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      The opponent must then produce a new point <fr:tex>x_1  \in  U_0</fr:tex> and a new open
+      neighbourhood of <fr:tex>V_1</fr:tex> of <fr:tex>x_1</fr:tex> smaller than <fr:tex>U_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      This produces three sequences <fr:tex>(U_n)_{n  \in   \mathbb {N} }</fr:tex>,
+      <fr:tex>(V_n)_{n  \in   \mathbb {N} }</fr:tex>, and <fr:tex>(x_n)_{n  \in   \mathbb {N} }</fr:tex> satisfying
+      <fr:ul><fr:li><fr:tex>V_n  \supseteq  U_n</fr:tex> for every <fr:tex>n  \in   \mathbb {N}</fr:tex>.</fr:li>
+        <fr:li><fr:tex>x_n  \in  V_n</fr:tex> for every <fr:tex>n  \in   \mathbb {N}</fr:tex>.</fr:li></fr:ul></fr:li></fr:ol></fr:p><fr:p>
+  The player wins against the opponent iff <fr:tex>\bigcap _{n  \in   \mathbb {N} } U_n</fr:tex> is
+  nonempty.
+</fr:p><fr:p>
+  The opponent tries to change the open <fr:tex>V_n</fr:tex> and the point <fr:tex>x_n</fr:tex> so that
+  eventually no point remains in the intersection <fr:tex>\bigcap _{n  \in   \mathbb {N} } U_n</fr:tex>,
+  while the player tries to force the existence of at least one point in the
+  intersection.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1799</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004U</fr:addr><fr:route>axt-004U.xml</fr:route><fr:title>Cofinality</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>21</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Page 61</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">JGL</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a preordered set. A family <fr:tex>D  \subseteq  X</fr:tex> is
+  <fr:strong>cofinal in</fr:strong> the directed family <fr:tex>D'</fr:tex> iff <fr:tex>D  \subseteq  D'</fr:tex> and
+  for every <fr:tex>x'  \in  D'</fr:tex> there is an <fr:tex>x  \in  D</fr:tex> with <fr:tex>x'  \le  x</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1800</fr:anchor><fr:taxon>Exercise</fr:taxon><fr:addr>axt-003W</fr:addr><fr:route>axt-003W.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>13</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Ex. 4.2.19</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathbb {R} _{ \sigma }</fr:tex> be the <fr:link
+href="axt-001X.xml"
+type="local"
+addr="axt-001X">Scott space</fr:link> of the real numbers under
+  its natural ordering <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-001Y.xml"
+type="local"
+addr="axt-001Y">Scott opens</fr:link> of <fr:tex>\mathbb {R} _{ \sigma }</fr:tex>
+  are either one of the following:
+  <fr:ul><fr:li>The empty set <fr:tex>\empty</fr:tex>.</fr:li>
+    <fr:li>The entire set <fr:tex>\mathbb {R}</fr:tex>.</fr:li>
+    <fr:li>
+      An open interval of the form <fr:tex>[  x  ,  + \infty  ]</fr:tex> for some
+      <fr:tex>x  \in   \mathbb {R}</fr:tex>.
+    </fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1801</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003Y</fr:addr><fr:route>axt-003Y.xml</fr:route><fr:title>Noetherian space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>13</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Defn. 9.7.1</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>Noetherian space</fr:strong> is a topological space in which every open
   subset is compact.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1803</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-003V</fr:addr><fr:route>axt-003V.xml</fr:route><fr:meta
+name="date-added">2023-11-13</fr:meta><fr:meta
+name="source"><fr:strong>Ex. 4.2.15</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a finite set equipped with a preorder <fr:tex>( \le )</fr:tex>. There is a unique
+  topology on <fr:tex>A</fr:tex> whose specialization preorder is <fr:tex>\le</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1802</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-003V</fr:parent></fr:frontmatter><fr:mainmatter>
+  We know that the Alexandroff topology on <fr:tex>A</fr:tex> is finer than any topology whose
+  specialization preorder coincides with <fr:tex>\le</fr:tex>, meaning any other such topology
+  finer than it must be equivalent to it. Consider a topology <fr:tex>\mathcal {T}</fr:tex> on <fr:tex>A</fr:tex>
+  whose specialization preorder coincides with <fr:tex>\le</fr:tex>. We need to show <fr:tex>\mathcal {T}</fr:tex>
+  contains all upward closed subsets of <fr:tex>A</fr:tex>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1804</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005R</fr:addr><fr:route>axt-005R.xml</fr:route><fr:meta
+name="date-added">2024-04-24</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a set equipped with a preorder <fr:tex>\le</fr:tex>. The <fr:link
+href="axt-003U.xml"
+type="local"
+addr="axt-003U">Alexandroff
+  topology</fr:link> on <fr:tex>A</fr:tex> is <fr:link
+href="axt-005U.xml"
+type="local"
+addr="axt-005U">finer</fr:link> than any topology whose specialization
+  preorder coincides with <fr:tex>( \le )</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005R</fr:parent></fr:frontmatter><fr:mainmatter>
+  Let <fr:tex>\mathcal {T}</fr:tex> be a topology on <fr:tex>A</fr:tex> such that the specialization preorder
+  <fr:tex>\le _{ \mathcal {T}}</fr:tex> coincides with the order <fr:tex>\le</fr:tex>. Let <fr:tex>U  \subseteq  A</fr:tex> be
+  a <fr:tex>\mathcal {T}</fr:tex>-open. The open subset <fr:tex>U</fr:tex> must be <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed</fr:link> with
+  respect to <fr:tex>\le _{ \mathcal {T}}</fr:tex> by <fr:link
+href="axt-002Z.xml"
+type="local"
+addr="axt-002Z">axt-002Z</fr:link>. Since <fr:tex>\le _ \mathcal {T}</fr:tex> coincides
+  with <fr:tex>\le</fr:tex>, this means that <fr:tex>U</fr:tex> is upward closed with respect to the
+  order <fr:tex>\le</fr:tex> on <fr:tex>A</fr:tex>, which is to say it is an Alexandroff open.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1805</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003U</fr:addr><fr:route>axt-003U.xml</fr:route><fr:title>Alexandroff topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-13</fr:meta><fr:meta
+name="source"><fr:strong>Prop. 4.2.11</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>A</fr:tex> be a preordered set. The <fr:strong>Alexandroff topology</fr:strong> on <fr:tex>A</fr:tex>
+  is given by the class of <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z">upward closed subsets</fr:link> of <fr:tex>A</fr:tex> (<fr:link
+href="axt-004J.xml"
+type="local"
+addr="axt-004J">which
+  always form a topology</fr:link>).
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1807</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0057</fr:addr><fr:route>axt-0057.xml</fr:route><fr:title>Choquet-complete space</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 7.6.1</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is <fr:strong>Choquet-complete</fr:strong> if the player has a winning
+  strategy in the <fr:link
+href="axt-0056.xml"
+type="local"
+addr="axt-0056">strong Choquet game</fr:link> on <fr:tex>X</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1809</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0058</fr:addr><fr:route>axt-0058.xml</fr:route><fr:title>Choquet-completeness and continuous dcpos</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Lemma. 7.6.3</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Scott topology of any <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous dcpo</fr:link> is
+  <fr:link
+href="axt-0057.xml"
+type="local"
+addr="axt-0057">Choquet-complete</fr:link> in its Scott topology.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1811</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-0057.xml"
+type="local"
+addr="axt-0057">Choquet-complete space</fr:link> satisfies the <fr:link
+href="axt-0059.xml"
+type="local"
+addr="axt-0059">Baire property</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1813</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004R</fr:addr><fr:route>axt-004R.xml</fr:route><fr:title>Skula topology</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-16</fr:meta><fr:meta
+name="source"><fr:strong>Exercise 9.7.16</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">JGL's book</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a <fr:tex>T_0</fr:tex> space. The <fr:strong>Skula topology</fr:strong> on <fr:tex>X</fr:tex> is
+  the topology the union of the opens of <fr:tex>X</fr:tex> and its downward closed subsets
+  (w.r.t. the <fr:link
+href="axt-0030.xml"
+type="local"
+addr="axt-0030">specialization preorder</fr:link>).
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1815</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0059</fr:addr><fr:route>axt-0059.xml</fr:route><fr:title>The Baire property</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is called <fr:strong>Baire</fr:strong> if the intersection of countably
+  many dense open subsets of <fr:tex>X</fr:tex> is still dense in <fr:tex>X</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2201</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0057</fr:addr><fr:route>axt-0057.xml</fr:route><fr:title>Choquet-complete space</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 7.6.1</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is <fr:strong>Choquet-complete</fr:strong> if the player has a winning
+  strategy in the <fr:link
+href="axt-0056.xml"
+type="local"
+addr="axt-0056">strong Choquet game</fr:link> on <fr:tex>X</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2199</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0056</fr:addr><fr:route>axt-0056.xml</fr:route><fr:title>Strong Choquet game</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Sec. 7.6.1</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>strong Choquet game</fr:strong> on a space <fr:tex>X</fr:tex> is a game played by
+  two players that we call the <fr:em>player</fr:em> and the <fr:em>opponent</fr:em>.
+  <fr:ol><fr:li>
+      The opponent starts the play by picking a point <fr:tex>x_0  \in  X</fr:tex> and an open
+      neighbourhood <fr:tex>V_0</fr:tex> of <fr:tex>x_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      In response, the player must find an open neighbourhood <fr:tex>U_0</fr:tex> of
+      <fr:tex>x_0</fr:tex> smaller than <fr:tex>V_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      The opponent must then produce a new point <fr:tex>x_1  \in  U_0</fr:tex> and a new open
+      neighbourhood of <fr:tex>V_1</fr:tex> of <fr:tex>x_1</fr:tex> smaller than <fr:tex>U_0</fr:tex>.
+    </fr:li>
+    <fr:li>
+      This produces three sequences <fr:tex>(U_n)_{n  \in   \mathbb {N} }</fr:tex>,
+      <fr:tex>(V_n)_{n  \in   \mathbb {N} }</fr:tex>, and <fr:tex>(x_n)_{n  \in   \mathbb {N} }</fr:tex> satisfying
+      <fr:ul><fr:li><fr:tex>V_n  \supseteq  U_n</fr:tex> for every <fr:tex>n  \in   \mathbb {N}</fr:tex>.</fr:li>
+        <fr:li><fr:tex>x_n  \in  V_n</fr:tex> for every <fr:tex>n  \in   \mathbb {N}</fr:tex>.</fr:li></fr:ul></fr:li></fr:ol></fr:p><fr:p>
+  The player wins against the opponent iff <fr:tex>\bigcap _{n  \in   \mathbb {N} } U_n</fr:tex> is
+  nonempty.
+</fr:p><fr:p>
+  The opponent tries to change the open <fr:tex>V_n</fr:tex> and the point <fr:tex>x_n</fr:tex> so that
+  eventually no point remains in the intersection <fr:tex>\bigcap _{n  \in   \mathbb {N} } U_n</fr:tex>,
+  while the player tries to force the existence of at least one point in the
+  intersection.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2195</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0058</fr:addr><fr:route>axt-0058.xml</fr:route><fr:title>Choquet-completeness and continuous dcpos</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Lemma. 7.6.3</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Scott topology of any <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous dcpo</fr:link> is
+  <fr:link
+href="axt-0057.xml"
+type="local"
+addr="axt-0057">Choquet-complete</fr:link> in its Scott topology.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2197</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005A</fr:addr><fr:route>axt-005A.xml</fr:route><fr:title>Choquet-completeness implies the Baire property</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Thm. 7.6.8</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-0057.xml"
+type="local"
+addr="axt-0057">Choquet-complete space</fr:link> satisfies the <fr:link
+href="axt-0059.xml"
+type="local"
+addr="axt-0059">Baire property</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2193</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>jgl-non-hausdorff</fr:addr><fr:route>jgl-non-hausdorff.xml</fr:route><fr:title>Non-Hausdorff topology and domain theory</fr:title><fr:date><fr:year>2013</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{jgl-non-hausdorff,
+  title        = {Non-Hausdorff topology and domain theory},
+  author       = {Goubault-Larrecq, Jean},
+  date         = {2013},
+  publisher    = {Cambridge University Press},
+  address      = {Cambridge},
+  isbn         = {978-1-107-03413-6},
+  volume       = {22},
+  series       = {New mathematical monographs},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

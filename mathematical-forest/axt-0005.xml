@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>159</anchor>  <taxon>Definition</taxon> <addr>axt-0005</addr>  <route>axt-0005.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Neighbourhood system</title> </frontmatter> <mainmatter><p>  A <em>neighbourhood system</em> over a set <tex>\Delta</tex> is a family <tex>\mathcal{D}</tex> of
-  subsets of <tex>\Delta</tex> such that
-  <ol>    <li>it is nonempty</li>    <li><tex>\Delta   \in   \mathcal{D}</tex></li>    <li>      is closed under intersection i.e. <tex>\forall  X, Y, Z  \in   \mathcal{D} .
-       \  Z  \subseteq  X  \cap  Y  \rightarrow  X  \cap  Y  \in   \mathcal{D}</tex>.
-    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1640</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0005</fr:addr><fr:route>axt-0005.xml</fr:route><fr:title>Neighbourhood system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>neighbourhood system</fr:em> over a set <fr:tex>\Delta</fr:tex> is a family <fr:tex>\mathcal {D}</fr:tex> of
+  subsets of <fr:tex>\Delta</fr:tex> such that
+  <fr:ol><fr:li>it is nonempty</fr:li>
+    <fr:li><fr:tex>\Delta   \in   \mathcal {D}</fr:tex></fr:li>
+    <fr:li>
+      is closed under intersection i.e. <fr:tex>\forall  X, Y, Z  \in   \mathcal {D}.        \  Z  \subseteq  X  \cap  Y  \rightarrow  X  \cap  Y  \in   \mathcal {D}</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

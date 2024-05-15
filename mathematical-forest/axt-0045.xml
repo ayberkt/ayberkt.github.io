@@ -1,27 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1131</anchor>  <taxon>Theorem</taxon> <addr>axt-0045</addr>  <route>axt-0045.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Knaster-Tarski fixed point theorem</title> <meta name="source"><b>Defn 2.35</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a complete lattice and <tex>F : L  \to  L</tex> a monotone map.
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>500</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.35</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a complete lattice and <fr:tex>F : L  \to  L</fr:tex> a monotone map.
   Then the set
-  <tex display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</tex>  is a fixed point of <tex>F</tex>.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   <p>We first define the abbreviation <tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</tex>.</p>  <p>    To show <tex>F( \alpha ) =  \alpha</tex>, we use antisymmetry. For the <tex>( \ge )</tex>    direction, it suffices to show <tex>F( \alpha )</tex> is an upper bound of <tex>H</tex>.
-    Let <tex>x  \in  H</tex>. We know <tex>x  \le   \alpha</tex> as <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex> which implies <tex>F(x)  \le  F( \alpha )</tex>. We also know <tex>x  \le  F(x)</tex>    by the definition of <tex>H</tex> which means <tex>x  \le  F(x)  \le  F( \alpha )</tex>.
-    For the <tex>( \le )</tex> direction, notice that we know <tex>F( \alpha )  \le     F(F( \alpha ))</tex> by the fact we just showed which means <tex>F( \alpha )  \in  H</tex>.
-    It follows that <tex>F( \alpha )  \le   \alpha</tex> since <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex>.
-  </p></block>  </mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1132</anchor>  <taxon>Stocktaking</taxon> <addr>axt-0046</addr>  <route>axt-0046.xml</route> <date><year>2023</year> <month>11</month> <day>22</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> <contributor><link href="brian-davey.xml" type="local">Brian A. Davey</link></contributor><contributor><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></contributor></authors> <title>Fixed point theorems</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>1133</anchor>  <taxon>Theorem</taxon> <addr>axt-003F</addr>  <route>axt-003F.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo fixed point theorem III</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> and <tex>F : D  \to  D</tex> an
-  inflationary endomap on it. There exists a <link href="axt-003H.xml" type="local" title="Least fixed point">least fixed
-  point</link> for function <tex>F</tex>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>1134</anchor>  <taxon>Theorem</taxon> <addr>axt-0045</addr>  <route>axt-0045.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Knaster-Tarski fixed point theorem</title> <meta name="source"><b>Defn 2.35</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a complete lattice and <tex>F : L  \to  L</tex> a monotone map.
+  <fr:tex
+display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</fr:tex>
+  is a fixed point of <fr:tex>F</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:parent>axt-0045</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p>We first define the abbreviation <fr:tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</fr:tex>.</fr:p>
+
+  <fr:p>
+    To show <fr:tex>F( \alpha ) =  \alpha</fr:tex>, we use antisymmetry. For the <fr:tex>( \ge )</fr:tex>
+    direction, it suffices to show <fr:tex>F( \alpha )</fr:tex> is an upper bound of <fr:tex>H</fr:tex>.
+    Let <fr:tex>x  \in  H</fr:tex>. We know <fr:tex>x  \le   \alpha</fr:tex> as <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex> which implies <fr:tex>F(x)  \le  F( \alpha )</fr:tex>. We also know <fr:tex>x  \le  F(x)</fr:tex>
+    by the definition of <fr:tex>H</fr:tex> which means <fr:tex>x  \le  F(x)  \le  F( \alpha )</fr:tex>.
+    For the <fr:tex>( \le )</fr:tex> direction, notice that we know <fr:tex>F( \alpha )  \le      F(F( \alpha ))</fr:tex> by the fact we just showed which means <fr:tex>F( \alpha )  \in  H</fr:tex>.
+    It follows that <fr:tex>F( \alpha )  \le   \alpha</fr:tex> since <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>496</fr:anchor><fr:taxon>Stocktaking</fr:taxon><fr:addr>axt-0046</fr:addr><fr:route>axt-0046.xml</fr:route><fr:title>Fixed point theorems</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:contributor><fr:contributor><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>469</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> and <fr:tex>F : D  \to  D</fr:tex> an
+  inflationary endomap on it. There exists a <fr:link
+href="axt-003H.xml"
+type="local"
+addr="axt-003H">least fixed
+  point</fr:link> for function <fr:tex>F</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>475</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.35</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a complete lattice and <fr:tex>F : L  \to  L</fr:tex> a monotone map.
   Then the set
-  <tex display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</tex>  is a fixed point of <tex>F</tex>.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   <p>We first define the abbreviation <tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</tex>.</p>  <p>    To show <tex>F( \alpha ) =  \alpha</tex>, we use antisymmetry. For the <tex>( \ge )</tex>    direction, it suffices to show <tex>F( \alpha )</tex> is an upper bound of <tex>H</tex>.
-    Let <tex>x  \in  H</tex>. We know <tex>x  \le   \alpha</tex> as <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex> which implies <tex>F(x)  \le  F( \alpha )</tex>. We also know <tex>x  \le  F(x)</tex>    by the definition of <tex>H</tex> which means <tex>x  \le  F(x)  \le  F( \alpha )</tex>.
-    For the <tex>( \le )</tex> direction, notice that we know <tex>F( \alpha )  \le     F(F( \alpha ))</tex> by the fact we just showed which means <tex>F( \alpha )  \in  H</tex>.
-    It follows that <tex>F( \alpha )  \le   \alpha</tex> since <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex>.
-  </p></block>  </mainmatter> </tree></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1135</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+  <fr:tex
+display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</fr:tex>
+  is a fixed point of <fr:tex>F</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:parent>axt-0045</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p>We first define the abbreviation <fr:tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</fr:tex>.</fr:p>
+
+  <fr:p>
+    To show <fr:tex>F( \alpha ) =  \alpha</fr:tex>, we use antisymmetry. For the <fr:tex>( \ge )</fr:tex>
+    direction, it suffices to show <fr:tex>F( \alpha )</fr:tex> is an upper bound of <fr:tex>H</fr:tex>.
+    Let <fr:tex>x  \in  H</fr:tex>. We know <fr:tex>x  \le   \alpha</fr:tex> as <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex> which implies <fr:tex>F(x)  \le  F( \alpha )</fr:tex>. We also know <fr:tex>x  \le  F(x)</fr:tex>
+    by the definition of <fr:tex>H</fr:tex> which means <fr:tex>x  \le  F(x)  \le  F( \alpha )</fr:tex>.
+    For the <fr:tex>( \le )</fr:tex> direction, notice that we know <fr:tex>F( \alpha )  \le      F(F( \alpha ))</fr:tex> by the fact we just showed which means <fr:tex>F( \alpha )  \in  H</fr:tex>.
+    It follows that <fr:tex>F( \alpha )  \le   \alpha</fr:tex> since <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{davey-priestley-book,
   title        = {Introduction to Lattices and Order},
   date         = {2002},
   place        = {Cambridge CB2 8BS, UK},
@@ -30,5 +171,4 @@
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

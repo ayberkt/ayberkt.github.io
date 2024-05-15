@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>264</anchor>  <taxon>Definition</taxon> <addr>axt-0019</addr>  <route>axt-0019.xml</route> <date><year>2023</year> <month>10</month> <day>6</day></date> <authors><author>Stephen Willard</author> </authors> <title>Regular space</title> </frontmatter> <mainmatter><p>  A topological space <tex>X</tex> is called a <em>regular</em> if for any closed <tex>F
-   \subseteq  X</tex> and any <tex>x  \notin  F</tex>, there exist disjoint open sets containing
-  <tex>x</tex> and <tex>F</tex>.
-</p>Adapted from Definition 14.1 of <link href="willard-general-topology-2012.xml" type="local" title="General Topology">Willard's <em>General
-Topology</em></link>.
-</mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>265</anchor>  <taxon>Reference</taxon> <addr>willard-general-topology-2012</addr>  <route>willard-general-topology-2012.xml</route> <date><year>2012</year>  </date> <authors><author>Stephen Willard</author> </authors> <title>General Topology</title> <meta name="bibtex">@book{willard-general-topology-2012,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1547</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0019</fr:addr><fr:route>axt-0019.xml</fr:route><fr:title>Regular space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A topological space <fr:tex>X</fr:tex> is called a <fr:em>regular</fr:em> if for any closed <fr:tex>F    \subseteq  X</fr:tex> and any <fr:tex>x  \notin  F</fr:tex>, there exist disjoint open sets containing
+  <fr:tex>x</fr:tex> and <fr:tex>F</fr:tex>.
+</fr:p><fr:p>
+  Adapted from Definition 14.1 of
+  <fr:link
+href="willard-general-topology-2012.xml"
+type="local"
+addr="willard-general-topology-2012">Willard's <fr:em>General Topology</fr:em></fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1545</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>willard-general-topology-2012</fr:addr><fr:route>willard-general-topology-2012.xml</fr:route><fr:title>General Topology</fr:title><fr:date><fr:year>2012</fr:year></fr:date><fr:authors><fr:author>Stephen Willard</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{willard-general-topology-2012,
   title     = {General Topology},
   author    = {Willard, Stephen},
   year      = {2012},
@@ -13,5 +33,4 @@ Topology</em></link>.
   isbn      = {0-486-13178-5},
   publisher = {Dover Publications},
   series    = {Dover Books on Mathematics},
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

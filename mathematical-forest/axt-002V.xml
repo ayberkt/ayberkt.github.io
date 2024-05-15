@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>936</anchor>  <taxon>Definition</taxon> <addr>axt-002V</addr>  <route>axt-002V.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous map of data types</title> <meta name="source">2nd paragraph of <b>Sec. 3.1</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  A function <tex>f :  \mathtt{a}   \to   \mathtt{b}</tex> of data types is called
-  <b>continuous</b> if is definable Haskell.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>937</anchor>   <addr>barbados-notes</addr>  <route>barbados-notes.xml</route> <date><year>2004</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Synthetic Topology: of Data Types and Classical Spaces</title> <meta name="bibtex">@article{barbados-notes,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>900</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002V</fr:addr><fr:route>axt-002V.xml</fr:route><fr:title>Continuous map of data types</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">2nd paragraph of <fr:strong>Sec. 3.1</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A function <fr:tex>f :  \mathtt {a}  \to   \mathtt {b}</fr:tex> of data types is called
+  <fr:strong>continuous</fr:strong> if is definable Haskell.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>898</fr:anchor><fr:addr>barbados-notes</fr:addr><fr:route>barbados-notes.xml</fr:route><fr:title>Synthetic Topology: of Data Types and Classical Spaces</fr:title><fr:date><fr:year>2004</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{barbados-notes,
   title        = {Synthetic Topology: of Data Types and Classical Spaces},
   author       = {Escardó, Martín H.},
   year         = {2004},
@@ -13,8 +40,30 @@
                  Probabilistic Processes},
   issn         = {1571-0661},
   doi          = {https://doi.org/10.1016/j.entcs.2004.09.017},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>938</anchor>  <taxon>Definition</taxon> <addr>axt-002W</addr>  <route>axt-002W.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuous map of spaces</title> <meta name="source">1st paragraph of <b>Sec. 3.7</b> of <link href="barbados-notes.xml" type="local" title="Synthetic Topology: of Data Types and Classical Spaces">the Barbados notes</link></meta></frontmatter> <mainmatter><p>  Let <tex>X</tex> and <tex>Y</tex> be two <link href="axt-002T.xml" type="local" title="Space">spaces</link> with environments <tex>\mathtt{a}</tex> and
-  <tex>\mathtt{b}</tex> respectively. A function <tex>\varphi  : X  \to  Y</tex> is continuous if
-  there exists a <link href="axt-002V.xml" type="local" title="Continuous map of data types">continuous function of data types</link>  <tex>f :  \mathtt{a}   \to   \mathtt{b}</tex> such that
-  <tex display="block">\forall  x  \in  X. \  \varphi (x) = f(x).</tex></p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>896</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002W</fr:addr><fr:route>axt-002W.xml</fr:route><fr:title>Continuous map of spaces</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source">1st paragraph of <fr:strong>Sec. 3.7</fr:strong> of <fr:link
+href="barbados-notes.xml"
+type="local"
+addr="barbados-notes">the Barbados notes</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> and <fr:tex>Y</fr:tex> be two <fr:link
+href="axt-002T.xml"
+type="local"
+addr="axt-002T">spaces</fr:link> with environments <fr:tex>\mathtt { a }</fr:tex> and
+  <fr:tex>\mathtt { b }</fr:tex> respectively. A function <fr:tex>\varphi  : X  \to  Y</fr:tex> is continuous if
+  there exists a <fr:link
+href="axt-002V.xml"
+type="local"
+addr="axt-002V">continuous function of data types</fr:link>
+  <fr:tex>f :  \mathtt { a }   \to   \mathtt { b }</fr:tex> such that
+  <fr:tex
+display="block">\forall  x  \in  X. \  \varphi (x) = f(x).</fr:tex></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1114</anchor>  <taxon>Theorem</taxon> <addr>axt-003X</addr>  <route>axt-003X.xml</route> <date><year>2023</year> <month>11</month> <day>13</day></date>  <title>Hochster’s Theorem</title> </frontmatter> <mainmatter><p>  The spectral spaces are exactly the spaces of spectra of commutative rings in
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>517</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003X</fr:addr><fr:route>axt-003X.xml</fr:route><fr:title>Hochster’s Theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>13</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The spectral spaces are exactly the spaces of spectra of commutative rings in
   their Zariski topology.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

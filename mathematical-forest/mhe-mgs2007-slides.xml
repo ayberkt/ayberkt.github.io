@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1841</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-mgs2007-slides</fr:addr><fr:route>mhe-mgs2007-slides.xml</fr:route><fr:title>Domain theory and denotational semantics of functional programming</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@misc{mhe-mgs2007-slides,
+  author    = {Escard\'{o}, Mart\'{i}n H.},
+  title     = {Domain theory and denotational semantics of functional programming},
+  date      = {2007-04-20},
+  note      = {Lecture slides at Midlands Graduate School 2007},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1840</fr:anchor><fr:addr>axt-0003</fr:addr><fr:route>axt-0003.xml</fr:route><fr:title>Intuition on the notion of a domain</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Slide 10</fr:strong> of <fr:link
+href="mhe-mgs2007-slides.xml"
+type="local"
+addr="mhe-mgs2007-slides">Domain Theory MGS 2007</fr:link></fr:meta><fr:meta
+name="date-added">2023-08-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  In the words of <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín Escardó</fr:link>:
+
+</fr:p><fr:blockquote><fr:p>
+    A <fr:em>domain</fr:em> is a set of concrete finite elements together with infinite,
+    ideal elements such that the ideal elements are characterized uniquely by
+    their finite approximations.
+  </fr:p></fr:blockquote><fr:p>
+  There are different ways of capturing this mathematically, to varying
+  degrees of precision. These include <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous</fr:link> and
+  <fr:link
+href="axt-001S.xml"
+type="local"
+addr="axt-001S">algebraic</fr:link> dcpos.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

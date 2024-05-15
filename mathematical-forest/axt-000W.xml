@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>241</anchor>   <addr>axt-000W</addr>  <route>axt-000W.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date>  <title>Compactness and the finite intersection property</title> </frontmatter> <mainmatter><p>  A space <tex>X</tex> is <link href="axt-000R.xml" type="local" title="Compact space (point-set)">compact</link> iff for every family <tex>\{  F_i  \} _{i  \in   I}</tex> of closed sets having the finite intersection property, the intersection
-  <tex>\bigcap _{i  \in  I} F_i</tex> is nonempty.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>242</anchor>  <taxon>Definition</taxon> <addr>axt-000R</addr>  <route>axt-000R.xml</route> <date><year>2023</year> <month>9</month> <day>15</day></date>  <title>Compact space (point-set)</title> </frontmatter> <mainmatter><p>  A space <tex>X</tex> is called <em>compact</em> if for every <link href="axt-000S.xml" type="local" title="Open covering (point-set)">open covering</link>  <tex>X =  \bigcup _{i  \in  I} U_i</tex> of it, there is a subset <tex>J  \subseteq  I</tex> such
-  that <tex>\{  U_j  \} _{j  \in  J}</tex> is also an <link href="axt-000S.xml" type="local" title="Open covering (point-set)">open covering</link> of <tex>X</tex>.
-</p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2232</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000W</fr:addr><fr:route>axt-000W.xml</fr:route><fr:title>Compactness and the finite intersection property</fr:title><fr:meta
+name="date-added">2023-09-15</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is <fr:link
+href="axt-000R.xml"
+type="local"
+addr="axt-000R">compact</fr:link> iff for every family <fr:tex>\{  F_i  \} _{i  \in    I}</fr:tex> of closed sets having the <fr:link
+href="axt-004Y.xml"
+type="local"
+addr="axt-004Y">finite intersection property</fr:link>, the intersection
+  <fr:tex>\bigcap _{i  \in  I} F_i</fr:tex> is nonempty.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2230</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000R</fr:addr><fr:route>axt-000R.xml</fr:route><fr:title>Compact space (point-set)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is called <fr:em>compact</fr:em> if for every <fr:link
+href="axt-000S.xml"
+type="local"
+addr="axt-000S">open covering</fr:link>
+  <fr:tex>X =  \bigcup _{i  \in  I} U_i</fr:tex> of it, there is a subset <fr:tex>J  \subseteq  I</fr:tex> such
+  that <fr:tex>\{  U_j  \} _{j  \in  J}</fr:tex> is also an <fr:link
+href="axt-000S.xml"
+type="local"
+addr="axt-000S">open covering</fr:link> of <fr:tex>X</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2231</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004Y</fr:addr><fr:route>axt-004Y.xml</fr:route><fr:title>Finite intersection property</fr:title><fr:meta
+name="date-added">2024-01-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A family <fr:tex>\{  A_i  \} _{i  \in  I}</fr:tex> of subsets of a set <fr:tex>X</fr:tex> is said to have the
+  <fr:strong>finite intersection property</fr:strong> if the intersection
+  <fr:tex>\bigcap _{j  \in  J} A_j</fr:tex> is nonempty for every finite <fr:tex>J  \subseteq  I</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

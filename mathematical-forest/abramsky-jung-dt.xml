@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1947</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">@inbook{abramsky-jung-dt,
+  author    = {Abramsky, Samson and Jung, Achim},
+  title     = {Domain Theory},
+  year      = {1995-04-27},
+  isbn      = {019853762X},
+  publisher = oup,
+  booktitle = {Handbook of Logic in Computer Science (Vol. 3): Semantic Structures},
+  pages     = {1–168},
+  numpages  = {168},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1943</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-004Z</fr:addr><fr:route>axt-004Z.xml</fr:route><fr:title>Characterization of Scott continuity</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>31</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Proposition 2.2.11</fr:strong> of <fr:link
+href="abramsky-jung-dt.xml"
+type="local"
+addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p><html:mark
+xmlns:html="http://www.w3.org/1999/xhtml">TODO</html:mark>: complete.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1944</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001U</fr:addr><fr:route>axt-001U.xml</fr:route><fr:title>Basis for a dcpo</fr:title><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.2.3</fr:strong> of <fr:link
+href="abramsky-jung-dt.xml"
+type="local"
+addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta><fr:meta
+name="date-added">2023-10-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a dcpo and let <fr:tex>\Downarrow (x)</fr:tex> denote the set
+  <fr:tex>\{  y  \in  D  \mid  y  \ll  x  \}</fr:tex>.
+</fr:p><fr:p>
+  A subset <fr:tex>B  \subseteq  D</fr:tex> forms a basis for <fr:tex>D</fr:tex> if for every element <fr:tex>x  \in    D</fr:tex> the set <fr:tex
+display="block">B_x  \vcentcolon \equiv   \Downarrow (x)  \cap  B</fr:tex> contains a directed
+  subset with supremum <fr:tex>x</fr:tex></fr:p><fr:p>
+  Elements of <fr:tex>x</fr:tex> are caled approximants to <fr:tex>x</fr:tex> relative to <fr:tex>B</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

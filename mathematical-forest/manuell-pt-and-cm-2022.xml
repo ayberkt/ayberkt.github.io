@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1328</anchor>  <taxon>Reference</taxon> <addr>manuell-pt-and-cm-2022</addr>  <route>manuell-pt-and-cm-2022.xml</route> <date><year>2023</year>  </date> <authors><author>Graham Manuell</author> </authors> <title>Pointfree topology and constructive mathematics</title> <meta name="bibtex">@misc{manuell-pt-and-cm-2023,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1714</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>manuell-pt-and-cm-2022</fr:addr><fr:route>manuell-pt-and-cm-2022.xml</fr:route><fr:title>Pointfree topology and constructive mathematics</fr:title><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author>Graham Manuell</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@misc{manuell-pt-and-cm-2023,
   title     = {Pointfree topology and constructive mathematics},
   author    = {Graham Manuell},
   date      = {2022-06},
   eprint    = {2304.06000},
   address   = {Praia de Mira},
   note      = {Lecture notes for a course at the TACL Summer School}
-}
-</meta></frontmatter> <mainmatter><p>  <ol>    <li><link href="https://arxiv.org/abs/2304.06000" type="external">arXiv link</link></li>    <li><link href="Skim:///Users/ayberkt/Dropbox/Reading/manuell-pt-and-cm-2022.pdf" type="external">PDF</link></li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ol><fr:li><fr:link
+href="https://arxiv.org/abs/2304.06000"
+type="external">arXiv link</fr:link></fr:li>
+    <fr:li><fr:link
+href="skim:///Users/ayberkt/Dropbox/Reading/manuell-pt-and-cm-2022.pdf"
+type="external">PDF</fr:link></fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

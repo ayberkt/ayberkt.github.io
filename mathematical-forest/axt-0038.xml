@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1001</anchor>  <taxon>Definition</taxon> <addr>axt-0038</addr>  <route>axt-0038.xml</route> <date><year>2023</year> <month>11</month> <day>3</day></date>  <title>Inductive ordered set</title> </frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1002</anchor>  <taxon>Definition</taxon> <addr>axt-000Z</addr>  <route>axt-000Z.xml</route> <date><year>2023</year> <month>9</month> <day>18</day></date>  <title>Zorn's Lemma</title> </frontmatter> <mainmatter><p>  <b>Zorn's lemma</b> is the statement that every nonempty
-  <link href="axt-0038.xml" type="local" title="Inductive ordered set">inductive</link> ordered set has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>706</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0038</fr:addr><fr:route>axt-0038.xml</fr:route><fr:title>Inductive ordered set</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>705</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000Z</fr:addr><fr:route>axt-000Z.xml</fr:route><fr:title>Zorn's Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>18</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p><fr:strong>Zorn's lemma</fr:strong> is the statement that every nonempty
+  <fr:link
+href="axt-0038.xml"
+type="local"
+addr="axt-0038">inductive</fr:link> ordered set has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

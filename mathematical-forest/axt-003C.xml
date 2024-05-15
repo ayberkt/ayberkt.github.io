@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1017</anchor>  <taxon>Definition</taxon> <addr>axt-003C</addr>  <route>axt-003C.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Directed-complete partial order</title> </frontmatter> <mainmatter><p>  A <b>directed-complete partial order</b> is a poset <tex>(D,  \sqsubseteq )</tex>  that is directed-complete i.e. one in which joins of all directed subsets
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>666</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>directed-complete partial order</fr:strong> is a poset <fr:tex>(D,  \sqsubseteq )</fr:tex>
+  that is directed-complete i.e. one in which joins of all directed subsets
   exist.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1018</anchor>  <taxon>Definition</taxon> <addr>axt-003B</addr>  <route>axt-003B.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo</title> <meta name="source"><b>Defn. 8.1</b> of <link href="foo" type="external">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  A <b>pointed dcpo</b> is a <link href="axt-003C.xml" type="local" title="Directed-complete partial order">dcpo</link> that has a bottom element
-  <tex>\bot   \in  D</tex>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>664</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-06</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 8.1</fr:strong> of <fr:link
+href="foo"
+type="external">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>pointed dcpo</fr:strong> is a <fr:link
+href="axt-003C.xml"
+type="local"
+addr="axt-003C">dcpo</fr:link> that has a bottom element
+  <fr:tex>\bot   \in  D</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

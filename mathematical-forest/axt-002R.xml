@@ -1,43 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>920</anchor>  <taxon>Definition</taxon> <addr>axt-002R</addr>  <route>axt-002R.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zero-dimensional locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called
-  <b>zero-dimensional</b> if it satisfies the following condition:
-  for every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family <tex>(K_U,
-   \kappa _U)</tex> that satisfies the following conditions.
-  <ol>    <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>    <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>    <li>      It consists of clopens i.e.
-      <tex>\forall  k : K_U. \  \mathsf{isClopen} ( \kappa _{U}(k))</tex>.
-    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>921</anchor>   <addr>axt-002P</addr>  <route>axt-002P.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Terminology for locale theory</title> </frontmatter> <mainmatter><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>922</anchor>  <taxon>Definition</taxon> <addr>axt-002Q</addr>  <route>axt-002Q.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Spectral locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called <b>spectral</b>  if it satisfies the following three conditions.
-  <ol>    <li>It is a compact locale (i.e. the empty meet is compact).</li>    <li>The meet of two compact opens is compact.</li>    <li>      For every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family
-      <tex>(K_U,  \kappa _U)</tex> that satisfies the following conditions.
-      <ol>        <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>        <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>        <li>          It consists of compact opens i.e.
-          <tex>\forall  k : K_U. \  \mathsf{isCompact} ( \kappa _{U}(k) )</tex>.
-        </li>      </ol>    </li>  </ol></p></mainmatter> </tree><p>  Notice the relationship of the third condition here to
-  <link href="axt-0029.xml" type="local" title="Pseudocontinuous V-dcpo">pseudocontinuity</link>. If we formulate a notion of “pseudoalgebraicity”
-  i.e. the analogue of <link href="axt-0029.xml" type="local" title="Pseudocontinuous V-dcpo">pseudocontinuity</link> for
-  <link href="axt-001L.xml" type="local" title="Algebraic V-dcpo">algebraicity</link>, we could use that to avoid the repetition here
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>963</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called
+  <fr:strong>zero-dimensional</fr:strong> if it satisfies the following condition:
+  for every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>(K_U,    \kappa _U)</fr:tex> that satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+    <fr:li>
+      It consists of clopens i.e.
+      <fr:tex>\forall  k : K_U. \  \mathsf {isClopen}( \kappa _{U}(k))</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>960</fr:anchor><fr:addr>axt-002P</fr:addr><fr:route>axt-002P.xml</fr:route><fr:title>Terminology for locale theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002Q</fr:addr><fr:route>axt-002Q.xml</fr:route><fr:title>Spectral locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong>
+  if it satisfies the following three conditions.
+  <fr:ol><fr:li>It is a compact locale (i.e. the empty meet is compact).</fr:li>
+    <fr:li>The meet of two compact opens is compact.</fr:li>
+    <fr:li>
+      For every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family
+      <fr:tex>(K_U,  \kappa _U)</fr:tex> that satisfies the following conditions.
+      <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+        <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+        <fr:li>
+          It consists of compact opens i.e.
+          <fr:tex>\forall  k : K_U. \  \mathsf {isCompact}( \kappa _{U}(k) )</fr:tex>.
+        </fr:li></fr:ol></fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree><fr:p>
+  Notice the relationship of the third condition here to
+  <fr:link
+href="axt-0029.xml"
+type="local"
+addr="axt-0029">pseudocontinuity</fr:link>. If we formulate a notion of “pseudoalgebraicity”
+  i.e. the analogue of <fr:link
+href="axt-0029.xml"
+type="local"
+addr="axt-0029">pseudocontinuity</fr:link> for
+  <fr:link
+href="axt-001L.xml"
+type="local"
+addr="axt-001L">algebraicity</fr:link>, we could use that to avoid the repetition here
   because they are exactly the same thing. This is not good for presentation
   purposes (as for as locale theory is concerned), however, so it should
   probably be recorded as an equivalence.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>923</anchor>  <taxon>Definition</taxon> <addr>axt-0032</addr>  <route>axt-0032.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Intensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>intensional spectral basis</b> for a <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link>  <tex>X</tex> is an <link href="axt-0022.xml" type="local" title="Intensional basis for a V-dcpo">intensional basis</link> <tex>(B,  \beta )</tex> for the frame
-  <tex>\mathcal{O} ( X )</tex> (considered as a <link href="axt-0021.xml" type="local" title="V-dcpo"><tex>\mathcal{W}</tex>-dcpo</link>) that satisfies the
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0032</fr:addr><fr:route>axt-0032.xml</fr:route><fr:title>Intensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>intensional spectral basis</fr:strong> for a <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link>
+  <fr:tex>X</fr:tex> is an <fr:link
+href="axt-0022.xml"
+type="local"
+addr="axt-0022">intensional basis</fr:link> <fr:tex>(B,  \beta )</fr:tex> for the frame
+  <fr:tex>\mathcal {O}( X )</fr:tex> (considered as a <fr:link
+href="axt-0021.xml"
+type="local"
+addr="axt-0021"><fr:tex>\mathcal {W}</fr:tex>-dcpo</fr:link>) that satisfies the
   following two conditions
-  <ul>    <li>For every <tex>b : B</tex>, <tex>\beta (b)</tex> is a <link href="axt-002S.xml" type="local" title="Compact open of a locale in UF">compact open</link> of <tex>X</tex>.</li>    <li>      The basis <tex>(B,  \beta )</tex> is closed under finite meets. This is to say
+  <fr:ul><fr:li>For every <fr:tex>b : B</fr:tex>, <fr:tex>\beta (b)</fr:tex> is a <fr:link
+href="axt-002S.xml"
+type="local"
+addr="axt-002S">compact open</fr:link> of <fr:tex>X</fr:tex>.</fr:li>
+    <fr:li>
+      The basis <fr:tex>(B,  \beta )</fr:tex> is closed under finite meets. This is to say
       that it satisfies the following conditions.
-      <ul>        <li>It contains the empty meet: <tex>\exists  t : B. \  \mathsf{isTop} ( \beta (t))</tex>.</li>        <li>          It is closed under binary meets:
-          <tex display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text{is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</tex>        </li>      </ul>    </li>  </ul></p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>3</crumb></trail> <anchor>924</anchor>  <taxon>Definition</taxon> <addr>axt-0033</addr>  <route>axt-0033.xml</route> <date><year>2023</year> <month>11</month> <day>2</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Extensional spectral basis for a locale</title> </frontmatter> <mainmatter><p>  An <b>extensional spectral basis</b> <tex>(B,  \beta )</tex> for a
-  <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>\mathcal{W}</tex>-locale</link> is an <link href="axt-0032.xml" type="local" title="Intensional spectral basis for a locale">intensional spectral basis</link> that is
-  <link href="axt-0028.xml" type="local" title="Extensional basis for a V-dcpo">extensional</link>.
-</p></mainmatter> </tree><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>4</crumb></trail> <anchor>925</anchor>  <taxon>Definition</taxon> <addr>axt-002R</addr>  <route>axt-002R.xml</route> <date><year>2023</year> <month>11</month> <day>1</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Zero-dimensional locale in UF</title> </frontmatter> <mainmatter><p>  A <link href="axt-0008.xml" type="local" title="Frame (type-theoretic)"><tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-locale</link> <tex>X</tex> is called
-  <b>zero-dimensional</b> if it satisfies the following condition:
-  for every <tex>U :  \mathcal{O} ( X )</tex>, there exists a directed <tex>\mathcal{W}</tex>-family <tex>(K_U,
-   \kappa _U)</tex> that satisfies the following conditions.
-  <ol>    <li><tex>(K_U,  \kappa _U)</tex> is directed.</li>    <li><tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</tex>.</li>    <li>      It consists of clopens i.e.
-      <tex>\forall  k : K_U. \  \mathsf{isClopen} ( \kappa _{U}(k))</tex>.
-    </li>  </ol></p></mainmatter> </tree></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>926</anchor>  <taxon>Definition</taxon> <addr>axt-0008</addr>  <route>axt-0008.xml</route> <date><year>2023</year> <month>8</month> <day>19</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Frame (type-theoretic)</title> <meta name="source"><b>Defn. 2.4</b> from <link href="patch-mfps.xml" type="local" title="Patch Locale of a Spectral Locale in Univalent Type Theory">Patch Locale of a Spectral Locale in Univalent Type Theory</link></meta></frontmatter> <mainmatter><p>  A <tex>( \mathcal{U} ,  \mathcal{V} ,  \mathcal{W} )</tex>-frame <tex>L</tex> consists of a
-  <ol>    <li>a type <tex>|L| :  \mathcal{U}</tex></li>    <li>a partial order <tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal{V} }</tex>,</li>    <li>a top element <tex>\mathbf{1}  : |L|</tex>,</li>    <li>      an operation <tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</tex> giving the greatest lower
-      bound <tex>U  \wedge  V</tex> of any two <tex>U, V : |L|</tex>.
-    </li>    <li>      an operation <tex>\bigvee  - :  \mathsf{Fam} _{ \mathcal{W} }(|L|)  \to  |L|</tex> giving the least upper
-      bound <tex>\bigvee _{i : I} U_i</tex> of any <tex>\mathcal{W}</tex>-family <tex>\left \{  U_i  \right \} _{i : I}</tex>.
-    </li>    <li>      such that binary meets distribute over arbitrary joins, i.e.
-      <tex display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</tex>      for every <tex>U : |L|</tex> and <tex>\mathcal{W}</tex>-family <tex>\{  V_i  \} _{i : I}</tex> in <tex>|L|</tex>.
-    </li>  </ol></p></mainmatter> </tree></related> <backlinks/> <references/></backmatter></tree>
+      <fr:ul><fr:li>It contains the empty meet: <fr:tex>\exists  t : B. \  \mathsf {isTop}( \beta (t))</fr:tex>.</fr:li>
+        <fr:li>
+          It is closed under binary meets:
+          <fr:tex
+display="block">\forall  b_1, b_2 : B. \  \exists  b_3 : B \  \beta (b_3) \  \text {is the glb of} \  \{   \beta (b_2),  \beta (b_3)  \} .</fr:tex></fr:li></fr:ul></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>811</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0033</fr:addr><fr:route>axt-0033.xml</fr:route><fr:title>Extensional spectral basis for a locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:strong>extensional spectral basis</fr:strong> <fr:tex>(B,  \beta )</fr:tex> for a
+  <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>\mathcal {W}</fr:tex>-locale</fr:link> is an <fr:link
+href="axt-0032.xml"
+type="local"
+addr="axt-0032">intensional spectral basis</fr:link> that is
+  <fr:link
+href="axt-0028.xml"
+type="local"
+addr="axt-0028">extensional</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>814</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-002R</fr:addr><fr:route>axt-002R.xml</fr:route><fr:title>Zero-dimensional locale in UF</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:link
+href="axt-0008.xml"
+type="local"
+addr="axt-0008"><fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-locale</fr:link> <fr:tex>X</fr:tex> is called
+  <fr:strong>zero-dimensional</fr:strong> if it satisfies the following condition:
+  for every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there exists a directed <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>(K_U,    \kappa _U)</fr:tex> that satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>(K_U,  \kappa _U)</fr:tex> is directed.</fr:li>
+    <fr:li><fr:tex>U =  \bigvee _{k : K_U}  \kappa _U(k)</fr:tex>.</fr:li>
+    <fr:li>
+      It consists of clopens i.e.
+      <fr:tex>\forall  k : K_U. \  \mathsf {isClopen}( \kappa _{U}(k))</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>957</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0008</fr:addr><fr:route>axt-0008.xml</fr:route><fr:title>Frame (type-theoretic)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> from <fr:link
+href="patch-mfps.xml"
+type="local"
+addr="patch-mfps">Patch MFPS</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:tex>( \mathcal {U} ,  \mathcal {V} ,  \mathcal {W} )</fr:tex>-frame <fr:tex>L</fr:tex> consists of a
+  <fr:ol><fr:li>a type <fr:tex>|L| :  \mathcal {U}</fr:tex></fr:li>
+    <fr:li>a partial order <fr:tex>-  \le  - : |L|  \to  |L|  \to   \Omega _{ \mathcal {V} }</fr:tex>,</fr:li>
+    <fr:li>a top element <fr:tex>\mathbf {1}  : |L|</fr:tex>,</fr:li>
+    <fr:li>
+      an operation <fr:tex>-  \wedge  - : |L|  \to  |L|  \to  |L|</fr:tex> giving the greatest lower
+      bound <fr:tex>U  \wedge  V</fr:tex> of any two <fr:tex>U, V : |L|</fr:tex>.
+    </fr:li>
+    <fr:li>
+      an operation <fr:tex>\bigvee  - :  \mathsf {Fam} _{ \mathcal {W} }(|L|)  \to  |L|</fr:tex> giving the least upper
+      bound <fr:tex>\bigvee _{i : I} U_i</fr:tex> of any <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\left \{  U_i  \right \} _{i : I}</fr:tex>.
+    </fr:li>
+    <fr:li>
+      such that binary meets distribute over arbitrary joins, i.e.
+      <fr:tex
+display="block">U  \wedge   \bigvee _{i : I} V_i =  \bigvee _{i : I} U  \wedge  V_i</fr:tex>
+      for every <fr:tex>U : |L|</fr:tex> and <fr:tex>\mathcal {W}</fr:tex>-family <fr:tex>\{  V_i  \} _{i : I}</fr:tex> in <fr:tex>|L|</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

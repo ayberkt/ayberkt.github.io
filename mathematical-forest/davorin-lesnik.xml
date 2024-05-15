@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1267</anchor>  <taxon>Person</taxon> <addr>davorin-lesnik</addr>  <route>davorin-lesnik.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date>  <title>Davorin Lešnik</title> <meta name="institution">University of Ljubljana</meta><meta name="external">https://www.fmf.uni-lj.si/en/directory/137/lesnik-davorin/</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1268</anchor>  <taxon>Definition</taxon> <addr>axt-0026</addr>  <route>axt-0026.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="davorin-lesnik.xml" type="local">Davorin Lešnik</link></author> </authors> <title>Intrinsically open</title> <meta name="source"><b>Defn. 2.4</b> of <link href="lesnik-thesis.xml" type="local" title="Synthetic Topology and Constructive Metric Spaces">[Leš2010]</link></meta></frontmatter> <mainmatter><p>  Let <tex>( \mathcal{E} ,  \Sigma )</tex> be a <link href="axt-0025.xml" type="local" title="Model of synthetic topology">model of synthetic topology</link>.
-  A subobject <tex>U  \hookrightarrow  X</tex> of an object <tex>X</tex> is called
-  <em>intrinsically open</em> if its characteristic map <tex>\chi _{U} : X  \to   \Omega</tex>  factors through the Sierpiński object <tex>\Sigma</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1269</anchor>  <taxon>Definition</taxon> <addr>axt-0025</addr>  <route>axt-0025.xml</route> <date><year>2023</year> <month>10</month> <day>28</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="davorin-lesnik.xml" type="local">Davorin Lešnik</link></author> </authors> <title>Model of synthetic topology</title> <meta name="source"><b>Defn. 2.4</b> of <link href="lesnik-thesis.xml" type="local" title="Synthetic Topology and Constructive Metric Spaces">[Leš2010]</link></meta></frontmatter> <mainmatter><p>  A <em>model of synthetic topology</em> is a topos <tex>\mathcal{E}</tex> with a chosen subobject
-  <tex>\Sigma   \subseteq   \Omega</tex> of the subobject classifier, called the
-  <em>Sierpiński object</em>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1270</anchor>  <taxon>Reference</taxon> <addr>lesnik-thesis</addr>  <route>lesnik-thesis.xml</route> <date><year>2010</year>  </date> <authors><author><link href="davorin-lesnik.xml" type="local">Davorin Lešnik</link></author> </authors> <title>Synthetic Topology and Constructive Metric Spaces</title> <meta name="bibtex">@thesis{lesnik-thesis,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1202</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>davorin-lesnik</fr:addr><fr:route>davorin-lesnik.xml</fr:route><fr:title>Davorin Lešnik</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:meta
+name="institution">University of Ljubljana</fr:meta><fr:meta
+name="external">https://www.fmf.uni-lj.si/en/directory/137/lesnik-davorin/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1194</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0026</fr:addr><fr:route>axt-0026.xml</fr:route><fr:title>Intrinsically open</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="davorin-lesnik.xml"
+type="local"
+addr="davorin-lesnik">Davorin Lešnik</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> of <fr:link
+href="lesnik-thesis.xml"
+type="local"
+addr="lesnik-thesis">[Leš2010]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>( \mathcal {E} ,  \Sigma )</fr:tex> be a <fr:link
+href="axt-0025.xml"
+type="local"
+addr="axt-0025">model of synthetic topology</fr:link>.
+  A subobject <fr:tex>U  \hookrightarrow  X</fr:tex> of an object <fr:tex>X</fr:tex> is called
+  <fr:em>intrinsically open</fr:em> if its characteristic map <fr:tex>\chi _{U} : X  \to   \Omega</fr:tex>
+  factors through the Sierpiński object <fr:tex>\Sigma</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1197</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>lesnik-thesis</fr:addr><fr:route>lesnik-thesis.xml</fr:route><fr:title>Synthetic Topology and Constructive Metric Spaces</fr:title><fr:date><fr:year>2010</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="davorin-lesnik.xml"
+type="local"
+addr="davorin-lesnik">Davorin Lešnik</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@thesis{lesnik-thesis,
   title         = {Synthetic {Topology} and {Constructive Metric Spaces}},
   author        = {Lešnik, Davorin},
   date          = {2010},
@@ -15,5 +55,26 @@
   eprint        = {2104.10399},
   institution   = {{University of Ljubljana}},
   location      = {Ljubljana, Slovenia},
-}
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1199</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0025</fr:addr><fr:route>axt-0025.xml</fr:route><fr:title>Model of synthetic topology</fr:title><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="davorin-lesnik.xml"
+type="local"
+addr="davorin-lesnik">Davorin Lešnik</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-10-28</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 2.4</fr:strong> of <fr:link
+href="lesnik-thesis.xml"
+type="local"
+addr="lesnik-thesis">[Leš2010]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em>model of synthetic topology</fr:em> is a topos <fr:tex>\mathcal {E}</fr:tex> with a chosen subobject
+  <fr:tex>\Sigma   \subseteq   \Omega</fr:tex> of the subobject classifier, called the
+  <fr:em>Sierpiński object</fr:em>.
+</fr:p></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

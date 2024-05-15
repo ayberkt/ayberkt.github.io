@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1145</anchor>  <taxon>Definition</taxon> <addr>axt-004A</addr>  <route>axt-004A.xml</route> <date><year>2023</year> <month>11</month> <day>26</day></date>  <title>Lesser Limited Principle of Omniscience</title> <meta name="source">Defined in <link href="bridges-richman-varieties.xml" type="local" title="Varieties of constructive mathematics">Varieties of constructive mathematics</link></meta></frontmatter> <mainmatter><p>  The <b>lesser limited principle of omniscience</b> (<b>LLPO</b> for short)  states that for any binary sequence <tex>\{  a_n  \} _{n  \in   \mathbb{N} }</tex> that contains at
-  most one <tex>1</tex>, either
-  <tex display="block">\forall  n  \in   \mathbb{N} . \  a_{2n} = 0</tex>  or
-  <tex display="block">\forall  n  \in   \mathbb{N} . \  a_{2n + 1} = 0.</tex></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1146</anchor>  <taxon>Reference</taxon> <addr>bridges-richman-varieties</addr>  <route>bridges-richman-varieties.xml</route> <date><year>1987</year>  </date> <authors><author>Douglas S. Bridges</author><author>Fred Richman</author> </authors> <title>Varieties of constructive mathematics</title> <meta name="bibtex">@book{bridges-richman-varieties,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>458</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004A</fr:addr><fr:route>axt-004A.xml</fr:route><fr:title>Lesser Limited Principle of Omniscience</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:meta
+name="source">Defined in <fr:link
+href="bridges-richman-varieties.xml"
+type="local"
+addr="bridges-richman-varieties">Varieties of constructive mathematics</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:strong>lesser limited principle of omniscience</fr:strong> (<fr:strong>LLPO</fr:strong> for short)
+  states that for any binary sequence <fr:tex>\{  a_n  \} _{n  \in   \mathbb {N} }</fr:tex> that contains at
+  most one <fr:tex>1</fr:tex>, either
+  <fr:tex
+display="block">\forall  n  \in   \mathbb {N} . \  a_{2n} = 0</fr:tex>
+  or
+  <fr:tex
+display="block">\forall  n  \in   \mathbb {N} . \  a_{2n + 1} = 0.</fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>455</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>bridges-richman-varieties</fr:addr><fr:route>bridges-richman-varieties.xml</fr:route><fr:title>Varieties of constructive mathematics</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Douglas S. Bridges</fr:author><fr:author>Fred Richman</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{bridges-richman-varieties,
   title        = {Varieties of Constructive Mathematics},
   author       = {Bridges, Douglas S. and Richman, Fred},
   date         = {1987},
@@ -11,5 +36,4 @@
   series       = {London Mathematical Society Lecture Note Series},
   volume       = 97,
   doi          = {10.1017/CBO9780511565663}
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

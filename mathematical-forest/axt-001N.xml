@@ -1,104 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>367</anchor>  <taxon>Definition</taxon> <addr>axt-001N</addr>  <route>axt-001N.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author> </authors> <title>Partial application operation</title> </frontmatter> <mainmatter><p>  Let
-  <ul>    <li><tex>\langle   {-}   \rangle</tex> denote some computable coding operation <tex>\mathsf{List} ( \mathbb{N} )   \to   \mathbb{N}</tex>, and</li>    <li><tex>\mu</tex> denote the <link href="axt-001O.xml" type="local" title="Minimization operator">minimization operator</link>.</li>  </ul></p><p>  Given two functions <tex>f, g :  \mathbb{N}   \to   \mathbb{N}</tex>, the <em>application</em> of <tex>f</tex> to
-  <tex>g</tex> is defined as follows:
-  <tex display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</tex>  where
-  <tex display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</tex></p><p>  Defined in <b>Section 3.2.1</b> of <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">Longley and Normann's
-  book</link>.
-</p></mainmatter> <backmatter><contributions/> <context><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>368</anchor>   <addr>axt-001P</addr>  <route>axt-001P.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> <contributor><link href="john-longley.xml" type="local">John R. Longley</link></contributor></authors> <title>Idea of Kleene's second model</title> </frontmatter> <mainmatter><p>  The following is the summary of my understanding of <link href="john-longley.xml" type="local" title="John R. Longley">Longley</link>  and <link href="dag-normann.xml" type="local" title="Dag Normann">Normann</link>'s discussion in <b>Section 3.2.1</b> of their <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">book
-  on higher-order computability</link>.
-</p><p>  Consider a function <tex>F :  \mathbb{N} ^{ \mathbb{N} }  \to   \mathbb{N}</tex>, that is computable in an
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1423</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let
+  <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
+    <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
+href="axt-001O.xml"
+type="local"
+addr="axt-001O">minimization operator</fr:link>.</fr:li></fr:ul></fr:p><fr:p>
+  Given two functions <fr:tex>f, g :  \mathbb {N}   \to   \mathbb {N}</fr:tex>, the <fr:em>application</fr:em> of <fr:tex>f</fr:tex> to
+  <fr:tex>g</fr:tex> is defined as follows:
+  <fr:tex
+display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</fr:tex>
+  where
+  <fr:tex
+display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</fr:tex></fr:p><fr:p>
+  Defined in <fr:strong>Section 3.2.1</fr:strong> of <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">Longley and Normann's
+  book</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1420</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  The following is the summary of my understanding of <fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">Longley</fr:link>
+  and <fr:link
+href="dag-normann.xml"
+type="local"
+addr="dag-normann">Normann</fr:link>'s discussion in <fr:strong>Section 3.2.1</fr:strong> of their <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">book
+  on higher-order computability</fr:link>.
+</fr:p><fr:p>
+  Consider a function <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }  \to   \mathbb {N}</fr:tex>, that is computable in an
   intuitive sense.
-</p><p>  Given some <tex>g  \in   \mathbb{N} ^{ \mathbb{N} }</tex>, when the function <tex>F</tex> returns a result <tex>F(g)  \in    \mathbb{N}</tex>, it must do so after a finite examination of the input <tex>g</tex>. This is to
-  say that there must be some <tex>r  \in   \mathbb{N}</tex> such that <tex>F</tex> &quot;looks at&quot; only the
-  values <tex>g(0),  \ldots , g(i_{r-1})</tex>. So the result <tex>F(g)</tex> is <em>determined
-  solely</em> using the information of the behaviour of <tex>g</tex> on the inputs <tex>0,
-   \ldots , i_{r-1}</tex>.
-</p><p>  Attempting to capture this idea of <tex>F</tex> being determined solely on a finite
-  amount of information about the behaviour of <tex>g</tex>, we are naturally led to the
-  notion of <em>continuity</em>: <tex>F</tex> cannot distinguish between <tex>g</tex> and any other
-  function <tex>g'  \in   \mathbb{N} ^{ \mathbb{N} }</tex> that returns the same values as those of <tex>g</tex> on
-  inputs <tex>0,  \ldots , i_{r-1}</tex>. In other words,
-  <tex display="block">     \forall  g'  \in   \mathbb{N} ^{ \mathbb{N} } . \  \forall  k  \in   \{ 0,  \ldots , r-1 \} . \  g(i_k) = g'(i_k)  \rightarrow  F(g) = F(g').
-  </tex></p><p>  This is precisely the same thing as saying that <tex>F</tex> is <em>continuous</em> with
-  respect to the standard Baire topology on <tex>\mathbb{N} ^{ \mathbb{N} }</tex> and the discrete topology
-  <tex>\mathbb{N}</tex>. Continuity is merely a <em>necessary condition</em> for computability as
-  there are many continuous functions <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> that are <b>not</b>  computable (in any sense). The idea, however, is that an abstract model of
+</fr:p><fr:p>
+  Given some <fr:tex>g  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex>, when the function <fr:tex>F</fr:tex> returns a result <fr:tex>F(g)  \in     \mathbb {N}</fr:tex>, it must do so after a finite examination of the input <fr:tex>g</fr:tex>. This is to
+  say that there must be some <fr:tex>r  \in   \mathbb {N}</fr:tex> such that <fr:tex>F</fr:tex> "looks at" only the
+  values <fr:tex>g(0),  \ldots , g(i_{r-1})</fr:tex>. So the result <fr:tex>F(g)</fr:tex> is <fr:em>determined
+  solely</fr:em> using the information of the behaviour of <fr:tex>g</fr:tex> on the inputs <fr:tex>0,    \ldots , i_{r-1}</fr:tex>.
+</fr:p><fr:p>
+  Attempting to capture this idea of <fr:tex>F</fr:tex> being determined solely on a finite
+  amount of information about the behaviour of <fr:tex>g</fr:tex>, we are naturally led to the
+  notion of <fr:em>continuity</fr:em>: <fr:tex>F</fr:tex> cannot distinguish between <fr:tex>g</fr:tex> and any other
+  function <fr:tex>g'  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex> that returns the same values as those of <fr:tex>g</fr:tex> on
+  inputs <fr:tex>0,  \ldots , i_{r-1}</fr:tex>. In other words,
+  <fr:tex
+display="block">      \forall  g'  \in   \mathbb {N} ^{ \mathbb {N} } . \  \forall  k  \in   \{ 0,  \ldots , r-1 \} . \  g(i_k) = g'(i_k)  \rightarrow  F(g) = F(g').   </fr:tex></fr:p><fr:p>
+  This is precisely the same thing as saying that <fr:tex>F</fr:tex> is <fr:em>continuous</fr:em> with
+  respect to the standard Baire topology on <fr:tex>\mathbb {N} ^{ \mathbb {N} }</fr:tex> and the discrete topology
+  <fr:tex>\mathbb {N}</fr:tex>. Continuity is merely a <fr:em>necessary condition</fr:em> for computability as
+  there are many continuous functions <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> that are <fr:strong>not</fr:strong>
+  computable (in any sense). The idea, however, is that an abstract model of
   computation based only on this necessary condition will already capture some
   interesting aspects of computability.
-</p><p>  If <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> is continuous in this sense, the function <tex>F</tex>  can be <b>described completely</b> by whether the information
-  <tex display="block">g(0) = m_0,  \ldots , g(r-1) = m-1</tex>  is sufficient to determine the value of <tex>F(g)</tex>, and if it is, what this
-  value is. But this information that completely determines <tex>F</tex> is <b>finite</b>  and itself be represented as a function <tex>f_F  \in   \mathbb{N} ^{ \mathbb{N} }</tex>, defined as
-  <tex display="block">    f( \langle   m_0,  \ldots , m_{r-1}   \rangle )  \vcentcolon \equiv        \begin{cases}         m + 1 &amp;  \mathsf{if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1}  \rightarrow  F(g) = m \  \\         0     &amp;  \mathsf{if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1} \  \mathsf{does \  not \  suffice \  to \  determine} \  F(g)       \end{cases}   </tex></p><p>  The idea of the <link href="axt-001N.xml" type="local" title="Partial application operation">partial application operation</link> is to take such an
-  <tex>f_F</tex> encoding a function <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> and to determine the value
-  of <tex>F(g)</tex> using the continuity data encoded by <tex>f_F</tex>. This brings us to
+</fr:p><fr:p>
+  If <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> is continuous in this sense, the function <fr:tex>F</fr:tex>
+  can be <fr:strong>described completely</fr:strong> by whether the information
+  <fr:tex
+display="block">g(0) = m_0,  \ldots , g(r-1) = m-1</fr:tex>
+  is sufficient to determine the value of <fr:tex>F(g)</fr:tex>, and if it is, what this
+  value is. But this information that completely determines <fr:tex>F</fr:tex> is <fr:strong>finite</fr:strong>
+  and itself be represented as a function <fr:tex>f_F  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex>, defined as
+  <fr:tex
+display="block">     f( \langle   m_0,  \ldots , m_{r-1}   \rangle )  \vcentcolon \equiv         \begin {cases}         m + 1 &amp;  \mathsf {if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1}  \rightarrow  F(g) = m \  \\          0     &amp;  \mathsf {if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1} \  \mathsf {does \  not \  suffice \  to \  determine} \  F(g)        \end {cases}   </fr:tex></fr:p><fr:p>
+  The idea of the <fr:link
+href="axt-001N.xml"
+type="local"
+addr="axt-001N">partial application operation</fr:link> is to take such an
+  <fr:tex>f_F</fr:tex> encoding a function <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> and to determine the value
+  of <fr:tex>F(g)</fr:tex> using the continuity data encoded by <fr:tex>f_F</fr:tex>. This brings us to
   the definition of this application operation.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>369</anchor>  <taxon>Definition</taxon> <addr>axt-001N</addr>  <route>axt-001N.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author> </authors> <title>Partial application operation</title> </frontmatter> <mainmatter><p>  Let
-  <ul>    <li><tex>\langle   {-}   \rangle</tex> denote some computable coding operation <tex>\mathsf{List} ( \mathbb{N} )   \to   \mathbb{N}</tex>, and</li>    <li><tex>\mu</tex> denote the <link href="axt-001O.xml" type="local" title="Minimization operator">minimization operator</link>.</li>  </ul></p><p>  Given two functions <tex>f, g :  \mathbb{N}   \to   \mathbb{N}</tex>, the <em>application</em> of <tex>f</tex> to
-  <tex>g</tex> is defined as follows:
-  <tex display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</tex>  where
-  <tex display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</tex></p><p>  Defined in <b>Section 3.2.1</b> of <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">Longley and Normann's
-  book</link>.
-</p></mainmatter> </tree><p>  So this operation gives us a function <tex>{-} \  | \ {-}  :  \mathbb{N} ^{ \mathbb{N} }   \times   \mathbb{N} ^{ \mathbb{N} }   \rightharpoonup    \mathbb{N} ^{ \mathbb{N} }</tex></p><p>  Kleene's second model (often denoted <tex>\mathsf{K_2}</tex>) is the structure <tex>( \mathbb{N} ^{ \mathbb{N} } , {-} \  | \ {-} )</tex>.
-</p><p>  Kleene's <link href="axt-001M.xml" type="local" title="Kleene's countable functionals">countable functionals</link> extend this idea from types of
-  degree <tex>2</tex> to types of arbitrary degree i.e. higher types.
-</p></mainmatter> </tree></context> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>370</anchor>  <taxon>Definition</taxon> <addr>axt-001O</addr>  <route>axt-001O.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date>  <title>Minimization operator</title> </frontmatter> <mainmatter><p>  The <em>minimization operation</em> (sometimes called &quot;unbounded search&quot;) is a
-  partial function <tex display="block">\mu  : ( \mathbb{N}   \to   \mathsf{Bool} )  \rightharpoonup   \mathbb{N}</tex> defined as
-  <tex display="block">\mu (P)  \vcentcolon \equiv   \mathsf{search}  ( P ,  0 ) .</tex>  where the auxiliary <tex>\mathsf{search}</tex> function is defined as
-  <tex display="block">     \mathsf{search}  ( P ,  n )   \vcentcolon \equiv        \begin{cases}         n                &amp;  \mathsf{if} \  P(n) \\          \mathsf{search}  ( P ,  n+1 )   &amp;  \mathsf{otherwise}        \end{cases}   </tex></p><p>  Given a predicate <tex>P :  \mathbb{N}   \to   \mathsf{Bool}</tex>, <tex>\mu (P)</tex> will return the smallest
-  <tex>n</tex> satisfying <tex>P</tex>, if such an <tex>n</tex> exists, and will be undefined otherwise.
-</p></mainmatter> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>371</anchor>   <addr>axt-001P</addr>  <route>axt-001P.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> <contributor><link href="john-longley.xml" type="local">John R. Longley</link></contributor></authors> <title>Idea of Kleene's second model</title> </frontmatter> <mainmatter><p>  The following is the summary of my understanding of <link href="john-longley.xml" type="local" title="John R. Longley">Longley</link>  and <link href="dag-normann.xml" type="local" title="Dag Normann">Normann</link>'s discussion in <b>Section 3.2.1</b> of their <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">book
-  on higher-order computability</link>.
-</p><p>  Consider a function <tex>F :  \mathbb{N} ^{ \mathbb{N} }  \to   \mathbb{N}</tex>, that is computable in an
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let
+  <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
+    <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
+href="axt-001O.xml"
+type="local"
+addr="axt-001O">minimization operator</fr:link>.</fr:li></fr:ul></fr:p><fr:p>
+  Given two functions <fr:tex>f, g :  \mathbb {N}   \to   \mathbb {N}</fr:tex>, the <fr:em>application</fr:em> of <fr:tex>f</fr:tex> to
+  <fr:tex>g</fr:tex> is defined as follows:
+  <fr:tex
+display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</fr:tex>
+  where
+  <fr:tex
+display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</fr:tex></fr:p><fr:p>
+  Defined in <fr:strong>Section 3.2.1</fr:strong> of <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">Longley and Normann's
+  book</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  So this operation gives us a function <fr:tex>{-} \  | \  {-} :  \mathbb {N} ^{ \mathbb {N} }   \times   \mathbb {N} ^{ \mathbb {N} }   \rightharpoonup     \mathbb {N} ^{ \mathbb {N} }</fr:tex></fr:p><fr:p>
+  Kleene's second model (often denoted <fr:tex>\mathsf {K_2}</fr:tex>) is the structure <fr:tex>( \mathbb {N} ^{ \mathbb {N} } , {-} \  | \  {-})</fr:tex>.
+</fr:p><fr:p>
+  Kleene's <fr:link
+href="axt-001M.xml"
+type="local"
+addr="axt-001M">countable functionals</fr:link> extend this idea from types of
+  degree <fr:tex>2</fr:tex> to types of arbitrary degree i.e. higher types.
+</fr:p></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1419</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001O</fr:addr><fr:route>axt-001O.xml</fr:route><fr:title>Minimization operator</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  The <fr:em>minimization operation</fr:em> (sometimes called "unbounded search") is a
+  partial function <fr:tex
+display="block">\mu  : ( \mathbb {N}   \to   \mathsf {Bool} )  \rightharpoonup   \mathbb {N}</fr:tex> defined as
+  <fr:tex
+display="block">\mu (P)  \vcentcolon \equiv   \mathsf {search}  ( P ,  0 ) .</fr:tex>
+  where the auxiliary <fr:tex>\mathsf {search}</fr:tex> function is defined as
+  <fr:tex
+display="block">      \mathsf {search}  ( P ,  n )   \vcentcolon \equiv         \begin {cases}         n                &amp;  \mathsf {if} \  P(n) \\           \mathsf {search}  ( P ,  n+1 )   &amp;  \mathsf {otherwise}        \end {cases}   </fr:tex></fr:p><fr:p>
+  Given a predicate <fr:tex>P :  \mathbb {N}   \to   \mathsf {Bool}</fr:tex>, <fr:tex>\mu (P)</fr:tex> will return the smallest
+  <fr:tex>n</fr:tex> satisfying <fr:tex>P</fr:tex>, if such an <fr:tex>n</fr:tex> exists, and will be undefined otherwise.
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1414</fr:anchor><fr:addr>axt-001P</fr:addr><fr:route>axt-001P.xml</fr:route><fr:title>Idea of Kleene's second model</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author><fr:contributor><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  The following is the summary of my understanding of <fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">Longley</fr:link>
+  and <fr:link
+href="dag-normann.xml"
+type="local"
+addr="dag-normann">Normann</fr:link>'s discussion in <fr:strong>Section 3.2.1</fr:strong> of their <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">book
+  on higher-order computability</fr:link>.
+</fr:p><fr:p>
+  Consider a function <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }  \to   \mathbb {N}</fr:tex>, that is computable in an
   intuitive sense.
-</p><p>  Given some <tex>g  \in   \mathbb{N} ^{ \mathbb{N} }</tex>, when the function <tex>F</tex> returns a result <tex>F(g)  \in    \mathbb{N}</tex>, it must do so after a finite examination of the input <tex>g</tex>. This is to
-  say that there must be some <tex>r  \in   \mathbb{N}</tex> such that <tex>F</tex> &quot;looks at&quot; only the
-  values <tex>g(0),  \ldots , g(i_{r-1})</tex>. So the result <tex>F(g)</tex> is <em>determined
-  solely</em> using the information of the behaviour of <tex>g</tex> on the inputs <tex>0,
-   \ldots , i_{r-1}</tex>.
-</p><p>  Attempting to capture this idea of <tex>F</tex> being determined solely on a finite
-  amount of information about the behaviour of <tex>g</tex>, we are naturally led to the
-  notion of <em>continuity</em>: <tex>F</tex> cannot distinguish between <tex>g</tex> and any other
-  function <tex>g'  \in   \mathbb{N} ^{ \mathbb{N} }</tex> that returns the same values as those of <tex>g</tex> on
-  inputs <tex>0,  \ldots , i_{r-1}</tex>. In other words,
-  <tex display="block">     \forall  g'  \in   \mathbb{N} ^{ \mathbb{N} } . \  \forall  k  \in   \{ 0,  \ldots , r-1 \} . \  g(i_k) = g'(i_k)  \rightarrow  F(g) = F(g').
-  </tex></p><p>  This is precisely the same thing as saying that <tex>F</tex> is <em>continuous</em> with
-  respect to the standard Baire topology on <tex>\mathbb{N} ^{ \mathbb{N} }</tex> and the discrete topology
-  <tex>\mathbb{N}</tex>. Continuity is merely a <em>necessary condition</em> for computability as
-  there are many continuous functions <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> that are <b>not</b>  computable (in any sense). The idea, however, is that an abstract model of
+</fr:p><fr:p>
+  Given some <fr:tex>g  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex>, when the function <fr:tex>F</fr:tex> returns a result <fr:tex>F(g)  \in     \mathbb {N}</fr:tex>, it must do so after a finite examination of the input <fr:tex>g</fr:tex>. This is to
+  say that there must be some <fr:tex>r  \in   \mathbb {N}</fr:tex> such that <fr:tex>F</fr:tex> "looks at" only the
+  values <fr:tex>g(0),  \ldots , g(i_{r-1})</fr:tex>. So the result <fr:tex>F(g)</fr:tex> is <fr:em>determined
+  solely</fr:em> using the information of the behaviour of <fr:tex>g</fr:tex> on the inputs <fr:tex>0,    \ldots , i_{r-1}</fr:tex>.
+</fr:p><fr:p>
+  Attempting to capture this idea of <fr:tex>F</fr:tex> being determined solely on a finite
+  amount of information about the behaviour of <fr:tex>g</fr:tex>, we are naturally led to the
+  notion of <fr:em>continuity</fr:em>: <fr:tex>F</fr:tex> cannot distinguish between <fr:tex>g</fr:tex> and any other
+  function <fr:tex>g'  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex> that returns the same values as those of <fr:tex>g</fr:tex> on
+  inputs <fr:tex>0,  \ldots , i_{r-1}</fr:tex>. In other words,
+  <fr:tex
+display="block">      \forall  g'  \in   \mathbb {N} ^{ \mathbb {N} } . \  \forall  k  \in   \{ 0,  \ldots , r-1 \} . \  g(i_k) = g'(i_k)  \rightarrow  F(g) = F(g').   </fr:tex></fr:p><fr:p>
+  This is precisely the same thing as saying that <fr:tex>F</fr:tex> is <fr:em>continuous</fr:em> with
+  respect to the standard Baire topology on <fr:tex>\mathbb {N} ^{ \mathbb {N} }</fr:tex> and the discrete topology
+  <fr:tex>\mathbb {N}</fr:tex>. Continuity is merely a <fr:em>necessary condition</fr:em> for computability as
+  there are many continuous functions <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> that are <fr:strong>not</fr:strong>
+  computable (in any sense). The idea, however, is that an abstract model of
   computation based only on this necessary condition will already capture some
   interesting aspects of computability.
-</p><p>  If <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> is continuous in this sense, the function <tex>F</tex>  can be <b>described completely</b> by whether the information
-  <tex display="block">g(0) = m_0,  \ldots , g(r-1) = m-1</tex>  is sufficient to determine the value of <tex>F(g)</tex>, and if it is, what this
-  value is. But this information that completely determines <tex>F</tex> is <b>finite</b>  and itself be represented as a function <tex>f_F  \in   \mathbb{N} ^{ \mathbb{N} }</tex>, defined as
-  <tex display="block">    f( \langle   m_0,  \ldots , m_{r-1}   \rangle )  \vcentcolon \equiv        \begin{cases}         m + 1 &amp;  \mathsf{if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1}  \rightarrow  F(g) = m \  \\         0     &amp;  \mathsf{if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1} \  \mathsf{does \  not \  suffice \  to \  determine} \  F(g)       \end{cases}   </tex></p><p>  The idea of the <link href="axt-001N.xml" type="local" title="Partial application operation">partial application operation</link> is to take such an
-  <tex>f_F</tex> encoding a function <tex>F :  \mathbb{N} ^{ \mathbb{N} }   \to   \mathbb{N}</tex> and to determine the value
-  of <tex>F(g)</tex> using the continuity data encoded by <tex>f_F</tex>. This brings us to
+</fr:p><fr:p>
+  If <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> is continuous in this sense, the function <fr:tex>F</fr:tex>
+  can be <fr:strong>described completely</fr:strong> by whether the information
+  <fr:tex
+display="block">g(0) = m_0,  \ldots , g(r-1) = m-1</fr:tex>
+  is sufficient to determine the value of <fr:tex>F(g)</fr:tex>, and if it is, what this
+  value is. But this information that completely determines <fr:tex>F</fr:tex> is <fr:strong>finite</fr:strong>
+  and itself be represented as a function <fr:tex>f_F  \in   \mathbb {N} ^{ \mathbb {N} }</fr:tex>, defined as
+  <fr:tex
+display="block">     f( \langle   m_0,  \ldots , m_{r-1}   \rangle )  \vcentcolon \equiv         \begin {cases}         m + 1 &amp;  \mathsf {if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1}  \rightarrow  F(g) = m \  \\          0     &amp;  \mathsf {if} \  g(0) = m_0  \wedge   \cdots   \wedge  g(r-1) = m_{r-1} \  \mathsf {does \  not \  suffice \  to \  determine} \  F(g)        \end {cases}   </fr:tex></fr:p><fr:p>
+  The idea of the <fr:link
+href="axt-001N.xml"
+type="local"
+addr="axt-001N">partial application operation</fr:link> is to take such an
+  <fr:tex>f_F</fr:tex> encoding a function <fr:tex>F :  \mathbb {N} ^{ \mathbb {N} }   \to   \mathbb {N}</fr:tex> and to determine the value
+  of <fr:tex>F(g)</fr:tex> using the continuity data encoded by <fr:tex>f_F</fr:tex>. This brings us to
   the definition of this application operation.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>2</crumb></trail> <anchor>372</anchor>  <taxon>Definition</taxon> <addr>axt-001N</addr>  <route>axt-001N.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author> </authors> <title>Partial application operation</title> </frontmatter> <mainmatter><p>  Let
-  <ul>    <li><tex>\langle   {-}   \rangle</tex> denote some computable coding operation <tex>\mathsf{List} ( \mathbb{N} )   \to   \mathbb{N}</tex>, and</li>    <li><tex>\mu</tex> denote the <link href="axt-001O.xml" type="local" title="Minimization operator">minimization operator</link>.</li>  </ul></p><p>  Given two functions <tex>f, g :  \mathbb{N}   \to   \mathbb{N}</tex>, the <em>application</em> of <tex>f</tex> to
-  <tex>g</tex> is defined as follows:
-  <tex display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</tex>  where
-  <tex display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</tex></p><p>  Defined in <b>Section 3.2.1</b> of <link href="longley-normann-hoc.xml" type="local" title="Higher-Order Computability">Longley and Normann's
-  book</link>.
-</p></mainmatter> </tree><p>  So this operation gives us a function <tex>{-} \  | \ {-}  :  \mathbb{N} ^{ \mathbb{N} }   \times   \mathbb{N} ^{ \mathbb{N} }   \rightharpoonup    \mathbb{N} ^{ \mathbb{N} }</tex></p><p>  Kleene's second model (often denoted <tex>\mathsf{K_2}</tex>) is the structure <tex>( \mathbb{N} ^{ \mathbb{N} } , {-} \  | \ {-} )</tex>.
-</p><p>  Kleene's <link href="axt-001M.xml" type="local" title="Kleene's countable functionals">countable functionals</link> extend this idea from types of
-  degree <tex>2</tex> to types of arbitrary degree i.e. higher types.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>373</anchor>  <taxon>Definition</taxon> <addr>axt-001M</addr>  <route>axt-001M.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author> </authors> <title>Kleene's countable functionals</title> <meta name="source"><b>Defn. 3.13</b> of <link href="longley-notions-I.xml" type="local" title="Notions of computability at higher types I">[Longley]</link></meta></frontmatter> <mainmatter><p>  The class <tex>\mathsf{C} _n</tex> of <em>countable functionals at level <tex>n</tex></em> is defined by
-  induction on <tex>n</tex>, together with a notion of <em>associate</em> for each <tex>\mathsf{C} _n</tex>.
-  <ul>    <li><tex>\mathsf{C} _0  \vcentcolon \equiv   \mathbb{N}</tex>.</li>    <li><tex>\mathsf{C} _1  \vcentcolon \equiv   \mathbb{N} ^{ \mathbb{N} }</tex>.</li>    <li>Each <tex>f  \in   \mathsf{C} _1</tex> is taken to be an associate for itself.</li>    <li>For <tex>n  \ge  1</tex>, 
-      <ul>        <li>          a function <tex>f  \in   \mathsf{C} _1</tex> is taken to be associate for the function
-          <tex>F :  \mathsf{C} _n  \to   \mathbb{N}</tex> if for every <tex>G  \in   \mathsf{C} _n</tex> and for every
-          associate <tex>g</tex> for <tex>G</tex>, <tex>f \  | \  g = F(G)</tex>, where
-          <tex>{-} \  | \ {-}</tex> denotes the <link href="axt-001N.xml" type="local" title="Partial application operation">partial application operation</link>.
-        </li>        <li>          <tex>\mathsf{C} _{n + 1}</tex> is taken to be the set of functions <tex>\mathsf{C} _n  \to   \mathbb{N}</tex>          that have associates.
-        </li>      </ul>    </li>  </ul></p></mainmatter> </tree></backlinks> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>374</anchor>  <taxon>Reference</taxon> <addr>longley-normann-hoc</addr>  <route>longley-normann-hoc.xml</route> <date><year>2015</year>  </date> <authors><author><link href="john-longley.xml" type="local">John R. Longley</link></author><author><link href="dag-normann.xml" type="local">Dag Normann</link></author> </authors> <title>Higher-Order Computability</title> <meta name="bibtex">@book{longley-normann-hoc,
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1394</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001N</fr:addr><fr:route>axt-001N.xml</fr:route><fr:title>Partial application operation</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let
+  <fr:ul><fr:li><fr:tex>\langle   {-}   \rangle</fr:tex> denote some computable coding operation <fr:tex>\mathsf {List}( \mathbb {N} )   \to   \mathbb {N}</fr:tex>, and</fr:li>
+    <fr:li><fr:tex>\mu</fr:tex> denote the <fr:link
+href="axt-001O.xml"
+type="local"
+addr="axt-001O">minimization operator</fr:link>.</fr:li></fr:ul></fr:p><fr:p>
+  Given two functions <fr:tex>f, g :  \mathbb {N}   \to   \mathbb {N}</fr:tex>, the <fr:em>application</fr:em> of <fr:tex>f</fr:tex> to
+  <fr:tex>g</fr:tex> is defined as follows:
+  <fr:tex
+display="block">f \  | \  g  \quad \vcentcolon \equiv \quad  f( \langle   g(0),  \ldots , g(r - 1)   \rangle )</fr:tex>
+  where
+  <fr:tex
+display="block">r  \vcentcolon \equiv   \mu  r. \  f( \langle   g(0),  \ldots , g(r - 1)   \rangle ) &gt; 0</fr:tex></fr:p><fr:p>
+  Defined in <fr:strong>Section 3.2.1</fr:strong> of <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">Longley and Normann's
+  book</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:p>
+  So this operation gives us a function <fr:tex>{-} \  | \  {-} :  \mathbb {N} ^{ \mathbb {N} }   \times   \mathbb {N} ^{ \mathbb {N} }   \rightharpoonup     \mathbb {N} ^{ \mathbb {N} }</fr:tex></fr:p><fr:p>
+  Kleene's second model (often denoted <fr:tex>\mathsf {K_2}</fr:tex>) is the structure <fr:tex>( \mathbb {N} ^{ \mathbb {N} } , {-} \  | \  {-})</fr:tex>.
+</fr:p><fr:p>
+  Kleene's <fr:link
+href="axt-001M.xml"
+type="local"
+addr="axt-001M">countable functionals</fr:link> extend this idea from types of
+  degree <fr:tex>2</fr:tex> to types of arbitrary degree i.e. higher types.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1417</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001M</fr:addr><fr:route>axt-001M.xml</fr:route><fr:title>Kleene's countable functionals</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 3.13</fr:strong> of <fr:link
+href="longley-notions-I.xml"
+type="local"
+addr="longley-notions-I">[Longley]</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The class <fr:tex>\mathsf {C} _n</fr:tex> of <fr:em>countable functionals at level <fr:tex>n</fr:tex></fr:em> is defined by
+  induction on <fr:tex>n</fr:tex>, together with a notion of <fr:em>associate</fr:em> for each <fr:tex>\mathsf {C} _n</fr:tex>.
+  <fr:ul><fr:li><fr:tex>\mathsf {C} _0  \vcentcolon \equiv   \mathbb {N}</fr:tex>.</fr:li>
+    <fr:li><fr:tex>\mathsf {C} _1  \vcentcolon \equiv   \mathbb {N} ^{ \mathbb {N} }</fr:tex>.</fr:li>
+    <fr:li>Each <fr:tex>f  \in   \mathsf {C} _1</fr:tex> is taken to be an associate for itself.</fr:li>
+    <fr:li>For <fr:tex>n  \ge  1</fr:tex>, 
+      <fr:ul><fr:li>
+          a function <fr:tex>f  \in   \mathsf {C} _1</fr:tex> is taken to be associate for the function
+          <fr:tex>F :  \mathsf {C} _n  \to   \mathbb {N}</fr:tex> if for every <fr:tex>G  \in   \mathsf {C} _n</fr:tex> and for every
+          associate <fr:tex>g</fr:tex> for <fr:tex>G</fr:tex>, <fr:tex>f \  | \  g = F(G)</fr:tex>, where
+          <fr:tex>{-} \  | \  {-}</fr:tex> denotes the <fr:link
+href="axt-001N.xml"
+type="local"
+addr="axt-001N">partial application operation</fr:link>.
+        </fr:li>
+        <fr:li><fr:tex>\mathsf {C} _{n + 1}</fr:tex> is taken to be the set of functions <fr:tex>\mathsf {C} _n  \to   \mathbb {N}</fr:tex>
+          that have associates.
+        </fr:li></fr:ul></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1411</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>longley-normann-hoc</fr:addr><fr:route>longley-normann-hoc.xml</fr:route><fr:title>Higher-Order Computability</fr:title><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="john-longley.xml"
+type="local"
+addr="john-longley">John R. Longley</fr:link></fr:author><fr:author><fr:link
+href="dag-normann.xml"
+type="local"
+addr="dag-normann">Dag Normann</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">@book{longley-normann-hoc,
   title     = {Higher-Order Computability},
   author    = {Longley, John R. and Normann, Dag},
   year      = 2015,
   publisher = {Springer},
   series    = {Theory and Applications of Computability},
   doi       = {10.1007/978-3-662-47992-6},
-}
-</meta></frontmatter> <mainmatter/> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

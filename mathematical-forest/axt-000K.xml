@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>215</anchor>  <taxon>Definition</taxon> <addr>axt-000K</addr>  <route>axt-000K.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author>Thomas Streicher</author> </authors> <title>SFP domain</title> </frontmatter> <mainmatter><p>  A dcpo <tex>(D,  \sqsubseteq )</tex> is called <em>SFP</em> iff there exists an ascending
-  chain <tex>\{  h_n : D  \to  D  \} _{n  \in   \mathbb{N} }</tex> of continuous functions such
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1606</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-000K</fr:addr><fr:route>axt-000K.xml</fr:route><fr:title>SFP domain</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author>Thomas Streicher</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A dcpo <fr:tex>(D,  \sqsubseteq )</fr:tex> is called <fr:em>SFP</fr:em> iff there exists an ascending
+  chain <fr:tex>\{  h_n : D  \to  D  \} _{n  \in   \mathbb {N}}</fr:tex> of continuous functions such
   that
-  <ol>    <li>every <tex>h_n</tex> is a projection operator,</li>    <li><tex>\bigsqcup _{n  \in   \mathbb{N} } h_n =  \mathsf{id} _D</tex>, and</li>    <li><tex>h_n(D)</tex> is finite for every <tex>n  \in   \mathbb{N}</tex>.</li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+  <fr:ol><fr:li>every <fr:tex>h_n</fr:tex> is a projection operator,</fr:li>
+    <fr:li><fr:tex>\bigsqcup _{n  \in   \mathbb {N} } h_n =  \mathsf {id}_D</fr:tex>, and</fr:li>
+    <fr:li><fr:tex>h_n(D)</fr:tex> is finite for every <fr:tex>n  \in   \mathbb {N}</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

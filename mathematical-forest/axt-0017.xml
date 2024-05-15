@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>262</anchor>  <taxon>Definition</taxon> <addr>axt-0017</addr>  <route>axt-0017.xml</route> <date><year>2023</year> <month>9</month> <day>22</day></date> <authors><author>Dana S. Scott</author><author>Glynn Winskel</author><author>Larden?</author> </authors> <title>Information system</title> </frontmatter> <mainmatter><p>  An <em>information system</em> is a triple <tex>S = (E,  \mathsf{Con} ,  \vdash )</tex>, where
-  <ol>    <li><tex>E</tex> is a set,</li>    <li><tex>\mathsf{Con}   \subseteq   \mathcal{P} ( E )</tex> is a collection of finite subsets of <tex>E</tex>, and</li>    <li><tex>\_ \vdash \_   \subseteq   \mathsf{Con}   \times  E</tex> a binary relation,</li>  </ol>  subject to the following conditions
-  <ol>    <li><tex>\mathsf{Con}</tex> is downards-closed w.r.t. the subset ordering.</li>    <li>The singleton set <tex>\{  x  \}   \in   \mathsf{Con}</tex> for every <tex>x  \in  E</tex>.</li>    <li>If <tex>U  \vdash  x</tex> then <tex>U  \cup   \{  x  \}   \in   \mathsf{Con}</tex>.</li>    <li>If <tex>U  \in   \mathsf{Con}</tex> and <tex>x  \in  U</tex> then <tex>U  \vdash  x</tex>.</li>    <li>If <tex>U  \vdash  x</tex> for all <tex>x  \in  V</tex> and <tex>V  \vdash  y</tex> then <tex>U  \vdash  y</tex>.</li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1550</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0017</fr:addr><fr:route>axt-0017.xml</fr:route><fr:title>Information system</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author>Dana S. Scott</fr:author><fr:author>Glynn Winskel</fr:author><fr:author>Larden?</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  An <fr:em>information system</fr:em> is a triple <fr:tex>S = (E,  \mathsf {Con} ,  \vdash )</fr:tex>, where
+  <fr:ol><fr:li><fr:tex>E</fr:tex> is a set,</fr:li>
+    <fr:li><fr:tex>\mathsf {Con}   \subseteq   \mathcal {P}( E )</fr:tex> is a collection of finite subsets of <fr:tex>E</fr:tex>, and</fr:li>
+    <fr:li><fr:tex>\_ \vdash \_   \subseteq   \mathsf {Con}   \times  E</fr:tex> a binary relation,</fr:li></fr:ol>
+  subject to the following conditions
+  <fr:ol><fr:li><fr:tex>\mathsf {Con}</fr:tex> is downards-closed w.r.t. the subset ordering.</fr:li>
+    <fr:li>The singleton set <fr:tex>\{  x  \}   \in   \mathsf {Con}</fr:tex> for every <fr:tex>x  \in  E</fr:tex>.</fr:li>
+    <fr:li>If <fr:tex>U  \vdash  x</fr:tex> then <fr:tex>U  \cup   \{  x  \}   \in   \mathsf {Con}</fr:tex>.</fr:li>
+    <fr:li>If <fr:tex>U  \in   \mathsf {Con}</fr:tex> and <fr:tex>x  \in  U</fr:tex> then <fr:tex>U  \vdash  x</fr:tex>.</fr:li>
+    <fr:li>If <fr:tex>U  \vdash  x</fr:tex> for all <fr:tex>x  \in  V</fr:tex> and <fr:tex>V  \vdash  y</fr:tex> then <fr:tex>U  \vdash  y</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

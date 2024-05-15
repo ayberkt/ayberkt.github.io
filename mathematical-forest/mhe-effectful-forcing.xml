@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1397</anchor>  <taxon>Reference</taxon> <addr>mhe-effectful-forcing</addr>  <route>mhe-effectful-forcing.xml</route> <date><year>2006</year>  </date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author> </authors> <title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</title> <meta name="bibtex">@inproceedings{mhe-effectful-forcing,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1861</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>mhe-effectful-forcing</fr:addr><fr:route>mhe-effectful-forcing.xml</fr:route><fr:title>Continuity of Gödel’s System T Definable Functionals via Effectful Forcing</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@inproceedings{mhe-effectful-forcing,
   title        = {Continuity of Gödel's System T Definable Functionals via
                   Effectful Forcing},
   author       = {Escardó, Martín H.},
@@ -13,5 +25,4 @@
   pages        = {119-141},
   note         = {Proceedings of the Twenty-ninth Conference on the Mathematical
                   Foundations of Programming Semantics, MFPS XXIX},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

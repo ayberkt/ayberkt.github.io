@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1432</anchor>  <taxon>Person</taxon> <addr>samson-abramsky</addr>  <route>samson-abramsky.xml</route>   <title>Samson Abramsky</title> <meta name="external">http://www0.cs.ucl.ac.uk/people/S.Abramsky.html</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1433</anchor>  <taxon>Definition</taxon> <addr>axt-001U</addr>  <route>axt-001U.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="samson-abramsky.xml" type="local">Samson Abramsky</link></author><author><link href="achim-jung.xml" type="local">Achim Jung</link></author> </authors> <title>Basis for a dcpo</title> <meta name="source"><b>Defn 2.2.3</b> of <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="Domain Theory">Abramsky and Jung</link></meta></frontmatter> <mainmatter><p>  Let <tex>D</tex> be a dcpo and let <tex>\Downarrow (x)</tex> denote the set
-  <tex>\{  y  \in  D  \mid  y  \ll  x  \}</tex>.
-</p><p>  A subset <tex>B  \subseteq  D</tex> forms a basis for <tex>D</tex> if for every element <tex>x  \in   D</tex> the set <tex display="block">B_x  \vcentcolon \equiv   \Downarrow (x)  \cap  B</tex> contains a directed
-  subset with supremum <tex>x</tex></p><p>  Elements of <tex>x</tex> are caled approximants to <tex>x</tex> relative to <tex>B</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1434</anchor>   <addr>axt-000L</addr>  <route>axt-000L.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author><link href="samson-abramsky.xml" type="local">Samson Abramsky</link></author><author><link href="achim-jung.xml" type="local">Achim Jung</link></author> </authors> <title>The Stone adjunction</title> </frontmatter> <mainmatter><p>  The Stone adjunction is the one formed by the <link href="axt-000M.xml" type="local" title="The open set functor">open set functor</link>  <tex>\mathcal{O}  :  \mathbf{Top}   \to   \mathbf{Frm}</tex> and the <link href="axt-000N.xml" type="local" title="The point functor">point functor</link> <tex>\mathsf{Pt}  :  \mathbf{Frm}   \to    \mathbf{Top}</tex>.
-</p><p>  Adapted by Ayberk Tosun from <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="Domain Theory">the handbook chapter of Abramsky and
-  Jung</link>.
-</p></mainmatter> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2650</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>samson-abramsky</fr:addr><fr:route>samson-abramsky.xml</fr:route><fr:title>Samson Abramsky</fr:title><fr:meta
+name="external">http://www0.cs.ucl.ac.uk/people/S.Abramsky.html</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2641</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>abramsky-jung-dt</fr:addr><fr:route>abramsky-jung-dt.xml</fr:route><fr:title>Domain Theory</fr:title><fr:date><fr:year>1995</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">@inbook{abramsky-jung-dt,
+  author    = {Abramsky, Samson and Jung, Achim},
+  title     = {Domain Theory},
+  year      = {1995-04-27},
+  isbn      = {019853762X},
+  publisher = oup,
+  booktitle = {Handbook of Logic in Computer Science (Vol. 3): Semantic Structures},
+  pages     = {1–168},
+  numpages  = {168},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2644</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001U</fr:addr><fr:route>axt-001U.xml</fr:route><fr:title>Basis for a dcpo</fr:title><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 2.2.3</fr:strong> of <fr:link
+href="abramsky-jung-dt.xml"
+type="local"
+addr="abramsky-jung-dt">Abramsky and Jung</fr:link></fr:meta><fr:meta
+name="date-added">2023-10-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>D</fr:tex> be a dcpo and let <fr:tex>\Downarrow (x)</fr:tex> denote the set
+  <fr:tex>\{  y  \in  D  \mid  y  \ll  x  \}</fr:tex>.
+</fr:p><fr:p>
+  A subset <fr:tex>B  \subseteq  D</fr:tex> forms a basis for <fr:tex>D</fr:tex> if for every element <fr:tex>x  \in    D</fr:tex> the set <fr:tex
+display="block">B_x  \vcentcolon \equiv   \Downarrow (x)  \cap  B</fr:tex> contains a directed
+  subset with supremum <fr:tex>x</fr:tex></fr:p><fr:p>
+  Elements of <fr:tex>x</fr:tex> are caled approximants to <fr:tex>x</fr:tex> relative to <fr:tex>B</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2647</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-09-07</fr:meta><fr:meta
+name="source"><fr:link
+href="abramsky-and-jung-domain-theory-1995"
+type="external">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Stone adjunction is the one formed by the <fr:link
+href="axt-000M.xml"
+type="local"
+addr="axt-000M">open set functor</fr:link>
+  <fr:tex>\mathcal {O}  :  \mathbf {Top}   \to   \mathbf {Frm}</fr:tex> and the <fr:link
+href="axt-000N.xml"
+type="local"
+addr="axt-000N">point functor</fr:link> <fr:tex>\mathsf {Pt}  :  \mathbf {Frm}   \to     \mathbf {Top}</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

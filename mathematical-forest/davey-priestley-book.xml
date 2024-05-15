@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1260</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1908</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{davey-priestley-book,
   title        = {Introduction to Lattices and Order},
   date         = {2002},
   place        = {Cambridge CB2 8BS, UK},
@@ -9,26 +24,169 @@
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1261</anchor>  <taxon>Definition</taxon> <addr>axt-0049</addr>  <route>axt-0049.xml</route> <date><year>2023</year> <month>11</month> <day>26</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Totally order-disconnected space</title> <meta name="source"><b>Paragraph 11.20</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  An ordered space is called <b>totally order-disconnected</b> if for any
-  two <tex>x, y  \in  X</tex> with <tex>x  \not \le  y</tex>, there exists a downward-closed clopen
-  set <tex>F  \subseteq  X</tex> with <tex>y  \in  F</tex> and <tex>x  \notin  F</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1262</anchor>  <taxon>Theorem</taxon> <addr>axt-0045</addr>  <route>axt-0045.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Knaster-Tarski fixed point theorem</title> <meta name="source"><b>Defn 2.35</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>L</tex> be a complete lattice and <tex>F : L  \to  L</tex> a monotone map.
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1891</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0049</fr:addr><fr:route>axt-0049.xml</fr:route><fr:title>Totally order-disconnected space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Paragraph 11.20</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An ordered space is called <fr:strong>totally order-disconnected</fr:strong> if for any
+  two <fr:tex>x, y  \in  X</fr:tex> with <fr:tex>x  \not \le  y</fr:tex>, there exists a downward-closed clopen
+  set <fr:tex>F  \subseteq  X</fr:tex> with <fr:tex>y  \in  F</fr:tex> and <fr:tex>x  \notin  F</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1894</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0045</fr:addr><fr:route>axt-0045.xml</fr:route><fr:title>Knaster-Tarski fixed point theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn 2.35</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>L</fr:tex> be a complete lattice and <fr:tex>F : L  \to  L</fr:tex> a monotone map.
   Then the set
-  <tex display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</tex>  is a fixed point of <tex>F</tex>.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   <p>We first define the abbreviation <tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</tex>.</p>  <p>    To show <tex>F( \alpha ) =  \alpha</tex>, we use antisymmetry. For the <tex>( \ge )</tex>    direction, it suffices to show <tex>F( \alpha )</tex> is an upper bound of <tex>H</tex>.
-    Let <tex>x  \in  H</tex>. We know <tex>x  \le   \alpha</tex> as <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex> which implies <tex>F(x)  \le  F( \alpha )</tex>. We also know <tex>x  \le  F(x)</tex>    by the definition of <tex>H</tex> which means <tex>x  \le  F(x)  \le  F( \alpha )</tex>.
-    For the <tex>( \le )</tex> direction, notice that we know <tex>F( \alpha )  \le     F(F( \alpha ))</tex> by the fact we just showed which means <tex>F( \alpha )  \in  H</tex>.
-    It follows that <tex>F( \alpha )  \le   \alpha</tex> since <tex>\alpha</tex> is the least upper
-    bound of <tex>H</tex>.
-  </p></block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1263</anchor>  <taxon>Axiom</taxon> <addr>axt-003A</addr>  <route>axt-003A.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Alternative formulation of Zorn’s Lemma</title> <meta name="source"><tex>(ZL)''</tex> from <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Every <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1264</anchor>  <taxon>Axiom</taxon> <addr>axt-003D</addr>  <route>axt-003D.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Axiom of choice in set theory</title> <meta name="source"><b>Paragraph 10.1</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  For every nonempty family <tex>\{  A_i  \} _{i  \in  I}</tex> of nonempty sets, there
-  exists a function <tex>f : I  \to   \bigcup _{i  \in  I} A_i</tex> such that
-  <tex display="block">\forall  i  \in  I. \  f(i)  \in  A_i.</tex></p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1265</anchor>  <taxon>Definition</taxon> <addr>axt-003G</addr>  <route>axt-003G.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
-  An element <tex>x  \in  P</tex> is called a <b>fixed point</b> of <tex>h</tex> if it
-  satisfies <tex>h(x) = x</tex>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1266</anchor>   <addr>axt-003H</addr>  <route>axt-003H.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Least fixed point</title> <meta name="source"><b>Defn. 8.14</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Let <tex>P</tex> be a partially ordered set and let <tex>h : P  \to  P</tex> be an endofunction.
-  An element <tex>x  \in  P</tex> is called the <b>least fixed point</b> of <tex>h</tex> if
-  <ul>    <li>it is a <link href="axt-003G.xml" type="local" title="Fixed point">fixed point</link> of <tex>h</tex>, and</li>    <li>it is below any other fixed point of <tex>h</tex>.</li>  </ul>  When it exists, the least fixed point is denoted <tex>\mu ( h )</tex>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+  <fr:tex
+display="block">\alpha   \vcentcolon \equiv   \bigvee   \left \{  x  \in  L  \mid  x  \le  F(x)  \right \}</fr:tex>
+  is a fixed point of <fr:tex>F</fr:tex>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:parent>axt-0045</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p>We first define the abbreviation <fr:tex>H   \vcentcolon \equiv   \{   x   \in  L  \mid   x   \le  F( x )  \}</fr:tex>.</fr:p>
+
+  <fr:p>
+    To show <fr:tex>F( \alpha ) =  \alpha</fr:tex>, we use antisymmetry. For the <fr:tex>( \ge )</fr:tex>
+    direction, it suffices to show <fr:tex>F( \alpha )</fr:tex> is an upper bound of <fr:tex>H</fr:tex>.
+    Let <fr:tex>x  \in  H</fr:tex>. We know <fr:tex>x  \le   \alpha</fr:tex> as <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex> which implies <fr:tex>F(x)  \le  F( \alpha )</fr:tex>. We also know <fr:tex>x  \le  F(x)</fr:tex>
+    by the definition of <fr:tex>H</fr:tex> which means <fr:tex>x  \le  F(x)  \le  F( \alpha )</fr:tex>.
+    For the <fr:tex>( \le )</fr:tex> direction, notice that we know <fr:tex>F( \alpha )  \le      F(F( \alpha ))</fr:tex> by the fact we just showed which means <fr:tex>F( \alpha )  \in  H</fr:tex>.
+    It follows that <fr:tex>F( \alpha )  \le   \alpha</fr:tex> since <fr:tex>\alpha</fr:tex> is the least upper
+    bound of <fr:tex>H</fr:tex>.
+  </fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1897</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1899</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003D</fr:addr><fr:route>axt-003D.xml</fr:route><fr:title>Axiom of choice in set theory</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Paragraph 10.1</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  For every nonempty family <fr:tex>\{  A_i  \} _{i  \in  I}</fr:tex> of nonempty sets, there
+  exists a function <fr:tex>f : I  \to   \bigcup _{i  \in  I} A_i</fr:tex> such that
+  <fr:tex
+display="block">\forall  i  \in  I. \  f(i)  \in  A_i.</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1902</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003G</fr:addr><fr:route>axt-003G.xml</fr:route><fr:title>Fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
+  An element <fr:tex>x  \in  P</fr:tex> is called a <fr:strong>fixed point</fr:strong> of <fr:tex>h</fr:tex> if it
+  satisfies <fr:tex>h(x) = x</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1905</fr:anchor><fr:addr>axt-003H</fr:addr><fr:route>axt-003H.xml</fr:route><fr:title>Least fixed point</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Defn. 8.14</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>P</fr:tex> be a partially ordered set and let <fr:tex>h : P  \to  P</fr:tex> be an endofunction.
+  An element <fr:tex>x  \in  P</fr:tex> is called the <fr:strong>least fixed point</fr:strong> of <fr:tex>h</fr:tex> if
+  <fr:ul><fr:li>it is a <fr:link
+href="axt-003G.xml"
+type="local"
+addr="axt-003G">fixed point</fr:link> of <fr:tex>h</fr:tex>, and</fr:li>
+    <fr:li>it is below any other fixed point of <fr:tex>h</fr:tex>.</fr:li></fr:ul>
+  When it exists, the least fixed point is denoted <fr:tex>\mu ( h )</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

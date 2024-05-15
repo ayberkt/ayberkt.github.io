@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>374</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0051</fr:addr><fr:route>axt-0051.xml</fr:route><fr:title>Intensional pseudobasis</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>5</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>pseudobasis</fr:strong> for a large and locally small locale <fr:tex>X</fr:tex> is a
+  <fr:link
+href="axt-001F.xml"
+type="local"
+addr="axt-001F">small family</fr:link> <fr:tex>   ( B_i )_{ i  :  I } </fr:tex> such that for every <fr:tex>U :  \mathcal {O}( X )</fr:tex>, there is
+  an unspecified small family <fr:tex>   ( i_j )_{ j  :  J } </fr:tex> such that,
+  <fr:ol><fr:li>the family <fr:tex>   ( B_{i_j} )_{ j  :  J } </fr:tex> is directed, and</fr:li>
+    <fr:li><fr:tex>U =  \bigvee _{j : J} B_{i_j}</fr:tex>.</fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001F</fr:addr><fr:route>axt-001F.xml</fr:route><fr:title>𝓥-family</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:em><fr:tex>\mathcal {V}</fr:tex>-family on a type <fr:tex>A :  \mathcal {U}</fr:tex></fr:em> is a pair <fr:tex>(I,  \alpha )</fr:tex> where
+  <fr:ul><fr:li><fr:tex>I</fr:tex> is a type in universe <fr:tex>\mathcal {V}</fr:tex>,</fr:li>
+    <fr:li>and <fr:tex>\alpha</fr:tex> is a function of type <fr:tex>I  \to  A</fr:tex>.</fr:li></fr:ul></fr:p><fr:p>
+  List of formal definitions:
+  <fr:ol><fr:li><fr:link
+href="https://www.cs.bham.ac.uk//~mhe/TypeTopology/Slice.Family.html#262"
+type="external">Fam in UF.Slice</fr:link>
+      in TypeTopology.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

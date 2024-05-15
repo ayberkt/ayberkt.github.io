@@ -1,15 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>153</anchor>   <addr>axt-0004</addr>  <route>axt-0004.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author>Ayberk Tosun</author> <contributor><link href="dana-scott.xml" type="local">Dana S. Scott</link></contributor></authors> <title>Notes from <link href="dss-dtal.xml" type="local" title="Data types as lattices">Data types as lattices</link></title> </frontmatter> <mainmatter><p>  <link href="dana-scott.xml" type="local" title="Dana S. Scott">Dana Scott</link>'s 1976 paper whose main novelty is to model data
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1649</fr:anchor><fr:addr>axt-0004</fr:addr><fr:route>axt-0004.xml</fr:route><fr:title>Notes from <fr:link
+href="dss-dtal.xml"
+type="local"
+addr="dss-dtal">Data types as lattices</fr:link></fr:title><fr:date><fr:year>2023</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author>Ayberk Tosun</fr:author><fr:contributor><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:contributor></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana Scott</fr:link>'s 1976 paper whose main novelty is to model data
   types within what Scott calls “the universal domain” (and denotes
-  <tex>\mathcal{P} \omega</tex>): the <link href="axt-0002.xml" type="local" title="The universal domain">domain of subsets of the natural numbers</link>.
-</p><tree expanded="true" show-heading="true" show-metadata="false" toc="true" root="false"><frontmatter><trail><crumb>1</crumb></trail> <anchor>154</anchor>  <taxon>Definition</taxon> <addr>axt-0002</addr>  <route>axt-0002.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>The universal domain</title> </frontmatter> <mainmatter><p>  The lattice <tex>( \mathcal{P} ( \mathbb{N} ),  \subseteq )</tex> of all subsets of <tex>\mathbb{N}</tex> ordered under
+  <fr:tex>\mathcal {P} \omega</fr:tex>): the <fr:link
+href="axt-0002.xml"
+type="local"
+addr="axt-0002">domain of subsets of the natural numbers</fr:link>.
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1647</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-08-18</fr:meta><fr:meta
+name="source">from <fr:link
+href="dss-dtal.xml"
+type="local"
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
   inclusion.
-</p><p>  Introduced in <b>1976</b> by <link href="dana-scott.xml" type="local" title="Dana S. Scott">Dana S. Scott</link> in his paper <link href="dss-dtal.xml" type="local" title="Data types as lattices">Data types as lattices</link>.
-</p></mainmatter> </tree></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>155</anchor>  <taxon>Definition</taxon> <addr>axt-0002</addr>  <route>axt-0002.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>The universal domain</title> </frontmatter> <mainmatter><p>  The lattice <tex>( \mathcal{P} ( \mathbb{N} ),  \subseteq )</tex> of all subsets of <tex>\mathbb{N}</tex> ordered under
+</fr:p></fr:mainmatter></fr:tree></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1644</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>dana-scott</fr:addr><fr:route>dana-scott.xml</fr:route><fr:title>Dana S. Scott</fr:title></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1645</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0002</fr:addr><fr:route>axt-0002.xml</fr:route><fr:title>The universal domain</fr:title><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-08-18</fr:meta><fr:meta
+name="source">from <fr:link
+href="dss-dtal.xml"
+type="local"
+addr="dss-dtal">Data types as lattices</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The lattice <fr:tex>( \mathcal {P} ( \mathbb {N} ),  \subseteq )</fr:tex> of all subsets of <fr:tex>\mathbb {N}</fr:tex> ordered under
   inclusion.
-</p><p>  Introduced in <b>1976</b> by <link href="dana-scott.xml" type="local" title="Dana S. Scott">Dana S. Scott</link> in his paper <link href="dss-dtal.xml" type="local" title="Data types as lattices">Data types as lattices</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>156</anchor>  <taxon>Person</taxon> <addr>dana-scott</addr>  <route>dana-scott.xml</route>   <title>Dana S. Scott</title> </frontmatter> <mainmatter/> </tree></related> <backlinks/> <references><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>157</anchor>  <taxon>Reference</taxon> <addr>dss-dtal</addr>  <route>dss-dtal.xml</route> <date><year>1976</year>  </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Data types as lattices</title> <meta name="bibtex">@book{dss-dtal,
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1642</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-dtal</fr:addr><fr:route>dss-dtal.xml</fr:route><fr:title>Data types as lattices</fr:title><fr:date><fr:year>1976</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{dss-dtal,
   title     = {Data types as lattices},
   author    = {Scott, Dana S.},
   date      = {1976},
@@ -17,5 +85,6 @@
   publisher = {Oxford University Computing Laboratory, Programming Research Group},
   isbn      = {9780902928107},
   address   = {Oxford, UK},
-}
-</meta></frontmatter> <mainmatter><p>  <ul>    <li><link href="Skim:///Users/ayberkt/Dropbox/Reading/dss-dtal.pdf" type="external">PDF</link></li>  </ul></p></mainmatter> </tree></references></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:ul><fr:li><fr:link
+href="skim:///Users/ayberkt/Dropbox/Reading/dss-dtal.pdf"
+type="external">PDF</fr:link></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:references></fr:backmatter></fr:tree>

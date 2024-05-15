@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2417</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005F</fr:addr><fr:route>axt-005F.xml</fr:route><fr:title>Left Dedekind cut</fr:title><fr:meta
+name="date-added">2024-03-16</fr:meta><fr:meta
+name="source">Defn. 3.12 of Aczel and Rathjen</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>left Dedekind cut</fr:strong> is a set <fr:tex>X</fr:tex> of sets of rationals such that
+  <fr:ul><fr:li><fr:tex>X = X^{&lt;}</fr:tex>, and</fr:li>
+    <fr:li>
+      For every rational <fr:tex>\epsilon  &gt; 0</fr:tex>, there exists <fr:tex>r  \in  X</fr:tex>,
+      such that <fr:tex>(r +  \epsilon )  \notin  X</fr:tex>.
+    </fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

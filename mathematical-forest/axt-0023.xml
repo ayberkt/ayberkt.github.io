@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>515</anchor>  <taxon>Definition</taxon> <addr>axt-0023</addr>  <route>axt-0023.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="martin-escardo.xml" type="local">Martín H. Escardó</link></author><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Large and locally small locale</title> </frontmatter> <mainmatter><p>  A locale <tex>X</tex> is called <em>large and locally small</em> if it is given by
-  a <tex>( \mathcal{U} ^+,  \mathcal{U} ,  \mathcal{U} )</tex>-frame.
-</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1341</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0023</fr:addr><fr:route>axt-0023.xml</fr:route><fr:title>Large and locally small locale</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author><fr:link
+href="ayberkt.xml"
+type="local"
+addr="ayberkt">Ayberk Tosun</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A locale <fr:tex>X</fr:tex> is called <fr:em>large and locally small</fr:em> if it is given by
+  a <fr:tex>( \mathcal {U} ^+,  \mathcal {U} ,  \mathcal {U} )</fr:tex>-frame.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

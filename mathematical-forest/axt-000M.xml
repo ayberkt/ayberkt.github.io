@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>220</anchor>   <addr>axt-000M</addr>  <route>axt-000M.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author>Samson Abramsky</author><author>Achim Jung</author><author>Ayberk Tosun</author> </authors> <title>The open set functor</title> </frontmatter> <mainmatter> 
-<p>  Given a topological space <tex>X</tex>, let <tex>\mathcal{O} ( X )</tex> denote its class of opens.
-</p><p>  As <tex>\mathcal{O} ( X )</tex> is a frame, we can view this as a mapping <tex>\mathcal{O}  :  \mathbf{Top}   \to    \mathbf{Frm}</tex>, which we can then extend to a <em>contravariant functor</em>:
-  <ol>    <li>let <tex>f : X  \to  Y</tex> be a continuous map of topological spaces,</li>    <li><tex>\mathcal{O} (f)</tex> should then be mapping from the frame <tex>\mathcal{O} ( Y )</tex> to <tex>\mathcal{O} ( X )</tex>,</li>    <li>      given some <tex>U  \in   \mathcal{O} ( Y )</tex>, <tex>\mathcal{O} (f)(U) := f^{-1}(U)</tex> which is in
-      <tex>\mathcal{O} ( X )</tex> precisely by the continuity of <tex>f</tex>.
-    </li>  </ol></p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>221</anchor>   <addr>axt-000L</addr>  <route>axt-000L.xml</route> <date><year>2023</year> <month>9</month> <day>7</day></date> <authors><author><link href="samson-abramsky.xml" type="local">Samson Abramsky</link></author><author><link href="achim-jung.xml" type="local">Achim Jung</link></author> </authors> <title>The Stone adjunction</title> </frontmatter> <mainmatter><p>  The Stone adjunction is the one formed by the <link href="axt-000M.xml" type="local" title="The open set functor">open set functor</link>  <tex>\mathcal{O}  :  \mathbf{Top}   \to   \mathbf{Frm}</tex> and the <link href="axt-000N.xml" type="local" title="The point functor">point functor</link> <tex>\mathsf{Pt}  :  \mathbf{Frm}   \to    \mathbf{Top}</tex>.
-</p><p>  Adapted by Ayberk Tosun from <link href="abramsky-jung-domain-theory-1995.xml" type="local" title="Domain Theory">the handbook chapter of Abramsky and
-  Jung</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1611</fr:anchor><fr:addr>axt-000M</fr:addr><fr:route>axt-000M.xml</fr:route><fr:title>The open set functor</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author>Samson Abramsky</fr:author><fr:author>Achim Jung</fr:author><fr:author>Ayberk Tosun</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Given a topological space <fr:tex>X</fr:tex>, let <fr:tex>\mathcal {O}( X )</fr:tex> denote its class of opens.
+</fr:p><fr:p>
+  As <fr:tex>\mathcal {O}( X )</fr:tex> is a frame, we can view this as a mapping <fr:tex>\mathcal {O}  :  \mathbf {Top}   \to     \mathbf {Frm}</fr:tex>, which we can then extend to a <fr:em>contravariant functor</fr:em>:
+  <fr:ol><fr:li>let <fr:tex>f : X  \to  Y</fr:tex> be a continuous map of topological spaces,</fr:li>
+    <fr:li><fr:tex>\mathcal {O} (f)</fr:tex> should then be mapping from the frame <fr:tex>\mathcal {O}( Y )</fr:tex> to <fr:tex>\mathcal {O}( X )</fr:tex>,</fr:li>
+    <fr:li>
+      given some <fr:tex>U  \in   \mathcal {O}( Y )</fr:tex>, <fr:tex>\mathcal {O} (f)(U) := f^{-1}(U)</fr:tex> which is in
+      <fr:tex>\mathcal {O}( X )</fr:tex> precisely by the continuity of <fr:tex>f</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1608</fr:anchor><fr:addr>axt-000L</fr:addr><fr:route>axt-000L.xml</fr:route><fr:title>The Stone adjunction</fr:title><fr:authors><fr:author><fr:link
+href="samson-abramsky.xml"
+type="local"
+addr="samson-abramsky">Samson Abramsky</fr:link></fr:author><fr:author><fr:link
+href="achim-jung.xml"
+type="local"
+addr="achim-jung">Achim Jung</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-09-07</fr:meta><fr:meta
+name="source"><fr:link
+href="abramsky-and-jung-domain-theory-1995"
+type="external">Abramsky and Jung</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Stone adjunction is the one formed by the <fr:link
+href="axt-000M.xml"
+type="local"
+addr="axt-000M">open set functor</fr:link>
+  <fr:tex>\mathcal {O}  :  \mathbf {Top}   \to   \mathbf {Frm}</fr:tex> and the <fr:link
+href="axt-000N.xml"
+type="local"
+addr="axt-000N">point functor</fr:link> <fr:tex>\mathsf {Pt}  :  \mathbf {Frm}   \to     \mathbf {Top}</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

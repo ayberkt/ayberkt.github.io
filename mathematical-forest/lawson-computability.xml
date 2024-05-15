@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1869</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>lawson-computability</fr:addr><fr:route>lawson-computability.xml</fr:route><fr:title>On the computational content of the Lawson topology</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author>Frédéric de Jaeger</fr:author><fr:author><fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín H. Escardó</fr:link></fr:author><fr:author>Gabriele Santini</fr:author></fr:authors><fr:meta
+name="bibtex">%
+@article{lawson-computability,
+  title     = {On the computational content of the Lawson topology},
+  author    = {{De Jaeger}, Frédéric and Escardó, Martín H. and Santini, Gabriele},
+  date      = {2006},
+  journal   = {Theoretical Computer Science},
+  volume    = {357},
+  number    = {1},
+  pages     = {230-240},
+  note      = {Clifford Lectures and the Mathematical Foundations of Programming Semantics},
+  issn      = {0304-3975},
+  doi       = {https://doi.org/10.1016/j.tcs.2006.03.021},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0304397506002738},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2229</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005P</fr:addr><fr:route>axt-005P.xml</fr:route><fr:title>Compact open of a locale</fr:title><fr:meta
+name="date-added">2024-04-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An open <fr:tex>U :  \mathcal {O}( X )</fr:tex> of a locale <fr:tex>X</fr:tex> is said to be <fr:strong>compact</fr:strong>
+  if
+  <fr:tex
+display="block">U  \le   \bigvee  S  \rightarrow   \exists  V  \in  S. \  U  \le  V</fr:tex>
+  for every directed set <fr:tex>S  \subseteq  L</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2228</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0024</fr:addr><fr:route>axt-0024.xml</fr:route><fr:title>Spectral locale</fr:title><fr:meta
+name="date-added">2023-10-26</fr:meta><fr:meta
+name="source"><fr:strong>II.3.2</fr:strong> from <fr:link
+href="ptj-stone-spaces.xml"
+type="local"
+addr="ptj-stone-spaces">Stone Spaces</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A locale <fr:tex>X</fr:tex> is called <fr:strong>spectral</fr:strong> if it satisfies the following two
+  conditions.
+  <fr:ol><fr:li>
+      Every open of <fr:tex>X</fr:tex> is expressible as a join of <fr:link
+href="axt-005P.xml"
+type="local"
+addr="axt-005P">compact opens</fr:link> of <fr:tex>X</fr:tex>.
+    </fr:li>
+    <fr:li>
+      The set of <fr:link
+href="axt-005P.xml"
+type="local"
+addr="axt-005P">compact opens</fr:link> of <fr:tex>X</fr:tex> forms a sub-meet-semilattice of
+      the frame <fr:tex>\mathcal {O}( X )</fr:tex>.
+    </fr:li></fr:ol></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

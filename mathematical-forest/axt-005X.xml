@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2712</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>axt-005X</fr:addr><fr:route>axt-005X.xml</fr:route><fr:title>The computability model <fr:tex>T_2</fr:tex></fr:title><fr:meta
+name="date-added">2024-04-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  First, we fix a convention on how to represent natural numbers on a <fr:link
+href="TODO"
+type="external">Turing
+  machine</fr:link>. We could, for example, decide to represent them in binary,
+  using the alphabet <fr:tex>\{ 0, 1 \}</fr:tex>. We denote by <fr:tex>\ulcorner   n   \urcorner</fr:tex> the encoding of
+  natural numbers on the tape of the Turing machine.
+</fr:p><fr:p><fr:tex>T_2</fr:tex> is then the following <fr:link
+href="axt-005W.xml"
+type="local"
+addr="axt-005W">computability model</fr:link>.
+  <fr:ul><fr:li>
+      The set of type names is <fr:tex>\mathsf {T}   \vcentcolon \equiv   \mathtt {nat}</fr:tex>.
+    </fr:li>
+    <fr:li><fr:tex>\mathbf {C} _{ \mathtt {nat}}   \vcentcolon \equiv   \mathbb {N} .</fr:tex></fr:li>
+    <fr:li>
+      The set <fr:tex>\mathbf {C} [ \mathtt {nat} ,  \mathtt {nat} ]</fr:tex> contains a function
+      <fr:tex>f :  \mathbb {N}   \rightharpoonup   \mathbb {N}</fr:tex> if
+      there exists a Turing machine <fr:tex>M_f</fr:tex> such that, for every natural
+      number <fr:tex>n  \in   \mathbb {N}</fr:tex>, if <fr:tex>f(n)</fr:tex> is defined then when <fr:tex>M_f</fr:tex> is run
+      on a tape with the encoding <fr:tex>\ulcorner   n   \urcorner</fr:tex> on it, it halts in a state where
+      the tape contains the encoding <fr:tex>enc{f(n)}</fr:tex>.
+    </fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2711</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005W</fr:addr><fr:route>axt-005W.xml</fr:route><fr:title>Computability model</fr:title><fr:meta
+name="date-added">2024-04-26</fr:meta><fr:meta
+name="source">from <fr:strong>Sec. 1.1.2</fr:strong> of <fr:link
+href="longley-normann-hoc.xml"
+type="local"
+addr="longley-normann-hoc">HOC</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>computability model</fr:strong> consists of the data:
+  <fr:ul><fr:li>a set <fr:tex>\mathsf {T}</fr:tex> of <fr:em>type names</fr:em>,</fr:li>
+    <fr:li>a <fr:tex>\mathsf {T}</fr:tex>-indexed family of sets <fr:tex>(  \mathbf {C} _ \tau )_{ \tau   \in  T}</fr:tex>,</fr:li>
+    <fr:li>
+      for each <fr:tex>\sigma ,  \tau   \in   \mathsf {T}</fr:tex>, a set <fr:tex>\mathbf {C} [ \sigma ,  \tau ]</fr:tex> of
+      partial functions <fr:tex>f :  \mathbf {C} _ \sigma   \rightharpoonup   \mathbf {C} _ \tau</fr:tex>.
+    </fr:li></fr:ul>
+  These are required to satisfy:
+  <fr:ul><fr:li>
+      For every <fr:tex>\tau   \in   \mathsf {T}</fr:tex>, the identity function <fr:tex>\mathrm {id}_ \tau  :  \mathbf {C} _ \tau   \to   \mathbf {C} _ \tau</fr:tex> is in the set <fr:tex>\mathbf {C} [ \tau ,  \tau ]</fr:tex>.
+   </fr:li>
+    <fr:li>
+      For every <fr:tex>f  \in   \mathbf {C} [ \rho ,  \sigma ]</fr:tex> and <fr:tex>g  \in   \mathbf {C} [ \sigma ,  \tau ]</fr:tex>,
+      the composition <fr:tex>g  \circ  f</fr:tex> is in the set <fr:tex>\mathbf {C} [ \rho ,  \tau ]</fr:tex>.
+    </fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

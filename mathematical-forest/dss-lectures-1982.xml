@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1276</anchor>  <taxon>Reference</taxon> <addr>dss-lectures-1982</addr>  <route>dss-lectures-1982.xml</route> <date><year>1982</year>  </date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Lectures on a Mathematical Theory of Computation</title> <meta name="bibtex">@incollection{dss-lectures-1982,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1967</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>dss-lectures-1982</fr:addr><fr:route>dss-lectures-1982.xml</fr:route><fr:title>Lectures on a Mathematical Theory of Computation</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@incollection{dss-lectures-1982,
   author       = {Scott, Dana S.},
   editor       = {Broy, Manfred and Schmidt, Gunther},
   title        = {Lectures on a Mathematical Theory of Computation},
@@ -13,5 +25,4 @@
   publisher    =	{Springer},
   pages        = {145--292},
   doi          =	{10.1007/978-94-009-7893-5_9}
-}
-</meta></frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

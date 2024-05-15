@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1143</anchor>  <taxon>Definition</taxon> <addr>axt-0049</addr>  <route>axt-0049.xml</route> <date><year>2023</year> <month>11</month> <day>26</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Totally order-disconnected space</title> <meta name="source"><b>Paragraph 11.20</b> of <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  An ordered space is called <b>totally order-disconnected</b> if for any
-  two <tex>x, y  \in  X</tex> with <tex>x  \not \le  y</tex>, there exists a downward-closed clopen
-  set <tex>F  \subseteq  X</tex> with <tex>y  \in  F</tex> and <tex>x  \notin  F</tex>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1144</anchor>   <addr>davey-priestley-book</addr>  <route>davey-priestley-book.xml</route> <date><year>2002</year>  </date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Introduction to Lattices and Order</title> <meta name="bibtex">@book{davey-priestley-book,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>462</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-0049</fr:addr><fr:route>axt-0049.xml</fr:route><fr:title>Totally order-disconnected space</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:strong>Paragraph 11.20</fr:strong> of <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  An ordered space is called <fr:strong>totally order-disconnected</fr:strong> if for any
+  two <fr:tex>x, y  \in  X</fr:tex> with <fr:tex>x  \not \le  y</fr:tex>, there exists a downward-closed clopen
+  set <fr:tex>F  \subseteq  X</fr:tex> with <fr:tex>y  \in  F</fr:tex> and <fr:tex>x  \notin  F</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr>davey-priestley-book</fr:addr><fr:route>davey-priestley-book.xml</fr:route><fr:title>Introduction to Lattices and Order</fr:title><fr:date><fr:year>2002</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{davey-priestley-book,
   title        = {Introduction to Lattices and Order},
   date         = {2002},
   place        = {Cambridge CB2 8BS, UK},
@@ -12,5 +45,4 @@
   isbn         = {978-0-521-78451-1},
   publisher    = {Cambridge University Press},
   author       = {Davey, Brian A. and Priestley, Hilary A.},
-}
-</meta></frontmatter> <mainmatter/> </tree></related> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

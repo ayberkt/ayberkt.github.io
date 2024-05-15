@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>226</anchor>   <addr>axt-000P</addr>  <route>axt-000P.xml</route> <date><year>2023</year> <month>9</month> <day>13</day></date>  <title>Subbasis</title> </frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>227</anchor>  <taxon>Theorem</taxon> <addr>axt-000O</addr>  <route>axt-000O.xml</route> <date><year>2023</year> <month>9</month> <day>13</day></date>  <title>Alexander Subbase Theorem</title> </frontmatter> <mainmatter><p>  Let <tex>X</tex> be a topological space and let <tex>S</tex> be a <link href="axt-000P.xml" type="local" title="Subbasis">subasis</link> for
-  <tex>X</tex>. If every open cover of <tex>X</tex> consisting only of elements from the
-  subbasis <tex>S</tex> has a finite subcover, then <tex>X</tex> is a compact space.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1605</fr:anchor><fr:addr>axt-000P</fr:addr><fr:route>axt-000P.xml</fr:route><fr:title>Subbasis</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1604</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000O</fr:addr><fr:route>axt-000O.xml</fr:route><fr:title>Alexander Subbase Theorem</fr:title><fr:date><fr:year>2023</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X</fr:tex> be a topological space and let <fr:tex>S</fr:tex> be a <fr:link
+href="axt-000P.xml"
+type="local"
+addr="axt-000P">subasis</fr:link> for
+  <fr:tex>X</fr:tex>. If every open cover of <fr:tex>X</fr:tex> consisting only of elements from the
+  subbasis <fr:tex>S</fr:tex> has a finite subcover, then <fr:tex>X</fr:tex> is a compact space.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

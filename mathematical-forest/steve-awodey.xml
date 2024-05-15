@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1440</anchor>  <taxon>Person</taxon> <addr>steve-awodey</addr>  <route>steve-awodey.xml</route>   <title>Steve Awodey</title> <meta name="external">https://awodey.github.io/</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1441</anchor>  <taxon>Definition</taxon> <addr>axt-001Q</addr>  <route>axt-001Q.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Adjunction (preliminary)</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> be two categories. An <em>adjunction</em> between
-  <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> consists of functors <tex>F :  \mathbb{C}   \to   \mathbb{D}</tex> and
-  <tex>U :  \mathbb{D}   \to   \mathbb{C}</tex> equipped with a natural transformation
-  <tex display="block">\eta  :  \mathbf{1} _{ \mathbb{C} }  \to  U  \circ  F</tex> such that
-  <ul>    <li>      for any <tex>C  \in   \mathbb{C} , D  \in   \mathbb{D}</tex> and any <tex>\mathbb{C}</tex>-morphism <tex>f : C  \to  U(D)</tex>,
-      there exists a <tex>\mathbb{D}</tex>-morphism <tex>g : F(C)  \to  D</tex> unique with the property
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2693</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>steve-awodey</fr:addr><fr:route>steve-awodey.xml</fr:route><fr:title>Steve Awodey</fr:title><fr:meta
+name="external">https://awodey.github.io/</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2689</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="steve-awodey.xml"
+type="local"
+addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> be two categories. An <fr:em>adjunction</fr:em> between
+  <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> consists of functors <fr:tex>F :  \mathbb {C}   \to   \mathbb {D}</fr:tex> and
+  <fr:tex>U :  \mathbb {D}   \to   \mathbb {C}</fr:tex> equipped with a natural transformation
+  <fr:tex
+display="block">\eta  :  \mathbf {1} _{ \mathbb {C} }  \to  U  \circ  F</fr:tex> such that
+  <fr:ul><fr:li>
+      for any <fr:tex>C  \in   \mathbb {C} , D  \in   \mathbb {D}</fr:tex> and any <fr:tex>\mathbb {C}</fr:tex>-morphism <fr:tex>f : C  \to  U(D)</fr:tex>,
+      there exists a <fr:tex>\mathbb {D}</fr:tex>-morphism <fr:tex>g : F(C)  \to  D</fr:tex> unique with the property
       of making the following diagram commute:
-      <center><img src="resources/f39da2134697a40fd4f3c495c2577295-web.svg"/></center>    </li>  </ul></p><p>  <b>Definition 9.1</b> from <link href="steve-awodey.xml" type="local" title="Steve Awodey">Steve Awodey</link>'s
-   <link href="awodey-ct-book.xml" type="local" title="Category Theory">book on category theory</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1442</anchor>  <taxon>Reference</taxon> <addr>awodey-ct-book</addr>  <route>awodey-ct-book.xml</route> <date><year>2006</year>  </date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Category Theory</title> <meta name="bibtex">@book{awodey-ct-book,
+      <fr:embedded-tex
+hash="cd4b2a914fe6fe657529da6b838fce44"><fr:embedded-tex-preamble>
+         \usepackage {tikz-cd}
+      </fr:embedded-tex-preamble><fr:embedded-tex-body>
+         \begin {tikzcd}
+          U(F(C))  \arrow [r, "U(g)"] &amp; U(D) \\ 
+          C  \arrow [u, " \eta _C"]  \arrow [ur, "f"]
+         \end {tikzcd}
+      </fr:embedded-tex-body></fr:embedded-tex></fr:li></fr:ul></fr:p><fr:p><fr:strong>Definition 9.1</fr:strong> from <fr:link
+href="steve-awodey.xml"
+type="local"
+addr="steve-awodey">Steve Awodey</fr:link>'s
+   <fr:link
+href="awodey-ct-book.xml"
+type="local"
+addr="awodey-ct-book">book on category theory</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2691</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>awodey-ct-book</fr:addr><fr:route>awodey-ct-book.xml</fr:route><fr:title>Category Theory</fr:title><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="steve-awodey.xml"
+type="local"
+addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{awodey-ct-book,
   title        = {Category Theory},
   author       = {Awodey, Steve},
   date         = {2010},
@@ -19,14 +66,40 @@
   publisher    = {Oxford University Press},
   series       = {Oxford Logic Guides},
   volume       = {52},
-}
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1443</anchor>  <taxon>Definition</taxon> <addr>axt-001Q</addr>  <route>axt-001Q.xml</route> <date><year>2023</year> <month>10</month> <day>25</day></date> <authors><author><link href="steve-awodey.xml" type="local">Steve Awodey</link></author> </authors> <title>Adjunction (preliminary)</title> </frontmatter> <mainmatter><p>  Let <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> be two categories. An <em>adjunction</em> between
-  <tex>\mathbb{C}</tex> and <tex>\mathbb{D}</tex> consists of functors <tex>F :  \mathbb{C}   \to   \mathbb{D}</tex> and
-  <tex>U :  \mathbb{D}   \to   \mathbb{C}</tex> equipped with a natural transformation
-  <tex display="block">\eta  :  \mathbf{1} _{ \mathbb{C} }  \to  U  \circ  F</tex> such that
-  <ul>    <li>      for any <tex>C  \in   \mathbb{C} , D  \in   \mathbb{D}</tex> and any <tex>\mathbb{C}</tex>-morphism <tex>f : C  \to  U(D)</tex>,
-      there exists a <tex>\mathbb{D}</tex>-morphism <tex>g : F(C)  \to  D</tex> unique with the property
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2687</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Q</fr:addr><fr:route>axt-001Q.xml</fr:route><fr:title>Adjunction (preliminary)</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="steve-awodey.xml"
+type="local"
+addr="steve-awodey">Steve Awodey</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> be two categories. An <fr:em>adjunction</fr:em> between
+  <fr:tex>\mathbb {C}</fr:tex> and <fr:tex>\mathbb {D}</fr:tex> consists of functors <fr:tex>F :  \mathbb {C}   \to   \mathbb {D}</fr:tex> and
+  <fr:tex>U :  \mathbb {D}   \to   \mathbb {C}</fr:tex> equipped with a natural transformation
+  <fr:tex
+display="block">\eta  :  \mathbf {1} _{ \mathbb {C} }  \to  U  \circ  F</fr:tex> such that
+  <fr:ul><fr:li>
+      for any <fr:tex>C  \in   \mathbb {C} , D  \in   \mathbb {D}</fr:tex> and any <fr:tex>\mathbb {C}</fr:tex>-morphism <fr:tex>f : C  \to  U(D)</fr:tex>,
+      there exists a <fr:tex>\mathbb {D}</fr:tex>-morphism <fr:tex>g : F(C)  \to  D</fr:tex> unique with the property
       of making the following diagram commute:
-      <center><img src="resources/f39da2134697a40fd4f3c495c2577295-web.svg"/></center>    </li>  </ul></p><p>  <b>Definition 9.1</b> from <link href="steve-awodey.xml" type="local" title="Steve Awodey">Steve Awodey</link>'s
-   <link href="awodey-ct-book.xml" type="local" title="Category Theory">book on category theory</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+      <fr:embedded-tex
+hash="cd4b2a914fe6fe657529da6b838fce44"><fr:embedded-tex-preamble>
+         \usepackage {tikz-cd}
+      </fr:embedded-tex-preamble><fr:embedded-tex-body>
+         \begin {tikzcd}
+          U(F(C))  \arrow [r, "U(g)"] &amp; U(D) \\ 
+          C  \arrow [u, " \eta _C"]  \arrow [ur, "f"]
+         \end {tikzcd}
+      </fr:embedded-tex-body></fr:embedded-tex></fr:li></fr:ul></fr:p><fr:p><fr:strong>Definition 9.1</fr:strong> from <fr:link
+href="steve-awodey.xml"
+type="local"
+addr="steve-awodey">Steve Awodey</fr:link>'s
+   <fr:link
+href="awodey-ct-book.xml"
+type="local"
+addr="awodey-ct-book">book on category theory</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

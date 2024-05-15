@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2034</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-005K</fr:addr><fr:route>axt-005K.xml</fr:route><fr:title>Addition of Dedekind cuts</fr:title><fr:meta
+name="date-added">2024-04-13</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex>. The addition <fr:tex>C+D</fr:tex> is defined
+  as
+  <fr:tex
+display="block">C + D   \vcentcolon \equiv   \{  c+d  \mid  c  \in  C, d  \in  D  \} ,</fr:tex>
+  which is <fr:link
+href="axt-005L.xml"
+type="local"
+addr="axt-005L">always a Dedekind cut</fr:link>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2033</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:title>Addition as a cut</fr:title><fr:meta
+name="date-added">2024-04-13</fr:meta><fr:meta
+name="to-ankify">true</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex> be two <fr:link
+href="axt-005G"
+type="external">Dedekind cuts</fr:link>. Their
+  <fr:link
+href="axt-005K.xml"
+type="local"
+addr="axt-005K">addition</fr:link> <fr:tex>C + D</fr:tex> is a <fr:link
+href="axt-005G"
+type="external">Dedekind cut</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2030</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:ol><fr:li>
+      It is easy to see that <fr:tex>C+D</fr:tex> is inhabited since <fr:tex>C</fr:tex> and <fr:tex>D</fr:tex>
+      are both inhabited. To show that <fr:tex>C+D  \neq   \mathbb {Q}</fr:tex>, we need to exhibit
+      some <fr:tex>r  \in  Q</fr:tex> such that <fr:tex>r  \notin  C+D</fr:tex>.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>r  \in  C+D</fr:tex>, <fr:tex>p  \in   \mathbb {Q}</fr:tex> with <fr:tex>p &lt; r</fr:tex>. We need to show that
+      <fr:tex>p  \in  C+D</fr:tex>.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>r  \in  C+D</fr:tex> which means <fr:tex>r = c+d</fr:tex> for some <fr:tex>c  \in  C</fr:tex>, <fr:tex>d  \in  D</fr:tex>.
+      We need to show that there is some <fr:tex>s  \in  C+D</fr:tex> with <fr:tex>r &lt; s</fr:tex>.
+
+      We know that there must exist <fr:tex>c'  \in  C</fr:tex> and <fr:tex>d'  \in  D</fr:tex> with
+      <fr:tex>c &lt; c'</fr:tex> and <fr:tex>d &lt; d'</fr:tex>. Picking <fr:tex>s  \vcentcolon \equiv  c'+d'</fr:tex>,
+      we have that <fr:tex>s  \in  C+D</fr:tex> and <fr:tex>r &lt; s</fr:tex>.
+    </fr:li></fr:ol>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2032</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-005L</fr:addr><fr:route>axt-005L.xml</fr:route><fr:title>Addition as a cut</fr:title><fr:meta
+name="date-added">2024-04-13</fr:meta><fr:meta
+name="to-ankify">true</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>C, D  \subseteq   \mathbb {Q}</fr:tex> be two <fr:link
+href="axt-005G"
+type="external">Dedekind cuts</fr:link>. Their
+  <fr:link
+href="axt-005K.xml"
+type="local"
+addr="axt-005K">addition</fr:link> <fr:tex>C + D</fr:tex> is a <fr:link
+href="axt-005G"
+type="external">Dedekind cut</fr:link>.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2030</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>axt-005L</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:ol><fr:li>
+      It is easy to see that <fr:tex>C+D</fr:tex> is inhabited since <fr:tex>C</fr:tex> and <fr:tex>D</fr:tex>
+      are both inhabited. To show that <fr:tex>C+D  \neq   \mathbb {Q}</fr:tex>, we need to exhibit
+      some <fr:tex>r  \in  Q</fr:tex> such that <fr:tex>r  \notin  C+D</fr:tex>.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>r  \in  C+D</fr:tex>, <fr:tex>p  \in   \mathbb {Q}</fr:tex> with <fr:tex>p &lt; r</fr:tex>. We need to show that
+      <fr:tex>p  \in  C+D</fr:tex>.
+    </fr:li>
+    <fr:li>
+      Let <fr:tex>r  \in  C+D</fr:tex> which means <fr:tex>r = c+d</fr:tex> for some <fr:tex>c  \in  C</fr:tex>, <fr:tex>d  \in  D</fr:tex>.
+      We need to show that there is some <fr:tex>s  \in  C+D</fr:tex> with <fr:tex>r &lt; s</fr:tex>.
+
+      We know that there must exist <fr:tex>c'  \in  C</fr:tex> and <fr:tex>d'  \in  D</fr:tex> with
+      <fr:tex>c &lt; c'</fr:tex> and <fr:tex>d &lt; d'</fr:tex>. Picking <fr:tex>s  \vcentcolon \equiv  c'+d'</fr:tex>,
+      we have that <fr:tex>s  \in  C+D</fr:tex> and <fr:tex>r &lt; s</fr:tex>.
+    </fr:li></fr:ol>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1399</anchor>  <taxon>Person</taxon> <addr>michael-smyth</addr>  <route>michael-smyth.xml</route>   <title>Michael B. Smyth</title> </frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1400</anchor>  <taxon>Reference</taxon> <addr>smyth-topology</addr>  <route>smyth-topology.xml</route> <date><year>1993</year>  </date> <authors><author><link href="michael-smyth.xml" type="local">Michael B. Smyth</link></author> </authors> <title>Topology</title> <meta name="bibtex">@incollection{smyth-topology,
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2599</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>michael-smyth</fr:addr><fr:route>michael-smyth.xml</fr:route><fr:title>Michael B. Smyth</fr:title></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2597</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>smyth-topology</fr:addr><fr:route>smyth-topology.xml</fr:route><fr:title>Topology</fr:title><fr:date><fr:year>1993</fr:year></fr:date><fr:authors><fr:author><fr:link
+href="michael-smyth.xml"
+type="local"
+addr="michael-smyth">Michael B. Smyth</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@incollection{smyth-topology,
   title      = {Topology},
   booktitle  = {Handbook of {Logic} in {{Computer Science}} ({Vol}. 1)},
   author     = {Smyth, Michael B.},
@@ -8,10 +27,30 @@
   pages      = {641--761},
   publisher  = {Oxford University Press, Inc.},
   isbn       = {0-19-853735-2},
-}
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1401</anchor>  <taxon>Definition</taxon> <addr>axt-001Y</addr>  <route>axt-001Y.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date>  <title>Scott open subset of a dcpo</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a dcpo. A subset <tex>U  \subseteq  D</tex> is called a
-  <em>Scott open</em> if it satisfies the following conditions.
-  <ol>    <li><tex>U</tex> is <link href="axt-001Z.xml" type="local" title="Upwards-closed subset"><b>upwards-closed</b></link>.</li>    <li>      <tex>U</tex> is <b>inaccessible by directed joins</b>, which is to say
-      for any directed subset <tex>S  \subseteq  D</tex>, if <tex>( { \bigvee }^{ \uparrow } S )  \in  U</tex>      then there is some <tex>x  \in  S</tex> such that <tex>x  \in  U</tex>.
-    </li>  </ol></p><p>  The definition here follows the definition at the beginning of <b>Section 2.2</b>  of <link href="michael-smyth.xml" type="local" title="Michael B. Smyth">Mike Smyth</link>'s <link href="smyth-topology.xml" type="local" title="Topology">handbook chapter on topology</link>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2596</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001Y</fr:addr><fr:route>axt-001Y.xml</fr:route><fr:title>Scott open subset of a dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a dcpo. A subset <fr:tex>U  \subseteq  D</fr:tex> is called a
+  <fr:em>Scott open</fr:em> if it satisfies the following conditions.
+  <fr:ol><fr:li><fr:tex>U</fr:tex> is <fr:link
+href="axt-001Z.xml"
+type="local"
+addr="axt-001Z"><fr:strong>upwards-closed</fr:strong></fr:link>.</fr:li>
+    <fr:li><fr:tex>U</fr:tex> is <fr:strong>inaccessible by directed joins</fr:strong>, which is to say
+      for any directed subset <fr:tex>S  \subseteq  D</fr:tex>, if <fr:tex>( { \bigvee }^{ \uparrow } S )  \in  U</fr:tex>
+      then there is some <fr:tex>x  \in  S</fr:tex> such that <fr:tex>x  \in  U</fr:tex>.
+    </fr:li></fr:ol></fr:p><fr:p>
+  The definition here follows the definition at the beginning of <fr:strong>Section 2.2</fr:strong>
+  of <fr:link
+href="michael-smyth.xml"
+type="local"
+addr="michael-smyth">Mike Smyth</fr:link>'s <fr:link
+href="smyth-topology.xml"
+type="local"
+addr="smyth-topology">handbook chapter on topology</fr:link>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

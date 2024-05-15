@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2310</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-004Y</fr:addr><fr:route>axt-004Y.xml</fr:route><fr:title>Finite intersection property</fr:title><fr:meta
+name="date-added">2024-01-26</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A family <fr:tex>\{  A_i  \} _{i  \in  I}</fr:tex> of subsets of a set <fr:tex>X</fr:tex> is said to have the
+  <fr:strong>finite intersection property</fr:strong> if the intersection
+  <fr:tex>\bigcap _{j  \in  J} A_j</fr:tex> is nonempty for every finite <fr:tex>J  \subseteq  I</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2309</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-000W</fr:addr><fr:route>axt-000W.xml</fr:route><fr:title>Compactness and the finite intersection property</fr:title><fr:meta
+name="date-added">2023-09-15</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A space <fr:tex>X</fr:tex> is <fr:link
+href="axt-000R.xml"
+type="local"
+addr="axt-000R">compact</fr:link> iff for every family <fr:tex>\{  F_i  \} _{i  \in    I}</fr:tex> of closed sets having the <fr:link
+href="axt-004Y.xml"
+type="local"
+addr="axt-004Y">finite intersection property</fr:link>, the intersection
+  <fr:tex>\bigcap _{i  \in  I} F_i</fr:tex> is nonempty.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

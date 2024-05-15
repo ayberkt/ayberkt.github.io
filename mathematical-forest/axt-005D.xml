@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:addr>axt-005D</fr:addr><fr:route>axt-005D.xml</fr:route><fr:title>Continuous poset</fr:title><fr:date><fr:year>2024</fr:year><fr:month>2</fr:month><fr:day>19</fr:day></fr:date><fr:meta
+name="source"><fr:strong>I-1.16</fr:strong> of <fr:link
+href="clad.xml"
+type="local"
+addr="clad">Continuous Lattices and Domains</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A poset <fr:tex>L</fr:tex> is called <fr:strong>continuous</fr:strong> if it satisfies
+  <fr:tex
+display="block">\forall  x  \in  L. \  x = { \bigvee }^{ \uparrow }  \downdownarrows  x, </fr:tex>
+  that is, the family <fr:tex>\downdownarrows  x</fr:tex> is directed and <fr:tex>x</fr:tex> is its
+  least upper bound.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:addr>clad</fr:addr><fr:route>clad.xml</fr:route><fr:title>Continuous Lattices and Domains</fr:title><fr:date><fr:year>2003</fr:year></fr:date><fr:authors><fr:author>Gerhard Gierz</fr:author><fr:author>Karl H. Hofmann</fr:author><fr:author>Klaus Keimel</fr:author><fr:author><fr:link
+href="jimmie-lawson.xml"
+type="local"
+addr="jimmie-lawson">Jimmie D. Lawson</fr:link></fr:author><fr:author>Michael Mislove</fr:author><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@book{clad,
+  series    = {Encyclopedia of Mathematics and its Applications},
+  title     = {Continuous Lattices and Domains},
+  publisher = {Cambridge University Press},
+  author    = {Gierz, G. and Hofmann, K. H. and Keimel, K. and Lawson,
+               J. D. and Mislove, M. and Scott, D S.},
+  date      = {2003},
+  volume    = 93,
+  doi       = {10.1017/CBO9780511542725},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

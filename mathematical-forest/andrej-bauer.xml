@@ -1,13 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>122</anchor>  <taxon>Person</taxon> <addr>andrej-bauer</addr>  <route>andrej-bauer.xml</route>   <title>Andrej Bauer</title> <meta name="external">https://www.andrej.com/</meta><meta name="institution">University of Ljubljana</meta><meta name="orcid">0000-0001-5378-0547</meta></frontmatter> <mainmatter/> <backmatter><contributions><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>123</anchor>  <taxon>Proposition</taxon> <addr>axt-0040</addr>  <route>axt-0040.xml</route> <date><year>2023</year> <month>11</month> <day>21</day></date> <authors><author><link href="andrej-bauer.xml" type="local">Andrej Bauer</link></author> </authors>  <meta name="source"><link href="ab-post-stone-fin.xml" type="local" title="Constructive stone: finite sets">Stone on finite sets</link></meta></frontmatter> <mainmatter><p>  If every set has a listing without repetitions, then the law of excluded
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2054</fr:anchor><fr:taxon>Person</fr:taxon><fr:addr>andrej-bauer</fr:addr><fr:route>andrej-bauer.xml</fr:route><fr:title>Andrej Bauer</fr:title><fr:meta
+name="external">https://www.andrej.com/</fr:meta><fr:meta
+name="institution">University of Ljubljana</fr:meta><fr:meta
+name="orcid">0000-0001-5378-0547</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2050</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>axt-0040</fr:addr><fr:route>axt-0040.xml</fr:route><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="andrej-bauer.xml"
+type="local"
+addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:link
+href="ab-post-stone-fin.xml"
+type="local"
+addr="ab-post-stone-fin">Stone on finite sets</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  If every set has a listing without repetitions, then the law of excluded
   middle holds.
-</p>      <block open="open"><headline><b>Proof</b>.</headline>   <mark>TODO</mark>.
-</block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>124</anchor>  <taxon>Reference</taxon> <addr>ab-post-stone-fin</addr>  <route>ab-post-stone-fin.xml</route>  <authors><author><link href="andrej-bauer.xml" type="local">Andrej Bauer</link></author> </authors> <title>Constructive stone: finite sets</title> <meta name="bibtex">@online{ab-post-stone-fin,
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>485</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="andrej-bauer.xml"
+type="local"
+addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:parent>axt-0040</fr:parent></fr:frontmatter><fr:mainmatter>
+  <html:mark
+xmlns:html="http://www.w3.org/1999/xhtml">TODO</html:mark>.
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2052</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>ab-post-stone-fin</fr:addr><fr:route>ab-post-stone-fin.xml</fr:route><fr:title>Constructive stone: finite sets</fr:title><fr:authors><fr:author><fr:link
+href="andrej-bauer.xml"
+type="local"
+addr="andrej-bauer">Andrej Bauer</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex">%
+@online{ab-post-stone-fin,
   title        = {Constructive stone: finite sets},
   author       = {Bauer, Andrej},
   url          = {https://math.andrej.com/2009/09/07/constructive-stone-finite-sets/},
   date         = {2009-09-07},
   urldate      = {2023-11-21},
-}
-</meta></frontmatter> <mainmatter/> </tree></contributions> <context/> <related/> <backlinks/> <references/></backmatter></tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

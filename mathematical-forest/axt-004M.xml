@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1716</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-004M</fr:addr><fr:route>axt-004M.xml</fr:route><fr:title>Set replacement axiom</fr:title><fr:date><fr:year>2022</fr:year><fr:month>3</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="tom-de-jong.xml"
+type="local"
+addr="tom-de-jong">Tom de Jong</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-01-14</fr:meta><fr:meta
+name="source">from <fr:link
+href="https://www.cs.bham.ac.uk/~mhe/TypeTopology/UF.Size.html#32210"
+type="external">TypeTopology</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>X :  \mathcal {U} '</fr:tex> be a type and <fr:tex>Y :  \mathcal {V}</fr:tex>, a set, and let <fr:tex>f : X  \to  Y</fr:tex> be a
+  function. The <fr:strong>set replacement axiom</fr:strong> says, if type <fr:tex>X</fr:tex> is
+  <fr:tex>\mathcal {U}</fr:tex>-small and the type <fr:tex>Y</fr:tex> is locally <fr:tex>\mathcal {W}</fr:tex>-small then the image of <fr:tex>f</fr:tex>
+  is <fr:tex>( \mathcal {U}   \sqcup   \mathcal {W} )</fr:tex>-small.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

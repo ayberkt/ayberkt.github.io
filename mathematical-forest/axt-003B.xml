@@ -1,21 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1012</anchor>  <taxon>Definition</taxon> <addr>axt-003B</addr>  <route>axt-003B.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo</title> <meta name="source"><b>Defn. 8.1</b> of <link href="foo" type="external">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  A <b>pointed dcpo</b> is a <link href="axt-003C.xml" type="local" title="Directed-complete partial order">dcpo</link> that has a bottom element
-  <tex>\bot   \in  D</tex>.
-</p></mainmatter> <backmatter><contributions/> <context/> <related><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1013</anchor>  <taxon>Definition</taxon> <addr>axt-003C</addr>  <route>axt-003C.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Directed-complete partial order</title> </frontmatter> <mainmatter><p>  A <b>directed-complete partial order</b> is a poset <tex>(D,  \sqsubseteq )</tex>  that is directed-complete i.e. one in which joins of all directed subsets
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2630</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003B</fr:addr><fr:route>axt-003B.xml</fr:route><fr:title>Pointed dcpo</fr:title><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2023-11-06</fr:meta><fr:meta
+name="source"><fr:strong>Defn. 8.1</fr:strong> of <fr:link
+href="foo"
+type="external">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>pointed dcpo</fr:strong> is a <fr:link
+href="axt-003C.xml"
+type="local"
+addr="axt-003C">dcpo</fr:link> that has a bottom element
+  <fr:tex>\bot   \in  D</fr:tex>.
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2627</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-003C</fr:addr><fr:route>axt-003C.xml</fr:route><fr:title>Directed-complete partial order</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  A <fr:strong>directed-complete partial order</fr:strong> is a poset <fr:tex>(D,  \sqsubseteq )</fr:tex>
+  that is directed-complete i.e. one in which joins of all directed subsets
   exist.
-</p></mainmatter> </tree></related> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1014</anchor>  <taxon>Theorem</taxon> <addr>axt-003E</addr>  <route>axt-003E.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title><tex>\mathsf{(AC)}</tex> implies <tex>\mathsf{(ZL)''}</tex></title> </frontmatter> <mainmatter><p>  If <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link> holds then <link href="axt-003A.xml" type="local" title="Alternative formulation of Zorn’s Lemma"><tex>\mathsf{(ZL)''}</tex></link> holds.
-</p>      <block open="open"><headline><b>Proof</b>.</headline> <p>  Assume that <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link> holds and let <tex>(D,  \sqsubseteq )</tex> be a
-  <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link>. Suppose that every element of <tex>D</tex> fails to be
-  maximal. This is to say that for every <tex>x  \in  D</tex>, the set
-  <tex>\{  y  \in  D  \mid  x &lt; y  \}</tex> is nonempty.
-</p><p>  This means that the family <tex>\{   \{  y  \in  D  \mid  y&gt; x  \}   \} _{x  \in  D}</tex>  is nonempty. By <link href="axt-003D.xml" type="local" title="Axiom of choice in set theory"><tex>( \mathsf{AC} )</tex></link>, there exists a choice function
-  <tex>F : D  \to  D</tex>. This function is clearly inflationary by construction.
-</p><p>  By the <link href="axt-003F.xml" type="local" title="Pointed dcpo fixed point theorem III">Pointed Dcpo Fixed Point Theorem II</link>, <tex>F</tex> must have a least
-  fixed point <tex>\mu ( F )</tex> satisfying <tex>F( \mu ( F ) ) =  \mu ( F )</tex>. This contradicts
-  the fact that <tex>x &lt; F(x)</tex> for every <tex>x  \in  D</tex>.
-</p></block>  </mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1015</anchor>  <taxon>Axiom</taxon> <addr>axt-003A</addr>  <route>axt-003A.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Alternative formulation of Zorn’s Lemma</title> <meta name="source"><tex>(ZL)''</tex> from <link href="davey-priestley-book.xml" type="local" title="Introduction to Lattices and Order">Davey and Priestley</link></meta></frontmatter> <mainmatter><p>  Every <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> has a <link href="axt-0039.xml" type="local" title="Maximal element">maximal element</link>.
-</p></mainmatter> </tree><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>1016</anchor>  <taxon>Theorem</taxon> <addr>axt-003F</addr>  <route>axt-003F.xml</route> <date><year>2023</year> <month>11</month> <day>6</day></date> <authors><author><link href="brian-davey.xml" type="local">Brian A. Davey</link></author><author><link href="hilary-priestley.xml" type="local">Hilary A. Priestley</link></author> </authors> <title>Pointed dcpo fixed point theorem III</title> </frontmatter> <mainmatter><p>  Let <tex>(D,  \sqsubseteq )</tex> be a <link href="axt-003B.xml" type="local" title="Pointed dcpo">pointed dcpo</link> and <tex>F : D  \to  D</tex> an
-  inflationary endomap on it. There exists a <link href="axt-003H.xml" type="local" title="Least fixed point">least fixed
-  point</link> for function <tex>F</tex>.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+</fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2619</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003E</fr:addr><fr:route>axt-003E.xml</fr:route><fr:title><fr:tex>\mathsf {(AC)}</fr:tex> implies <fr:tex>\mathsf {(ZL)''}</fr:tex></fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  If <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link> holds then <fr:link
+href="axt-003A.xml"
+type="local"
+addr="axt-003A"><fr:tex>\mathsf {(ZL)''}</fr:tex></fr:link> holds.
+</fr:p>
+ 
+   
+   <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>636</fr:anchor><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:parent>axt-003E</fr:parent></fr:frontmatter><fr:mainmatter>
+<fr:p>
+  Assume that <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link> holds and let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a
+  <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link>. Suppose that every element of <fr:tex>D</fr:tex> fails to be
+  maximal. This is to say that for every <fr:tex>x  \in  D</fr:tex>, the set
+  <fr:tex>\{  y  \in  D  \mid  x &lt; y  \}</fr:tex> is nonempty.
+</fr:p>
+<fr:p>
+  This means that the family <fr:tex>\{   \{  y  \in  D  \mid  y&gt; x  \}   \} _{x  \in  D}</fr:tex>
+  is nonempty. By <fr:link
+href="axt-003D.xml"
+type="local"
+addr="axt-003D"><fr:tex>( \mathsf {AC})</fr:tex></fr:link>, there exists a choice function
+  <fr:tex>F : D  \to  D</fr:tex>. This function is clearly inflationary by construction.
+</fr:p>
+<fr:p>
+  By the <fr:link
+href="axt-003F.xml"
+type="local"
+addr="axt-003F">Pointed Dcpo Fixed Point Theorem II</fr:link>, <fr:tex>F</fr:tex> must have a least
+  fixed point <fr:tex>\mu ( F )</fr:tex> satisfying <fr:tex>F( \mu ( F ) ) =  \mu ( F )</fr:tex>. This contradicts
+  the fact that <fr:tex>x &lt; F(x)</fr:tex> for every <fr:tex>x  \in  D</fr:tex>.
+</fr:p>
+</fr:mainmatter></fr:tree>
+ 
+</fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2622</fr:anchor><fr:taxon>Axiom</fr:taxon><fr:addr>axt-003A</fr:addr><fr:route>axt-003A.xml</fr:route><fr:title>Alternative formulation of Zorn’s Lemma</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors><fr:meta
+name="source"><fr:tex>(ZL)''</fr:tex> from <fr:link
+href="davey-priestley-book.xml"
+type="local"
+addr="davey-priestley-book">Davey and Priestley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  Every <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> has a <fr:link
+href="axt-0039.xml"
+type="local"
+addr="axt-0039">maximal element</fr:link>.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>2624</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-003F</fr:addr><fr:route>axt-003F.xml</fr:route><fr:title>Pointed dcpo fixed point theorem III</fr:title><fr:date><fr:year>2023</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="brian-davey.xml"
+type="local"
+addr="brian-davey">Brian A. Davey</fr:link></fr:author><fr:author><fr:link
+href="hilary-priestley.xml"
+type="local"
+addr="hilary-priestley">Hilary A. Priestley</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Let <fr:tex>(D,  \sqsubseteq )</fr:tex> be a <fr:link
+href="axt-003B.xml"
+type="local"
+addr="axt-003B">pointed dcpo</fr:link> and <fr:tex>F : D  \to  D</fr:tex> an
+  inflationary endomap on it. There exists a <fr:link
+href="axt-003H.xml"
+type="local"
+addr="axt-003H">least fixed
+  point</fr:link> for function <fr:tex>F</fr:tex>.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

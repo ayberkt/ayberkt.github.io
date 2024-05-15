@@ -1,8 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
-<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>395</anchor>  <taxon>Definition</taxon> <addr>axt-001T</addr>  <route>axt-001T.xml</route> <date><year>2023</year> <month>10</month> <day>26</day></date> <authors><author><link href="dana-scott.xml" type="local">Dana S. Scott</link></author> </authors> <title>Continuous dcpo</title> </frontmatter> <mainmatter/> <backmatter><contributions/> <context/> <related/> <backlinks><tree expanded="false" show-heading="true" show-metadata="true" toc="false" root="false"><frontmatter> <anchor>396</anchor>   <addr>axt-0003</addr>  <route>axt-0003.xml</route> <date><year>2023</year> <month>8</month> <day>18</day></date> <authors><author><link href="ayberkt.xml" type="local">Ayberk Tosun</link></author> </authors> <title>Intuition on the notion of a domain</title> </frontmatter> <mainmatter><p>  In the words of <link href="martin-escardo.xml" type="local" title="Martín H. Escardó">Martín Escardó</link>: A <em>domain</em> is a set of
-  concrete finite elements together with infinite, ideal elements such that the
-  ideal elements are characterised uniquely by their finite approximations.
-</p><p>  There are different ways of capturing this mathematically, to varying degrees of
-  precision. These include <link href="axt-001T.xml" type="local" title="Continuous dcpo">continuous</link> and <link href="axt-001S.xml" type="local" title="Algebraic dcpo">algebraic</link> dcpos.
-</p></mainmatter> </tree></backlinks> <references/></backmatter></tree>
+<?xml-stylesheet type="text/xsl" href="jms-forest.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1311</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>axt-001T</fr:addr><fr:route>axt-001T.xml</fr:route><fr:title>Continuous dcpo</fr:title><fr:date><fr:year>2023</fr:year><fr:month>10</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="dana-scott.xml"
+type="local"
+addr="dana-scott">Dana S. Scott</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1308</fr:anchor><fr:addr>axt-0003</fr:addr><fr:route>axt-0003.xml</fr:route><fr:title>Intuition on the notion of a domain</fr:title><fr:date><fr:year>2007</fr:year><fr:month>4</fr:month><fr:day>20</fr:day></fr:date><fr:meta
+name="source"><fr:strong>Slide 10</fr:strong> of <fr:link
+href="mhe-mgs2007-slides.xml"
+type="local"
+addr="mhe-mgs2007-slides">Domain Theory MGS 2007</fr:link></fr:meta><fr:meta
+name="date-added">2023-08-18</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  In the words of <fr:link
+href="martin-escardo.xml"
+type="local"
+addr="martin-escardo">Martín Escardó</fr:link>:
+
+</fr:p><fr:blockquote><fr:p>
+    A <fr:em>domain</fr:em> is a set of concrete finite elements together with infinite,
+    ideal elements such that the ideal elements are characterized uniquely by
+    their finite approximations.
+  </fr:p></fr:blockquote><fr:p>
+  There are different ways of capturing this mathematically, to varying
+  degrees of precision. These include <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous</fr:link> and
+  <fr:link
+href="axt-001S.xml"
+type="local"
+addr="axt-001S">algebraic</fr:link> dcpos.
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>1309</fr:anchor><fr:taxon>Theorem</fr:taxon><fr:addr>axt-0058</fr:addr><fr:route>axt-0058.xml</fr:route><fr:title>Choquet-completeness and continuous dcpos</fr:title><fr:authors><fr:author><fr:link
+href="jean-goubault-larrecq.xml"
+type="local"
+addr="jean-goubault-larrecq">Jean Goubault-Larrecq</fr:link></fr:author></fr:authors><fr:meta
+name="date-added">2024-02-08</fr:meta><fr:meta
+name="source"><fr:strong>Lemma. 7.6.3</fr:strong> of <fr:link
+href="jgl-non-hausdorff.xml"
+type="local"
+addr="jgl-non-hausdorff">Jean Goubault-Larrecq</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>
+  The Scott topology of any <fr:link
+href="axt-001T.xml"
+type="local"
+addr="axt-001T">continuous dcpo</fr:link> is
+  <fr:link
+href="axt-0057.xml"
+type="local"
+addr="axt-0057">Choquet-complete</fr:link> in its Scott topology.
+</fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
