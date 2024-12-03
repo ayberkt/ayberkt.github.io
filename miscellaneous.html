@@ -1,0 +1,187 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Miscellaneous</title>
+    <link rel="stylesheet" href="/~axt978/assets/css/styles.css">
+    
+        <!-- Default Statcounter code for Birmingham Homepage https://www.cs.bham.ac.uk/~axt978/ -->
+    <script type="text/javascript">
+        var sc_project=12772675; 
+        var sc_invisible=1; 
+        var sc_security="9b1fe1fe"; 
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+    <noscript>
+	<div class="statcounter">
+	    <a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter"
+    src="https://c.statcounter.com/12772675/0/9b1fe1fe/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade"></a>
+        </div>
+    </noscript>
+    <!-- End of Statcounter Code -->
+
+    
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <h1 class="title">Ayberk Tosun</h1>
+      <nav>
+  
+    
+    
+    <a href="/~axt978/" >
+      about
+    </a>
+  
+    
+    
+    <a href="/~axt978/contact.html" >
+      contact
+    </a>
+  
+    
+    
+    <a href="/~axt978/works.html" >
+      works
+    </a>
+  
+    
+    
+    <a href="/~axt978/teaching.html" >
+      teaching
+    </a>
+  
+    
+    
+    <a href="/~axt978/code.html" >
+      code
+    </a>
+  
+    
+    
+    <a href="/~axt978/miscellaneous.html" class="current">
+      miscellaneous
+    </a>
+  
+  <a href="https://github.com/ayberkt">
+    <img
+      src="/~axt978/assets/images/GitHub-Mark-120px-plus.png"
+      style="width: 1em; margin-inline-start: 0.5em"
+      alt="GitHub icon"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-0190-3020">
+    <img
+      src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"
+      style="width: 1em; margin-inline-start: 0.5em"
+      alt="ORCID iD icon"/>
+  </a>
+</nav>
+
+    </header>
+    <h2 id="wildlife-photography">Wildlife photography</h2>
+
+<p>I’m an avid wildlife photographer. Below are some of my favourite shots from
+around the world.</p>
+
+<p><!-- Slideshow container --></p>
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 4</div>
+    <img src="/~axt978/assets/images/IMG_1766-screen.jpg" style="width:100%" />
+    <div class="caption">Goldcrest</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 4</div>
+    <img src="/~axt978/assets/images/IMG_1895-screen.jpg" style="width:100%" />
+    <div class="caption">Common Kingfisher</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 4</div>
+    <img src="/~axt978/assets/images/IMG_8830-screen.jpg" style="width:100%" />
+    <div class="caption">Greater Whitethroat</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="/~axt978/assets/images/IMG_7935-screen.jpg" style="width:100%" />
+    <div class="caption">Razorbill</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<p><br /></p>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides();
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<h2 id="contributed-wildlife-studies">Contributed wildlife studies</h2>
+
+<p>I often contribute my sightings to scientific studies of nature and bird
+migration. So far, I have contributed to two <a href="https://en.wikipedia.org/wiki/Bird_ringing">bird ringing</a> projects through
+sightings of ringed birds:</p>
+
+<ol>
+  <li><em>Common Tern</em> ringed by the <a href="https://www.birds.org.il/en/birding-center/The-Israeli-Bird-Ringing-Center">Israeli Bird Ringing Center</a>.
+    <ul>
+      <li>Sighted in Büyükçekmece, Istanbul, Turkey.</li>
+      <li><a href="/~axt978/assets/documents/IBRC_IL037_2021_Ste_Hir_DD-24732.pdf">Recovery report</a></li>
+    </ul>
+  </li>
+  <li><em>Cormorant</em> ringed by <a href="https://en.nabu.de/">NABU</a>.
+    <ul>
+      <li>Sighted in Bempton Cliffs, Yorkshire, UK.</li>
+      <li><a href="/~axt978/assets/documents/Wiederfunde-Kormoran-F676-20230501-1.pdf">Recovery report</a></li>
+    </ul>
+  </li>
+</ol>
+
+<p>I also regularly contribute to the <a href="https://ebird.org/profile/MTgwNDg0Nw">eBird project</a>.</p>
+
+
+  </body>
+</html>
