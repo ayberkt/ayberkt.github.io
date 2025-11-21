@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script>
+        const currentPath = window.location.pathname;
+
+        // Check if this is an agda-new path
+        if (currentPath.startsWith('/agda-new')) {
+            const newPath = currentPath.replace('/agda-new', '/TypeTopology');
+            const hash = window.location.hash;
+            window.location.replace(newPath + hash);
+        }
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; URL='/'">
+    </noscript>
+</head>
+<body>
+    <p>Page not found.</p>
+</body>
+</html>
