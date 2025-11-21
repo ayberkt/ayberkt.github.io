@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script>
+        const currentPath = window.location.pathname;
+        const newPath = currentPath.replace('/foo', '/TypeTopology');
+        const hash = window.location.hash;
+        window.location.replace(newPath + hash);
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; URL='/TypeTopology/'">
+    </noscript>
+</head>
+<body>
+    <p>Redirecting to <a href="/TypeTopology/">TypeTopology</a>...</p>
+</body>
+</html>
