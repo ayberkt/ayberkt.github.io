@@ -3,13 +3,15 @@
 <head>
     <title>Redirecting...</title>
     <script>
-        const currentPath = window.location.pathname;
-        const newPath = currentPath.replace('/foo/', '/TypeTopology/thesis-version/');
-	const hash = window.location.hash;
-        window.location.replace(newPath + hash);
+	(function () {
+             const currentPath = window.location.pathname;
+             const newPath = currentPath.replace('/foo/', '/TypeTopology/thesis-version/');
+	     const hash = window.location.hash;
+             window.location.replace(newPath + hash);
+	 })();
     </script>
     <noscript>
-        <meta http-equiv="refresh" content="0; URL='/TypeTopology/'">
+        <meta http-equiv="refresh" content="0; URL='/TypeTopology/thesis-version/'">
     </noscript>
 </head>
 <body>
