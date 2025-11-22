@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script>
+        // We get the full path after '/agda-new/'
+        const currentPath = window.location.pathname;
+        const newPath = currentPath.replace('/foo/', '/TypeTopology/thesis-version/');
+
+        // We replace 'agda-new' with 'TypeTopology'.
+        window.location.replace(newPath);
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; URL='/TypeTopology/'">
+    </noscript>
+</head>
+<body>
+    <p>Redirecting to <a href="/TypeTopology/thesis-version/">TypeTopology</a>...</p>
+</body>
+</html>
