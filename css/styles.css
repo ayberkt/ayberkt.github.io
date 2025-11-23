@@ -1,0 +1,209 @@
+@import 'https://fonts.googleapis.com/css2?family=Martel&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Martel:wght@700&display=swap';
+
+body {
+  margin      : 0 auto                          ;
+  max-width   : 45em                            ;
+  font-family : "Martel", "DejaVu Serif", serif ;
+  line-height : 1.35                            ;
+  padding     : 2em 1em                         ;
+  color       : #222                            ;
+}
+
+header {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  border-bottom: 1px dotted;
+}
+
+nav {
+  margin-bottom  : 0.5em;
+}
+
+nav a {
+  color: lightgray;
+  margin-right: 20px;
+  font-size: 11pt;
+}
+
+nav a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size      : 36px  ;
+  margin-bottom  : 0.5em ;
+}
+
+img {
+  height        : 50%   ;
+  margin-left   : 1em   ;
+  margin-bottom : 1em   ;
+  float         : right ;
+}
+
+.body-img {
+  height        : 50%   ;
+  width         : 100%  ;
+  margin-left   : 1em   ;
+  margin-bottom : 1em   ;
+  float         : right ;
+}
+
+h2 {
+  font-size     : 22px ;
+  margin-bottom : 1em  ;
+}
+
+a {
+  color           : rgb(33, 80, 160) ;
+  text-decoration : none             ; /* Prevent underlining of links. */
+}
+
+a:hover {
+  color           : rgb(145, 177, 232) ;
+  text-decoration : underline          ;
+}
+
+/* Tables */
+
+td {
+  width          : 100px ;
+  white-space    : pre   ;
+  vertical-align : top   ;
+}
+
+.date {
+  color: #999;
+  font-style: italic;
+  padding-right: 1em;
+}
+
+.extra {
+  font-size: 10pt;
+  font-style: italic;
+  color: #333;
+}
+
+.post-title {
+  font-size: 28px;
+  text-align: center;
+}
+
+.post-info {
+  font-style: italic;
+  text-align: center;
+  color: #333;
+  margin-bottom: 3em;
+}
+
+/* Footer */
+
+footer {
+  border-top      : 1px dotted ;
+  padding-top     : 1em        ;
+  margin-top      : 10em       ;
+  color           : #333       ;
+  font-size       : 10pt       ;
+}
+
+.current {
+  color: #222;
+}
+
+/* Photos */
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  padding-top: 1em;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: 180px;
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.caption {
+  color: white;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -30.4em;
+  width: 100%;
+  text-align: left;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  padding-top: 2em;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+code {
+    font-size: 15px;
+}
